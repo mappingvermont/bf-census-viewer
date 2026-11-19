@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-42B.jpg,259,42B,51,Westminster,^,^,^,^,^,,S. Louise,Daughter,W,F,Nov,1851,48,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,1,continues household from sheet 42A; first initial S or L; age overwritten (48/49)
+259-42B.jpg,259,42B,52,Westminster,,,,,,Connors,Mary,Servant,W,F,May,1866,34,S,,,,Vermont,Ireland,Ireland,,,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,53,Westminster,59,595,606,875,939,Flint,John W.,Head,W,M,Oct,1864,35,M,9,,,Vermont,New Hampshire,New Hampshire,,,,Paper manufacturer,0,,Yes,Yes,Yes,O,F,H,,1,"family no. faded (8_5), read 875 from sequence"
+259-42B.jpg,259,42B,54,Westminster,,,,,,,Katharine McG.,Wife,W,F,Dec,1863,36,M,9,2,2,Wisconsin,Scotland,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,middle part of given name unclear (McG. / M.G.)
+259-42B.jpg,259,42B,55,Westminster,,,,,,,Catherine,Daughter,W,F,Mar,1892,8,S,,,,Vermont,Vermont,Wisconsin,,,,,,0,,,,,,,,0,school months 0
+259-42B.jpg,259,42B,56,Westminster,,,,,,,John W.,Daughter,W,M,Nov,1895,4,S,,,,Vermont,Vermont,Wisconsin,,,,,,,,,,,,,,0,relation written Daughter though sex M (son)
+259-42B.jpg,259,42B,57,Westminster,,,,,,Cooney,Catherine,Servant,W,F,May,1865,35,S,,,,Ireland,Ireland,Ireland,Unknown,Unknown,,Nurse private family,0,,Yes,Yes,Yes,,,,,1,surname Cooney or Sooney; immigration year and years in US written Un
+259-42B.jpg,259,42B,58,Westminster,,,,,,McCabe,Catherine,Servant,W,F,Unknown,1840,60,S,,,,Ireland,Ireland,Ireland,1870,30,,Chambermaid private family,5,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,59,Westminster,,,,,,McCrea,Christina,Servant,W,F,Feb,1869,31,S,,,,Scotland,Scotland,Scotland,1892,8,,Cook private family,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,60,Westminster,,,,,,O'Neil,Elizabeth C.,Servant,W,F,Mar,1877,23,S,,,,Ireland,Ireland,Ireland,1895,5,,Waitress private family,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,61,Westminster,,,,,,Campbell,Elizabeth E.,Nurse,W,F,Apr,1870,30,S,,,,Massachusetts,Ireland,Ireland,,,,Trained nurse private family,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,62,Henry,6,596,607,876,940,Williams,Charles,Head,W,M,Sept,1855,44,M,17,,,New Hampshire,Vermont,New Hampshire,,,,Lawyer,0,,Yes,Yes,Yes,O,F,H,,1,"middle initial possibly hidden by tally mark; street taken as Henry (street cell spans lines 62-79, name written at 69-71)"
+259-42B.jpg,259,42B,63,Henry,,,,,,,Fanny D.,Wife,W,F,July,1857,42,M,17,2,2,Vermont,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,64,Henry,,,,,,,Grace O.,Daughter,W,F,Sept,1885,14,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,65,Henry,,,,,,,Marion L.,Daughter,W,F,Jan,1889,11,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,66,Henry,,,,,,,O. Harvey,Father,W,M,May,1825,75,Wd,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,67,Henry,,,,,,Farr,Norman H.,Father in law,W,M,Apr,1824,76,Wd,,,,New Hampshire,New Hampshire,New Hampshire,,,,,,,No,Yes,Yes,,,,,1,can read written No with an X over it (may be a correction to Yes); relation written F in law
+259-42B.jpg,259,42B,68,Henry,,,,,,Smith,Emily H.,Sister in law,W,F,June,1861,38,D,,0,0,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,69,Henry,,,,,,Wiggin,Bertha,Servant,W,F,Aug,1883,16,S,,,,Vermont,Vermont,Vermont,,,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,70,Henry,8,597,608,877,941,Chandler,Henry,Head,W,M,Aug,1845,54,M,38,,,New Hampshire,New Hampshire,New Hampshire,,,,Trav. agent farm machinery,4,,Yes,Yes,Yes,R,,H,,0,
+259-42B.jpg,259,42B,71,Henry,,,,,,,Alma,Wife,W,F,Mar,1845,55,M,38,2,2,New Hampshire,New Hampshire,New Hampshire,,,,Boarding house keeper,3,,Yes,Yes,Yes,,,,,1,given name Alma or Alms
+259-42B.jpg,259,42B,72,Henry,,,,,,,Guy H.,Son,W,M,May,1869,31,M,9,,,New Hampshire,New Hampshire,New Hampshire,,,,Painter,,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,73,Henry,,,,,,,Bessie V.,Daughter in law,W,F,Jan,1871,29,M,9,1,1,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,relation written D in law
+259-42B.jpg,259,42B,74,Henry,,,,,,,Earle F.,Grandson,W,M,Apr,1892,8,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,At school,,,,,,,,,,0,relation written G. son; no school months written
+259-42B.jpg,259,42B,75,Henry,,,,,,Butler,Fred E.,Boarder,W,M,Aug,1882,17,S,,,,Vermont,Vermont,Vermont,,,,Apprentice machinist,7,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,76,Henry,,,,,,Lafountaine,Frank J.,Boarder,W,M,Apr,1869,31,S,,,,Vermont,Vermont,Vermont,,,,Tool maker,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,77,Henry,,,,,,Rush,Thomas,Boarder,W,M,Oct,1872,27,S,,,,Ireland,Ireland,Ireland,1887,13,Na,Paper finisher,,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,78,Henry,,,,,,Lynch,Daniel,Boarder,W,M,Apr,1866,34,S,,,,New York,Ireland,Ireland,,,,Barber,3,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,79,Henry,,,,,,Kilbourn,Edwin J.,Boarder,W,M,Aug,1872,27,S,,,,New York,Vermont,New York,,,,Contractor & builder,0,,Yes,Yes,Yes,,,,,1,surname Kilbourn or Kilburn; age overwritten (27/28)
+259-42B.jpg,259,42B,80,Hapgood,6,598,609,878,942,Labaree,Charles,Head,W,M,Feb,1830,70,M,47,,,Vermont,New Hampshire,Vermont,,,,Veterinary medicine manfr.,0,,Yes,Yes,Yes,O,F,H,,1,surname Labaree or Labarce
+259-42B.jpg,259,42B,81,Hapgood,,,,,,,Alzina M.,Wife,W,F,Jan,1832,68,M,47,3,3,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,"children living 3 or 9 (9 impossible, read 3)"
+259-42B.jpg,259,42B,82,Hapgood,,,,,,,Etta Parthenia,Daughter,W,F,Dec,1863,36,S,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,83,Hapgood,,,,,,,Charles W.,Son,W,M,July,1868,31,M,1,,,Vermont,Vermont,Vermont,,,,Veterinary medicine manfr.,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,84,Hapgood,,,,,,,Emmagene A.,Daughter in law,W,F,Apr,1871,29,M,1,0,0,Massachusetts,Massachusetts,Rhode Island,,,,,,,Yes,Yes,Yes,,,,,1,given name partly covered by tally mark (Emmogene/Emmajine?)
+259-42B.jpg,259,42B,85,Hapgood,14,599,610,879,943,Carruthers,Laura H.,Head,W,F,Mar,1851,49,Wd,,2,2,Maine,Maine,Maine,,,,,,,Yes,Yes,Yes,O,M,H,,1,given name partly covered by tally mark (Laura?)
+259-42B.jpg,259,42B,86,Hapgood,,,,,,,Laura Eleanor,Daughter,W,F,Aug,1871,28,S,,,,New Hampshire,England,Maine,,,,Telephone operator,0,,Yes,Yes,Yes,,,,,1,given name Laura or Louia
+259-42B.jpg,259,42B,87,Hapgood,,,,,,Garland,Almon W.,Brother in law,W,M,Sept,1852,47,Wd,,,,Maine,Maine,Connecticut,,,,Paper finisher,0,,Yes,Yes,Yes,,,,,0,relation written B in law
+259-42B.jpg,259,42B,88,Hapgood,,,,,,,Vera M.,Niece,W,F,Feb,1885,15,S,,,,Maine,Maine,Maine,,,,,,0,Yes,Yes,Yes,,,,,0,school months 0
+259-42B.jpg,259,42B,89,Hapgood,,,,,,Haynes,Abbie,Boarder,W,F,July,1875,24,S,,,,Vermont,Vermont,Vermont,,,,Stenographer,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,90,Atkinson,15,600,611,880,944,Ferguson,Edward E.,Head,W,M,Aug,1866,33,M,7,,,Vermont,Vermont,Vermont,,,,Carpenter,0,,Yes,Yes,Yes,R,,H,,1,"age 38 crossed out, 33 written above; Hapgood street name crosses the divider at line 89/90, read Atkinson for lines 90-100"
+259-42B.jpg,259,42B,91,Atkinson,,,,,,,Alice L.,Wife,W,F,Apr,1869,31,M,7,1,1,Maine,Maine,Maine,,,,,,,Yes,Yes,Yes,,,,,1,middle initial L or F
+259-42B.jpg,259,42B,92,Atkinson,,,,,,,Louise D.,Daughter,W,F,Feb,1898,2,S,,,,Vermont,Vermont,Maine,,,,,,,,,,,,,,0,
+259-42B.jpg,259,42B,93,Atkinson,,,,,,Fifield,Inna E.,Lodger,W,F,Dec,1877,22,S,,,,Vermont,Vermont,Vermont,,,,Saleswoman dry goods,0,,Yes,Yes,Yes,,,,,1,given name Inna or Jenna
+259-42B.jpg,259,42B,94,Atkinson,,,,,,Mason,Carrie E.,Lodger,W,F,Dec,1878,21,S,,,,Vermont,Vermont,Vermont,,,,Stenographer,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,95,Atkinson,,,,,,Frost,Flora E.,Lodger,W,F,Oct,1872,27,S,,,,New York,New York,New York,,,,Stenographer,0,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,96,Atkinson,13,601,612,881,945,Wilbur,Fred L.,Head,W,M,Apr,1860,40,M,17,,,New Hampshire,New Hampshire,New Hampshire,,,,R.R. car inspector,0,,Yes,Yes,Yes,R,,H,,1,birth year 1860 partly overwritten; family 881 conflicts with 43A line 1 (Upham) also read as 880
+259-42B.jpg,259,42B,97,Atkinson,,,,,,,Estell F.,Wife,W,F,Mar,1855,45,M,17,3,3,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,98,Atkinson,,,,,,,Raymond S.,Son,W,M,Apr,1884,16,S,,,,New Hampshire,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-42B.jpg,259,42B,99,Atkinson,,,,,,,Bernice M.,Daughter,W,M,July,1886,13,S,,,,New Hampshire,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,1,sex written m for a daughter; age overwritten (13/14)
+259-42B.jpg,259,42B,100,Atkinson,,,,,,,Margie E.,Daughter,W,M,Nov,1888,11,S,,,,Massachusetts,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,1,sex written m for a daughter; birth year 1888 or 1885 (age 11 fits 1888); household continues on 43A

@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+.venv/
+
+# Census page images from FamilySearch: not redistributed, download them yourself (see data/README.md)
+data/img/
+
+# test runs and per-run token/cost logs
+data/test_bedrock/
+_usage.jsonl
