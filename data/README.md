@@ -31,6 +31,7 @@ output/         built outputs, regenerated from transcribed/ by build_csv.py
 scripts/
   fs_tiles.py           cuts a page into readable strips (left/right halves in 5 line bands, street column, overview)
   crop.py               zooms into one region of a page (used for manual checks)
+  transcribe_batch.py   transcribes pages with Claude Opus 5.5 through the Message Batches API (batch price only)
   compare_csv.py        compares two transcriptions of the same page, cell by cell
   build_csv.py          fills dittos, checks ages, maps birthplaces to flags, writes output/
   geocode.py            geocodes each numbered address with the Mapbox v6 API
@@ -38,7 +39,7 @@ scripts/
 PROMPT_transcribe_page.md  prompt for transcribing one page in an interactive Claude Code session
 ```
 
-The scripts run with plain `python3`. They need `pillow`.
+The scripts run with plain `python3`. They need `pillow`; `transcribe_batch.py` also needs `anthropic`.
 
 ## Transcription format (`transcribed/PAGE.csv`)
 
@@ -100,7 +101,7 @@ pin them. The file also records how many census sheets are transcribed, for the 
 ## Transcribing a page
 
 Pages are transcribed only at a discounted batch price, never at full price (no on-demand API calls and
-no interactive sessions). See `next-steps.md`.
+no interactive sessions), with `scripts/transcribe_batch.py`. See `next-steps.md`.
 
 To check a transcription against another one, run
 `python3 -I scripts/compare_csv.py REFERENCE.csv TEST.csv`.
