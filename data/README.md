@@ -88,7 +88,7 @@ gets a placeholder that includes its dwelling number.
 
 ## Transcribing a page
 
-- **Batch, on Bedrock:**
+- **Several pages at once, on Bedrock (on demand, not Claude batch mode):**
   `python3 -I scripts/transcribe_bedrock.py --profile <aws-profile> --out transcribed PAGE ...`
   (or `--all`). This sends one request per page to Claude Opus 5.5 and needs no API key; it bills the AWS
   account of `--profile`. Pages that already have a CSV in `--out` are skipped. Token use and estimated cost

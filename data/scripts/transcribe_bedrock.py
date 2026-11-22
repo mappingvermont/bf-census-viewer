@@ -38,7 +38,7 @@ import fs_tiles  # noqa: E402
 MODEL = "anthropic.claude-opus-5-5"
 FALLBACK_MODEL = "anthropic.claude-opus-5"  # used only if Opus 5.5 refuses a page
 REGION = "us-east-1"  # Opus 5.5 on the bedrock-mantle endpoint is in-Region in us-east-1
-PRICE_IN, PRICE_OUT, PRICE_CACHE_READ, PRICE_CACHE_WRITE = 4.0, 20.0, 0.40, 5.0  # $/MTok, list rates
+PRICE_IN, PRICE_OUT, PRICE_CACHE_READ, PRICE_CACHE_WRITE = 4.0, 20.0, 0.20, 5.0  # $/MTok, list rates
 
 HEADER = ("image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,"
           "surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,"
