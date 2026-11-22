@@ -1,6 +1,57 @@
 {
  "type": "FeatureCollection",
+ "sheets_transcribed": 2,
  "features": [
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "address": "Westminster St (household from sheet before 42B)",
+    "street": "Westminster",
+    "house_num": "",
+    "sheets": [
+     "42B"
+    ],
+    "people": 2,
+    "adults": 2,
+    "geocode_confidence": null,
+    "birth_counts": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "n": 2
+     }
+    ],
+    "residents": [
+     {
+      "name": "S. Louise",
+      "age": "48",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Mary Connors",
+      "age": "34",
+      "sex": "F",
+      "relation": "Servant",
+      "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "occupation": "Housework private family",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -19,18 +70,22 @@
     ],
     "people": 9,
     "adults": 7,
-    "geocode_match": "59 Westminster Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
-     {
-      "country": "United States",
-      "flag": "🇺🇸",
-      "count": 3
-     },
+    "birth_counts": [
      {
       "country": "Ireland",
       "flag": "🇮🇪",
-      "count": 3
+      "n": 3
+     },
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "n": 3
+     },
+     {
+      "country": "Scotland",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "n": 1
      }
     ],
     "residents": [
@@ -40,10 +95,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Paper manufacturer",
       "adult": true,
       "uncertain": true
@@ -54,10 +108,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Wisconsin",
+      "birth_flag": "🇺🇸",
       "father_bp": "Scotland",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": true
@@ -68,10 +121,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Wisconsin",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -82,10 +134,9 @@
       "sex": "M",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Wisconsin",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -96,10 +147,9 @@
       "sex": "F",
       "relation": "Servant",
       "birthplace": "Ireland",
+      "birth_flag": "🇮🇪",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "Ireland",
-      "birth_flag": "🇮🇪",
       "occupation": "Nurse private family",
       "adult": true,
       "uncertain": true
@@ -110,10 +160,9 @@
       "sex": "F",
       "relation": "Servant",
       "birthplace": "Ireland",
+      "birth_flag": "🇮🇪",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "Ireland",
-      "birth_flag": "🇮🇪",
       "occupation": "Chambermaid private family",
       "adult": true,
       "uncertain": false
@@ -124,10 +173,9 @@
       "sex": "F",
       "relation": "Servant",
       "birthplace": "Scotland",
+      "birth_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
       "father_bp": "Scotland",
       "mother_bp": "Scotland",
-      "birth_country": "Scotland",
-      "birth_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
       "occupation": "Cook private family",
       "adult": true,
       "uncertain": false
@@ -138,10 +186,9 @@
       "sex": "F",
       "relation": "Servant",
       "birthplace": "Ireland",
+      "birth_flag": "🇮🇪",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "Ireland",
-      "birth_flag": "🇮🇪",
       "occupation": "Waitress private family",
       "adult": true,
       "uncertain": false
@@ -152,10 +199,9 @@
       "sex": "F",
       "relation": "Nurse",
       "birthplace": "Massachusetts",
+      "birth_flag": "🇺🇸",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Trained nurse private family",
       "adult": true,
       "uncertain": false
@@ -181,13 +227,12 @@
     ],
     "people": 8,
     "adults": 5,
-    "geocode_match": "6 Henry Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 5
+      "n": 5
      }
     ],
     "residents": [
@@ -197,10 +242,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Lawyer",
       "adult": true,
       "uncertain": true
@@ -211,10 +255,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -225,10 +268,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": false
@@ -239,10 +281,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": false
@@ -253,10 +294,9 @@
       "sex": "M",
       "relation": "Father",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -267,10 +307,9 @@
       "sex": "M",
       "relation": "Father in law",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": true
@@ -281,10 +320,9 @@
       "sex": "F",
       "relation": "Sister in law",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -295,10 +333,9 @@
       "sex": "F",
       "relation": "Servant",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Housework private family",
       "adult": false,
       "uncertain": false
@@ -324,13 +361,17 @@
     ],
     "people": 10,
     "adults": 9,
-    "geocode_match": "8 Henry Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 8
+      "n": 8
+     },
+     {
+      "country": "Ireland",
+      "flag": "🇮🇪",
+      "n": 1
      }
     ],
     "residents": [
@@ -340,10 +381,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Trav. agent farm machinery",
       "adult": true,
       "uncertain": false
@@ -354,10 +394,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Boarding house keeper",
       "adult": true,
       "uncertain": true
@@ -368,10 +407,9 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Painter",
       "adult": true,
       "uncertain": false
@@ -382,10 +420,9 @@
       "sex": "F",
       "relation": "Daughter in law",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -396,10 +433,9 @@
       "sex": "M",
       "relation": "Grandson",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": false
@@ -410,10 +446,9 @@
       "sex": "M",
       "relation": "Boarder",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Apprentice machinist",
       "adult": true,
       "uncertain": false
@@ -424,10 +459,9 @@
       "sex": "M",
       "relation": "Boarder",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Tool maker",
       "adult": true,
       "uncertain": false
@@ -438,10 +472,9 @@
       "sex": "M",
       "relation": "Boarder",
       "birthplace": "Ireland",
+      "birth_flag": "🇮🇪",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "Ireland",
-      "birth_flag": "🇮🇪",
       "occupation": "Paper finisher",
       "adult": true,
       "uncertain": false
@@ -452,10 +485,9 @@
       "sex": "M",
       "relation": "Boarder",
       "birthplace": "New York",
+      "birth_flag": "🇺🇸",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Barber",
       "adult": true,
       "uncertain": false
@@ -466,10 +498,9 @@
       "sex": "M",
       "relation": "Boarder",
       "birthplace": "New York",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "New York",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Contractor & builder",
       "adult": true,
       "uncertain": true
@@ -495,13 +526,12 @@
     ],
     "people": 5,
     "adults": 5,
-    "geocode_match": "6 Hapgood Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 5
+      "n": 5
      }
     ],
     "residents": [
@@ -511,10 +541,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Veterinary medicine manfr.",
       "adult": true,
       "uncertain": true
@@ -525,10 +554,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": true
@@ -539,10 +567,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -553,10 +580,9 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Veterinary medicine manfr.",
       "adult": true,
       "uncertain": false
@@ -567,10 +593,9 @@
       "sex": "F",
       "relation": "Daughter in law",
       "birthplace": "Massachusetts",
+      "birth_flag": "🇺🇸",
       "father_bp": "Massachusetts",
       "mother_bp": "Rhode Island",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": true
@@ -596,13 +621,12 @@
     ],
     "people": 5,
     "adults": 4,
-    "geocode_match": "14 Hapgood Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 4
+      "n": 4
      }
     ],
     "residents": [
@@ -612,10 +636,9 @@
       "sex": "F",
       "relation": "Head",
       "birthplace": "Maine",
+      "birth_flag": "🇺🇸",
       "father_bp": "Maine",
       "mother_bp": "Maine",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": true
@@ -626,10 +649,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "England",
       "mother_bp": "Maine",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Telephone operator",
       "adult": true,
       "uncertain": true
@@ -640,10 +662,9 @@
       "sex": "M",
       "relation": "Brother in law",
       "birthplace": "Maine",
+      "birth_flag": "🇺🇸",
       "father_bp": "Maine",
       "mother_bp": "Connecticut",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Paper finisher",
       "adult": true,
       "uncertain": false
@@ -654,10 +675,9 @@
       "sex": "F",
       "relation": "Niece",
       "birthplace": "Maine",
+      "birth_flag": "🇺🇸",
       "father_bp": "Maine",
       "mother_bp": "Maine",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -668,10 +688,9 @@
       "sex": "F",
       "relation": "Boarder",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Stenographer",
       "adult": true,
       "uncertain": false
@@ -697,13 +716,12 @@
     ],
     "people": 6,
     "adults": 5,
-    "geocode_match": "15 Atkinson Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 5
+      "n": 5
      }
     ],
     "residents": [
@@ -713,10 +731,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Carpenter",
       "adult": true,
       "uncertain": true
@@ -727,10 +744,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Maine",
+      "birth_flag": "🇺🇸",
       "father_bp": "Maine",
       "mother_bp": "Maine",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": true
@@ -741,10 +757,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Maine",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -755,10 +770,9 @@
       "sex": "F",
       "relation": "Lodger",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Saleswoman dry goods",
       "adult": true,
       "uncertain": true
@@ -769,10 +783,9 @@
       "sex": "F",
       "relation": "Lodger",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Stenographer",
       "adult": true,
       "uncertain": false
@@ -783,10 +796,9 @@
       "sex": "F",
       "relation": "Lodger",
       "birthplace": "New York",
+      "birth_flag": "🇺🇸",
       "father_bp": "New York",
       "mother_bp": "New York",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Stenographer",
       "adult": true,
       "uncertain": false
@@ -813,13 +825,12 @@
     ],
     "people": 8,
     "adults": 4,
-    "geocode_match": "13 Atkinson Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 4
+      "n": 4
      }
     ],
     "residents": [
@@ -829,10 +840,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "R.R. car inspector",
       "adult": true,
       "uncertain": true
@@ -843,10 +853,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -857,10 +866,9 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": false
@@ -871,10 +879,9 @@
       "sex": "M",
       "relation": "Daughter",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": true
@@ -885,10 +892,9 @@
       "sex": "M",
       "relation": "Daughter",
       "birthplace": "Massachusetts",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": true
@@ -899,10 +905,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "R.R. car inspector",
       "adult": true,
       "uncertain": true
@@ -913,10 +918,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -927,10 +931,9 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -956,13 +959,12 @@
     ],
     "people": 4,
     "adults": 4,
-    "geocode_match": "11 Atkinson Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 4
+      "n": 4
      }
     ],
     "residents": [
@@ -972,10 +974,9 @@
       "sex": "F",
       "relation": "Head",
       "birthplace": "New York",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": true
@@ -986,10 +987,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Brickmason",
       "adult": true,
       "uncertain": true
@@ -1000,10 +1000,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1014,10 +1013,9 @@
       "sex": "M",
       "relation": "Boarder",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Laborer paper mill",
       "adult": true,
       "uncertain": false
@@ -1043,13 +1041,12 @@
     ],
     "people": 8,
     "adults": 7,
-    "geocode_match": "9 Atkinson Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 7
+      "n": 7
      }
     ],
     "residents": [
@@ -1059,10 +1056,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Carpenter",
       "adult": true,
       "uncertain": false
@@ -1073,10 +1069,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": true
@@ -1087,10 +1082,9 @@
       "sex": "F",
       "relation": "Step daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "School teacher",
       "adult": true,
       "uncertain": false
@@ -1101,10 +1095,9 @@
       "sex": "F",
       "relation": "Step granddaughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Ohio",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": false
@@ -1115,10 +1108,9 @@
       "sex": "F",
       "relation": "Boarder",
       "birthplace": "Massachusetts",
+      "birth_flag": "🇺🇸",
       "father_bp": "Unknown",
       "mother_bp": "New York",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Music teacher",
       "adult": true,
       "uncertain": true
@@ -1129,10 +1121,9 @@
       "sex": "M",
       "relation": "Boarder",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Laborer paint factory",
       "adult": true,
       "uncertain": false
@@ -1143,10 +1134,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Night watchman",
       "adult": true,
       "uncertain": false
@@ -1157,10 +1147,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "New York",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1186,13 +1175,12 @@
     ],
     "people": 4,
     "adults": 2,
-    "geocode_match": "5 Atkinson Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "medium",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 2
+      "n": 2
      }
     ],
     "residents": [
@@ -1202,10 +1190,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "School janitor",
       "adult": true,
       "uncertain": true
@@ -1216,10 +1203,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1230,10 +1216,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": false
@@ -1244,10 +1229,9 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": false,
       "uncertain": false
@@ -1273,13 +1257,12 @@
     ],
     "people": 1,
     "adults": 1,
-    "geocode_match": "97 Westminster Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 1
+      "n": 1
      }
     ],
     "residents": [
@@ -1289,10 +1272,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1318,13 +1300,17 @@
     ],
     "people": 8,
     "adults": 7,
-    "geocode_match": "87 Westminster Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "medium",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 6
+      "n": 6
+     },
+     {
+      "country": "Ireland",
+      "flag": "🇮🇪",
+      "n": 1
      }
     ],
     "residents": [
@@ -1334,10 +1320,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Dentist",
       "adult": true,
       "uncertain": true
@@ -1348,10 +1333,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1362,10 +1346,9 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "At school",
       "adult": true,
       "uncertain": false
@@ -1376,10 +1359,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "New York",
+      "birth_flag": "🇺🇸",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Manager paper mills",
       "adult": true,
       "uncertain": false
@@ -1390,10 +1372,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "New York",
+      "birth_flag": "🇺🇸",
       "father_bp": "New York",
       "mother_bp": "New York",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1404,10 +1385,9 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "Canada",
+      "birth_flag": "🇨🇦",
       "father_bp": "New York",
       "mother_bp": "New York",
-      "birth_country": "Canada",
-      "birth_flag": "🇨🇦",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -1418,10 +1398,9 @@
       "sex": "F",
       "relation": "Servant",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Housework private family",
       "adult": true,
       "uncertain": false
@@ -1432,11 +1411,73 @@
       "sex": "M",
       "relation": "Coachman",
       "birthplace": "Ireland",
+      "birth_flag": "🇮🇪",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "Ireland",
-      "birth_flag": "🇮🇪",
       "occupation": "Coachman",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "address": "The Square (dwelling 607, no house no.)",
+    "street": "Square",
+    "house_num": "",
+    "sheets": [
+     "43A"
+    ],
+    "people": 3,
+    "adults": 3,
+    "geocode_confidence": null,
+    "birth_counts": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "n": 3
+     }
+    ],
+    "residents": [
+     {
+      "name": "Elmore S. Allbee",
+      "age": "52",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "occupation": "Physician",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Cara A. Allbee",
+      "age": "48",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Angie G. Allbee",
+      "age": "17",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "occupation": "At school",
       "adult": true,
       "uncertain": false
      }
@@ -1461,13 +1502,17 @@
     ],
     "people": 6,
     "adults": 5,
-    "geocode_match": "8 Hapgood Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 4
+      "n": 4
+     },
+     {
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "n": 1
      }
     ],
     "residents": [
@@ -1477,10 +1522,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Germany",
+      "birth_flag": "🇩🇪",
       "father_bp": "Germany",
       "mother_bp": "Germany",
-      "birth_country": "Germany",
-      "birth_flag": "🇩🇪",
       "occupation": "Druggist",
       "adult": true,
       "uncertain": true
@@ -1491,10 +1535,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1505,10 +1548,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Ohio",
+      "birth_flag": "🇺🇸",
       "father_bp": "Germany",
       "mother_bp": "Germany",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Universalist clergyman",
       "adult": true,
       "uncertain": true
@@ -1519,10 +1561,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1533,10 +1574,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Ohio",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -1547,10 +1587,9 @@
       "sex": "F",
       "relation": "Servant",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Housework private family",
       "adult": true,
       "uncertain": false
@@ -1576,13 +1615,12 @@
     ],
     "people": 1,
     "adults": 1,
-    "geocode_match": "35 Westminster Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 1
+      "n": 1
      }
     ],
     "residents": [
@@ -1592,10 +1630,9 @@
       "sex": "F",
       "relation": "Head",
       "birthplace": "New York",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Hair dresser",
       "adult": true,
       "uncertain": false
@@ -1621,13 +1658,12 @@
     ],
     "people": 4,
     "adults": 2,
-    "geocode_match": "77 Atkinson Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 2
+      "n": 2
      }
     ],
     "residents": [
@@ -1637,10 +1673,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Ireland",
       "mother_bp": "Ireland",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Furniture dealer",
       "adult": true,
       "uncertain": false
@@ -1651,10 +1686,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "Massachusetts",
+      "birth_flag": "🇺🇸",
       "father_bp": "England",
       "mother_bp": "England",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1665,10 +1699,9 @@
       "sex": "F",
       "relation": "Daughter",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Massachusetts",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -1679,10 +1712,9 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Massachusetts",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": false,
       "uncertain": false
@@ -1708,13 +1740,12 @@
     ],
     "people": 4,
     "adults": 3,
-    "geocode_match": "39 Atkinson Street, Bellows Falls, Vermont 05101, United States",
     "geocode_confidence": "exact",
-    "top_birth": [
+    "birth_counts": [
      {
       "country": "United States",
       "flag": "🇺🇸",
-      "count": 3
+      "n": 3
      }
     ],
     "residents": [
@@ -1724,10 +1755,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Massachusetts",
+      "birth_flag": "🇺🇸",
       "father_bp": "Unknown",
       "mother_bp": "Unknown",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Left town",
       "adult": true,
       "uncertain": false
@@ -1738,10 +1768,9 @@
       "sex": "F",
       "relation": "Wife",
       "birthplace": "New Hampshire",
+      "birth_flag": "🇺🇸",
       "father_bp": "New Hampshire",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "",
       "adult": true,
       "uncertain": false
@@ -1752,10 +1781,9 @@
       "sex": "M",
       "relation": "Head",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
-      "birth_country": "United States",
-      "birth_flag": "🇺🇸",
       "occupation": "Photographer",
       "adult": true,
       "uncertain": false
@@ -1766,10 +1794,85 @@
       "sex": "M",
       "relation": "Son",
       "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
       "father_bp": "Vermont",
       "mother_bp": "New Hampshire",
-      "birth_country": "United States",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "address": "Hapgood St (dwelling 612, no house no.)",
+    "street": "Hapgood",
+    "house_num": "",
+    "sheets": [
+     "43A"
+    ],
+    "people": 4,
+    "adults": 2,
+    "geocode_confidence": null,
+    "birth_counts": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "n": 2
+     }
+    ],
+    "residents": [
+     {
+      "name": "John H. Williams",
+      "age": "50",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
       "birth_flag": "🇺🇸",
+      "father_bp": "",
+      "mother_bp": "Vermont",
+      "occupation": "Treasurer savings bank",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Sarah B. Williams",
+      "age": "35",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Mary K. Williams",
+      "age": "14",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Alice B. Williams",
+      "age": "11",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
       "occupation": "At school",
       "adult": false,
       "uncertain": false

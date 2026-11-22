@@ -1,4 +1,4 @@
-"""Assemble per-sheet census transcriptions into per-person and per-address outputs.
+"""Assemble per-sheet census transcriptions into one per-person CSV.
 
 Usage: python -I build_csv.py <transcribed_dir> <output_dir>
 
@@ -7,15 +7,11 @@ the page. A blank surname, street, house number, dwelling or family number means
 the row above" (a ditto). "^" means the value continues from the previous sheet.
 
 Output:
-  people_1900.csv     one row per person, dittos filled in, plus address key, birth
-                      country, heritage country, flag emoji and validation warnings
-  addresses_1900.csv  one row per address: head count, most common birth country + flag,
-                      most common heritage country + flag
-  addresses_1900.json the same addresses, each with its list of people (for map popups)
+  people_1900.csv  one row per person, dittos filled in, plus address key, birth country,
+                   flag emoji and validation warnings
 """
 import csv
 import glob
-import json
 import os
 import re
 import sys
@@ -90,15 +86,6 @@ def country(bp):
     return (bp, "")  # unmapped: keep the label, no flag; reported as a warning
 
 
-def heritage(r):
-    """First foreign country among self, father, mother; else United States."""
-    for bp in (r["birthplace"], r["father_bp"], r["mother_bp"]):
-        c = country(bp)
-        if c not in (US, UNKNOWN):
-            return c
-    return US if country(r["birthplace"]) == US else UNKNOWN
-
-
 def sheet_key(path):
     m = re.search(r"(\d+)-(\d+)([AB])", os.path.basename(path))
     return (int(m.group(1)), int(m.group(2)), m.group(3)) if m else (0, 0, path)
@@ -154,7 +141,6 @@ def main(src, out):
     unmapped = Counter()
     for r in rows:
         bc_label, bc_flag = country(r["birthplace"])
-        h_label, h_flag = heritage(r)
         for bp in (r["birthplace"], r["father_bp"], r["mother_bp"]):
             if bp and country(bp)[1] == "" and country(bp) != UNKNOWN:
                 unmapped[bp] += 1
@@ -172,8 +158,6 @@ def main(src, out):
             "address": addr,
             "birth_country": bc_label,
             "birth_flag": bc_flag,
-            "heritage_country": h_label,
-            "heritage_flag": h_flag,
             "check": warn,
         })
 
@@ -183,45 +167,7 @@ def main(src, out):
         w.writeheader()
         w.writerows(people)
 
-    by_addr = {}
-    for p in people:
-        by_addr.setdefault(p["address"], []).append(p)
-
-    def top(counter):
-        # most common; ties broken in favour of a foreign country, then alphabetically
-        return sorted(counter.items(), key=lambda kv: (-kv[1], kv[0] == "United States", kv[0]))[0][0]
-
-    addr_rows, addr_json = [], []
-    flag_of = {lbl: flg for lbl, flg in list(COUNTRIES.values()) + [US]}
-    for addr, ps in by_addr.items():
-        bc = top(Counter(p["birth_country"] for p in ps if p["birth_country"] != "Unknown") or Counter(["Unknown"]))
-        hc = top(Counter(p["heritage_country"] for p in ps if p["heritage_country"] != "Unknown") or Counter(["Unknown"]))
-        row = {
-            "address": addr,
-            "street": ps[0]["street"],
-            "house_num": ps[0]["house_num"],
-            "dwellings": " ".join(sorted({p["dwelling"] for p in ps})),
-            "sheets": " ".join(sorted({p["sheet"] for p in ps})),
-            "people": len(ps),
-            "top_birth_country": bc,
-            "top_birth_flag": flag_of.get(bc, ""),
-            "top_heritage_country": hc,
-            "top_heritage_flag": flag_of.get(hc, ""),
-        }
-        addr_rows.append(row)
-        addr_json.append({**row, "residents": [
-            {k: p[k] for k in ("name", "age", "sex", "relation", "birthplace", "birth_country",
-                                "birth_flag", "father_bp", "mother_bp", "occupation")}
-            for p in ps]})
-
-    with open(os.path.join(out, "addresses_1900.csv"), "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=list(addr_rows[0].keys()))
-        w.writeheader()
-        w.writerows(addr_rows)
-    with open(os.path.join(out, "addresses_1900.json"), "w", encoding="utf-8") as f:
-        json.dump(addr_json, f, ensure_ascii=False, indent=1)
-
-    print(f"{len(files)} sheet(s), {len(people)} people, {len(addr_rows)} addresses")
+    print(f"{len(files)} sheet(s), {len(people)} people, {len({p['address'] for p in people})} addresses")
     flagged = [p for p in people if p["uncertain"] == "1"]
     print(f"{len(flagged)} rows marked uncertain")
     for p in people:

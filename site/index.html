@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" />
 	<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
 	<script src="https://unpkg.com/@protomaps/basemaps@5.7.2/dist/basemaps.js"></script>
+	<script src="https://unpkg.com/pmtiles@4.4.1/dist/pmtiles.js"></script>
 
 	<link rel="stylesheet" href="style.css" />
 </head>
@@ -38,21 +39,16 @@
 
 		<div id="house-detail">
 			<button id="back-button">&larr; All houses</button>
-			<div id="detail-flags"></div>
-			<h2 id="detail-address"></h2>
-			<div id="detail-meta"></div>
-			<div id="detail-tally"></div>
-			<ul id="detail-residents"></ul>
-			<p class="fineprint" id="detail-fineprint"></p>
+			<div id="detail-body"></div>
 		</div>
 
 		<div id="panel-footer">
 			Census: FamilySearch, ED 259. Maps: Sanborn Map Co., 1896, via the
 			<a href="https://www.loc.gov/collections/sanborn-maps/" target="_blank" rel="noopener">Library of Congress</a>.
-			Only 2 of 87 census pages are transcribed so far.
+			<span id="sheets-done"></span> census pages are transcribed so far.
 		</div>
 	</div>
 
-	<script type="module" src="script.js"></script>
+	<script src="script.js"></script>
 </body>
 </html>

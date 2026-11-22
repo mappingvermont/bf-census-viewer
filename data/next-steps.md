@@ -59,6 +59,8 @@ If accuracy is poor, adjust the tiles or prompt and re-test before spending more
 python3 -I scripts/transcribe_batch.py submit  --profile personal --out transcribed --all
 python3 -I scripts/transcribe_batch.py collect --profile personal --out transcribed
 python3 -I scripts/build_csv.py transcribed output
+python3 -I scripts/geocode.py output/people_1900.csv output/geocoded_1900.json
+python3 -I scripts/build_site_data.py output ../site/data/census_1900.geojson
 ```
 - `--all` skips pages that already have a CSV, so 42B and 43A are left alone. Resubmitting retries only the
   missing pages.
@@ -73,5 +75,6 @@ python3 -I scripts/build_csv.py transcribed output
 - **Interactive:** `PROMPT_transcribe_page.md` in a Claude Code session, about $1 a page.
 
 ## 5. After that
-Join `output/addresses_1900.json` to the Sanborn building footprints. That needs the footprints with
+Join the houses in `site/data/census_1900.geojson` to the Sanborn building footprints, in place of today's
+geocoded points. That needs the footprints with
 street and house-number attributes, plus manual matching where numbering changed between 1896 and 1900.

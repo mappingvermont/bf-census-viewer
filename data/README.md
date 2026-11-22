@@ -34,7 +34,7 @@ scripts/
   transcribe_bedrock.py transcribes pages with Claude Opus 5.5 on Bedrock, one request per page
   compare_csv.py        compares two transcriptions of the same page, cell by cell
   build_csv.py          fills dittos, checks ages, maps birthplaces to flags, writes output/
-  geocode.py            geocodes output/addresses_1900.json with the Mapbox v6 API
+  geocode.py            geocodes each numbered address with the Mapbox v6 API
   build_site_data.py    builds ../site/data/census_1900.geojson for the map
 PROMPT_transcribe_page.md  prompt for transcribing one page in an interactive Claude Code session
 ```
@@ -68,22 +68,12 @@ Conventions. `transcribed/259-43A.csv` is the reference example.
 python3 -I scripts/build_csv.py transcribed output
 ```
 
-This writes:
-- `output/people_1900.csv`: one row per person, with dittos filled in. It adds `name`, `address`,
-  `birth_country`/`birth_flag`, `heritage_country`/`heritage_flag` and an age `check`.
-- `output/addresses_1900.csv`: one row per address, with head count and the most common birth and heritage
-  country and flag.
-- `output/addresses_1900.json`: the same addresses, each with its residents. This is the shape the map popups
-  will read.
+This writes `output/people_1900.csv`: one row per person, with dittos filled in. It adds `name`,
+`address`, `birth_country`/`birth_flag` and an age `check`.
 
 It also prints:
 - `CHECK` lines where an age doesn't fit the birth month and year (census day was 1 June 1900),
 - `UNMAPPED` lines for birthplaces missing from `COUNTRIES` in `build_csv.py`. Add them there with a flag.
-
-**Birth vs heritage country.** Most people in Bellows Falls were born in New England, including many children
-of immigrants, so nearly every address comes out 🇺🇸 by birthplace. "Heritage" is the person's own birthplace
-if it's foreign, otherwise the father's, otherwise the mother's. It surfaces the Irish, French-Canadian and
-German households. Both are kept, and the map can use either.
 
 Addresses are `"<house_num> <Street> St"` (`The Square` for Square). A dwelling with no house number written
 gets a placeholder that includes its dwelling number.
@@ -91,20 +81,22 @@ gets a placeholder that includes its dwelling number.
 ## Geocoding and the map data
 
 ```
-python3 -I scripts/geocode.py output/addresses_1900.json output/geocoded_1900.json
+python3 -I scripts/geocode.py output/people_1900.csv output/geocoded_1900.json
 python3 -I scripts/build_site_data.py output ../site/data/census_1900.geojson
 ```
 
 `geocode.py` needs `MAPBOX_ACCESS_TOKEN`. It sends each numbered address to the Mapbox v6 forward
-geocoder, limited to the village, and keeps the match and its confidence (`exact` or weaker) in
-`output/geocoded_1900.json`. Addresses already in that file aren't requested again. Addresses with no
-house number are skipped and stay off the map.
+geocoder, limited to the village. `output/geocoded_1900.json` maps each address to its location, the
+matched address and the confidence (`exact` or weaker). Addresses already in that file aren't requested
+again. Addresses with no house number are skipped.
 
 Geocoding uses today's numbering, so a confident match can still be the wrong building if a street was
 renumbered after 1900. Check houses against the Sanborn map before trusting the location.
 
-`build_site_data.py` writes one point per geocoded house. It records the plurality birth country among
-residents over 16, keeping all tied countries, and includes the full resident list for the popup.
+`build_site_data.py` writes one feature per address, with its residents and `birth_counts`: residents
+over 16 counted by birth country, most common first. The site shows every country tied for the top count
+as the house's flag. Addresses that weren't geocoded get a null geometry: the site lists them but can't
+pin them. The file also records how many census sheets are transcribed, for the site's footer.
 
 ## Transcribing a page
 
