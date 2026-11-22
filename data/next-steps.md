@@ -23,7 +23,8 @@ rethink.** Most batches finish within an hour; the maximum is 24 hours.
    `aws sts get-caller-identity --profile personal`
 
 ## 2. Write the batch script
-`scripts/transcribe_batch.py` doesn't exist yet. Base it on `scripts/transcribe_bedrock.py` and reuse its
+`scripts/transcribe_batch.py` doesn't exist yet. Base it on the deleted on-demand script
+(`git show 44a2414:data/scripts/transcribe_bedrock.py`) and reuse its
 tiles, prompt and CSV parsing. The differences:
 - **Client:** `anthropic.AnthropicAWS` (install `anthropic[aws]`). Pass a required `--profile`, so it never
   falls back to the machine's default (work) credentials. Region and workspace ID go in as arguments or
@@ -33,7 +34,7 @@ tiles, prompt and CSV parsing. The differences:
   - `collect` checks the batch and writes each finished page's CSV and `_usage.jsonl` line. Results come back
     in any order, so match them by `custom_id`.
 - **Requests in a batch can't stream or use the `fallbacks` option.** Handle refusals and failures by listing
-  the affected pages and resubmitting them, either in a new batch or through `transcribe_bedrock.py`.
+  the affected pages and resubmitting them in a new batch. Never rerun them at full price.
 - **Size:** a batch can hold at most 256 MB. Each page sends about 17 base64 images, so check the total and
   split into several batches if needed.
 - **Cost estimate:** use batch prices ($2 in, $10 out, $0.20 cache read per million tokens).
@@ -68,11 +69,11 @@ python3 -I scripts/build_site_data.py output ../site/data/census_1900.geojson
   `COUNTRIES`).
 - Spot-check rows marked uncertain against the images. `scripts/crop.py` zooms into a region.
 
-## Fallbacks
-- **Bedrock, on demand:** `scripts/transcribe_bedrock.py` works as it is. It's faster (4 pages at a time,
-  under an hour) but costs about twice as much (about $30). Bedrock sets its own prices, so its real cost may
-  differ a little from that list-price estimate.
-- **Interactive:** `PROMPT_transcribe_page.md` in a Claude Code session, about $1 a page.
+## No full-price runs
+Every page must be billed at a discounted batch price. Don't use full-price options such as
+Bedrock on-demand calls or an interactive Claude Code session, even for a single
+page or a retry. If batch mode on Claude Platform on AWS doesn't come out at about half price, the only option
+to look at is another discounted batch service, such as Bedrock batch inference, after checking its price.
 
 ## 5. After that
 Join the houses in `site/data/census_1900.geojson` to the Sanborn building footprints, in place of today's

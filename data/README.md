@@ -31,7 +31,6 @@ output/         built outputs, regenerated from transcribed/ by build_csv.py
 scripts/
   fs_tiles.py           cuts a page into readable strips (left/right halves in 5 line bands, street column, overview)
   crop.py               zooms into one region of a page (used for manual checks)
-  transcribe_bedrock.py transcribes pages with Claude Opus 5.5 on Bedrock, one request per page
   compare_csv.py        compares two transcriptions of the same page, cell by cell
   build_csv.py          fills dittos, checks ages, maps birthplaces to flags, writes output/
   geocode.py            geocodes each numbered address with the Mapbox v6 API
@@ -39,7 +38,7 @@ scripts/
 PROMPT_transcribe_page.md  prompt for transcribing one page in an interactive Claude Code session
 ```
 
-The scripts run with plain `python3`. They need `pillow` and `anthropic[bedrock]`.
+The scripts run with plain `python3`. They need `pillow`.
 
 ## Transcription format (`transcribed/PAGE.csv`)
 
@@ -100,18 +99,13 @@ pin them. The file also records how many census sheets are transcribed, for the 
 
 ## Transcribing a page
 
-- **Several pages at once, on Bedrock (on demand, not Claude batch mode):**
-  `python3 -I scripts/transcribe_bedrock.py --profile <aws-profile> --out transcribed PAGE ...`
-  (or `--all`). This sends one request per page to Claude Opus 5.5 and needs no API key; it bills the AWS
-  account of `--profile`. Pages that already have a CSV in `--out` are skipped. Token use and estimated cost
-  per page go to `_usage.jsonl` in the `--out` folder.
-- **Interactive, one page at a time:** open a fresh Claude Code session in this folder and paste in
-  `PROMPT_transcribe_page.md` with `PAGE` set.
+Pages are transcribed only at a discounted batch price, never at full price (no on-demand API calls and
+no interactive sessions). See `next-steps.md`.
 
 To check a transcription against another one, run
 `python3 -I scripts/compare_csv.py REFERENCE.csv TEST.csv`.
 
-Either way, run `build_csv.py` afterwards and review the `CHECK` and `UNMAPPED` lines and the rows marked
+Run `build_csv.py` afterwards and review the `CHECK` and `UNMAPPED` lines and the rows marked
 uncertain.
 
 ## Caveats
