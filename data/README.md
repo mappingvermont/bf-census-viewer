@@ -34,6 +34,8 @@ scripts/
   transcribe_bedrock.py transcribes pages with Claude Opus 5.5 on Bedrock, one request per page
   compare_csv.py        compares two transcriptions of the same page, cell by cell
   build_csv.py          fills dittos, checks ages, maps birthplaces to flags, writes output/
+  geocode.py            geocodes output/addresses_1900.json with the Mapbox v6 API
+  build_site_data.py    builds ../site/data/census_1900.geojson for the map
 PROMPT_transcribe_page.md  prompt for transcribing one page in an interactive Claude Code session
 ```
 
@@ -85,6 +87,24 @@ German households. Both are kept, and the map can use either.
 
 Addresses are `"<house_num> <Street> St"` (`The Square` for Square). A dwelling with no house number written
 gets a placeholder that includes its dwelling number.
+
+## Geocoding and the map data
+
+```
+python3 -I scripts/geocode.py output/addresses_1900.json output/geocoded_1900.json
+python3 -I scripts/build_site_data.py output ../site/data/census_1900.geojson
+```
+
+`geocode.py` needs `MAPBOX_ACCESS_TOKEN`. It sends each numbered address to the Mapbox v6 forward
+geocoder, limited to the village, and keeps the match and its confidence (`exact` or weaker) in
+`output/geocoded_1900.json`. Addresses already in that file aren't requested again. Addresses with no
+house number are skipped and stay off the map.
+
+Geocoding uses today's numbering, so a confident match can still be the wrong building if a street was
+renumbered after 1900. Check houses against the Sanborn map before trusting the location.
+
+`build_site_data.py` writes one point per geocoded house. It records the plurality birth country among
+residents over 16, keeping all tied countries, and includes the full resident list for the popup.
 
 ## Transcribing a page
 

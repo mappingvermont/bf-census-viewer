@@ -1,0 +1,1781 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.444717,
+     43.131312
+    ]
+   },
+   "properties": {
+    "address": "59 Westminster St",
+    "street": "Westminster",
+    "house_num": "59",
+    "sheets": [
+     "42B"
+    ],
+    "people": 9,
+    "adults": 7,
+    "geocode_match": "59 Westminster Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 3
+     },
+     {
+      "country": "Ireland",
+      "flag": "🇮🇪",
+      "count": 3
+     }
+    ],
+    "residents": [
+     {
+      "name": "John W. Flint",
+      "age": "35",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Paper manufacturer",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Katharine McG. Flint",
+      "age": "36",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Wisconsin",
+      "father_bp": "Scotland",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Catherine Flint",
+      "age": "8",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Wisconsin",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "John W. Flint",
+      "age": "4",
+      "sex": "M",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Wisconsin",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Catherine Cooney",
+      "age": "35",
+      "sex": "F",
+      "relation": "Servant",
+      "birthplace": "Ireland",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "Ireland",
+      "birth_flag": "🇮🇪",
+      "occupation": "Nurse private family",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Catherine McCabe",
+      "age": "60",
+      "sex": "F",
+      "relation": "Servant",
+      "birthplace": "Ireland",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "Ireland",
+      "birth_flag": "🇮🇪",
+      "occupation": "Chambermaid private family",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Christina McCrea",
+      "age": "31",
+      "sex": "F",
+      "relation": "Servant",
+      "birthplace": "Scotland",
+      "father_bp": "Scotland",
+      "mother_bp": "Scotland",
+      "birth_country": "Scotland",
+      "birth_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "occupation": "Cook private family",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Elizabeth C. O'Neil",
+      "age": "23",
+      "sex": "F",
+      "relation": "Servant",
+      "birthplace": "Ireland",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "Ireland",
+      "birth_flag": "🇮🇪",
+      "occupation": "Waitress private family",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Elizabeth E. Campbell",
+      "age": "30",
+      "sex": "F",
+      "relation": "Nurse",
+      "birthplace": "Massachusetts",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Trained nurse private family",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.445439,
+     43.13127
+    ]
+   },
+   "properties": {
+    "address": "6 Henry St",
+    "street": "Henry",
+    "house_num": "6",
+    "sheets": [
+     "42B"
+    ],
+    "people": 8,
+    "adults": 5,
+    "geocode_match": "6 Henry Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 5
+     }
+    ],
+    "residents": [
+     {
+      "name": "Charles Williams",
+      "age": "44",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "New Hampshire",
+      "father_bp": "Vermont",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Lawyer",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Fanny D. Williams",
+      "age": "42",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Grace O. Williams",
+      "age": "14",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "New Hampshire",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Marion L. Williams",
+      "age": "11",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "New Hampshire",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "O. Harvey Williams",
+      "age": "75",
+      "sex": "M",
+      "relation": "Father",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Norman H. Farr",
+      "age": "76",
+      "sex": "M",
+      "relation": "Father in law",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Emily H. Smith",
+      "age": "38",
+      "sex": "F",
+      "relation": "Sister in law",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Bertha Wiggin",
+      "age": "16",
+      "sex": "F",
+      "relation": "Servant",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Housework private family",
+      "adult": false,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.445689,
+     43.131262
+    ]
+   },
+   "properties": {
+    "address": "8 Henry St",
+    "street": "Henry",
+    "house_num": "8",
+    "sheets": [
+     "42B"
+    ],
+    "people": 10,
+    "adults": 9,
+    "geocode_match": "8 Henry Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 8
+     }
+    ],
+    "residents": [
+     {
+      "name": "Henry Chandler",
+      "age": "54",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Trav. agent farm machinery",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Alma Chandler",
+      "age": "55",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Boarding house keeper",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Guy H. Chandler",
+      "age": "31",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Painter",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Bessie V. Chandler",
+      "age": "29",
+      "sex": "F",
+      "relation": "Daughter in law",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Earle F. Chandler",
+      "age": "8",
+      "sex": "M",
+      "relation": "Grandson",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Fred E. Butler",
+      "age": "17",
+      "sex": "M",
+      "relation": "Boarder",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Apprentice machinist",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Frank J. Lafountaine",
+      "age": "31",
+      "sex": "M",
+      "relation": "Boarder",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Tool maker",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Thomas Rush",
+      "age": "27",
+      "sex": "M",
+      "relation": "Boarder",
+      "birthplace": "Ireland",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "Ireland",
+      "birth_flag": "🇮🇪",
+      "occupation": "Paper finisher",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Daniel Lynch",
+      "age": "34",
+      "sex": "M",
+      "relation": "Boarder",
+      "birthplace": "New York",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Barber",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Edwin J. Kilbourn",
+      "age": "27",
+      "sex": "M",
+      "relation": "Boarder",
+      "birthplace": "New York",
+      "father_bp": "Vermont",
+      "mother_bp": "New York",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Contractor & builder",
+      "adult": true,
+      "uncertain": true
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.44545,
+     43.12971
+    ]
+   },
+   "properties": {
+    "address": "6 Hapgood St",
+    "street": "Hapgood",
+    "house_num": "6",
+    "sheets": [
+     "42B"
+    ],
+    "people": 5,
+    "adults": 5,
+    "geocode_match": "6 Hapgood Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 5
+     }
+    ],
+    "residents": [
+     {
+      "name": "Charles Labaree",
+      "age": "70",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "New Hampshire",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Veterinary medicine manfr.",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Alzina M. Labaree",
+      "age": "68",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Etta Parthenia Labaree",
+      "age": "36",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Charles W. Labaree",
+      "age": "31",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Veterinary medicine manfr.",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Emmagene A. Labaree",
+      "age": "29",
+      "sex": "F",
+      "relation": "Daughter in law",
+      "birthplace": "Massachusetts",
+      "father_bp": "Massachusetts",
+      "mother_bp": "Rhode Island",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.446354,
+     43.129728
+    ]
+   },
+   "properties": {
+    "address": "14 Hapgood St",
+    "street": "Hapgood",
+    "house_num": "14",
+    "sheets": [
+     "42B"
+    ],
+    "people": 5,
+    "adults": 4,
+    "geocode_match": "14 Hapgood Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 4
+     }
+    ],
+    "residents": [
+     {
+      "name": "Laura H. Carruthers",
+      "age": "49",
+      "sex": "F",
+      "relation": "Head",
+      "birthplace": "Maine",
+      "father_bp": "Maine",
+      "mother_bp": "Maine",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Laura Eleanor Carruthers",
+      "age": "28",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "New Hampshire",
+      "father_bp": "England",
+      "mother_bp": "Maine",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Telephone operator",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Almon W. Garland",
+      "age": "47",
+      "sex": "M",
+      "relation": "Brother in law",
+      "birthplace": "Maine",
+      "father_bp": "Maine",
+      "mother_bp": "Connecticut",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Paper finisher",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Vera M. Garland",
+      "age": "15",
+      "sex": "F",
+      "relation": "Niece",
+      "birthplace": "Maine",
+      "father_bp": "Maine",
+      "mother_bp": "Maine",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Abbie Haynes",
+      "age": "24",
+      "sex": "F",
+      "relation": "Boarder",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Stenographer",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.446018,
+     43.129551
+    ]
+   },
+   "properties": {
+    "address": "15 Atkinson St",
+    "street": "Atkinson",
+    "house_num": "15",
+    "sheets": [
+     "42B"
+    ],
+    "people": 6,
+    "adults": 5,
+    "geocode_match": "15 Atkinson Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 5
+     }
+    ],
+    "residents": [
+     {
+      "name": "Edward E. Ferguson",
+      "age": "33",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Carpenter",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Alice L. Ferguson",
+      "age": "31",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Maine",
+      "father_bp": "Maine",
+      "mother_bp": "Maine",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Louise D. Ferguson",
+      "age": "2",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Maine",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Inna E. Fifield",
+      "age": "22",
+      "sex": "F",
+      "relation": "Lodger",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Saleswoman dry goods",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Carrie E. Mason",
+      "age": "21",
+      "sex": "F",
+      "relation": "Lodger",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Stenographer",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Flora E. Frost",
+      "age": "27",
+      "sex": "F",
+      "relation": "Lodger",
+      "birthplace": "New York",
+      "father_bp": "New York",
+      "mother_bp": "New York",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Stenographer",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.44586,
+     43.12944
+    ]
+   },
+   "properties": {
+    "address": "13 Atkinson St",
+    "street": "Atkinson",
+    "house_num": "13",
+    "sheets": [
+     "42B",
+     "43A"
+    ],
+    "people": 8,
+    "adults": 4,
+    "geocode_match": "13 Atkinson Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 4
+     }
+    ],
+    "residents": [
+     {
+      "name": "Fred L. Wilbur",
+      "age": "40",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "R.R. car inspector",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Estell F. Wilbur",
+      "age": "45",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Raymond S. Wilbur",
+      "age": "16",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Bernice M. Wilbur",
+      "age": "13",
+      "sex": "M",
+      "relation": "Daughter",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": true
+     },
+     {
+      "name": "Margie E. Wilbur",
+      "age": "11",
+      "sex": "M",
+      "relation": "Daughter",
+      "birthplace": "Massachusetts",
+      "father_bp": "New Hampshire",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": true
+     },
+     {
+      "name": "William Upham",
+      "age": "40",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "R.R. car inspector",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Emma H. Upham",
+      "age": "34",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Earle S. Upham",
+      "age": "2",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "New Hampshire",
+      "father_bp": "Vermont",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.445597,
+     43.129338
+    ]
+   },
+   "properties": {
+    "address": "11 Atkinson St",
+    "street": "Atkinson",
+    "house_num": "11",
+    "sheets": [
+     "43A"
+    ],
+    "people": 4,
+    "adults": 4,
+    "geocode_match": "11 Atkinson Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 4
+     }
+    ],
+    "residents": [
+     {
+      "name": "Jane E. Allbee",
+      "age": "72",
+      "sex": "F",
+      "relation": "Head",
+      "birthplace": "New York",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Fred A. Timothy",
+      "age": "55",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Brickmason",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Martha A. Timothy",
+      "age": "36",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "William A. Marcy",
+      "age": "17",
+      "sex": "M",
+      "relation": "Boarder",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Laborer paper mill",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.44531,
+     43.12924
+    ]
+   },
+   "properties": {
+    "address": "9 Atkinson St",
+    "street": "Atkinson",
+    "house_num": "9",
+    "sheets": [
+     "43A"
+    ],
+    "people": 8,
+    "adults": 7,
+    "geocode_match": "9 Atkinson Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 7
+     }
+    ],
+    "residents": [
+     {
+      "name": "George Underwood",
+      "age": "63",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Carpenter",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Mary S. Underwood",
+      "age": "55",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "father_bp": "New Hampshire",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Allice D. Booth",
+      "age": "30",
+      "sex": "F",
+      "relation": "Step daughter",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "School teacher",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Mildred A. Booth",
+      "age": "8",
+      "sex": "F",
+      "relation": "Step granddaughter",
+      "birthplace": "Vermont",
+      "father_bp": "Ohio",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Elen E. Converse",
+      "age": "34",
+      "sex": "F",
+      "relation": "Boarder",
+      "birthplace": "Massachusetts",
+      "father_bp": "Unknown",
+      "mother_bp": "New York",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Music teacher",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Gary F. Martin",
+      "age": "18",
+      "sex": "M",
+      "relation": "Boarder",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Laborer paint factory",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Eugene B. Roys",
+      "age": "53",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "New Hampshire",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Night watchman",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Rosetta A. Roys",
+      "age": "49",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "New York",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.444973,
+     43.128736
+    ]
+   },
+   "properties": {
+    "address": "5 Atkinson St",
+    "street": "Atkinson",
+    "house_num": "5",
+    "sheets": [
+     "43A"
+    ],
+    "people": 4,
+    "adults": 2,
+    "geocode_match": "5 Atkinson Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "medium",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 2
+     }
+    ],
+    "residents": [
+     {
+      "name": "Alvan L. Snow",
+      "age": "39",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "School janitor",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Lilla M. Snow",
+      "age": "41",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Mildred A. Snow",
+      "age": "8",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Harold D. Snow",
+      "age": "6",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.44467,
+     43.12882
+    ]
+   },
+   "properties": {
+    "address": "97 Westminster St",
+    "street": "Westminster",
+    "house_num": "97",
+    "sheets": [
+     "43A"
+    ],
+    "people": 1,
+    "adults": 1,
+    "geocode_match": "97 Westminster Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 1
+     }
+    ],
+    "residents": [
+     {
+      "name": "Albert H. Fisher",
+      "age": "69",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.444305,
+     43.129438
+    ]
+   },
+   "properties": {
+    "address": "87 Westminster St",
+    "street": "Westminster",
+    "house_num": "87",
+    "sheets": [
+     "43A"
+    ],
+    "people": 8,
+    "adults": 7,
+    "geocode_match": "87 Westminster Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "medium",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 6
+     }
+    ],
+    "residents": [
+     {
+      "name": "Ozias George",
+      "age": "59",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Dentist",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Jennie L. George",
+      "age": "59",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Harry George",
+      "age": "21",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "Vermont",
+      "father_bp": "New Hampshire",
+      "mother_bp": "",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "John P. Riley",
+      "age": "40",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "New York",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Manager paper mills",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Minnie M. Riley",
+      "age": "28",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "New York",
+      "father_bp": "New York",
+      "mother_bp": "New York",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Edward M. Riley",
+      "age": "2",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "Canada",
+      "father_bp": "New York",
+      "mother_bp": "New York",
+      "birth_country": "Canada",
+      "birth_flag": "🇨🇦",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Minnie Connors",
+      "age": "24",
+      "sex": "F",
+      "relation": "Servant",
+      "birthplace": "Vermont",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Housework private family",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Owen Murphy",
+      "age": "68",
+      "sex": "M",
+      "relation": "Coachman",
+      "birthplace": "Ireland",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "Ireland",
+      "birth_flag": "🇮🇪",
+      "occupation": "Coachman",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.445729,
+     43.129727
+    ]
+   },
+   "properties": {
+    "address": "8 Hapgood St",
+    "street": "Hapgood",
+    "house_num": "8",
+    "sheets": [
+     "43A"
+    ],
+    "people": 6,
+    "adults": 5,
+    "geocode_match": "8 Hapgood Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 4
+     }
+    ],
+    "residents": [
+     {
+      "name": "Oscar A. Gast",
+      "age": "22",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Germany",
+      "father_bp": "Germany",
+      "mother_bp": "Germany",
+      "birth_country": "Germany",
+      "birth_flag": "🇩🇪",
+      "occupation": "Druggist",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Myrtie D. Gast",
+      "age": "23",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Edward E. Marggraf",
+      "age": "39",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Ohio",
+      "father_bp": "Germany",
+      "mother_bp": "Germany",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Universalist clergyman",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Nora Marggraf",
+      "age": "42",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Katharine E. Marggraf",
+      "age": "8/12",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "Ohio",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Alberta Fish",
+      "age": "18",
+      "sex": "F",
+      "relation": "Servant",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Housework private family",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.44406,
+     43.132722
+    ]
+   },
+   "properties": {
+    "address": "35 Westminster St",
+    "street": "Westminster",
+    "house_num": "35",
+    "sheets": [
+     "43A"
+    ],
+    "people": 1,
+    "adults": 1,
+    "geocode_match": "35 Westminster Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 1
+     }
+    ],
+    "residents": [
+     {
+      "name": "Elvira Knight",
+      "age": "57",
+      "sex": "F",
+      "relation": "Head",
+      "birthplace": "New York",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Hair dresser",
+      "adult": true,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.449913,
+     43.133976
+    ]
+   },
+   "properties": {
+    "address": "77 Atkinson St",
+    "street": "Atkinson",
+    "house_num": "77",
+    "sheets": [
+     "43A"
+    ],
+    "people": 4,
+    "adults": 2,
+    "geocode_match": "77 Atkinson Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 2
+     }
+    ],
+    "residents": [
+     {
+      "name": "James E. Keefe",
+      "age": "36",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Furniture dealer",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Margaret A. Keefe",
+      "age": "35",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "Massachusetts",
+      "father_bp": "England",
+      "mother_bp": "England",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Madeline Keefe",
+      "age": "5",
+      "sex": "F",
+      "relation": "Daughter",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Massachusetts",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     },
+     {
+      "name": "Myles L. Keefe",
+      "age": "2",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Massachusetts",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": false,
+      "uncertain": false
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.447912,
+     43.130595
+    ]
+   },
+   "properties": {
+    "address": "39 Atkinson St",
+    "street": "Atkinson",
+    "house_num": "39",
+    "sheets": [
+     "43A"
+    ],
+    "people": 4,
+    "adults": 3,
+    "geocode_match": "39 Atkinson Street, Bellows Falls, Vermont 05101, United States",
+    "geocode_confidence": "exact",
+    "top_birth": [
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "count": 3
+     }
+    ],
+    "residents": [
+     {
+      "name": "Charles H. Sawyer",
+      "age": "65",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Massachusetts",
+      "father_bp": "Unknown",
+      "mother_bp": "Unknown",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Left town",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Emeline L. Sawyer",
+      "age": "57",
+      "sex": "F",
+      "relation": "Wife",
+      "birthplace": "New Hampshire",
+      "father_bp": "New Hampshire",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Frederick J. Blake",
+      "age": "46",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "Vermont",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "Photographer",
+      "adult": true,
+      "uncertain": false
+     },
+     {
+      "name": "Francis B. Blake",
+      "age": "8",
+      "sex": "M",
+      "relation": "Son",
+      "birthplace": "Vermont",
+      "father_bp": "Vermont",
+      "mother_bp": "New Hampshire",
+      "birth_country": "United States",
+      "birth_flag": "🇺🇸",
+      "occupation": "At school",
+      "adult": false,
+      "uncertain": false
+     }
+    ]
+   }
+  }
+ ]
+}
