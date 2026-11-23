@@ -2,13 +2,13 @@ __pycache__/
 .DS_Store
 .venv/
 
-# Census page images from FamilySearch: not redistributed, download them yourself (see data/README.md)
-data/img/
+# Census page images from FamilySearch: not redistributed, download them yourself (see each town's data/README.md)
+*/data/img/
 
 # test runs and per-run token/cost logs
-data/test_bedrock/
+*/data/test_bedrock/
 _usage.jsonl
 
 # batch test runs and batch bookkeeping
-data/test_batch/
+*/data/test_batch/
 _batches.json
