@@ -14,9 +14,9 @@ registration is incomplete or revoked", which is an AWS Marketplace problem.)
   price, going by the token counts in `transcribed/_usage.jsonl`. `output/` and `../site/data/census_1900.geojson`
   have been rebuilt and geocoded: 4,337 people at 646 addresses, 95 of them without a location.
 - **Still to review:** 66 `CHECK` lines from `build_csv.py` (ages that don't fit birth dates), 1,305 rows
-  marked uncertain, street-name variants (`Lowell`/`Lovell`, `Oak Hill`/`Oak Hill Terrace`,
-  `Butterfield avenue`/`Butterfield Avenue`, 9 rows with no street), and geocoder matches that are probably
-  wrong (`Grove` matched to `Gove`, `16 Rockingham St` matched to `16 The Square`).
+  marked uncertain, whether `Lovell` (merged from `Lowell`)
+  is the right spelling, and whether `Oak Hill` (17B) and `Oak Hill Terrace` (14A) are the same street.
+  Neither name exists today, so check the 1896 Sanborn map.
 
 ## Notes for agents
 - **Ask before anything that spends money.** That means any `submit`. `collect`, `retrieve` and listing

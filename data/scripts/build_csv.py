@@ -79,6 +79,7 @@ COUNTRIES = {
 }
 US = ("United States", "🇺🇸")
 UNKNOWN = ("Unknown", "")
+NAMED_SUFFIXES = {"Avenue", "Terrace", "Place", "Court", "Ct", "Park", "Island", "Hill"}
 
 FILL_DOWN = ["street", "surname", "family", "family_renum"]
 MONTHS = {m: i for i, m in enumerate(
@@ -154,7 +155,12 @@ def main(src, out):
         for bp in (r["birthplace"], r["father_bp"], r["mother_bp"]):
             if bp and country(bp)[1] == "" and country(bp) != UNKNOWN:
                 unmapped[bp] += 1
-        street = "The Square" if r["street"] == "Square" else f"{r['street']} St"
+        if r["street"] == "Square":
+            street = "The Square"
+        elif r["street"].split()[-1] in NAMED_SUFFIXES:  # "Butterfield Avenue", not "... Avenue St"
+            street = r["street"]
+        else:
+            street = f"{r['street']} St"
         if r["house_num"]:
             addr = f"{r['house_num']} {street}"
         elif r["dwelling"]:

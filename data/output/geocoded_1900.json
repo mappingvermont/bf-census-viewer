@@ -360,10 +360,6 @@
   "matched": "15 Bridge Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "medium"
  },
- "2 Ensign Island St": null,
- "4 Ensign Island St": null,
- "6 Ensign Island St": null,
- "8 Ensign Island St": null,
  "30 Bridge St": {
   "lon": -72.442113,
   "lat": 43.135065,
@@ -476,42 +472,6 @@
   "lat": 43.133083,
   "matched": "17 Westminster Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "exact"
- },
- "29 Westminster Terrace St": {
-  "lon": -72.44204,
-  "lat": 43.1252,
-  "matched": "29 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "27 Westminster Terrace St": {
-  "lon": -72.44222,
-  "lat": 43.12543,
-  "matched": "27 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "25 Westminster Terrace St": {
-  "lon": -72.44235,
-  "lat": 43.125665,
-  "matched": "25 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "23 Westminster Terrace St": {
-  "lon": -72.442521,
-  "lat": 43.125874,
-  "matched": "23 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "21 Westminster Terrace St": {
-  "lon": -72.442855,
-  "lat": 43.126195,
-  "matched": "21 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "19 Westminster Terrace St": {
-  "lon": -72.44306,
-  "lat": 43.12627,
-  "matched": "19 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
  },
  "170 Westminster St": {
   "lon": -72.44106,
@@ -1051,12 +1011,6 @@
   "matched": "2 Pine Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "medium"
  },
- "1 Oak Hill Terrace St": {
-  "lon": -72.449147,
-  "lat": 43.134453,
-  "matched": "1 Oak Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
  "66 Pine St": {
   "lon": -72.448243,
   "lat": 43.128435,
@@ -1104,24 +1058,6 @@
   "lat": 43.131793,
   "matched": "23 George Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "medium"
- },
- "8 Bryan Court St": {
-  "lon": -72.45125,
-  "lat": 43.13062,
-  "matched": "8 Bryan Court, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "4 Bryan Court St": {
-  "lon": -72.45136,
-  "lat": 43.13096,
-  "matched": "4 Bryan Court, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "3 Bryan Court St": {
-  "lon": -72.45173,
-  "lat": 43.13083,
-  "matched": "3 Bryan Court, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
  },
  "2 Gove St": {
   "lon": -72.45133,
@@ -1247,19 +1183,11 @@
   "matched": "1 Blake Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "exact"
  },
- "26 New Terrace St": null,
- "24 New Terrace St": null,
  "9 Oak St": {
   "lon": -72.449178,
   "lat": 43.134308,
   "matched": "9 Oak Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "medium"
- },
- "8 Oak Hill St": {
-  "lon": -72.449623,
-  "lat": 43.134065,
-  "matched": "8 Oak Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
  },
  "28 Hyde St": {
   "lon": -72.45636,
@@ -1286,10 +1214,6 @@
   "confidence": "medium"
  },
  "5 Lovell St": null,
- "5 Lowell St": null,
- "7 Lowell St": null,
- "11 Lowell St": null,
- "2 Lowell St": null,
  "16 Poplar St": null,
  "22 Poplar St": null,
  "18 Poplar St": null,
@@ -1386,73 +1310,6 @@
   "matched": "55 Atkinson Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "exact"
  },
- "2 Church Place St": {
-  "lon": -72.450887,
-  "lat": 43.132574,
-  "matched": "2 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "4 Church Place St": {
-  "lon": -72.451033,
-  "lat": 43.132732,
-  "matched": "4 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "6 Church Place St": {
-  "lon": -72.451042,
-  "lat": 43.132891,
-  "matched": "6 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "8 Church Place St": {
-  "lon": -72.45116,
-  "lat": 43.133,
-  "matched": "8 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "10 Church Place St": {
-  "lon": -72.451284,
-  "lat": 43.133089,
-  "matched": "10 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "10½ Church Place St": null,
- "11 Church Place St": {
-  "lon": -72.45087,
-  "lat": 43.13337,
-  "matched": "11 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "12 Church Place St": {
-  "lon": -72.451313,
-  "lat": 43.133266,
-  "matched": "12 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "13 Church Place St": {
-  "lon": -72.450997,
-  "lat": 43.133465,
-  "matched": "13 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "14 Church Place St": {
-  "lon": -72.45139,
-  "lat": 43.133401,
-  "matched": "14 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "16 Church Place St": {
-  "lon": -72.451467,
-  "lat": 43.133545,
-  "matched": "16 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "17 Church Place St": {
-  "lon": -72.45107,
-  "lat": 43.13367,
-  "matched": "17 Church Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
  "29 Oak St": {
   "lon": -72.451745,
   "lat": 43.133754,
@@ -1543,83 +1400,11 @@
   "matched": "24 Atkinson Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "exact"
  },
- "22 Hapgood Place St": {
-  "lon": -72.447358,
-  "lat": 43.129488,
-  "matched": "22 Hapgood Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "24 Hapgood Place St": {
-  "lon": -72.447459,
-  "lat": 43.129346,
-  "matched": "24 Hapgood Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "26 Hapgood Place St": {
-  "lon": -72.447592,
-  "lat": 43.129232,
-  "matched": "26 Hapgood Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "28 Hapgood Place St": {
-  "lon": -72.44768,
-  "lat": 43.12917,
-  "matched": "28 Hapgood Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "23 Hapgood Place St": {
-  "lon": -72.447866,
-  "lat": 43.12958,
-  "matched": "23 Hapgood Place, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
  "16 Atkinson St": {
   "lon": -72.44644,
   "lat": 43.12937,
   "matched": "16 Atkinson Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "exact"
- },
- "5 Burt Place St": {
-  "lon": -72.448597,
-  "lat": 43.13024,
-  "matched": "5 Burt Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "7 Burt Place St": {
-  "lon": -72.44889,
-  "lat": 43.13012,
-  "matched": "7 Burt Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "9 Burt Place St": {
-  "lon": -72.449113,
-  "lat": 43.130004,
-  "matched": "9 Burt Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "11 Burt Place St": {
-  "lon": -72.449365,
-  "lat": 43.129838,
-  "matched": "11 Burt Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "10 Burt Place St": {
-  "lon": -72.448788,
-  "lat": 43.129665,
-  "matched": "10 Burt Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "8 Burt Place St": {
-  "lon": -72.44864,
-  "lat": 43.12977,
-  "matched": "8 Burt Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "6 Burt Place St": {
-  "lon": -72.4484,
-  "lat": 43.12989,
-  "matched": "6 Burt Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
  },
  "28 Atkinson St": {
   "lon": -72.44751,
@@ -1880,54 +1665,6 @@
   "matched": "84 Atkinson Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "exact"
  },
- "8 Underhill St": {
-  "lon": -72.45123,
-  "lat": 43.13423,
-  "matched": "8 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "10 Underhill St": {
-  "lon": -72.45137,
-  "lat": 43.13419,
-  "matched": "10 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "16 Underhill St": {
-  "lon": -72.451793,
-  "lat": 43.134052,
-  "matched": "16 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "17 Underhill St": {
-  "lon": -72.451899,
-  "lat": 43.13424,
-  "matched": "17 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "15 Underhill St": {
-  "lon": -72.451768,
-  "lat": 43.1343,
-  "matched": "15 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "11 Underhill St": {
-  "lon": -72.45156,
-  "lat": 43.13437,
-  "matched": "11 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "11 Underhill Avenue St": {
-  "lon": -72.45156,
-  "lat": 43.13437,
-  "matched": "11 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "7 Underhill Avenue St": {
-  "lon": -72.45139,
-  "lat": 43.134406,
-  "matched": "7 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
  "86 Atkinson St": {
   "lon": -72.45092,
   "lat": 43.134576,
@@ -1945,42 +1682,6 @@
   "lat": 43.134956,
   "matched": "90 Atkinson Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "medium"
- },
- "3 Butterfield Avenue St": {
-  "lon": -72.451249,
-  "lat": 43.1351,
-  "matched": "3 Butterfield, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "5 Butterfield Avenue St": {
-  "lon": -72.45139,
-  "lat": 43.135058,
-  "matched": "5 Butterfield, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "7 Butterfield Avenue St": {
-  "lon": -72.451524,
-  "lat": 43.135031,
-  "matched": "7 Butterfield, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "7 Butterfield avenue St": {
-  "lon": -72.451524,
-  "lat": 43.135031,
-  "matched": "7 Butterfield, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "9 Butterfield avenue St": {
-  "lon": -72.451656,
-  "lat": 43.134983,
-  "matched": "9 Butterfield, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "11 Butterfield avenue St": {
-  "lon": -72.451813,
-  "lat": 43.134935,
-  "matched": "11 Butterfield, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
  },
  "96 Atkinson St": {
   "lon": -72.45125,
@@ -2994,48 +2695,6 @@
   "matched": "25 Henry Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "exact"
  },
- "4 Elm Park St": {
-  "lon": -72.454017,
-  "lat": 43.139287,
-  "matched": "4 Elm Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "low"
- },
- "4 Chase Park St": {
-  "lon": -72.448428,
-  "lat": 43.13195,
-  "matched": "4 Chase Park, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "6 Chase Park St": {
-  "lon": -72.453399,
-  "lat": 43.13116,
-  "matched": "6 Park Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "low"
- },
- "8 Chase Park St": {
-  "lon": -72.453399,
-  "lat": 43.13116,
-  "matched": "8 Park Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "low"
- },
- "10 Chase Park St": {
-  "lon": -72.447988,
-  "lat": 43.132232,
-  "matched": "10 Chase Park, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "12 Chase Park St": {
-  "lon": -72.44778,
-  "lat": 43.13222,
-  "matched": "12 Chase Park, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
- "14 Chase Park St": {
-  "lon": -72.447779,
-  "lat": 43.132016,
-  "matched": "14 Chase Park, Bellows Falls, Vermont 05101, United States",
-  "confidence": "high"
- },
  "23 Henry St": {
   "lon": -72.44784,
   "lat": 43.13166,
@@ -3318,12 +2977,6 @@
   "matched": "64 School Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "medium"
  },
- "7 Grove St": {
-  "lon": -72.452053,
-  "lat": 43.131197,
-  "matched": "7 Gove Street, Bellows Falls, Vermont 05101, United States",
-  "confidence": "exact"
- },
  "7 Atkinson St": {
   "lon": -72.44506,
   "lat": 43.129,
@@ -3372,5 +3025,333 @@
   "lat": 43.138911,
   "matched": "39 Hyde Street, Bellows Falls, Vermont 05101, United States",
   "confidence": "medium"
+ },
+ "2 Ensign Island": null,
+ "4 Ensign Island": null,
+ "6 Ensign Island": null,
+ "8 Ensign Island": null,
+ "29 Westminster Terrace": {
+  "lon": -72.44204,
+  "lat": 43.1252,
+  "matched": "29 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "27 Westminster Terrace": {
+  "lon": -72.44222,
+  "lat": 43.12543,
+  "matched": "27 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "25 Westminster Terrace": {
+  "lon": -72.44235,
+  "lat": 43.125665,
+  "matched": "25 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "23 Westminster Terrace": {
+  "lon": -72.442521,
+  "lat": 43.125874,
+  "matched": "23 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "21 Westminster Terrace": {
+  "lon": -72.442855,
+  "lat": 43.126195,
+  "matched": "21 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "19 Westminster Terrace": {
+  "lon": -72.44306,
+  "lat": 43.12627,
+  "matched": "19 Westminster Terrace, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "1 Oak Hill Terrace": {
+  "lon": -72.449147,
+  "lat": 43.134453,
+  "matched": "1 Oak Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "8 Bryan Court": {
+  "lon": -72.45125,
+  "lat": 43.13062,
+  "matched": "8 Bryan Court, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "4 Bryan Court": {
+  "lon": -72.45136,
+  "lat": 43.13096,
+  "matched": "4 Bryan Court, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "3 Bryan Court": {
+  "lon": -72.45173,
+  "lat": 43.13083,
+  "matched": "3 Bryan Court, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "26 New Terrace": null,
+ "24 New Terrace": null,
+ "8 Oak Hill": {
+  "lon": -72.449623,
+  "lat": 43.134065,
+  "matched": "8 Oak Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "7 Lovell St": null,
+ "11 Lovell St": null,
+ "2 Lovell St": null,
+ "2 Church Place": {
+  "lon": -72.450887,
+  "lat": 43.132574,
+  "matched": "2 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "4 Church Place": {
+  "lon": -72.451033,
+  "lat": 43.132732,
+  "matched": "4 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "6 Church Place": {
+  "lon": -72.451042,
+  "lat": 43.132891,
+  "matched": "6 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "8 Church Place": {
+  "lon": -72.45116,
+  "lat": 43.133,
+  "matched": "8 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "10 Church Place": {
+  "lon": -72.451284,
+  "lat": 43.133089,
+  "matched": "10 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "10½ Church Place": null,
+ "11 Church Place": {
+  "lon": -72.45087,
+  "lat": 43.13337,
+  "matched": "11 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "12 Church Place": {
+  "lon": -72.451313,
+  "lat": 43.133266,
+  "matched": "12 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "13 Church Place": {
+  "lon": -72.450997,
+  "lat": 43.133465,
+  "matched": "13 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "14 Church Place": {
+  "lon": -72.45139,
+  "lat": 43.133401,
+  "matched": "14 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "16 Church Place": {
+  "lon": -72.451467,
+  "lat": 43.133545,
+  "matched": "16 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "17 Church Place": {
+  "lon": -72.45107,
+  "lat": 43.13367,
+  "matched": "17 Church Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "22 Hapgood Place": {
+  "lon": -72.447358,
+  "lat": 43.129488,
+  "matched": "22 Hapgood Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "24 Hapgood Place": {
+  "lon": -72.447459,
+  "lat": 43.129346,
+  "matched": "24 Hapgood Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "26 Hapgood Place": {
+  "lon": -72.447592,
+  "lat": 43.129232,
+  "matched": "26 Hapgood Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "28 Hapgood Place": {
+  "lon": -72.44768,
+  "lat": 43.12917,
+  "matched": "28 Hapgood Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "23 Hapgood Place": {
+  "lon": -72.447866,
+  "lat": 43.12958,
+  "matched": "23 Hapgood Place, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "5 Burt Place": {
+  "lon": -72.448597,
+  "lat": 43.13024,
+  "matched": "5 Burt Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "7 Burt Place": {
+  "lon": -72.44889,
+  "lat": 43.13012,
+  "matched": "7 Burt Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "9 Burt Place": {
+  "lon": -72.449113,
+  "lat": 43.130004,
+  "matched": "9 Burt Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "11 Burt Place": {
+  "lon": -72.449365,
+  "lat": 43.129838,
+  "matched": "11 Burt Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "10 Burt Place": {
+  "lon": -72.448788,
+  "lat": 43.129665,
+  "matched": "10 Burt Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "8 Burt Place": {
+  "lon": -72.44864,
+  "lat": 43.12977,
+  "matched": "8 Burt Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "6 Burt Place": {
+  "lon": -72.4484,
+  "lat": 43.12989,
+  "matched": "6 Burt Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "11 Underhill Avenue": {
+  "lon": -72.45156,
+  "lat": 43.13437,
+  "matched": "11 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "7 Underhill Avenue": {
+  "lon": -72.45139,
+  "lat": 43.134406,
+  "matched": "7 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "3 Butterfield Avenue": {
+  "lon": -72.451249,
+  "lat": 43.1351,
+  "matched": "3 Butterfield, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "5 Butterfield Avenue": {
+  "lon": -72.45139,
+  "lat": 43.135058,
+  "matched": "5 Butterfield, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "7 Butterfield Avenue": {
+  "lon": -72.451524,
+  "lat": 43.135031,
+  "matched": "7 Butterfield, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "9 Butterfield Avenue": {
+  "lon": -72.451656,
+  "lat": 43.134983,
+  "matched": "9 Butterfield, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "11 Butterfield Avenue": {
+  "lon": -72.451813,
+  "lat": 43.134935,
+  "matched": "11 Butterfield, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "4 Elm Park": {
+  "lon": -72.454017,
+  "lat": 43.139287,
+  "matched": "4 Elm Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "low"
+ },
+ "4 Chase Park": {
+  "lon": -72.448428,
+  "lat": 43.13195,
+  "matched": "4 Chase Park, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "6 Chase Park": {
+  "lon": -72.453399,
+  "lat": 43.13116,
+  "matched": "6 Park Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "low"
+ },
+ "8 Chase Park": {
+  "lon": -72.453399,
+  "lat": 43.13116,
+  "matched": "8 Park Street, Bellows Falls, Vermont 05101, United States",
+  "confidence": "low"
+ },
+ "10 Chase Park": {
+  "lon": -72.447988,
+  "lat": 43.132232,
+  "matched": "10 Chase Park, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "12 Chase Park": {
+  "lon": -72.44778,
+  "lat": 43.13222,
+  "matched": "12 Chase Park, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "14 Chase Park": {
+  "lon": -72.447779,
+  "lat": 43.132016,
+  "matched": "14 Chase Park, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "8 Underhill Avenue": {
+  "lon": -72.45123,
+  "lat": 43.13423,
+  "matched": "8 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "10 Underhill Avenue": {
+  "lon": -72.45137,
+  "lat": 43.13419,
+  "matched": "10 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "16 Underhill Avenue": {
+  "lon": -72.451793,
+  "lat": 43.134052,
+  "matched": "16 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "17 Underhill Avenue": {
+  "lon": -72.451899,
+  "lat": 43.13424,
+  "matched": "17 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
+ },
+ "15 Underhill Avenue": {
+  "lon": -72.451768,
+  "lat": 43.1343,
+  "matched": "15 Underhill Avenue, Bellows Falls, Vermont 05101, United States",
+  "confidence": "high"
  }
 }

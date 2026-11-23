@@ -5748,7 +5748,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "2 Ensign Island St",
+    "address": "2 Ensign Island",
     "street": "Ensign Island",
     "house_num": "2",
     "sheets": [
@@ -5946,7 +5946,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "4 Ensign Island St",
+    "address": "4 Ensign Island",
     "street": "Ensign Island",
     "house_num": "4",
     "sheets": [
@@ -6053,7 +6053,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "6 Ensign Island St",
+    "address": "6 Ensign Island",
     "street": "Ensign Island",
     "house_num": "6",
     "sheets": [
@@ -6160,7 +6160,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "8 Ensign Island St",
+    "address": "8 Ensign Island",
     "street": "Ensign Island",
     "house_num": "8",
     "sheets": [
@@ -6210,7 +6210,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "Elm on Island St (dwelling 53, no house no.)",
+    "address": "Elm on Island (dwelling 53, no house no.)",
     "street": "Elm on Island",
     "house_num": "",
     "sheets": [
@@ -6325,7 +6325,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "Elm on Island St (dwelling 54, no house no.)",
+    "address": "Elm on Island (dwelling 54, no house no.)",
     "street": "Elm on Island",
     "house_num": "",
     "sheets": [
@@ -10352,7 +10352,7 @@
     ]
    },
    "properties": {
-    "address": "29 Westminster Terrace St",
+    "address": "29 Westminster Terrace",
     "street": "Westminster Terrace",
     "house_num": "29",
     "sheets": [
@@ -10474,7 +10474,7 @@
     ]
    },
    "properties": {
-    "address": "27 Westminster Terrace St",
+    "address": "27 Westminster Terrace",
     "street": "Westminster Terrace",
     "house_num": "27",
     "sheets": [
@@ -10556,7 +10556,7 @@
     ]
    },
    "properties": {
-    "address": "25 Westminster Terrace St",
+    "address": "25 Westminster Terrace",
     "street": "Westminster Terrace",
     "house_num": "25",
     "sheets": [
@@ -10651,7 +10651,7 @@
     ]
    },
    "properties": {
-    "address": "23 Westminster Terrace St",
+    "address": "23 Westminster Terrace",
     "street": "Westminster Terrace",
     "house_num": "23",
     "sheets": [
@@ -10772,7 +10772,7 @@
     ]
    },
    "properties": {
-    "address": "21 Westminster Terrace St",
+    "address": "21 Westminster Terrace",
     "street": "Westminster Terrace",
     "house_num": "21",
     "sheets": [
@@ -10903,7 +10903,7 @@
     ]
    },
    "properties": {
-    "address": "19 Westminster Terrace St",
+    "address": "19 Westminster Terrace",
     "street": "Westminster Terrace",
     "house_num": "19",
     "sheets": [
@@ -21735,7 +21735,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "Avenue Ct St (dwelling 176, no house no.)",
+    "address": "Avenue Ct (dwelling 176, no house no.)",
     "street": "Avenue Ct",
     "house_num": "",
     "sheets": [
@@ -23574,7 +23574,7 @@
     ]
    },
    "properties": {
-    "address": "1 Oak Hill Terrace St",
+    "address": "1 Oak Hill Terrace",
     "street": "Oak Hill Terrace",
     "house_num": "1",
     "sheets": [
@@ -23702,7 +23702,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "Oak Hill Terrace St (dwelling 192, no house no.)",
+    "address": "Oak Hill Terrace (dwelling 192, no house no.)",
     "street": "Oak Hill Terrace",
     "house_num": "",
     "sheets": [
@@ -23809,7 +23809,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "Oak Hill Terrace St (dwelling 193, no house no.)",
+    "address": "Oak Hill Terrace (dwelling 193, no house no.)",
     "street": "Oak Hill Terrace",
     "house_num": "",
     "sheets": [
@@ -23912,7 +23912,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "Oak Hill Terrace St (dwelling 194, no house no.)",
+    "address": "Oak Hill Terrace (dwelling 194, no house no.)",
     "street": "Oak Hill Terrace",
     "house_num": "",
     "sheets": [
@@ -24045,7 +24045,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "Oak Hill Terrace St (dwelling 195, no house no.)",
+    "address": "Oak Hill Terrace (dwelling 195, no house no.)",
     "street": "Oak Hill Terrace",
     "house_num": "",
     "sheets": [
@@ -25535,7 +25535,7 @@
     ]
    },
    "properties": {
-    "address": "8 Bryan Court St",
+    "address": "8 Bryan Court",
     "street": "Bryan Court",
     "house_num": "8",
     "sheets": [
@@ -25765,7 +25765,7 @@
     ]
    },
    "properties": {
-    "address": "4 Bryan Court St",
+    "address": "4 Bryan Court",
     "street": "Bryan Court",
     "house_num": "4",
     "sheets": [
@@ -26026,7 +26026,7 @@
     ]
    },
    "properties": {
-    "address": "3 Bryan Court St",
+    "address": "3 Bryan Court",
     "street": "Bryan Court",
     "house_num": "3",
     "sheets": [
@@ -26486,16 +26486,22 @@
     "street": "Gove",
     "house_num": "7",
     "sheets": [
-     "16A"
+     "16A",
+     "43B"
     ],
-    "people": 6,
-    "adults": 4,
+    "people": 8,
+    "adults": 6,
     "geocode_confidence": "exact",
     "birth_counts": [
      {
       "country": "Ireland",
       "flag": "🇮🇪",
       "n": 4
+     },
+     {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "n": 2
      }
     ],
     "residents": [
@@ -26576,6 +26582,32 @@
       "occupation": "",
       "adult": true,
       "uncertain": false
+     },
+     {
+      "name": "Charles McEvoy",
+      "age": "37",
+      "sex": "M",
+      "relation": "Head",
+      "birthplace": "Massachusetts",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "occupation": "Paper finisher",
+      "adult": true,
+      "uncertain": true
+     },
+     {
+      "name": "Mary J. Bohen",
+      "age": "29",
+      "sex": "F",
+      "relation": "Housekeeper",
+      "birthplace": "New York",
+      "birth_flag": "🇺🇸",
+      "father_bp": "Ireland",
+      "mother_bp": "Ireland",
+      "occupation": "Housework private family",
+      "adult": true,
+      "uncertain": true
      }
     ]
    }
@@ -28793,7 +28825,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "26 New Terrace St",
+    "address": "26 New Terrace",
     "street": "New Terrace",
     "house_num": "26",
     "sheets": [
@@ -28931,7 +28963,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "24 New Terrace St",
+    "address": "24 New Terrace",
     "street": "New Terrace",
     "house_num": "24",
     "sheets": [
@@ -29153,7 +29185,7 @@
     ]
    },
    "properties": {
-    "address": "8 Oak Hill St",
+    "address": "8 Oak Hill",
     "street": "Oak Hill",
     "house_num": "8",
     "sheets": [
@@ -29913,9 +29945,10 @@
     "street": "Lovell",
     "house_num": "5",
     "sheets": [
-     "17B"
+     "17B",
+     "18A"
     ],
-    "people": 3,
+    "people": 5,
     "adults": 1,
     "geocode_confidence": null,
     "birth_counts": [
@@ -29964,25 +29997,7 @@
       "occupation": "At school",
       "adult": false,
       "uncertain": false
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": null,
-   "properties": {
-    "address": "5 Lowell St",
-    "street": "Lowell",
-    "house_num": "5",
-    "sheets": [
-     "18A"
-    ],
-    "people": 2,
-    "adults": 0,
-    "geocode_confidence": null,
-    "birth_counts": [],
-    "residents": [
+     },
      {
       "name": "Ellen T. Bowe",
       "age": "7",
@@ -30016,8 +30031,8 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "7 Lowell St",
-    "street": "Lowell",
+    "address": "7 Lovell St",
+    "street": "Lovell",
     "house_num": "7",
     "sheets": [
      "18A"
@@ -30092,8 +30107,8 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "11 Lowell St",
-    "street": "Lowell",
+    "address": "11 Lovell St",
+    "street": "Lovell",
     "house_num": "11",
     "sheets": [
      "18A"
@@ -30285,8 +30300,8 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "2 Lowell St",
-    "street": "Lowell",
+    "address": "2 Lovell St",
+    "street": "Lovell",
     "house_num": "2",
     "sheets": [
      "18A"
@@ -34886,7 +34901,7 @@
     ]
    },
    "properties": {
-    "address": "2 Church Place St",
+    "address": "2 Church Place",
     "street": "Church Place",
     "house_num": "2",
     "sheets": [
@@ -35052,7 +35067,7 @@
     ]
    },
    "properties": {
-    "address": "4 Church Place St",
+    "address": "4 Church Place",
     "street": "Church Place",
     "house_num": "4",
     "sheets": [
@@ -35222,7 +35237,7 @@
     ]
    },
    "properties": {
-    "address": "6 Church Place St",
+    "address": "6 Church Place",
     "street": "Church Place",
     "house_num": "6",
     "sheets": [
@@ -35314,7 +35329,7 @@
     ]
    },
    "properties": {
-    "address": "8 Church Place St",
+    "address": "8 Church Place",
     "street": "Church Place",
     "house_num": "8",
     "sheets": [
@@ -35635,7 +35650,7 @@
     ]
    },
    "properties": {
-    "address": "10 Church Place St",
+    "address": "10 Church Place",
     "street": "Church Place",
     "house_num": "10",
     "sheets": [
@@ -35878,7 +35893,7 @@
    "type": "Feature",
    "geometry": null,
    "properties": {
-    "address": "10½ Church Place St",
+    "address": "10½ Church Place",
     "street": "Church Place",
     "house_num": "10½",
     "sheets": [
@@ -35960,7 +35975,7 @@
     ]
    },
    "properties": {
-    "address": "11 Church Place St",
+    "address": "11 Church Place",
     "street": "Church Place",
     "house_num": "11",
     "sheets": [
@@ -36177,7 +36192,7 @@
     ]
    },
    "properties": {
-    "address": "12 Church Place St",
+    "address": "12 Church Place",
     "street": "Church Place",
     "house_num": "12",
     "sheets": [
@@ -36290,7 +36305,7 @@
     ]
    },
    "properties": {
-    "address": "13 Church Place St",
+    "address": "13 Church Place",
     "street": "Church Place",
     "house_num": "13",
     "sheets": [
@@ -36416,7 +36431,7 @@
     ]
    },
    "properties": {
-    "address": "14 Church Place St",
+    "address": "14 Church Place",
     "street": "Church Place",
     "house_num": "14",
     "sheets": [
@@ -36568,7 +36583,7 @@
     ]
    },
    "properties": {
-    "address": "16 Church Place St",
+    "address": "16 Church Place",
     "street": "Church Place",
     "house_num": "16",
     "sheets": [
@@ -36695,7 +36710,7 @@
     ]
    },
    "properties": {
-    "address": "17 Church Place St",
+    "address": "17 Church Place",
     "street": "Church Place",
     "house_num": "17",
     "sheets": [
@@ -38816,7 +38831,7 @@
     ]
    },
    "properties": {
-    "address": "22 Hapgood Place St",
+    "address": "22 Hapgood Place",
     "street": "Hapgood Place",
     "house_num": "22",
     "sheets": [
@@ -38911,7 +38926,7 @@
     ]
    },
    "properties": {
-    "address": "24 Hapgood Place St",
+    "address": "24 Hapgood Place",
     "street": "Hapgood Place",
     "house_num": "24",
     "sheets": [
@@ -39107,7 +39122,7 @@
     ]
    },
    "properties": {
-    "address": "26 Hapgood Place St",
+    "address": "26 Hapgood Place",
     "street": "Hapgood Place",
     "house_num": "26",
     "sheets": [
@@ -39202,7 +39217,7 @@
     ]
    },
    "properties": {
-    "address": "28 Hapgood Place St",
+    "address": "28 Hapgood Place",
     "street": "Hapgood Place",
     "house_num": "28",
     "sheets": [
@@ -39284,7 +39299,7 @@
     ]
    },
    "properties": {
-    "address": "23 Hapgood Place St",
+    "address": "23 Hapgood Place",
     "street": "Hapgood Place",
     "house_num": "23",
     "sheets": [
@@ -39597,7 +39612,7 @@
     ]
    },
    "properties": {
-    "address": "5 Burt Place St",
+    "address": "5 Burt Place",
     "street": "Burt Place",
     "house_num": "5",
     "sheets": [
@@ -39692,7 +39707,7 @@
     ]
    },
    "properties": {
-    "address": "7 Burt Place St",
+    "address": "7 Burt Place",
     "street": "Burt Place",
     "house_num": "7",
     "sheets": [
@@ -39748,7 +39763,7 @@
     ]
    },
    "properties": {
-    "address": "9 Burt Place St",
+    "address": "9 Burt Place",
     "street": "Burt Place",
     "house_num": "9",
     "sheets": [
@@ -39830,7 +39845,7 @@
     ]
    },
    "properties": {
-    "address": "11 Burt Place St",
+    "address": "11 Burt Place",
     "street": "Burt Place",
     "house_num": "11",
     "sheets": [
@@ -39964,7 +39979,7 @@
     ]
    },
    "properties": {
-    "address": "10 Burt Place St",
+    "address": "10 Burt Place",
     "street": "Burt Place",
     "house_num": "10",
     "sheets": [
@@ -40033,7 +40048,7 @@
     ]
    },
    "properties": {
-    "address": "8 Burt Place St",
+    "address": "8 Burt Place",
     "street": "Burt Place",
     "house_num": "8",
     "sheets": [
@@ -40141,7 +40156,7 @@
     ]
    },
    "properties": {
-    "address": "6 Burt Place St",
+    "address": "6 Burt Place",
     "street": "Burt Place",
     "house_num": "6",
     "sheets": [
@@ -45461,8 +45476,8 @@
     ]
    },
    "properties": {
-    "address": "8 Underhill St",
-    "street": "Underhill",
+    "address": "8 Underhill Avenue",
+    "street": "Underhill Avenue",
     "house_num": "8",
     "sheets": [
      "26B",
@@ -45648,8 +45663,8 @@
     ]
    },
    "properties": {
-    "address": "10 Underhill St",
-    "street": "Underhill",
+    "address": "10 Underhill Avenue",
+    "street": "Underhill Avenue",
     "house_num": "10",
     "sheets": [
      "27A"
@@ -45821,8 +45836,8 @@
     ]
    },
    "properties": {
-    "address": "16 Underhill St",
-    "street": "Underhill",
+    "address": "16 Underhill Avenue",
+    "street": "Underhill Avenue",
     "house_num": "16",
     "sheets": [
      "27A"
@@ -45973,8 +45988,8 @@
     ]
    },
    "properties": {
-    "address": "17 Underhill St",
-    "street": "Underhill",
+    "address": "17 Underhill Avenue",
+    "street": "Underhill Avenue",
     "house_num": "17",
     "sheets": [
      "27A"
@@ -46122,8 +46137,8 @@
     ]
    },
    "properties": {
-    "address": "15 Underhill St",
-    "street": "Underhill",
+    "address": "15 Underhill Avenue",
+    "street": "Underhill Avenue",
     "house_num": "15",
     "sheets": [
      "27A"
@@ -46274,20 +46289,21 @@
     ]
    },
    "properties": {
-    "address": "11 Underhill St",
-    "street": "Underhill",
+    "address": "11 Underhill Avenue",
+    "street": "Underhill Avenue",
     "house_num": "11",
     "sheets": [
-     "27A"
+     "27A",
+     "27B"
     ],
-    "people": 5,
-    "adults": 2,
+    "people": 10,
+    "adults": 4,
     "geocode_confidence": "high",
     "birth_counts": [
      {
       "country": "Ireland",
       "flag": "🇮🇪",
-      "n": 1
+      "n": 3
      },
      {
       "country": "United States",
@@ -46360,37 +46376,7 @@
       "occupation": "At school",
       "adult": false,
       "uncertain": false
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -72.45156,
-     43.13437
-    ]
-   },
-   "properties": {
-    "address": "11 Underhill Avenue St",
-    "street": "Underhill Avenue",
-    "house_num": "11",
-    "sheets": [
-     "27B"
-    ],
-    "people": 5,
-    "adults": 2,
-    "geocode_confidence": "high",
-    "birth_counts": [
-     {
-      "country": "Ireland",
-      "flag": "🇮🇪",
-      "n": 2
-     }
-    ],
-    "residents": [
+     },
      {
       "name": "Frances M. Cray",
       "age": "8",
@@ -46469,7 +46455,7 @@
     ]
    },
    "properties": {
-    "address": "7 Underhill Avenue St",
+    "address": "7 Underhill Avenue",
     "street": "Underhill Avenue",
     "house_num": "7",
     "sheets": [
@@ -47036,7 +47022,7 @@
     ]
    },
    "properties": {
-    "address": "3 Butterfield Avenue St",
+    "address": "3 Butterfield Avenue",
     "street": "Butterfield Avenue",
     "house_num": "3",
     "sheets": [
@@ -47118,7 +47104,7 @@
     ]
    },
    "properties": {
-    "address": "5 Butterfield Avenue St",
+    "address": "5 Butterfield Avenue",
     "street": "Butterfield Avenue",
     "house_num": "5",
     "sheets": [
@@ -47213,13 +47199,14 @@
     ]
    },
    "properties": {
-    "address": "7 Butterfield Avenue St",
+    "address": "7 Butterfield Avenue",
     "street": "Butterfield Avenue",
     "house_num": "7",
     "sheets": [
-     "27B"
+     "27B",
+     "28A"
     ],
-    "people": 2,
+    "people": 4,
     "adults": 2,
     "geocode_confidence": "high",
     "birth_counts": [
@@ -47255,31 +47242,7 @@
       "occupation": "",
       "adult": true,
       "uncertain": true
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -72.451524,
-     43.135031
-    ]
-   },
-   "properties": {
-    "address": "7 Butterfield avenue St",
-    "street": "Butterfield avenue",
-    "house_num": "7",
-    "sheets": [
-     "28A"
-    ],
-    "people": 2,
-    "adults": 0,
-    "geocode_confidence": "high",
-    "birth_counts": [],
-    "residents": [
+     },
      {
       "name": "Dean R. Brown",
       "age": "3",
@@ -47319,8 +47282,8 @@
     ]
    },
    "properties": {
-    "address": "9 Butterfield avenue St",
-    "street": "Butterfield avenue",
+    "address": "9 Butterfield Avenue",
+    "street": "Butterfield Avenue",
     "house_num": "9",
     "sheets": [
      "28A"
@@ -47432,8 +47395,8 @@
     ]
    },
    "properties": {
-    "address": "11 Butterfield avenue St",
-    "street": "Butterfield avenue",
+    "address": "11 Butterfield Avenue",
+    "street": "Butterfield Avenue",
     "house_num": "11",
     "sheets": [
      "28A"
@@ -68607,7 +68570,7 @@
     ]
    },
    "properties": {
-    "address": "4 Elm Park St",
+    "address": "4 Elm Park",
     "street": "Elm Park",
     "house_num": "4",
     "sheets": [
@@ -68663,7 +68626,7 @@
     ]
    },
    "properties": {
-    "address": "4 Chase Park St",
+    "address": "4 Chase Park",
     "street": "Chase Park",
     "house_num": "4",
     "sheets": [
@@ -68719,7 +68682,7 @@
     ]
    },
    "properties": {
-    "address": "6 Chase Park St",
+    "address": "6 Chase Park",
     "street": "Chase Park",
     "house_num": "6",
     "sheets": [
@@ -68801,7 +68764,7 @@
     ]
    },
    "properties": {
-    "address": "8 Chase Park St",
+    "address": "8 Chase Park",
     "street": "Chase Park",
     "house_num": "8",
     "sheets": [
@@ -68901,7 +68864,7 @@
     ]
    },
    "properties": {
-    "address": "10 Chase Park St",
+    "address": "10 Chase Park",
     "street": "Chase Park",
     "house_num": "10",
     "sheets": [
@@ -69009,7 +68972,7 @@
     ]
    },
    "properties": {
-    "address": "12 Chase Park St",
+    "address": "12 Chase Park",
     "street": "Chase Park",
     "house_num": "12",
     "sheets": [
@@ -69122,7 +69085,7 @@
     ]
    },
    "properties": {
-    "address": "14 Chase Park St",
+    "address": "14 Chase Park",
     "street": "Chase Park",
     "house_num": "14",
     "sheets": [
@@ -75927,62 +75890,6 @@
       "father_bp": "Vermont",
       "mother_bp": "Vermont",
       "occupation": "Carpenter shop",
-      "adult": true,
-      "uncertain": true
-     }
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -72.452053,
-     43.131197
-    ]
-   },
-   "properties": {
-    "address": "7 Grove St",
-    "street": "Grove",
-    "house_num": "7",
-    "sheets": [
-     "43B"
-    ],
-    "people": 2,
-    "adults": 2,
-    "geocode_confidence": "exact",
-    "birth_counts": [
-     {
-      "country": "United States",
-      "flag": "🇺🇸",
-      "n": 2
-     }
-    ],
-    "residents": [
-     {
-      "name": "Charles McEvoy",
-      "age": "37",
-      "sex": "M",
-      "relation": "Head",
-      "birthplace": "Massachusetts",
-      "birth_flag": "🇺🇸",
-      "father_bp": "Ireland",
-      "mother_bp": "Ireland",
-      "occupation": "Paper finisher",
-      "adult": true,
-      "uncertain": true
-     },
-     {
-      "name": "Mary J. Bohen",
-      "age": "29",
-      "sex": "F",
-      "relation": "Housekeeper",
-      "birthplace": "New York",
-      "birth_flag": "🇺🇸",
-      "father_bp": "Ireland",
-      "mother_bp": "Ireland",
-      "occupation": "Housework private family",
       "adult": true,
       "uncertain": true
      }
