@@ -1,0 +1,16 @@
+{
+  "name": "Winooski",
+  "place": "Winooski village, Colchester, Chittenden Co., Vermont",
+  "eds": {"75": "Winooski village, West Ward", "76": "Winooski village, South and East Wards"},
+  "street_examples": ["Weaver", "West Allen"],
+  "examples": [
+    "bellows-falls/data/transcribed/259-43A.csv",
+    "bellows-falls/data/transcribed/259-42B.csv"
+  ],
+  "layout": {"overlap": 1.5},
+  "geocode": {
+    "place": "Winooski",
+    "proximity": [-73.1857, 44.4914],
+    "bbox": [-73.21, 44.48, -73.165, 44.505]
+  }
+}

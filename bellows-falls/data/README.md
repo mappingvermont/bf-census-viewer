@@ -28,18 +28,11 @@ buildings possible.
 img/            page images, one per census page side (259-SSX.jpg); not committed
 transcribed/    one CSV per page, exactly as written on the page (dittos left blank)
 output/         built outputs, regenerated from transcribed/ by build_csv.py
-scripts/
-  fs_tiles.py           cuts a page into readable strips (left/right halves in 5 line bands, street column, overview)
-  crop.py               zooms into one region of a page (used for manual checks)
-  transcribe_batch.py   transcribes pages with Claude Opus 5.5 through the Message Batches API (batch price only)
-  compare_csv.py        compares two transcriptions of the same page, cell by cell
-  build_csv.py          fills dittos, checks ages, maps birthplaces to flags, writes output/
-  geocode.py            geocodes each numbered address with the Mapbox v6 API
-  build_site_data.py    builds ../site/data/census_1900.geojson for the map
 PROMPT_transcribe_page.md  prompt for transcribing one page in an interactive Claude Code session
 ```
 
-The scripts run with plain `python3`. They need `pillow`; `transcribe_batch.py` also needs `anthropic`.
+The scripts are shared by every town and live in the repo's top-level `scripts/` folder (see the top-level
+README). This town's settings are in `../town.json`. Run the commands below from the repo root.
 
 ## Transcription format (`transcribed/PAGE.csv`)
 
@@ -50,7 +43,7 @@ birthplace, father_bp, mother_bp, immig_year, years_in_us, naturalization, occup
 school_months, can_read, can_write, speaks_english, home_owned_rented, home_free_mortgaged, farm_or_house,
 farm_schedule, uncertain, notes`
 
-Conventions. `transcribed/259-43A.csv` is the reference example.
+Conventions. `transcribed/259-43A.csv` is the reference example (the `examples` in `../town.json`).
 - **Street:** the bare name (`Atkinson`, `Westminster`, `Hapgood`, `Square`), written on every row.
 - **Dittos are left blank** as on the page: blank surname under a dash, and blank dwelling/house number when a
   new family shares the dwelling above. `^` on a page's first line means the value carries over from the
@@ -65,7 +58,7 @@ Conventions. `transcribed/259-43A.csv` is the reference example.
 ## Building the outputs
 
 ```
-python3 -I scripts/build_csv.py transcribed output
+python3 -I scripts/build_csv.py bellows-falls
 ```
 
 This writes `output/people_1900.csv`: one row per person, with dittos filled in. It adds `name`,
@@ -73,7 +66,7 @@ This writes `output/people_1900.csv`: one row per person, with dittos filled in.
 
 It also prints:
 - `CHECK` lines where an age doesn't fit the birth month and year (census day was 1 June 1900),
-- `UNMAPPED` lines for birthplaces missing from `COUNTRIES` in `build_csv.py`. Add them there with a flag.
+- `UNMAPPED` lines for birthplaces missing from `COUNTRIES` in `scripts/build_csv.py`. Add them there with a flag.
 
 Addresses are `"<house_num> <Street> St"` (`The Square` for Square). A dwelling with no house number written
 gets a placeholder that includes its dwelling number.
@@ -81,19 +74,19 @@ gets a placeholder that includes its dwelling number.
 ## Geocoding and the map data
 
 ```
-python3 -I scripts/geocode.py output/people_1900.csv output/geocoded_1900.json
-python3 -I scripts/build_site_data.py output ../site/data/census_1900.geojson
+python3 -I scripts/geocode.py bellows-falls
+python3 -I scripts/build_site_data.py bellows-falls
 ```
 
 `geocode.py` needs `MAPBOX_ACCESS_TOKEN`. It sends each numbered address to the Mapbox v6 forward
-geocoder, limited to the village. `output/geocoded_1900.json` maps each address to its location, the
+geocoder, limited to the village (the `geocode` settings in `../town.json`). `output/geocoded_1900.json` maps each address to its location, the
 matched address and the confidence (`exact` or weaker). Addresses already in that file aren't requested
 again. Addresses with no house number are skipped.
 
 Geocoding uses today's numbering, so a confident match can still be the wrong building if a street was
 renumbered after 1900. Check houses against the Sanborn map before trusting the location.
 
-`build_site_data.py` writes one feature per address, with its residents and `birth_counts`: residents
+`build_site_data.py` writes `../site/data/census_1900.geojson`, one feature per address, with its residents and `birth_counts`: residents
 over 16 counted by birth country, most common first. The site shows every country tied for the top count
 as the house's flag. Addresses that weren't geocoded get a null geometry: the site lists them but can't
 pin them. The file also records how many census sheets are transcribed, for the site's footer.

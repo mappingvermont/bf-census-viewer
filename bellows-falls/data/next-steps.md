@@ -47,10 +47,10 @@ registration is incomplete or revoked", which is an AWS Marketplace problem.)
 
 ## 3. Test on the two pages already done, and check the price
 ```
-python3 -I scripts/transcribe_batch.py submit  --out test_batch 259-42B 259-43A
-python3 -I scripts/transcribe_batch.py collect --out test_batch
-python3 -I scripts/compare_csv.py transcribed/259-42B.csv test_batch/259-42B.csv
-python3 -I scripts/compare_csv.py transcribed/259-43A.csv test_batch/259-43A.csv
+python3 -I scripts/transcribe_batch.py bellows-falls submit  --out bellows-falls/data/test_batch 259-42B 259-43A
+python3 -I scripts/transcribe_batch.py bellows-falls collect --out bellows-falls/data/test_batch
+python3 -I scripts/compare_csv.py bellows-falls/data/transcribed/259-42B.csv bellows-falls/data/test_batch/259-42B.csv
+python3 -I scripts/compare_csv.py bellows-falls/data/transcribed/259-43A.csv bellows-falls/data/test_batch/259-43A.csv
 ```
 Each page is given the other one as its example, so the test never sees its own answer. Look at:
 - **The price.** Compare the Claude Console's Usage/Cost page with the token counts in
@@ -63,11 +63,11 @@ If accuracy is poor, adjust the tiles or prompt and re-test before spending more
 
 ## 4. Run the rest
 ```
-python3 -I scripts/transcribe_batch.py submit  --out transcribed --all
-python3 -I scripts/transcribe_batch.py collect --out transcribed
-python3 -I scripts/build_csv.py transcribed output
-python3 -I scripts/geocode.py output/people_1900.csv output/geocoded_1900.json
-python3 -I scripts/build_site_data.py output ../site/data/census_1900.geojson
+python3 -I scripts/transcribe_batch.py bellows-falls submit --all
+python3 -I scripts/transcribe_batch.py bellows-falls collect
+python3 -I scripts/build_csv.py bellows-falls
+python3 -I scripts/geocode.py bellows-falls
+python3 -I scripts/build_site_data.py bellows-falls
 ```
 - `--all` skips pages that already have a CSV, so 42B and 43A are left alone. Resubmitting retries only the
   missing pages.

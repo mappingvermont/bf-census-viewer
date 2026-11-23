@@ -1,0 +1,15 @@
+{
+  "name": "Bellows Falls",
+  "place": "Bellows Falls village, Rockingham, Windham Co., Vermont",
+  "eds": {"259": "Bellows Falls village"},
+  "street_examples": ["Atkinson", "Westminster", "Hapgood", "Square"],
+  "examples": [
+    "bellows-falls/data/transcribed/259-43A.csv",
+    "bellows-falls/data/transcribed/259-42B.csv"
+  ],
+  "geocode": {
+    "place": "Bellows Falls",
+    "proximity": [-72.4441, 43.1338],
+    "bbox": [-72.47, 43.12, -72.43, 43.15]
+  }
+}

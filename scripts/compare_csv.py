@@ -1,6 +1,7 @@
 """Compare a test transcription with a reference one, cell by cell.
 
-Usage: python3 -I scripts/compare_csv.py transcribed/259-43A.csv test_bedrock/259-43A.csv
+Usage: python3 -I scripts/compare_csv.py REFERENCE.csv TEST.csv
+  e.g. bellows-falls/data/transcribed/259-43A.csv bellows-falls/data/test_batch/259-43A.csv
 
 Rows are matched by line number. The uncertain and notes columns are ignored.
 """

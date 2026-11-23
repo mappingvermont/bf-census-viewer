@@ -1,6 +1,8 @@
 """Build the map's GeoJSON from people_1900.csv and the geocoded addresses.
 
-Usage: python3 -I scripts/build_site_data.py output ../site/data/census_1900.geojson
+Usage: python3 -I scripts/build_site_data.py TOWN
+
+Reads TOWN/data/output/ and writes TOWN/site/data/census_1900.geojson.
 
 One feature per address. Addresses that couldn't be geocoded get a null geometry: the site
 lists them but can't pin them. `birth_counts` counts residents over 16 by birth country,
@@ -9,8 +11,12 @@ Infants' fractional ages ("8/12") and blank ages count as not over 16.
 """
 import csv
 import json
+import os
 import sys
 from collections import Counter
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import town  # noqa: E402
 
 ADULT_OVER = 16
 
@@ -75,4 +81,6 @@ def main(outdir, dst):
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:3])
+    t = town.load(sys.argv[1])
+    os.makedirs(t.site_data, exist_ok=True)
+    main(t.output, os.path.join(t.site_data, "census_1900.geojson"))

@@ -1,12 +1,12 @@
 """Assemble per-sheet census transcriptions into one per-person CSV.
 
-Usage: python -I build_csv.py <transcribed_dir> <output_dir>
+Usage: python3 -I scripts/build_csv.py TOWN
 
-Input: one CSV per census page side (e.g. transcribed/259-43A.csv), exactly as written on
+Input: one CSV per census page side in TOWN/data/transcribed/ (e.g. 259-43A.csv), exactly as written on
 the page. A blank surname, street, house number, dwelling or family number means "same as
 the row above" (a ditto). "^" means the value continues from the previous sheet.
 
-Output:
+Output, in TOWN/data/output/:
   people_1900.csv  one row per person, dittos filled in, plus address key, birth country,
                    flag emoji and validation warnings
 """
@@ -16,6 +16,9 @@ import os
 import re
 import sys
 from collections import Counter
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import town  # noqa: E402
 
 US_STATES = {
     "Alabama", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
@@ -194,4 +197,5 @@ def main(src, out):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    t = town.load(sys.argv[1])
+    main(t.transcribed, t.output)

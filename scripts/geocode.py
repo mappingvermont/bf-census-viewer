@@ -1,6 +1,9 @@
 """Geocode each numbered address in people_1900.csv with the Mapbox v6 forward geocoding API.
 
-Usage: python3 -I scripts/geocode.py output/people_1900.csv output/geocoded_1900.json
+Usage: python3 -I scripts/geocode.py TOWN
+
+Reads TOWN/data/output/people_1900.csv and writes TOWN/data/output/geocoded_1900.json. The place name,
+proximity point and bounding box come from the `geocode` settings in TOWN/town.json.
 
 Needs MAPBOX_ACCESS_TOKEN. The output maps address -> {lon, lat, matched, confidence} and
 doubles as a cache: addresses already in it aren't requested again. Addresses with no house
@@ -14,20 +17,20 @@ import sys
 import urllib.parse
 import urllib.request
 
-PROXIMITY = "-72.4441,43.1338"  # Bellows Falls village centre
-BBOX = "-72.47,43.12,-72.43,43.15"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import town  # noqa: E402
 
 
-def geocode(house_num, street, token):
+def geocode(house_num, street, token, g):
     params = {
         "address_number": house_num,
         "street": f"{street} Street",
-        "place": "Bellows Falls",
+        "place": g["place"],
         "region": "Vermont",
         "country": "us",
         "types": "address",
-        "proximity": PROXIMITY,
-        "bbox": BBOX,
+        "proximity": ",".join(map(str, g["proximity"])),
+        "bbox": ",".join(map(str, g["bbox"])),
         "limit": 1,
         "access_token": token,
     }
@@ -43,7 +46,7 @@ def geocode(house_num, street, token):
             "confidence": p.get("match_code", {}).get("confidence")}
 
 
-def main(people_csv, dst):
+def main(people_csv, dst, g):
     token = os.environ["MAPBOX_ACCESS_TOKEN"]
     cache = json.load(open(dst)) if os.path.exists(dst) else {}
     addresses = {}
@@ -52,11 +55,12 @@ def main(people_csv, dst):
             addresses.setdefault(p["address"], (p["house_num"], p["street"]))
     for addr, (num, street) in addresses.items():
         if addr not in cache:
-            cache[addr] = geocode(num, street, token)
+            cache[addr] = geocode(num, street, token, g)
         g = cache[addr] or {}
         print(f"{addr:<25} -> {g.get('matched', 'NO MATCH')}  [{g.get('confidence', '')}]")
     json.dump(cache, open(dst, "w"), ensure_ascii=False, indent=1)
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:3])
+    t = town.load(sys.argv[1])
+    main(os.path.join(t.output, "people_1900.csv"), os.path.join(t.output, "geocoded_1900.json"), t.geocode)

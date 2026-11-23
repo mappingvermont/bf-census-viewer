@@ -19,7 +19,7 @@ spelling of values and ditto conventions exactly. Don't change that file.
 
 ## Steps
 1. Cut the page into tiles:
-   `python3 -I scripts/fs_tiles.py img/PAGE.jpg /tmp/tiles_PAGE`
+   `python3 -I ../../scripts/fs_tiles.py img/PAGE.jpg /tmp/tiles_PAGE bellows-falls`
    This gives `PAGE_L1..L5.jpg` (street through immigration columns, about 10 lines each,
    overlapping by 1 line), `PAGE_R1..R5.jpg` (citizenship through home-ownership columns),
    `PAGE_street.jpg` (the vertical street-name column, rotated) and `PAGE_overview.jpg`.
@@ -28,15 +28,15 @@ spelling of values and ditto conventions exactly. Don't change that file.
 2. Read the overview once, then each L tile, each R tile and the street strip. Read each
    image once only.
 3. Only for a cell you can't read, zoom into the full-res original:
-   `python3 -I scripts/crop.py img/PAGE.jpg /tmp/z.jpg x0 y0 x1 y1 1300`
+   `python3 -I ../../scripts/crop.py img/PAGE.jpg /tmp/z.jpg x0 y0 x1 y1 1300`
    x and y are fractions of the page. Lines run from y≈0.269 (first line) to y≈0.961 (last
    line), 0.01412 per line. The house, dwelling and family number columns are at x≈0.07–0.16
    and the names at x≈0.16–0.40. Stack several zooms into one image where you can.
 4. Write `transcribed/PAGE.csv`. One row per person, all 50 lines unless some are blank.
-5. Run `python3 -I scripts/build_csv.py transcribed output`. If it prints a `CHECK` line for
+5. Run `python3 -I ../../scripts/build_csv.py bellows-falls`. If it prints a `CHECK` line for
    this page (age doesn't match birth date), look at that cell again. Fix it only if you
    misread it. If the page really says it, leave the value and explain it in `notes`. Add any
-   `UNMAPPED` birthplace to `COUNTRIES` in `scripts/build_csv.py` with its flag.
+   `UNMAPPED` birthplace to `COUNTRIES` in `../../scripts/build_csv.py` with its flag.
 
 ## How to fill each column (from the 43A example)
 - `image` = `PAGE.jpg`, `ed` = 259, `sheet` = e.g. `42B`, `line` = printed line number.
@@ -72,5 +72,5 @@ spelling of values and ditto conventions exactly. Don't change that file.
 - Anything about the layout that broke the steps above (tiles missing a line, a skewed page,
   extra columns) so the next run can be adjusted.
 
-Don't transcribe other pages. Don't change `scripts/` except to add birthplaces to
+Don't transcribe other pages. Don't change `../../scripts/` except to add birthplaces to
 `COUNTRIES`.

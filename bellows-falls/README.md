@@ -7,8 +7,9 @@ building lists everyone recorded there in the 1900 US census: name, age, sex and
 ## Layout
 
 ```
-data/   1900 census transcriptions, scripts, and built per-person / per-address outputs
-site/   the map: static HTML/CSS/JS (MapLibre) plus data/census_1900.geojson built from data/
+town.json   settings used by the shared scripts in ../scripts
+data/       1900 census transcriptions and built per-person / per-address outputs
+site/       the map: static HTML/CSS/JS (MapLibre) plus data/census_1900.geojson built from data/
 ```
 
 ## Running the site
