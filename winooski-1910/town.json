@@ -1,0 +1,58 @@
+{
+  "name": "Winooski",
+  "year": 1910,
+  "place": "Winooski village, Colchester, Chittenden Co., Vermont",
+  "eds": {
+    "76": "Winooski village, East and South Wards (south of the Central Vermont Railroad and east of Main Street)",
+    "77": "Winooski village, West Ward (north of the Central Vermont Railroad and west of Main Street)"
+  },
+  "street_examples": [
+    "Weaver",
+    "East Allen",
+    "Mallets Bay"
+  ],
+  "examples": [],
+  "layout": {
+    "free_bands": {
+      "top": 0.14,
+      "bottom": 0.99,
+      "n": 6,
+      "pad": 0.03
+    },
+    "left_x1": 0.63,
+    "right_x0": 0.52,
+    "street_x": [
+      0.02,
+      0.075
+    ],
+    "names_x": [
+      0.02,
+      0.24
+    ]
+  },
+  "street_aliases": {
+    "Malletts Bay": "Mallets Bay Avenue",
+    "Mallets Bay": "Mallets Bay Avenue",
+    "Mallette Bay": "Mallets Bay Avenue",
+    "Malletts Bay Ave": "Mallets Bay Avenue",
+    "Mallets Bay Ave": "Mallets Bay Avenue",
+    "Leclair Ave": "Leclair Avenue",
+    "Leclare": "Leclair",
+    "Lafontain": "Lafountain",
+    "Forrest": "Forest",
+    "Shephard": "Shepard"
+  },
+  "geocode": {
+    "place": "Winooski",
+    "proximity": [
+      -73.1857,
+      44.4914
+    ],
+    "bbox": [
+      -73.21,
+      44.48,
+      -73.165,
+      44.505
+    ]
+  }
+}

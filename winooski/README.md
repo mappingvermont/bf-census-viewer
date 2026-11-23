@@ -20,3 +20,7 @@ Two settings in `town.json` differ from Bellows Falls:
   scans, so the bands are padded more.
 
 The `geocode` box roughly covers today's city of Winooski.
+
+The 1900 enumerators mostly left the house-number column blank: only 62 of 3,783 people have one (14
+addresses, all in ED 76). So most 1900 households can't be geocoded, and the transcription is right to leave
+them blank. The 1910 census has house numbers; see `../winooski-1910`.

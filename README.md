@@ -1,12 +1,13 @@
-# Vermont 1900 census viewers
+# Vermont census viewers
 
-Maps of Vermont villages around 1900. Each building lists the people living there in the 1900 US census.
-Each town has its own folder with its data, settings and static site. The scripts are shared:
+Maps of Vermont villages around 1900 and 1910. Each building lists the people living there in the census.
+Each town and census year has its own folder with its data, settings and static site. The scripts are shared:
 
 ```
 scripts/         the pipeline, shared by every town (run from the repo root, town name first)
 bellows-falls/   Bellows Falls village (Rockingham, Windham Co.), ED 259, with 1896 Sanborn maps
-winooski/        Winooski village (Colchester, Chittenden Co.), EDs 75 and 76
+winooski/        Winooski village (Colchester, Chittenden Co.), 1900, EDs 75 and 76
+winooski-1910/   Winooski village, 1910, EDs 76 and 77
 ```
 
 Each town folder holds:
@@ -30,6 +31,7 @@ build_csv.py          fills dittos, checks ages, maps birthplaces to flags, writ
 geocode.py            geocodes each numbered address with the Mapbox v6 API
 build_site_data.py    builds site/data/census_1900.geojson for the map
 town.py               loads a town's town.json and its paths
+schedules.py          what differs between census years: columns, census day, prompt text for each column
 ```
 
 For example:
@@ -47,13 +49,20 @@ The scripts run with plain `python3`. They need `pillow`; `transcribe_batch.py` 
 
 ## `town.json`
 
+- `year` (optional, default 1900): the census year, 1900 or 1910. It picks the columns and prompt in
+  `scripts/schedules.py` and names the outputs (`people_1910.csv`, `census_1910.geojson`).
 - `name`, `place`: the town's name and a description of the place, used in the transcription prompt.
 - `eds`: each enumeration district number and what it covers.
 - `street_examples`: a few street names as written on the pages, shown to the model as examples.
 - `examples`: finished page CSVs (paths from the repo root) given to the model as the worked example. The
-  second is used when transcribing the first.
+  second is used when transcribing the first. It can be empty, and the prompt then has no worked example.
 - `layout` (optional): where lines 1 and 50 sit on the page (`line1`, `line50`, as fractions of page
-  height), and how many extra lines each tile band includes above and below (`overlap`). Defaults are in
+  height), how many extra lines each tile band includes above and below (`overlap`), and the columns as
+  fractions of page width: where the left tiles end (`left_x1`) and the right tiles start (`right_x0`), the
+  street column (`street_x`) and the number and name columns (`names_x`). For scans where the form sits at a
+  different height on each image (Winooski 1910), `free_bands` (`top`, `bottom`, `n`, `pad`, as fractions of
+  page height) replaces the line positions: the page is cut into `n` evenly spaced, overlapping bands, and the
+  model lines them up by the printed line numbers. Defaults are in
   `scripts/town.py`. Check a few pages' tiles with `fs_tiles.py PAGE.jpg OUT_DIR TOWN` before a batch run.
 - `street_aliases` (optional): maps a street as transcribed to the name to use for addresses and geocoding,
   for spelling variants (`"Leclare": "Leclair"`). Without a suffix, " St" is added; a name ending in a

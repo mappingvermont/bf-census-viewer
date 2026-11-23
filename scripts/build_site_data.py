@@ -1,8 +1,8 @@
-"""Build the map's GeoJSON from people_1900.csv and the geocoded addresses.
+"""Build the map's GeoJSON from people_YEAR.csv and the geocoded addresses.
 
 Usage: python3 -I scripts/build_site_data.py TOWN
 
-Reads TOWN/data/output/ and writes TOWN/site/data/census_1900.geojson.
+Reads TOWN/data/output/ and writes TOWN/site/data/census_YEAR.geojson.
 
 One feature per address. Addresses that couldn't be geocoded get a null geometry: the site
 lists them but can't pin them. `birth_counts` counts residents over 16 by birth country,
@@ -28,9 +28,9 @@ def is_adult(age):
         return False  # blank, or an infant fraction like 8/12
 
 
-def main(outdir, dst):
-    people = list(csv.DictReader(open(f"{outdir}/people_1900.csv")))
-    located = json.load(open(f"{outdir}/geocoded_1900.json"))
+def main(outdir, dst, year=1900):
+    people = list(csv.DictReader(open(f"{outdir}/people_{year}.csv")))
+    located = json.load(open(f"{outdir}/geocoded_{year}.json"))
 
     by_addr = {}
     for p in people:
@@ -83,4 +83,4 @@ def main(outdir, dst):
 if __name__ == "__main__":
     t = town.load(sys.argv[1])
     os.makedirs(t.site_data, exist_ok=True)
-    main(t.output, os.path.join(t.site_data, "census_1900.geojson"))
+    main(t.output, os.path.join(t.site_data, f"census_{t.year}.geojson"), t.year)

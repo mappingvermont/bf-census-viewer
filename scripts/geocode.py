@@ -1,8 +1,8 @@
-"""Geocode each numbered address in people_1900.csv with the Mapbox v6 forward geocoding API.
+"""Geocode each numbered address in people_YEAR.csv with the Mapbox v6 forward geocoding API.
 
 Usage: python3 -I scripts/geocode.py TOWN
 
-Reads TOWN/data/output/people_1900.csv and writes TOWN/data/output/geocoded_1900.json. The place name,
+Reads TOWN/data/output/people_YEAR.csv and writes TOWN/data/output/geocoded_YEAR.json. The place name,
 proximity point and bounding box come from the `geocode` settings in TOWN/town.json.
 
 Needs MAPBOX_ACCESS_TOKEN. The output maps address -> {lon, lat, matched, confidence} and
@@ -63,4 +63,5 @@ def main(people_csv, dst, g):
 
 if __name__ == "__main__":
     t = town.load(sys.argv[1])
-    main(os.path.join(t.output, "people_1900.csv"), os.path.join(t.output, "geocoded_1900.json"), t.geocode)
+    main(os.path.join(t.output, f"people_{t.year}.csv"), os.path.join(t.output, f"geocoded_{t.year}.json"),
+         t.geocode)

@@ -7,7 +7,7 @@ the page. A blank surname, street, house number, dwelling or family number means
 the row above" (a ditto). "^" means the value continues from the previous sheet.
 
 Output, in TOWN/data/output/:
-  people_1900.csv  one row per person, dittos filled in, plus address key, birth country,
+  people_YEAR.csv  one row per person (YEAR is the town's census year), dittos filled in, plus address key, birth country,
                    flag emoji and validation warnings
 """
 import csv
@@ -108,9 +108,9 @@ def sheet_key(path):
 
 
 def age_warning(r):
-    """Census day was 1 June 1900; age = completed years on that day."""
+    """Census day was 1 June 1900; age = completed years on that day. Only the 1900 form has a birth date."""
     try:
-        year = int(r["birth_year"])
+        year = int(r.get("birth_year", ""))
     except ValueError:
         return ""
     age_txt = r["age"]
@@ -129,7 +129,7 @@ def age_warning(r):
     return "" if ok else f"age {age} inconsistent with {r['birth_month']} {year}"
 
 
-def main(src, out, aliases=None):
+def main(src, out, aliases=None, year=1900):
     aliases = aliases or {}
     os.makedirs(out, exist_ok=True)
     files = sorted(glob.glob(os.path.join(src, "*.csv")), key=sheet_key)
@@ -141,7 +141,7 @@ def main(src, out, aliases=None):
                     r[k] = (r[k] or "").strip()
                 new_dwelling = r["dwelling"] not in ("", "^")
                 for k in FILL_DOWN:
-                    if r[k] in ("", "^"):
+                    if k in r and r[k] in ("", "^"):
                         r[k] = prev.get(k, "")
                 r["street"] = aliases.get(r["street"], r["street"])
                 # house number / dwelling belong to the dwelling: carry them only while
@@ -151,7 +151,8 @@ def main(src, out, aliases=None):
                         r["house_num"] = ""
                 else:
                     for k in ("dwelling", "dwelling_renum", "house_num"):
-                        r[k] = prev.get(k, "")
+                        if k in r:
+                            r[k] = prev.get(k, "")
                 prev = r
                 rows.append(r)
 
@@ -186,7 +187,7 @@ def main(src, out, aliases=None):
         })
 
     fields = list(people[0].keys()) if people else []
-    with open(os.path.join(out, "people_1900.csv"), "w", newline="", encoding="utf-8") as f:
+    with open(os.path.join(out, f"people_{year}.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()
         w.writerows(people)
@@ -203,4 +204,4 @@ def main(src, out, aliases=None):
 
 if __name__ == "__main__":
     t = town.load(sys.argv[1])
-    main(t.transcribed, t.output, getattr(t, "street_aliases", {}))
+    main(t.transcribed, t.output, getattr(t, "street_aliases", {}), t.year)
