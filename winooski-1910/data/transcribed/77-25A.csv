@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-25A.jpg,77,25A,1,River,27,414,414,Lavelley,G. Trefle,Head,F,W,63,Wd,,9,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Al,French,None,,,,,Yes,Yes,,R,,H,,,,,1,surname may be Lavallee; given name unclear; race written like M; children living may be 2
+77-25A.jpg,77,25A,2,River,,,,,Honorine,Daughter,F,W,24,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,4,Yes,Yes,,,,,,,,,1,given name unclear; race written like M
+77-25A.jpg,77,25A,3,River,,,,,Ernest,Son,M,W,22,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Percher,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,4,River,,,,Vilmaire,Frederick Alfred,Head,M,W,52,M1,32,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Proprietor,Liquor store,Emp,,,Yes,Yes,,O,F,H,,,,,1,no dwelling/family number written (check marks only); industry overwritten; surname may be Vilmure
+77-25A.jpg,77,25A,5,River,,,,,Octavie,Wife,F,W,53,M1,32,3,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1869,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,6,River,,,,,Ida,Daughter,F,W,26,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Sewer,Gaiter shop,W,No,2,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,7,River,,,,,Marie,Daughter,F,W,23,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Sewer,Gaiter shop,W,No,2,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,8,River,23,415,415,Dubuc,Xavier,Head,M,W,59,M1,39,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1867,Na,English,Blacksmith,Machine shop,W,No,1,Yes,Yes,,O,F,H,,,,,1,family number may be 416; surname may be Dubuque
+77-25A.jpg,77,25A,9,River,,,,,Lucy,Wife,F,W,59,M1,39,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1861,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,10,River,,,,,Albert,Son,M,W,26,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Clerk,Dry goods store,W,No,0,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,11,River,,,,,Roland,Son,M,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Shipping clerk,Woolen mill,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,12,River,,,,McGrath,Emma,Daughter,F,W,37,Wd,17,7,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Warper,Woolen mill,W,No,0,Yes,Yes,Yes,,,,,,,,1,years married 17 written for widow; school mark faint
+77-25A.jpg,77,25A,13,River,,,,,John,Son,M,W,16,S,,,,Vermont,Vermont,Vermont,,,,,,English,Clerk,Dry goods store,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,14,River,,,,,Threasa,Grandchild,F,W,14,S,,,,Vermont,Vermont,Vermont,,,,,,English,Spooler,Woolen mill,W,No,16,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,15,River,,,,,Florence,Grandchild,F,W,13,S,,,,Vermont,Vermont,Vermont,,,,,,English,Spooler,Woolen mill,W,No,29,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,16,River,,,,,Lawrence,Grandchild,M,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,17,River,,,,,Andrew,Grandchild,M,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,18,River,19,416,416,Mongeon,Alfred,Head,M,W,30,M1,10,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Refrigerator shop,W,No,2,Yes,Yes,,O,F,H,,,,,1,surname may be Mougeon
+77-25A.jpg,77,25A,19,River,,,,,Aldine,Wife,F,W,32,M1,10,2,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Alphine?)
+77-25A.jpg,77,25A,20,River,,,,,Florence,Daughter,F,W,2,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-25A.jpg,77,25A,21,River,13,417,417,Mongeon,Napoleon,Head,M,W,61,M1,38,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1856,Na,English,Carder,Woolen mill,W,No,4,Yes,Yes,,O,F,H,,,,,1,surname may be Mougeon
+77-25A.jpg,77,25A,22,River,,,,,Mary,Wife,F,W,59,M1,38,7,6,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,years married may be 31
+77-25A.jpg,77,25A,23,River,15,418,418,St. Peter,George,Head,M,W,23,M1,5,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Painter,House,W,No,8,Yes,Yes,,R,,H,,,,,1,occupation may be Carter
+77-25A.jpg,77,25A,24,River,,,,,Stella,Wife,F,W,23,M1,5,3,3,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,25,River,,,,,Arthur,Son,M,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-25A.jpg,77,25A,26,River,,,,,Ernest,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-25A.jpg,77,25A,27,River,,,,,Leo,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-25A.jpg,77,25A,28,River,11,419,419,Levee,Frederick,Head,M,W,44,M1,19,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Mason,Stone mason,W,No,,Yes,Yes,,O,F,H,,,,,0,
+77-25A.jpg,77,25A,29,River,,,,,Sophrina,Wife,F,W,44,M1,19,6,6,New York,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Josephina?)
+77-25A.jpg,77,25A,30,River,,,,,Alfreda,Daughter,F,W,17,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,31,River,,,,,Edwin,Son,M,W,15,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,32,River,,,,,Lawrence,Son,M,W,13,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,33,River,,,,,Veronica,Daughter,F,W,11,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,34,River,,,,,Bertrand,Son,M,W,9,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,35,River,,,,,Lucille,Daughter,F,W,10/12,S,,,,Vermont,Vermont,New York,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-25A.jpg,77,25A,36,River,16,420,420,Leclaire,George,Head,M,W,33,M1,11,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Water works,W,No,0,Yes,Yes,,R,,H,,,,,0,
+77-25A.jpg,77,25A,37,River,,,,,Clara,Wife,F,W,33,M1,11,4,3,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,38,River,,,,,Clarence,Son,M,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,39,River,,,,,Edward,Son,M,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,40,River,,,,,Clara,Daughter,F,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-25A.jpg,77,25A,41,River,16 1/2,421,421,Parro,Joseph Andrew,Head,M,W,29,M1,3,,,Germany,Germany,Germany,Polish,Polish,Polish,1904,Al,English,Weaver,Woolen mill,W,No,2,Yes,Yes,,R,,H,,,,,1,surname unclear (Darro?)
+77-25A.jpg,77,25A,42,River,,,,,Josepha,Wife,F,W,23,M1,3,2,2,Germany,Germany,Germany,Polish,Polish,Polish,1907,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-25A.jpg,77,25A,43,River,,,,,Emilia,Daughter,F,W,2,S,,,,Massachusetts,Germany,Germany,,Polish,Polish,,,,None,,,,,,,,,,,,,,,1,given name unclear
+77-25A.jpg,77,25A,44,River,,,,,Louise,Daughter,F,W,9/12,S,,,,Vermont,Germany,Germany,,Polish,Polish,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-25A.jpg,77,25A,45,River,20,422,422,Leclaire,Mitchel,Head,M,W,62,M1,40,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Clerk,Hardware store,W,No,0,Yes,Yes,,R,,H,,,,,0,
+77-25A.jpg,77,25A,46,River,,,,,Zoa,Wife,F,W,67,M1,40,7,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1871,,French,None,,,,,Yes,Yes,,,,,,,,,1,immigration year may be 1877
+77-25A.jpg,77,25A,47,River,,,,Miner,Melinda,Daughter,F,W,34,M1,9,1,1,Vermont,Vermont,Canada (Fr),,,French,,,English,Tucker,Screen shop,W,No,2,,,,,,,,,,,1,surname may be Minor; occupation may be Tacker
+77-25A.jpg,77,25A,48,River,,,,,Armand,Grandchild,M,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,

@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-02A.jpg,76,02A,1,Main,107,20,23,Ford,Charles S.,Head,M,W,48,M2,6,,,Vermont,Vermont,Vermont,,,,,,English,Cashier,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-02A.jpg,76,02A,2,Main,,,,,Olive G.,Wife,F,W,30,M1,6,0,0,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,3,Main,,,,Ellis,Marion,Niece,F,W,16,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,house/dwelling/family 109 20 23 written on this line and struck out
+76-02A.jpg,76,02A,4,Main,109,20,23,Epley,George,Head,M,W,34,M1,3,,,Vermont,New York,New York,,,,,,English,Druggist,Drug store,OA,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten (20 or 21); family 23 repeats line 1; ownership mark may be F
+76-02A.jpg,76,02A,5,Main,,,,,,Wife,F,W,24,M1,3,0,0,Nebraska,Iowa,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name not written
+76-02A.jpg,76,02A,6,Mansion,11,21,24,Holden,Thomas,Head,M,W,38,M1,16,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1881,Na,English,Overseer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,street reads Mansion (not on list; possibly Union)
+76-02A.jpg,76,02A,7,Mansion,,,,,Mary,Wife,F,W,34,M1,16,7,4,Ireland,Ireland,Ireland,Irish,Irish,Irish,1881,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,8,Mansion,,,,,Ester,Daughter,F,W,13,S,,,,New Hampshire,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02A.jpg,76,02A,9,Mansion,,,,,Ruth,Daughter,F,W,9,S,,,,New Hampshire,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02A.jpg,76,02A,10,Mansion,,,,,Julia,Daughter,F,W,4,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,,,,,,,,,,,0,
+76-02A.jpg,76,02A,11,Mansion,,,,Hart,May,Niece,F,W,24,S,,,,Massachusetts,Ireland,Ireland,,Irish,Irish,,,English,Sewing,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,12,Mansion,,,,Gunther,Fred,Lodger,M,W,26,S,,,,Massachusetts,Germany,Ireland,,German,Irish,,,English,Overseer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain (Gunthier?)
+76-02A.jpg,76,02A,13,Mansion,19,22,25,Stoddard,Fred,Head,M,W,31,M1,5,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-02A.jpg,76,02A,14,Mansion,,,,,Anna,Wife,F,W,30,M1,5,2,2,Vermont,Ireland,New York,,Irish,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,15,Mansion,,,,,Marion,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+76-02A.jpg,76,02A,16,Mansion,,,,,Dorothy,Daughter,F,W,6/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-02A.jpg,76,02A,17,Mansion,,,,McGrath,Patrick,Father,M,W,68,Wd,,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1844,Na,English,Finisher,Mill,W,Yes,52,Yes,Yes,,,,,,,,,1,out of work written yes over no
+76-02A.jpg,76,02A,18,Mansion,,,,Stoddard,Charles,Brother,M,W,34,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Finisher,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,19,Mansion,,,,,George,Brother,M,W,29,D,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Finisher,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,20,Mansion,23,23,26,Manseau,Hormidas,Head,M,W,59,M1,33,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,Na,English,Mason,Brick,W,No,12,Yes,Yes,,O,F,H,,,,,1,surname reading uncertain
+76-02A.jpg,76,02A,21,Mansion,,,,,Miranda,Wife,F,W,52,M1,33,11,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Mirenda
+76-02A.jpg,76,02A,22,Mansion,,,,,Stella,Daughter,F,W,21,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Sewing,Mill,W,No,10,Yes,Yes,No,,,,,,,,0,
+76-02A.jpg,76,02A,23,Mansion,,,,,Cecil,Daughter,F,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Sewing,Mill,W,No,12,Yes,Yes,No,,,,,,,,0,
+76-02A.jpg,76,02A,24,Mansion,,,,,Angelina,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Clerk,Dry goods store,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-02A.jpg,76,02A,25,Mansion,,,,Bordeau,Anna,Lodger,F,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Stenographer,Office,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-02A.jpg,76,02A,26,Mansion,47,24,27,Gadue,Philip,Head,M,W,35,M1,15,,,Vermont,Vermont,Vermont,,,,,,English,Barber,Own shop,OA,No,0,Yes,Yes,,O,M,H,,,,,1,given name unclear
+76-02A.jpg,76,02A,27,Mansion,,,,,Lydia,Wife,F,W,33,M1,15,3,3,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,28,Mansion,,,,,Hubert,Son,M,W,14,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02A.jpg,76,02A,29,Mansion,,,,,Louis A.,Son,M,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02A.jpg,76,02A,30,Mansion,,,,,Robert H.,Son,M,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02A.jpg,76,02A,31,Mansion,27,25,28,Seymour,Michael E.,Head,M,W,54,M1,25,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Carpenter,Outside,W,No,4,Yes,Yes,,O,M,H,,,,,1,house number may be 24
+76-02A.jpg,76,02A,32,Mansion,,,,,Anna,Wife,F,W,52,M1,25,5,4,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,33,Mansion,,,,,Rose M.,Daughter,F,W,24,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,34,Mansion,,,,,Hortense,Daughter,F,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-02A.jpg,76,02A,35,Mansion,30,26,29,Stanhope,Herbert,Head,M,W,36,M1,9,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1875,Na,English,Bookkeeper,Screen shop,W,No,0,Yes,Yes,,O,M,H,,,,,0,
+76-02A.jpg,76,02A,36,Mansion,,,,,Mary,Wife,F,W,32,M1,9,2,2,Vermont,England,Canada (Fr),,English,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,father birthplace corrected to England
+76-02A.jpg,76,02A,37,Mansion,,,,,Hazel,Daughter,F,W,6,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02A.jpg,76,02A,38,Mansion,,,,,Ivan,Son,M,W,11/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,1,age may be 1/12
+76-02A.jpg,76,02A,39,Mansion,36,27,30,Winans,Fredric O.,Head,M,W,53,M1,22,,,New Jersey,New York,New Jersey,,,,,,English,Minister,Church,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-02A.jpg,76,02A,40,Mansion,,,,,Emma J.,Wife,F,W,50,M1,22,2,2,New York,New York,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,41,Mansion,,,,,Susan J.,Daughter,F,W,20,S,,,,New York,New Jersey,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02A.jpg,76,02A,42,Mansion,,,,,Rodney,Son,M,W,18,S,,,,New York,New Jersey,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02A.jpg,76,02A,43,Mansion,42,28,31,Bousquet,William,Head,M,W,42,M1,17,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Mason,Brick,W,No,4,Yes,Yes,,O,M,H,,,,,0,
+76-02A.jpg,76,02A,44,Mansion,,,,,Eliza,Wife,F,W,37,M1,17,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,can write entry appears struck
+76-02A.jpg,76,02A,45,Mansion,,,,Barron,Clement,Adopted child,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+76-02A.jpg,76,02A,46,Mansion,,,,LeClaire,Hiram,Lodger,M,W,25,S,,,,Vermont,New York,New York,,,,,,English,Mason,Brick,W,No,0,Yes,Yes,,,,,,,,,1,given written Hirum
+76-02A.jpg,76,02A,47,Mansion,,,,Burton,Joseph,Lodger,M,W,26,S,,,,New York,New York,New York,,,,,,English,Mason,Brick,W,No,0,Yes,Yes,,,,,,,,,0,
+76-02A.jpg,76,02A,48,Mansion,,,,Kelley,John,Lodger,M,W,29,S,,,,Vermont,England,New York,,English,,,,English,Mason,Brick,W,No,0,Yes,Yes,,,,,,,,,0,

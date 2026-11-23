@@ -30,6 +30,11 @@ def is_adult(age):
 
 def main(outdir, dst, year=1900):
     people = list(csv.DictReader(open(f"{outdir}/people_{year}.csv")))
+    # A sheet number repeats in each ED, so towns with more than one ED label sheets "76-01B".
+    multi_ed = len({p["ed"] for p in people}) > 1
+
+    def sheet_label(p):
+        return f'{p["ed"]}-{p["sheet"]}' if multi_ed else p["sheet"]
     located = json.load(open(f"{outdir}/geocoded_{year}.json"))
 
     by_addr = {}
@@ -49,7 +54,7 @@ def main(outdir, dst, year=1900):
                 "address": addr,
                 "street": residents[0]["street"],
                 "house_num": residents[0]["house_num"],
-                "sheets": sorted({p["sheet"] for p in residents}),
+                "sheets": sorted({sheet_label(p) for p in residents}),
                 "people": len(residents),
                 "adults": len(adults),
                 "geocode_confidence": g["confidence"] if g else None,
@@ -72,7 +77,7 @@ def main(outdir, dst, year=1900):
         })
     collection = {
         "type": "FeatureCollection",
-        "sheets_transcribed": len({p["sheet"] for p in people}),
+        "sheets_transcribed": len({(p["ed"], p["sheet"]) for p in people}),
         "features": features,
     }
     json.dump(collection, open(dst, "w"), ensure_ascii=False, indent=1)

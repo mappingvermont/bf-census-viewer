@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-05A.jpg,76,05A,1,Burlington,70,72,85,Chicoine,Pierre,Head,M,W,44,M1,21,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Na,English,Carpenter,Outside,W,No,0,Yes,Yes,,O,F,H,,,,,1,street reads Burlington Street (not on the town list; unclear); surname may be Chiconne
+76-05A.jpg,76,05A,2,Burlington,,,,,Delia,Wife,F,W,46,M1,21,5,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,,French,None,,,,,No,No,,,,,,,,,0,
+76-05A.jpg,76,05A,3,Burlington,,,,,Albert,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-05A.jpg,76,05A,4,Burlington,,,,,Eveline,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-05A.jpg,76,05A,5,Burlington,,,,,Emma,Daughter,F,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,No,No,Yes,,,,,,,,1,given name partly struck through
+76-05A.jpg,76,05A,6,Burlington,,73,86,Richard,Arthur,Head,M,W,26,M1,4,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1897,Na,French,Farmer,Farm,W,No,0,Yes,Yes,,R,,H,,,,,1,house number column marked x; given name unclear
+76-05A.jpg,76,05A,7,Burlington,,,,,Elizabeth,Wife,F,W,24,M1,4,3,3,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Isabelle?); years married may be written 1
+76-05A.jpg,76,05A,8,Burlington,,,,,Alice,Daughter,F,W,3,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,0,
+76-05A.jpg,76,05A,9,Burlington,,,,,Armand,Son,M,W,2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,0,
+76-05A.jpg,76,05A,10,Burlington,,,,,Bernadette,Daughter,F,W,3/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,
+76-05A.jpg,76,05A,11,Burlington,,74,87,Bongard,Alfred,Head,M,W,29,M1,7,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,Pa,English,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,house number column marked x; surname may be Bourgard or Bouyard
+76-05A.jpg,76,05A,12,Burlington,,,,,Flore,Wife,F,W,28,M1,7,5,4,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Flora?)
+76-05A.jpg,76,05A,13,Burlington,,,,,Flora,Daughter,M,W,5,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,No,No,No,,,,,,,,1,sex written M but relation Daughter
+76-05A.jpg,76,05A,14,Burlington,,,,,Geneva,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,1,given name unclear (Generva?)
+76-05A.jpg,76,05A,15,Burlington,,,,,Maurice,Son,M,W,1 1/2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,1,age written 1½
+76-05A.jpg,76,05A,16,Burlington,,,,,Arthur,Son,M,W,7/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,
+76-05A.jpg,76,05A,17,Burlington,,,,Yandow,Louise,Mother-in-law,F,W,51,M2,,3,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,marital may be M1; surname may be Yandon
+76-05A.jpg,76,05A,18,Burlington,,75,88,Richard,Adolph,Head,M,W,57,M1,30,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,Na,French,Farmer,On farm,OA,No,0,No,No,,O,F,F,2,,,,1,house number column marked x; farm schedule 2 faint
+76-05A.jpg,76,05A,19,Burlington,,,,,Adeline,Wife,F,W,53,M1,30,10,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear; years married may be 34
+76-05A.jpg,76,05A,20,Burlington,,,,,Omer,Son,M,W,28,M1,4,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,Na,French,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-05A.jpg,76,05A,21,Burlington,,,,,Corine,Daughter-in-law,F,W,28,M1,4,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Exina?)
+76-05A.jpg,76,05A,22,Burlington,,,,,Alfred,Grandson,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+76-05A.jpg,76,05A,23,Burlington,,,,,Yvonne,Granddaughter,F,W,1 1/2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age written 1½
+76-05A.jpg,76,05A,24,Burlington,,,,,Odila,Son,M,W,24,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,Pa,French,Druggist,Store,OA,,0,Yes,Yes,,,,,,,,,1,given may be Odilon; out of work mark unclear; naturalization unclear
+76-05A.jpg,76,05A,25,Burlington,,,,,Regina,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,,French,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-05A.jpg,76,05A,26,Leclair,43,76,89,Stafford,Clarence,Head,M,W,62,M1,38,,,Vermont,Vermont,Vermont,,,,,,English,Dealer,Mills,OA,No,0,Yes,Yes,,O,F,H,,,,,1,industry unclear (Mills/Milk?)
+76-05A.jpg,76,05A,27,Leclair,,,,,Sarah,Wife,F,W,62,M1,38,4,3,Vermont,England,Vermont,,English,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-05A.jpg,76,05A,28,Leclair,,,,Frechette,George,Son-in-law,M,W,27,M1,3,,,New York,Canada (Fr),New York,,French,,,,English,Clerk,Dept. store,OA,Yes,1,Yes,Yes,,,,,,,,,1,employer class OA unclear
+76-05A.jpg,76,05A,29,Leclair,,,,,Lizzie,Daughter,F,W,24,M1,3,0,0,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-05A.jpg,76,05A,30,Leclair,,,,Stafford,Robert,Grandson,M,W,5,S,,,,Massachusetts,Vermont,Vermont,,,,,,English,None,,,,,No,No,No,,,,,,,,0,
+76-05A.jpg,76,05A,31,Leclair,61,77,90,Patenaude,Isaac,Head,M,W,58,M1,37,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1869,Na,English,Own income,,,,,Yes,Yes,,O,F,H,,,,,1,surname unclear (Petraonde?)
+76-05A.jpg,76,05A,32,Leclair,,,,,Rose,Wife,F,W,54,M1,37,9,4,Vermont,Canada (Fr),Canada (Fr),,French,French,1864,,English,None,,,,,Yes,Yes,,,,,,,,,1,immigration year 1864 written though born Vermont
+76-05A.jpg,76,05A,33,Leclair,,,,,Eugene,Son,M,W,30,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,No,,,,,,,,,1,age looks like 50 (likely 30)
+76-05A.jpg,76,05A,34,Leclair,,,,,Arthur,Son,M,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-05A.jpg,76,05A,35,Leclair,,,,Bellmore,Charles,Son-in-law,M,W,24,M1,2,,,South Dakota,Canada (Fr),Canada (Fr),,French,French,,,English,Bookkeeper,Factory,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Bellmare
+76-05A.jpg,76,05A,36,Leclair,,,,,Lydia,Daughter,F,W,20,M1,2,0,0,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,No,,,,,,,,1,mother's birthplace Vermont written over Canada
+76-05A.jpg,76,05A,37,Leclair,47,78,91,Adams,Mrs. Charles,Head,F,W,52,Wd,,8,6,Canada (Eng),England,Vermont,English,English,,1890,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,birthplaces overwritten and unclear; immigration year may be 1891; sex mark unclear
+76-05A.jpg,76,05A,38,Leclair,,,,,Arthur,Son,M,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,1,parents' tongue written Eng and French (overwritten)
+76-05A.jpg,76,05A,39,Leclair,,,,,Joseph,Son,M,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,1,parents' tongue written Eng and French (overwritten)
+76-05A.jpg,76,05A,40,Leclair,,,,,Mabel,Daughter,F,W,15,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,parents' tongue written Eng and French (overwritten)
+76-05A.jpg,76,05A,41,Leclair,34,79,92,Taylor,Anna,Head,F,W,38,S,,,,Illinois,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+76-05A.jpg,76,05A,42,Leclair,,,,,Mary,Sister,F,W,40,S,,,,Illinois,Ireland,Ireland,,Irish,Irish,,,English,Clerk,Store,W,No,10,Yes,Yes,,,,,,,,,0,
+76-05A.jpg,76,05A,43,Leclair,,,,,Madeline,Niece,F,W,14,S,,,,New Hampshire,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-05A.jpg,76,05A,44,Leclair,31,80,93,Devins,Louis,Head,M,W,44,M1,14,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Painter,House,W,No,0,Yes,Yes,,O,F,H,,,,,1,surname may be Davis or Devino
+76-05A.jpg,76,05A,45,Leclair,,,,,Catherine,Wife,F,W,44,M1,14,6,6,Vermont,England,Ireland,,English,Irish,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-05A.jpg,76,05A,46,Leclair,,,,,Irene,Daughter,F,W,13,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-05A.jpg,76,05A,47,Leclair,,,,,Ernest,Son,M,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-05A.jpg,76,05A,48,Leclair,,,,,Enola,Daughter,F,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Euola
+76-05A.jpg,76,05A,49,Leclair,,,,,Corrine,Daughter,F,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-05A.jpg,76,05A,50,Leclair,,,,,Mary,Daughter,M,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,No,No,No,,,,,,,,1,sex written M but relation Daughter

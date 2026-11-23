@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Winooski, 1910</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" />
+
+	<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" />
+	<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+	<script src="https://unpkg.com/@protomaps/basemaps@5.7.2/dist/basemaps.js"></script>
+	<script src="https://unpkg.com/pmtiles@4.4.1/dist/pmtiles.js"></script>
+
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+	<div id="map"></div>
+
+	<div id="panel">
+		<div class="panel-handle"></div>
+
+		<div id="panel-header">
+			<div class="eyebrow">1910 US Census</div>
+			<h1>Winooski, 1910</h1>
+			<p>Who lived in each house in Winooski village, Vermont. The flag on each house is the most common
+				birthplace among the people over 16 living there. Click a house to see everyone recorded in it.</p>
+		</div>
+
+		<div id="country-filter" role="group" aria-label="Filter houses by birthplace"></div>
+
+		<div id="house-list"></div>
+
+		<div id="house-detail">
+			<button id="back-button">&larr; All houses</button>
+			<div id="detail-body"></div>
+		</div>
+
+		<div id="panel-footer">
+			Census: FamilySearch, EDs 76 and 77.
+			<span id="sheets-done"></span>
+		</div>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+</html>

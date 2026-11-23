@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-11B.jpg,77,11B,51,St. Peter,102,182,182,Companion,Victor,Head,M,W,48,M1,17,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Machinist,Rail Road,W,No,0,No,No,,O,F,H,,,,,1,surname may be Companiou; immigration year looks like 1840 (impossible for age 48) - likely 1880
+77-11B.jpg,77,11B,52,St. Peter,,,,,Dolura,Wife,F,W,48,M1,17,4,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1876,,English,None,,,,,No,No,,,,,,,,,1,given name unclear (Delvina?); age may be 40; years married may be 7
+77-11B.jpg,77,11B,53,St. Peter,,,,,Dolura,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-11B.jpg,77,11B,54,St. Peter,,,,,Alphonse,Son,M,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,father and mother birthplace overwritten (Vermont corrected to Can French)
+77-11B.jpg,77,11B,55,St. Peter,,,,,Cara,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given may be Clara or Cora
+77-11B.jpg,77,11B,56,St. Peter,110,183,183,Parady,Ferdinand,Head,M,W,33,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,English,Spinner,Woolen Mills,W,No,8,Yes,Yes,,R,,H,,,,,1,surname may be Paradis or Varady
+77-11B.jpg,77,11B,57,St. Peter,,,,,Ida,Wife,F,W,26,M1,3,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,58,St. Peter,,,,,Ida,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,0,
+77-11B.jpg,77,11B,59,St. Peter,100,184,184,Ward,Napoleon,Head,M,W,51,M1,30,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,188,Na,English,Laborer,Screen Works,W,No,0,No,No,,O,F,H,,,,,1,immigration year incomplete (188-); house number may be 105
+77-11B.jpg,77,11B,60,St. Peter,,,,,Emilie,Wife,F,W,48,M1,30,20,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1881,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Ermille?)
+77-11B.jpg,77,11B,61,St. Peter,,,,,Napoleon,Son,M,W,30,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1881,,English,Weaver,Woolen Mill,W,Yes,10,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,62,St. Peter,,,,,Cyprien,Son,M,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen Works,W,No,4,Yes,Yes,Yes,,,,,,,,1,given name unclear (Exipuer?); school entry overlaps
+77-11B.jpg,77,11B,63,St. Peter,,,,,Joseph,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen Works,W,No,20,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,64,St. Peter,,,,,Sarah,Daughter,F,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Sarde
+77-11B.jpg,77,11B,65,St. Peter,,,,,Ursule,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-11B.jpg,77,11B,66,St. Peter,,,,,Rosanna,Daughter,F,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,67,St. Peter,,,,,Albertine,Daughter,F,W,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,68,St. Peter,,,,,Irene,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-11B.jpg,77,11B,69,St. Peter,92,185,185,Dubrule,John,Head,M,W,60,M1,38,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1876,Na,English,Carpenter,Screen Works,W,No,2,Yes,Yes,,O,F,H,,,,,1,surname unclear (Aubrule?)
+77-11B.jpg,77,11B,70,St. Peter,,,,,Philomene,Wife,F,W,58,M1,38,12,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1878,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,71,St. Peter,,,,,Cecile,Daughter,F,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spooler,Woolen Mills,W,No,6,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,72,St. Peter,41,186,186,Patenaude,Lucien,Head,M,W,64,M1,35,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1887,Na,English,Laborer,Screen Works,W,No,2,Yes,Yes,,O,F,H,,,,,1,house number overwritten (41 or 91)
+77-11B.jpg,77,11B,73,St. Peter,,,,,Delima,Wife,F,W,54,M1,35,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1887,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,74,St. Peter,,,,Bedard,Alfred,Boarder,M,W,46,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,Na,English,Proprietor,Grocery Store,Emp,No,0,Yes,Yes,,O,F,H,,,,,1,immigration year looks like 1845 (impossible for age 46) - likely 1885; ownership entered on boarder's row
+77-11B.jpg,77,11B,75,St. Peter,85,187,187,Hebert,Louis,Head,M,W,39,M1,19,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Woolen Mills,W,No,7,Yes,Yes,,O,F,H,,,,,0,
+77-11B.jpg,77,11B,76,St. Peter,,,,,Jane,Wife,F,W,36,M1,19,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be June; relation overwritten
+77-11B.jpg,77,11B,77,St. Peter,,,,,Henry,Son,M,W,18,S,,,,Vermont,Vermont,Vermont,,,,,,English,Spinner,Woolen Mills,W,No,2,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,78,St. Peter,81,188,188,Provost,Domina,Head,M,W,43,M1,10,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1877,Na,English,Spinner,Woolen Mills,W,No,4,Yes,Yes,,R,,H,,,,,1,given name unclear (Dominia?); marital overwritten
+77-11B.jpg,77,11B,79,St. Peter,,,,,Delima,Wife,F,W,43,M1,10,3,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,80,St. Peter,,,,,Alfred,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Doffer,Woolen Mills,W,No,0,Yes,Yes,Yes,,,,,,,,1,occupation written like Dolpher
+77-11B.jpg,77,11B,81,St. Peter,,,,,Ida,Daughter,F,W,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,82,St. Peter,,,,,Joseph,Son,M,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,83,St. Peter,69,189,189,Piche,Samuel,Head,M,W,67,M1,44,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,French,Shoemaker,Shop,OA,,,Yes,Yes,,O,F,H,,,,,1,surname reading uncertain
+77-11B.jpg,77,11B,84,St. Peter,,,,,Sarah,Wife,F,W,66,M1,44,11,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,85,St. Peter,,,,,Israel,Son,M,W,35,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Shoe maker,Shoe Shop,W,No,0,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,86,St. Peter,,,,,Sarah,Daughter,F,W,33,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,English,Proprietor,Dry Goods store,OA,,,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,87,St. Peter,,,,,Joseph,Son,M,W,27,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Proprietor,Shoe Shop,Emp,,,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,88,St. Peter,,,,,John,Son,M,W,21,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,89,St. Peter,,,,Laferrier,Elie,Head,M,W,46,M1,16,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Carpenter,House,W,No,0,Yes,Yes,,O,F,H,,,,,1,no house/dwelling/family numbers written (only tick marks); surname may be Lapierre; given name unclear
+77-11B.jpg,77,11B,90,St. Peter,,,,,Mary,Wife,F,W,40,M1,16,3,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-11B.jpg,77,11B,91,St. Peter,,,,,Louis,Son,M,W,15,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,92,St. Peter,,,,,Mary,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-11B.jpg,77,11B,93,St. Peter,61,190,190,Cerise,Louis,Head,M,W,28,M1,8,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Circler,Woolen Mills,W,No,0,Yes,Yes,,R,,H,,,,,1,surname unclear (Crise?); occupation unclear
+77-11B.jpg,77,11B,94,St. Peter,,,,,Alma,Wife,F,W,26,M1,8,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1886,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Alva
+77-11B.jpg,77,11B,95,St. Peter,,,,,Alma,Daughter,F,W,6,S,,,,New Hampshire,Vermont,Canada (Fr),,,French,,,English,None,,,,,,,Yes,,,,,,,,1,given may be Alva
+77-11B.jpg,77,11B,96,St. Peter,,,,,Emelia,Daughter,F,W,5,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,,,Yes,,,,,,,,1,given may be Amelia
+77-11B.jpg,77,11B,97,St. Peter,61 1/2,191,191,Simars,Michel,Head,M,W,81,M1,54,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1847,Na,English,None,Own Income,,,,Yes,Yes,,O,F,H,,,,,1,surname unclear (Lemars?)
+77-11B.jpg,77,11B,98,St. Peter,,,,,Aglae,Wife,F,W,71,M1,54,12,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1854,,French,None,,,,,Yes,Yes,,,,,,,,,1,given written Aglie

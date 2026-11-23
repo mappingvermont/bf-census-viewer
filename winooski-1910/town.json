@@ -7,11 +7,43 @@
     "77": "Winooski village, West Ward (north of the Central Vermont Railroad and west of Main Street)"
   },
   "street_examples": [
-    "Weaver",
+    "Main",
     "East Allen",
-    "Mallets Bay"
+    "West Allen",
+    "Mallets Bay Avenue",
+    "North",
+    "West",
+    "Weaver",
+    "Hickok",
+    "St. Peter",
+    "East Center",
+    "Spring",
+    "East Spring",
+    "West Spring",
+    "West Canal",
+    "South Main",
+    "Leclair",
+    "River",
+    "Maple",
+    "Union",
+    "Hall",
+    "Follett",
+    "East",
+    "Forest",
+    "Lafountain",
+    "Clifford",
+    "Platt",
+    "Shepard",
+    "Elm",
+    "West Lane",
+    "Stevens",
+    "Root Lane",
+    "Railroad"
   ],
-  "examples": [],
+  "examples": [
+    "winooski-1910/data/transcribed/76-01B.csv",
+    "winooski-1910/data/transcribed/77-07A.csv"
+  ],
   "layout": {
     "free_bands": {
       "top": 0.14,

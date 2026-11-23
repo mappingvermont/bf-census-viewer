@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-03A.jpg,77,03A,1,Weaver,132,36,36,Lavelly,Noah,Head,M,W,44,M1,23,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,Na,English,Spinner,Woolen mills,W,No,2,Yes,Yes,,R,,H,,,,,1,surname may be Lavalley; marital written M
+77-03A.jpg,77,03A,2,Weaver,,,,,Mary,Wife,F,W,43,M1,23,10,10,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-03A.jpg,77,03A,3,Weaver,,,,,Malvina,Daughter,F,W,22,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spooler,Woolen mills,W,No,8,Yes,Yes,,,,,,,,,1,weeks unemployed may be 0
+77-03A.jpg,77,03A,4,Weaver,,,,,R Joseph,Son,M,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Woolen mills,W,No,0,Yes,Yes,No,,,,,,,,1,school entry overwritten (Yes/No)
+77-03A.jpg,77,03A,5,Weaver,,,,,Armanda,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spooler,Woolen mills,W,No,0,Yes,Yes,No,,,,,,,,1,school entry overwritten (Yes/No)
+77-03A.jpg,77,03A,6,Weaver,,,,,Laura,Daughter,F,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,school entry overwritten (Yes/No)
+77-03A.jpg,77,03A,7,Weaver,,,,,Elisanna,Daughter,F,W,15,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spooler,Woolen mills,W,No,3,Yes,Yes,No,,,,,,,,1,given may be Elianna; school entry overwritten (Yes/No)
+77-03A.jpg,77,03A,8,Weaver,,,,,Albert,Son,M,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,9,Weaver,,,,,Beatrice,Daughter,F,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,10,Weaver,,,,,Edward,Son,M,W,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,11,Weaver,,,,,Leona,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-03A.jpg,77,03A,12,Weaver,,,,,Edmond,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-03A.jpg,77,03A,13,Weaver,137,37,37,Brigham,C Edson,Head,M,W,59,M1,27,,,Vermont,Vermont,Vermont,,French,French,,,English,Livery man,Livery stable,Emp,,,Yes,Yes,Yes,O,F,H,,,,,1,employer class written over industry (Emp?); school Yes written on adult row; ownership marks faint
+77-03A.jpg,77,03A,14,Weaver,,,,,A Ida,Wife,F,W,54,M1,27,3,3,Vermont,Vermont,Vermont,,English,English,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-03A.jpg,77,03A,15,Weaver,,,,,Harry,Son,M,W,21,S,,,,Vermont,Vermont,Vermont,,English,English,,,English,Livery man,Livery stable,W,No,0,Yes,Yes,,,,,,,,,0,
+77-03A.jpg,77,03A,16,Weaver,,,,,Clark,Son,M,W,18,S,,,,Vermont,Vermont,Vermont,,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,17,Weaver,,,,,L Madeline,Daughter,F,W,13,S,,,,Vermont,Vermont,Vermont,,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,18,Weaver,,,,Nicholson,George,Boarder,M,W,40,M1,5,,,Maine,Maine,Maine,,English,English,,,English,Dresser,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-03A.jpg,77,03A,19,Weaver,,,,,Lizzie,Boarder,F,W,25,M1,5,0,0,Maine,Maine,Maine,,English,English,,,English,Spooler,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-03A.jpg,77,03A,20,Weaver,,,,Ladue,Frank Jr.,Boarder,M,W,32,S,,,,Vermont,Vermont,Vermont,,French,French,,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-03A.jpg,77,03A,21,Weaver,,,,Grasson,Geneline,Boarder,F,W,19,S,,,,Vermont,Vermont,Vermont,,English,English,,,English,Bookkeeper,Screen works,W,No,0,Yes,Yes,,,,,,,,,1,given may be Geraldine; industry reading uncertain; mark in school column struck
+77-03A.jpg,77,03A,22,Weaver,138,38,38,Vilmaire,Cordialla Mrs.,Head,F,W,65,Wd,,7,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,,French,None,,,,,Yes,Yes,,O,F,H,,,,,1,house number may be 136; surname may be Villemaire
+77-03A.jpg,77,03A,23,Weaver,,,,,Agusta,Daughter,F,W,34,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Sewer,Factory,W,No,0,Yes,Yes,,,,,,,,,1,occupation and industry faint (Sewer? Factory?)
+77-03A.jpg,77,03A,24,Weaver,,,,,Henry,Son,M,W,29,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Painter,,OA,,12,Yes,Yes,,,,,,,,,1,out of work column written M (unclear)
+77-03A.jpg,77,03A,25,Weaver,,,,,Nellie,Daughter,F,W,24,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spooler,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-03A.jpg,77,03A,26,Weaver,146,39,39,Blondin,George,Head,M,W,28,M1,7,,,Vermont,Vermont,Vermont,,French,French,,,English,Mail carrier,,W,No,0,Yes,Yes,,O,M,H,,,,,0,
+77-03A.jpg,77,03A,27,Weaver,,,,,Anna,Wife,F,W,26,M1,7,5,3,Vermont,Vermont,Vermont,,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Alma
+77-03A.jpg,77,03A,28,Weaver,,,,,Raymond,Son,M,W,7,S,,,,Vermont,Vermont,Vermont,,French,French,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,29,Weaver,,,,,Irene,Daughter,F,W,5,S,,,,Vermont,Vermont,Vermont,,French,French,,,English,None,,,,,,,,,,,,,,,1,given may be Orlene/Arlene
+77-03A.jpg,77,03A,30,Weaver,,,,,Gerrald,Son,M,W,1 1/2,S,,,,Vermont,Vermont,Vermont,,French,French,,,,None,,,,,,,,,,,,,,,0,
+77-03A.jpg,77,03A,31,Weaver,,,,Brow,Henry,Boarder,M,W,38,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Brown
+77-03A.jpg,77,03A,32,Weaver,156,40,40,Rogers,Joseph,Head,M,W,56,M1,33,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1871,Al,English,Carpenter,Champlain shop,W,No,0,Yes,Yes,,O,F,H,,,,,1,immigration year may be 1881
+77-03A.jpg,77,03A,33,Weaver,,,,,T Helen,Wife,F,W,54,M1,33,11,8,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,initial before Helen unclear
+77-03A.jpg,77,03A,34,Weaver,,,,Feeney,Mammie,Daughter,F,W,19,M1,2,1,1,Vermont,Canada (Fr),Vermont,,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,35,Weaver,,,,Rogers,Alfred,Son,M,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,36,Weaver,,,,,Oliver,Son,M,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,37,Weaver,,,,Feeney,Austin,Grandchild,M,W,1 1/2,S,,,,Vermont,Vermont,Vermont,,French,French,,,,None,,,,,,,,,,,,,,,0,
+77-03A.jpg,77,03A,38,Weaver,,,,Feeney,Louise Mary,Grandchild,F,W,1/12,S,,,,New Hampshire,Vermont,Vermont,,French,French,,,,None,,,,,,,,,,,,,,,0,
+77-03A.jpg,77,03A,39,Weaver,151,41,41,Desautels,Joseph,Head,M,W,59,M1,35,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1867,Na,English,Carpenter,,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+77-03A.jpg,77,03A,40,Weaver,,,,,Lodella,Wife,F,W,54,M1,35,7,6,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Lodilla/Rodella
+77-03A.jpg,77,03A,41,Weaver,,,,,Lucresia,Daughter,F,W,26,S,,,,Vermont,Canada (Fr),Vermont,,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given unclear (Mecresia?)
+77-03A.jpg,77,03A,42,Weaver,,,,,Irene,Daughter,F,W,14,S,,,,Vermont,Canada (Fr),Vermont,,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,43,Weaver,,,,,Labella,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Isabella
+77-03A.jpg,77,03A,44,Weaver,,,,,Frederick Alfred,Son,M,W,10,S,,,,Vermont,Canada (Fr),Vermont,,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-03A.jpg,77,03A,45,Weaver,,,,Provost,Gerald,Grandchild,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,surname written Proovost
+77-03A.jpg,77,03A,46,Weaver,155,42,42,Duval,Vincent,Head,M,W,83,M2,,4,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,Na,French,None,,,,,Yes,Yes,,O,F,H,,,,,1,children born/living 4 3 written on male head's row; years married blank
+77-03A.jpg,77,03A,47,Weaver,,,,,Mary,Wife,F,W,66,M1,16,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,French,None,,,,,Yes,Yes,,,,,,,,,1,marital written M (M1?)
+77-03A.jpg,77,03A,48,Weaver,49,,,,,,,,,,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Clerk,Drug store,W,No,0,Yes,Yes,,R,,H,,,,,1,name and personal columns erased/illegible; ownership marks struck
+77-03A.jpg,77,03A,49,Weaver,,,,,,,,,,,,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,name and personal columns erased/illegible
+77-03A.jpg,77,03A,50,Weaver,,,,,,,,,,,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,name and personal columns erased/illegible

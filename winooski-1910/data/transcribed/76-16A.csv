@@ -1,0 +1,43 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-16A.jpg,76,16A,1,Main,5,208,262,Hurlbutt,Harley,Head,M,W,34,M1,14,,,New Hampshire,New Hampshire,New Hampshire,,,,,,English,Shipping clerk,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-16A.jpg,76,16A,2,Main,,,,,Minnie E.,Wife,F,W,40,M1,14,0,0,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-16A.jpg,76,16A,3,Main,,,,Winslow,George,Lodger,M,W,24,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-16A.jpg,76,16A,4,Main,,,,Fitzgerald,Edward,Lodger,M,W,28,S,,,,New Hampshire,Vermont,Vermont,,,,,,English,Carder,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-16A.jpg,76,16A,5,Main,9,209,263,St. Germain,Joseph,Head,M,W,34,M1,11,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Physician,Medical,OA,No,0,Yes,Yes,,R,,H,,,,,0,
+76-16A.jpg,76,16A,6,Main,,,,,Josephine,Wife,F,W,34,M1,11,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-16A.jpg,76,16A,7,Main,,,,,Lucienne,Daughter,F,W,10,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-16A.jpg,76,16A,8,Main,,,,Bourgois,Alice,Servant,F,W,15,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,Housework,At home,W,No,0,Yes,Yes,No,,,,,,,,1,employer class overwritten
+76-16A.jpg,76,16A,9,Main,21,210,264,Lavalee,John B.,Head,M,W,45,M1,24,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Hotel keeper,Hotel,Emp,No,0,Yes,Yes,,O,M,H,,,,,1,dwelling may read 200; employer class overwritten (OA struck); surname may be Lavallee
+76-16A.jpg,76,16A,10,Main,,,,,Philomene,Wife,F,W,55,M2,24,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Philiman
+76-16A.jpg,76,16A,11,Main,,,,Ready,Donald,Grandson,M,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,0,
+76-16A.jpg,76,16A,12,Main,,,,,James,Son-in-law,M,W,34,M1,7,,,Vermont,Vermont,Vermont,,,,,,English,Mail carrier,U.S. Gov.,W,No,0,Yes,Yes,,R,,,,,,,1,R written in ownership column on this row
+76-16A.jpg,76,16A,13,Main,,,,,Annie,Daughter,F,W,26,M1,7,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,relation may read Daughter-in-law
+76-16A.jpg,76,16A,14,Main,,,,Yandow,John,Lodger,M,W,33,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Pool trainer,Pool room,OA,No,0,Yes,Yes,,,,,,,,,1,occupation unclear (Pool trainer?)
+76-16A.jpg,76,16A,15,Main,,,,Ingham,John,Lodger,M,W,38,M1,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Boss dyer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-16A.jpg,76,16A,16,Main,,,,Wright,Albert,Lodger,M,W,21,S,,,,Massachusetts,Massachusetts,Canada (Eng),,,English,,,English,Steam fitter,Mill,W,No,0,Yes,Yes,,,,,,,,,1,mother birthplace Canada Eng written over struck entry
+76-16A.jpg,76,16A,17,Main,,,,Warden,Elijah,Lodger,M,W,31,S,,,,Alabama,Georgia,Georgia,,,,,,English,Carpenter,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint (Warden?)
+76-16A.jpg,76,16A,18,Main,,,,Wall,Edward,Lodger,M,W,36,S,,,,Massachusetts,Ireland,Ireland,,Irish,Irish,,,English,Overseer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint (Wall/Woll?)
+76-16A.jpg,76,16A,19,Main,,,,Clough,Harold,Lodger,M,W,25,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Mender,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given may be Howard; occupation unclear
+76-16A.jpg,76,16A,20,Main,,,,Murphy,John,Lodger,M,W,23,S,,,,Massachusetts,Ireland,Ireland,,Irish,Irish,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-16A.jpg,76,16A,28,Main,25,211,265,Harvey,Harry F.,Head,M,W,35,M1,8,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Cutter,Overall factory,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling may read 201; industry unclear
+76-16A.jpg,76,16A,29,Main,,,,,Katherine,Wife,F,W,30,M1,8,2,2,Canada (Eng),Canada (Eng),Canada (Eng),English,English,English,1900,,English,None,,,,,Yes,Yes,,,,,,,,,1,Prince Ed. Island struck and Canada Eng written
+76-16A.jpg,76,16A,30,Main,,,,,Katherine,Daughter,F,W,10,S,,,,Massachusetts,Massachusetts,Canada (Eng),,,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-16A.jpg,76,16A,31,Main,,,,,Edward,Son,M,W,7,S,,,,Massachusetts,Massachusetts,Canada (Eng),,,English,,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-16A.jpg,76,16A,32,Main,25,,266,Steer,Charles,Head,M,W,50,Wd,,,,New York,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out; surname may be Stier; ownership marks unclear
+76-16A.jpg,76,16A,33,Main,34,212,267,Scott,William,Head,M,B,28,S,,,,Tennessee,Tennessee,Tennessee,,,,,,English,Soldier,U.S. Army,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number unclear (may read 201); ownership mark unclear
+76-16A.jpg,76,16A,34,Main,45,213,268,Fitch,Benjamin,Head,M,W,50,Wd,,,,Michigan,Michigan,Michigan,,,,,,English,Foreman,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number unclear (may read 202)
+76-16A.jpg,76,16A,35,Main,,,,Deyette,Mabel,Servant,F,W,25,Wd,,,,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-16A.jpg,76,16A,36,Main,,,,,Earl,Son of above,M,W,6,S,,,,Vermont,New York,New York,,,,,,,None,,,,,No,No,No,,,,,,,,0,
+76-16A.jpg,76,16A,37,Main,45,,269,Beta,Samuel,Head,M,W,28,M1,3,,,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1910,Al,Jewish,Laborer,Mill,W,No,5,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out; surname unclear (Betä)
+76-16A.jpg,76,16A,38,Main,,,,,Cecil,Wife,F,W,28,M1,3,2,2,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1910,,Jewish,None,,,,,Yes,Yes,,,,,,,,,1,given may be Cecile
+76-16A.jpg,76,16A,39,Main,,,,,Aleck,Son,M,W,2,S,,,,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1910,,,None,,,,,,,,,,,,,,,1,given may be Alek
+76-16A.jpg,76,16A,40,Main,,,,,Saul,Son,M,W,10/12,S,,,,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1910,,,None,,,,,,,,,,,,,,,0,
+76-16A.jpg,76,16A,41,Main,45,,270,Bloomenthal,Jake,Head,M,W,30,S,,,,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1910,,Jewish,Grocer,Store,OA,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out
+76-16A.jpg,76,16A,42,Main,,,,,Mary,Sister,F,W,24,S,,,,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1910,,Jewish,None,,,,,Yes,Yes,,,,,,,,,0,
+76-16A.jpg,76,16A,43,Main,45,,271,Polk,John,Head,M,B,26,M1,3,,,Pennsylvania,Pennsylvania,Pennsylvania,,,,,,English,Soldier,U.S. Army,W,No,10,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out
+76-16A.jpg,76,16A,44,Main,,,,Williams,Rosanie,Lodger,F,B,24,M1,1,0,0,South Carolina,South Carolina,South Carolina,,,,,,English,Singer,Club,W,No,0,Yes,Yes,,,,,,,,,1,given unclear (Rosanie/Kisanie)
+76-16A.jpg,76,16A,45,Main,,,,,Rufus,Lodger,M,B,44,M1,1,,,Texas,Texas,Texas,,,,,,English,Restaurant,Fort Ethan Allen,W,No,0,Yes,Yes,,,,,,,,,1,house/dwelling/family numbers (44 202 27?) struck through
+76-16A.jpg,76,16A,46,Main,49,,272,Lacasse,Henry,Head,M,W,46,M1,17,,,New York,Canada (Fr),Massachusetts,,French,,,,French,Carder,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out; surname may be Gacasse
+76-16A.jpg,76,16A,47,Main,,,,,Edith,Wife,F,W,36,M1,17,1,0,Canada (Eng),Canada (Eng),Canada (Eng),English,English,English,,,French,None,,,,,Yes,Yes,,,,,,,,,1,Nova Scotia struck and Can English written in birthplaces
+76-16A.jpg,76,16A,48,Main,,,,,Helen,Adopted daughter,F,W,5,S,,,,Vermont,Scotland,Pennsylvania,,Scotch,,,,,None,,,,,,,,,,,,,,,1,mother birthplace smudged
+76-16A.jpg,76,16A,49,Main,,,,,Eva,Adopted daughter,F,W,16,S,,,,New Hampshire,Massachusetts,Massachusetts,,,,,,French,Sewing,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,

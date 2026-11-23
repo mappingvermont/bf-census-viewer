@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-18B.jpg,77,18B,51,Shepard,95,355,355,Wunderl,Anthony,Head,M,W,55,M1,27,,,Germany,Germany,Germany,German,German,German,1883,Al,English,Laborer,Farm,W,No,0,Yes,Yes,,O,F,H,,,,,1,house number faint (may be 25 or 75); dwelling/family numbers faint (read 355); surname may be Wunderlich
+77-18B.jpg,77,18B,52,Shepard,,,,,Elizabeth,Wife,F,W,45,M1,27,10,8,Germany,Germany,Germany,German,German,German,1883,,English,None,,,,,Yes,Yes,,,,,,,,,1,given written Elizabette
+77-18B.jpg,77,18B,53,Shepard,,,,,Daniel,Son,M,W,22,S,,,,Vermont,Germany,Germany,,German,German,,,English,Laborer,Farm,W,Yes,4,Yes,Yes,,,,,,,,,0,
+77-18B.jpg,77,18B,54,Shepard,,,,,Joseph,Son,M,W,21,S,,,,Vermont,Germany,Germany,,German,German,,,English,Laborer,Woolen mill,W,No,1,Yes,Yes,,,,,,,,,0,
+77-18B.jpg,77,18B,55,Shepard,,,,,Mary,Daughter,F,W,17,S,,,,Vermont,Germany,Germany,,German,German,,,English,Packer,Screen shop,W,No,2,Yes,Yes,No,,,,,,,,1,school entry unclear (No or Yes)
+77-18B.jpg,77,18B,56,Shepard,,,,,Grace,Daughter,F,W,19,S,,,,Vermont,Germany,Germany,,German,German,,,English,Servant,Private house,W,Yes,2,Yes,Yes,Yes,,,,,,,,1,age may be 14; school entry unclear
+77-18B.jpg,77,18B,57,Shepard,,,,,George,Son,M,W,16,S,,,,Vermont,Germany,Germany,,German,German,,,English,Laborer,Screen shop,W,Yes,2,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-18B.jpg,77,18B,58,Shepard,,,,,Alexander,Son,M,W,13,S,,,,Vermont,Germany,Germany,,German,German,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,59,Shepard,,,,,Frederick,Son,M,W,10,S,,,,Vermont,Germany,Germany,,German,German,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,60,Shepard,23,356,356,Bedard,Peter,Head,M,W,55,M1,29,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1886,Na,English,Laborer,Woolen mill,W,No,0,Yes,Yes,,O,M,H,,,,,1,surname may be Vedard
+77-18B.jpg,77,18B,61,Shepard,,,,,Emma,Wife,F,W,46,M1,29,16,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1886,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-18B.jpg,77,18B,62,Shepard,,,,,Wilbur,Son,M,W,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Willubus?)
+77-18B.jpg,77,18B,63,Shepard,,,,,Yvonne,Daughter,F,W,10,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,64,Shepard,,,,,Olivia,Daughter,F,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given may be Olina
+77-18B.jpg,77,18B,65,Shepard,,,,,Josephine,Daughter,F,W,1/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,infant age fraction unclear (may be 1/2)
+77-18B.jpg,77,18B,66,Shepard,24,357,357,Provost,E. Frank,Head,M,W,40,M1,19,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen shop,W,No,2,Yes,Yes,,O,F,H,,,,,1,surname may be Trovost
+77-18B.jpg,77,18B,67,Shepard,,,,,Mary,Wife,F,W,37,M1,19,6,6,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-18B.jpg,77,18B,68,Shepard,,,,,Alfred,Son,M,W,18,S,,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Screen shop,W,No,0,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-18B.jpg,77,18B,69,Shepard,,,,,Albert,Son,M,W,16,S,,,,Vermont,Vermont,Vermont,,,,,,English,Packer,Screen shop,W,No,2,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-18B.jpg,77,18B,70,Shepard,,,,,Florence,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,71,Shepard,,,,,Isabelle,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,72,Shepard,,,,,Yvonne,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-18B.jpg,77,18B,73,Shepard,,,,,Madeline,Daughter,F,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,infant age fraction unclear (may be 1/2)
+77-18B.jpg,77,18B,74,Shepard,28,358,358,Myers,George,Head,M,W,63,M2,27,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+77-18B.jpg,77,18B,75,Shepard,,,,,Anna,Wife,F,W,,M2,27,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,age partly illegible (begins with 5)
+77-18B.jpg,77,18B,76,Shepard,22,359,359,Barney,Isadore,Head,M,W,34,M1,12,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Cotton mill,W,No,12,Yes,Yes,,,,,,,,,1,dwelling/family may read 364; ownership columns blank or illegible
+77-18B.jpg,77,18B,77,Shepard,,,,,Emma,Wife,F,W,33,M1,12,5,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-18B.jpg,77,18B,78,Shepard,,,,,Frederick,Son,M,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,79,Shepard,,,,,Edward,Son,M,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,1,age may be 8
+77-18B.jpg,77,18B,80,Shepard,,,,,Emile,Son,M,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-18B.jpg,77,18B,81,Shepard,,,,,Rosalma,Daughter,F,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-18B.jpg,77,18B,82,Shepard,,,,,Armand,Son,M,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,infant age fraction unclear
+77-18B.jpg,77,18B,83,Shepard,21,360,360,Derandeau,Adolphus,Head,M,W,53,M1,25,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,French,None,,,,,Yes,Yes,,R,,H,,,,,1,surname reading uncertain; given may be Dolfus; dwelling/family numbers faint
+77-18B.jpg,77,18B,84,Shepard,,,,,Ernestasie,Wife,F,W,43,M1,25,9,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Anastasie
+77-18B.jpg,77,18B,85,Shepard,,,,,Eva,Daughter,F,W,23,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,Spooler,Woolen mill,W,No,12,Yes,Yes,,,,,,,,,0,
+77-18B.jpg,77,18B,86,Shepard,,,,,Edward,Son,M,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,Laborer,Screen shop,W,No,22,Yes,Yes,Yes,,,,,,,,1,age may be 19; school entry unclear
+77-18B.jpg,77,18B,87,Shepard,,,,,Alde,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,Laborer,Cotton mill,W,No,10,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-18B.jpg,77,18B,88,Shepard,,,,,Yvonne,Daughter,F,W,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,89,Shepard,,,,,Laura,Daughter,F,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,90,Shepard,,,,,Philip,Son,M,W,8,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-18B.jpg,77,18B,91,Shepard,,,,,George,Son,M,W,4,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,,,,,,,,,,,0,
+77-18B.jpg,77,18B,92,Shepard,,,,,Jeannette,Daughter,F,W,2,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,,,,,,,,,,,0,
+77-18B.jpg,77,18B,93,Shepard,23,361,361,Daignault,Lucienne,Head,F,W,50,Wd,,8,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,,R,,H,,,,,1,given name unclear; dwelling/family numbers faint; ownership marks unclear
+77-18B.jpg,77,18B,94,Shepard,,,,,Eva,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Weaver,Woolen mill,W,No,1,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-18B.jpg,77,18B,95,Shepard,,,,,Leopold,Son,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Laborer,Cotton mill,W,No,2,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-18B.jpg,77,18B,96,Shepard,,,,,Armand,Son,M,W,15,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Laborer,Cotton mill,W,Yes,7,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-18B.jpg,77,18B,97,Shepard,,,,,Rosa,Daughter,F,W,13,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-18B.jpg,77,18B,98,Shepard,,,,Bouchard,Florida,Boarder,F,W,15,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Spooler,Woolen mill,W,No,21,Yes,Yes,Yes,,,,,,,,1,surname may be Boudard; school entry unclear
+77-18B.jpg,77,18B,99,Shepard,,,,,Agnes,Boarder,F,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Spooler,Woolen mill,W,No,18,Yes,Yes,Yes,,,,,,,,1,school entry unclear

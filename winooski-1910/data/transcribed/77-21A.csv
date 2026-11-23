@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-21A.jpg,77,21A,1,Hickok,16,343,343,Gainsom,John,Head,M,W,76,M1,47,,,Ireland,Ireland,Ireland,English,English,English,1851,Na,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,street name written faintly (read as Hickok); surname may be Jamison; immigration year may be 1857
+77-21A.jpg,77,21A,2,Hickok,,,,,Mary,Wife,F,W,74,M1,47,8,4,Ireland,Ireland,Ireland,English,English,English,1860,,English,None,,,,,No,No,,,,,,,,,1,read/write entries faint
+77-21A.jpg,77,21A,3,Hickok,,,,,Mary,Daughter,F,W,35,S,,,,Vermont,Ireland,Ireland,,English,English,,,English,Bookkeeper,Machine shop,W,No,0,Yes,Yes,,,,,,,,,0,
+77-21A.jpg,77,21A,4,Hickok,34,344,344,Viens,William,Head,M,W,38,M1,14,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Plumber,House,W,No,0,Yes,Yes,,R,,H,,,,,1,surname faint (Viens/Vienne); industry faint; ownership mark unclear
+77-21A.jpg,77,21A,5,Hickok,,,,,Lena,Wife,F,W,37,M1,14,8,7,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given faint; age may be 35
+77-21A.jpg,77,21A,6,Hickok,,,,,Aurore,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,7,Hickok,,,,,Edilbert,Son,M,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,8,Hickok,,,,,Edna,Daughter,F,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,9,Hickok,,,,,Cecile,Daughter,F,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,10,Hickok,,,,,Etta,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,No,,Yes,,,,,,,,1,can read entry faint
+77-21A.jpg,77,21A,11,Hickok,,,,,Eguilda,Daughter,F,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,1,given may be Exilda
+77-21A.jpg,77,21A,12,Hickok,,,,,Elina,Daughter,F,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,given may be Elvina
+77-21A.jpg,77,21A,13,Hickok,41,345,345,Mangeon,Thomas,Head,M,W,72,M1,24,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1860,Na,English,Proprietor,Grocery store,Emp,,,Yes,Yes,,O,M,H,,,,,1,surname may be Mongeon; immigration year last digit unclear; out of work cell has a W-like mark
+77-21A.jpg,77,21A,14,Hickok,,,,,Delima,Wife,F,W,57,M1,24,8,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Selima
+77-21A.jpg,77,21A,15,Hickok,,,,,Philip,Son,M,W,23,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Clerk,Grocery store,W,No,0,Yes,Yes,,,,,,,,,0,
+77-21A.jpg,77,21A,16,Hickok,,,,,August,Son,M,W,22,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Proprietor,Meat market,Emp,No,,Yes,Yes,,,,,,,,,0,
+77-21A.jpg,77,21A,17,Hickok,,,,,Grazella,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,18,Hickok,,,,Blair,Oscar,Brother-in-law,M,W,55,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1875,Na,English,Laborer,Screw shop,W,Yes,24,No,No,,,,,,,,,1,immigration year faint
+77-21A.jpg,77,21A,19,Hickok,47a,346,346,Weevis,Frank,Head,M,W,30,M1,1,,,Porto Rico,Porto Rico,Porto Rico,,,,,,English,Soldier,Army,W,,,Yes,Yes,,R,,H,,,,,1,surname may be Weaver; house number may be 47 1/2
+77-21A.jpg,77,21A,20,Hickok,,,,,Emma,Wife,F,W,36,M1,1,,,Vermont,Canada (Eng),Canada (Fr),,English,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-21A.jpg,77,21A,21,Hickok,47,347,347,Simmons,William,Head,M,W,24,M1,1,,,Kentucky,Kentucky,Kentucky,,,,,,English,Soldier,Army,W,,,Yes,Yes,,R,,H,,,,,1,surname may be Summons; ownership marks faint
+77-21A.jpg,77,21A,22,Hickok,,,,,Lena,Wife,F,W,21,M1,1,0,0,Kentucky,,,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given faint
+77-21A.jpg,77,21A,23,Hickok,47,348,348,Aufont,Joseph,Head,M,W,25,M1,4,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,French,Painter,Screw shop,W,No,24,Yes,Yes,,R,,H,,,,,1,surname may be Dupont; weeks may be 34; house number may be 49
+77-21A.jpg,77,21A,24,Hickok,,,,,Clara,Wife,F,W,19,M1,4,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Cluna/Elina
+77-21A.jpg,77,21A,25,Hickok,,,,,Raymond,Son,M,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-21A.jpg,77,21A,26,Hickok,,,,,Ida,Daughter,F,W,1/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age fraction may be 1/2
+77-21A.jpg,77,21A,27,Hickok,51,349,349,Pinchaud,Joseph,Head,M,W,40,M1,5,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Painter,House,W,No,10,Yes,Yes,,R,,H,,,,,1,surname unclear (Pruchaud/Bouchard?); marital may be M2
+77-21A.jpg,77,21A,28,Hickok,,,,,Josephine,Wife,F,W,48,M1,5,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1860,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-21A.jpg,77,21A,29,Hickok,59,350,350,Desautels,Henry,Head,M,W,33,M1,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Proprietor,Liquor store,Emp,No,,Yes,Yes,,R,,H,,,,,1,house number may be 54; years married not legible
+77-21A.jpg,77,21A,30,Hickok,,,,,Rose,Wife,F,W,30,M2,1,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,marital may be M1
+77-21A.jpg,77,21A,31,Hickok,,,,,Robert,Son,M,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction may be 1/2
+77-21A.jpg,77,21A,32,Hickok,60,351,351,Toutant,Joseph,Head,M,W,33,M1,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1902,Al,English,Clerk,Liquor store,W,No,0,Yes,Yes,,R,,H,,,,,1,house number faint
+77-21A.jpg,77,21A,33,Hickok,,,,,Alpha,Wife,F,W,24,M1,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Elphia; age may be 29
+77-21A.jpg,77,21A,34,Hickok,,,,,Harrison,Son,M,W,7,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,35,Hickok,,,,,Arthur,Son,M,W,6,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,36,Hickok,63,352,352,Desautels,Arthur,Head,M,W,41,M1,19,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Proprietor,Grocery store,Emp,,,Yes,Yes,,O,F,H,,,,,0,
+77-21A.jpg,77,21A,37,Hickok,,,,,Mary,Wife,F,W,40,M1,19,11,8,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-21A.jpg,77,21A,38,Hickok,,,,,Oswald,Son,M,W,18,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,39,Hickok,,,,,Priscilla,Daughter,F,W,17,S,,,,Vermont,Vermont,New York,,,,,,English,Sewer,Gates shop,W,No,10,Yes,Yes,Yes,,,,,,,,1,industry unclear (Garter shop?)
+77-21A.jpg,77,21A,40,Hickok,,,,,Everett,Son,M,W,14,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,41,Hickok,,,,,Bertha,Daughter,F,W,12,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,42,Hickok,,,,,Armanda,Daughter,F,W,11,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,43,Hickok,,,,,Gertrude,Daughter,F,W,9,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,44,Hickok,,,,,Irene,Daughter,F,W,8,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,45,Hickok,,,,,Arthur Jr.,Son,M,W,7/12,S,,,,Vermont,Vermont,New York,,,,,,,None,,,,,,,,,,,,,,,0,
+77-21A.jpg,77,21A,46,Hickok,71,353,353,Leboeuf,Simon,Head,M,W,49,M1,27,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1875,Al,French,Laborer,Woolen mill,W,No,24,Yes,Yes,,O,F,H,,,,,0,
+77-21A.jpg,77,21A,47,Hickok,,,,,Mary,Wife,F,W,47,M1,27,3,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-21A.jpg,77,21A,48,Hickok,,,,,Flora,Daughter,F,W,20,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Weaver,Woolen mill,W,No,8,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,49,Hickok,,,,,Albert,Son,M,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Spinner,Woolen mill,W,No,6,Yes,Yes,Yes,,,,,,,,0,
+77-21A.jpg,77,21A,50,Hickok,,,,,Anselme,Son,M,W,15,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Screw shop,W,Yes,40,Yes,Yes,Yes,,,,,,,,0,

@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-22A.jpg,77,22A,1,Elm,185,359,359,Bilo,Theophile,Head,M,W,43,M1,23,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,French,Laborer,Woolen mill,W,No,10,No,No,,R,,H,,,,,1,street name written once beside lines 18-25 (Elm Street) and applied to whole page; house number may be 165; surname unclear (Bilie? Bido?)
+77-22A.jpg,77,22A,2,Elm,,,,,Celemay,Wife,F,W,40,M1,23,15,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Celenay?)
+77-22A.jpg,77,22A,3,Elm,,,,,Eilina,Daughter,F,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Sewer,Woolen mill,W,No,2,Yes,Yes,Yes,,,,,,,,1,given name unclear (Emilina?)
+77-22A.jpg,77,22A,4,Elm,,,,,Clodia,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Spooler,Woolen mill,W,No,9,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,5,Elm,,,,,Gardina,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Tucker,Screen shop,W,No,4,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-22A.jpg,77,22A,6,Elm,,,,,Alphonse,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Tacker,Screen shop,W,No,10,Yes,Yes,Yes,,,,,,,,1,occupation may be Tucker
+77-22A.jpg,77,22A,7,Elm,,,,,Albert,Son,M,W,15,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,8,Elm,,,,,Validore,Son,M,W,13,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear; immigration year written over (1906?)
+77-22A.jpg,77,22A,9,Elm,,,,,Rosa,Daughter,F,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,10,Elm,,,,,Cecile,Daughter,F,W,9/12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,,None,,,,,,,,,,,,,,,1,age written 9/2 (read as 9/12)
+77-22A.jpg,77,22A,11,Elm,97,360,360,Myers,Joseph,Head,M,W,53,M1,29,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Mason,Stone mason,W,No,10,Yes,Yes,,O,F,H,,,,,0,
+77-22A.jpg,77,22A,12,Elm,,,,,Bridget,Wife,F,W,50,M1,29,5,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-22A.jpg,77,22A,13,Elm,,,,,Tordy,Son,M,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Toady?)
+77-22A.jpg,77,22A,14,Elm,48,361,361,Savara,Camille,Head,M,W,53,M1,28,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1873,Na,English,Spinner,Woolen mill,W,No,0,Yes,Yes,,O,F,H,,,,,1,surname may be Savard
+77-22A.jpg,77,22A,15,Elm,,,,,Estelle,Wife,F,W,45,M1,28,7,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-22A.jpg,77,22A,16,Elm,,,,,Armance,Son,M,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen shop,W,No,10,Yes,Yes,Yes,,,,,,,,1,given name unclear (Armand?)
+77-22A.jpg,77,22A,17,Elm,54,362,362,Cumbel,Daniel,Head,M,W,33,M1,12,,,New York,Ireland,Ireland,,English,English,,,English,Motorman,Street railway,W,No,13,Yes,Yes,,O,F,H,,,,,1,surname may be Campbell
+77-22A.jpg,77,22A,18,Elm,,,,,Sarah,Wife,F,W,31,M1,12,7,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-22A.jpg,77,22A,19,Elm,,,,,Ferdinand,Son,M,W,11,S,,,,Vermont,New York,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,20,Elm,,,,,Charles,Son,M,W,10,S,,,,Vermont,New York,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,21,Elm,,,,,Daniel Jr,Son,M,W,7,S,,,,Vermont,New York,Canada (Fr),,,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,22,Elm,,,,,Robert,Son,M,W,4,S,,,,Vermont,New York,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-22A.jpg,77,22A,23,Elm,,,,,Monica,Daughter,F,W,3,S,,,,Vermont,New York,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-22A.jpg,77,22A,24,Elm,,,,,Gertrude,Daughter,F,W,,S,,,,Vermont,New York,Canada (Fr),,,French,,,,None,,,,,,,,,,,,,,,1,age written as an X-like mark (possibly 1)
+77-22A.jpg,77,22A,25,Elm,58,363,363,Berger,Cyril,Head,M,W,34,M1,12,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,Na,English,Spinner,Cotton mill,W,No,2,Yes,Yes,,O,M,H,,,,,1,surname unclear (Beiger?); given name unclear (Ceil?)
+77-22A.jpg,77,22A,26,Elm,,,,,Fredeleine,Wife,F,W,34,M1,12,9,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,,French,Dresser,Woolen mill,W,No,30,Yes,Yes,,,,,,,,,1,given name unclear (Frederica?)
+77-22A.jpg,77,22A,27,Elm,,,,,Albert,Son,M,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,28,Elm,,,,,Elsear,Son,M,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Elzear; age may be 10
+77-22A.jpg,77,22A,29,Elm,,,,,Irene,Daughter,F,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,30,Elm,,,,,Artense,Daughter,F,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,1,given may be Hortense
+77-22A.jpg,77,22A,31,Elm,,,,,Yvonne,Daughter,F,W,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,32,Elm,,,,,Germaine,Daughter,F,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-22A.jpg,77,22A,33,Elm,65,364,364,Matte,Edward,Head,M,W,64,M1,42,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,Pa,French,Laborer,Screen shop,W,No,8,Yes,Yes,,O,F,H,,,,,0,
+77-22A.jpg,77,22A,34,Elm,,,,,Celina,Wife,F,W,66,M1,42,11,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-22A.jpg,77,22A,35,Elm,99,365,365,Autin,Sidney,Head,M,W,45,M1,15,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Boss spinner,Woolen mill,W,No,1,Yes,Yes,,R,,H,,,,,1,surname may be Austin
+77-22A.jpg,77,22A,36,Elm,,,,,Elizabette,Wife,F,W,37,M1,15,11,7,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-22A.jpg,77,22A,37,Elm,,,,,Clara,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Tucker,Screen shop,W,No,2,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,38,Elm,,,,,Ernest,Son,M,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,39,Elm,,,,,Irene,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,40,Elm,,,,,Lena,Daughter,F,W,10,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,41,Elm,,,,,Lucienne,Daughter,F,W,6,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,42,Elm,,,,,Theodore,Son,M,W,5,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-22A.jpg,77,22A,43,Elm,,,,,Donald,Son,M,W,2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,1,age may be 3
+77-22A.jpg,77,22A,44,Elm,53,366,366,Matte,Ferdinand,Head,M,W,37,M1,15,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,Al,English,Proprietor,Drug store,Emp,,,Yes,Yes,,O,F,H,,,,,1,immigration year overwritten (1884?)
+77-22A.jpg,77,22A,45,Elm,,,,,Orili,Wife,F,W,42,M1,15,9,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,French,Dressmaker,Home,OA,,,Yes,Yes,,,,,,,,,1,given name unclear (Orilie?)
+77-22A.jpg,77,22A,46,Elm,,,,,Mary Anga,Daughter,F,W,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Mary Ange
+77-22A.jpg,77,22A,47,Elm,,,,,Hermine,Daughter,F,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Hermide?)
+77-22A.jpg,77,22A,48,Elm,,,,,Gerard,Son,M,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,

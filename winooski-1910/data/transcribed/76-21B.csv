@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-21B.jpg,76,21B,51,East Allen,178,256,362,Sullivan,Mary,Head,F,W,66,Wd,,3,3,Ireland,Ireland,Ireland,Irish,Irish,Irish,1878,,English,None,,,,,Yes,Yes,,R,,H,,,,,1,street written Allen (East Allen assumed from ED 76); surname may be O'Sullivan; naturalization entry struck out
+76-21B.jpg,76,21B,52,East Allen,,,,,John,Son,M,W,46,M1,14,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1876,Na,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,immigration year may be 1878
+76-21B.jpg,76,21B,53,East Allen,,,,,Dorry,Daughter-in-law,F,W,42,M1,14,2,2,Ireland,Ireland,Ireland,Irish,Irish,Irish,1840,,,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Dora? Mary?); immigration year reads 1840 (implausible for age; maybe 1890)
+76-21B.jpg,76,21B,54,East Allen,,,,,Angela,Granddaughter,F,W,13,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+76-21B.jpg,76,21B,55,East Allen,,,,,Nora,Granddaughter,F,W,10,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,56,East Allen,186,257,363,Cowey,Charles,Head,M,W,63,M2,14,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1861,Na,English,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Corey; marital may be M1
+76-21B.jpg,76,21B,57,East Allen,,,,,Delia,Wife,F,W,45,M1,14,6,6,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,58,East Allen,,,,,Alice,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Spooling,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,age unclear (may be 11)
+76-21B.jpg,76,21B,59,East Allen,,,,,Israel,Son,M,W,16,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,60,East Allen,,,,,Bertha,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,61,East Allen,,,,,Joseph,Son,M,W,11,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,62,East Allen,,,,,Edward,Son,M,W,9,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,63,East Allen,,,,,Florence,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,No,No,No,,,,,,,,0,
+76-21B.jpg,76,21B,64,East Allen,148,258,364,Holleran,Martin,Head,M,W,70,Wd,,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1840,Na,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,house number may be 178
+76-21B.jpg,76,21B,65,East Allen,,,,,John,Son,M,W,35,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Druggist,Drug store,OA,No,0,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,66,East Allen,,,,,Martin,Son,M,W,34,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Perching,Mill,W,No,0,Yes,Yes,,,,,,,,,1,occupation may be Percher
+76-21B.jpg,76,21B,67,East Allen,,,,,James,Son,M,W,34,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Saloon keeper,Saloon,OA,No,0,Yes,Yes,,,,,,,,,1,age may be 32
+76-21B.jpg,76,21B,68,East Allen,148,,365,Marsh,William,Head,M,W,44,M1,6,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Shipping clerk,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number written and crossed out with X (258?)
+76-21B.jpg,76,21B,69,East Allen,,,,,Anna,Wife,F,W,35,M1,6,2,2,Vermont,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,70,East Allen,,,,,Margaret,Daughter,F,W,3,S,,,,Vermont,Massachusetts,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-21B.jpg,76,21B,71,East Allen,210,259,366,Deroche,Hubert,Head,M,W,60,M1,30,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,Na,French,Carpenter,Mill,W,No,0,Yes,Yes,,O,F,H,,,,,1,surname may be Derocher; immigration year may be 1885
+76-21B.jpg,76,21B,72,East Allen,,,,,Matilda,Wife,F,W,58,M1,30,13,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,73,East Allen,,,,,Gustave,Son,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,Na,French,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given written Gustaph
+76-21B.jpg,76,21B,74,East Allen,,,,,Annie,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Weaver,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-21B.jpg,76,21B,75,East Allen,,,,,Albina,Daughter,F,W,23,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+76-21B.jpg,76,21B,76,East Allen,,,,Giroux,Anna,Lodger,F,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-21B.jpg,76,21B,77,East Allen,,,,Lafortune,Marie,Lodger,F,W,26,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,French,Spooler,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,78,Main,236,260,367,Bousquet,Charles,Head,M,W,41,M1,10,,,Vermont,Canada (Fr),Vermont,,French,,,,French,Carpenter,Shop,W,No,0,Yes,Yes,,R,,H,,,,,1,street name unclear (read as Main); surname reading uncertain
+76-21B.jpg,76,21B,79,Main,,,,,Ida,Wife,F,W,31,M1,10,4,4,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,80,Main,,,,,Florence,Daughter,F,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,81,Main,,,,,Lawrence,Son,M,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,82,Main,,,,,Ida,Daughter,F,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,No,No,No,,,,,,,,0,
+76-21B.jpg,76,21B,83,Main,,,,,Eugene,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-21B.jpg,76,21B,84,Main,241,261,368,Luck,George,Head,M,W,43,M2,16,,,New York,New York,New York,,,,,,English,Mason,Stone,W,No,0,Yes,Yes,,R,,H,,,,,1,surname unclear (Lusk? Fisk?); marital may be M1
+76-21B.jpg,76,21B,85,Main,,,,,Maudy,Wife,F,W,37,M1,16,6,6,New York,New York,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Mandy
+76-21B.jpg,76,21B,86,Main,,,,,Alma,Daughter,F,W,14,S,,,,Vermont,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,87,Main,,,,,Arthur,Son,M,W,12,S,,,,Vermont,New York,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,88,Main,,,,,Isabeth,Daughter,F,W,9,S,,,,Vermont,New York,New York,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Isabelle/Elizabeth
+76-21B.jpg,76,21B,89,Main,,,,,Francis,Son,M,W,7,S,,,,Vermont,New York,New York,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21B.jpg,76,21B,90,Main,,,,,Paul,Son,M,W,5,S,,,,Vermont,New York,New York,,,,,,French,None,,,,,,,,,,,,,,,0,
+76-21B.jpg,76,21B,91,Main,,,,,Achille,Son,M,W,2,S,,,,Vermont,New York,New York,,,,,,,None,,,,,,,,,,,,,,,1,given name unclear
+76-21B.jpg,76,21B,92,Main,,,,Benoit,Napoleon,Lodger,M,W,37,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,Na,French,Mason,Brick,W,No,0,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,93,Main,,,,Parson,Ethan,Lodger,M,W,29,S,,,,New York,New York,Canada (Fr),,,French,,,French,Laborer,Outside,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Larson
+76-21B.jpg,76,21B,94,Main,,,,Bellaire,Alice,Lodger,F,W,17,S,,,,Vermont,New York,New York,,,,,,,None,,,,,Yes,Yes,Yes,,,,,,,,1,surname faint
+76-21B.jpg,76,21B,95,Main,217,262,369,Minns,Alfred,Head,M,W,39,M1,4,,,England,England,England,English,English,English,1891,Al,English,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Munns/Mimms
+76-21B.jpg,76,21B,96,Main,,,,,Anna,Wife,F,W,27,M1,4,0,0,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,97,Main,205,263,370,Gagnon,Jesse,Head,M,W,28,M1,6,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-21B.jpg,76,21B,98,Main,,,,,Mamie,Wife,F,W,25,M1,6,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21B.jpg,76,21B,99,Main,,,,,Mary,Daughter,F,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-21B.jpg,76,21B,100,Main,,,,Graham,Edward,Lodger,M,W,20,S,,,,Vermont,Vermont,Vermont,,,,,,English,Percher,Mill,W,,,Yes,Yes,No,,,,,,,,0,

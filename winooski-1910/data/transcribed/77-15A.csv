@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-15A.jpg,77,15A,1,Mallets Bay Avenue,41,246,246,Beaudoin,Adelard,Head,M,W,40,M1,19,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,French,Weaver,Woolen mill,W,No,6,No,No,,R,,H,,,,,1,surname written like Brandoin (Beaudoin?); age unclear (4_ may be 41 or 45); street name read from vertical cursive Mallets Bay Ave
+77-15A.jpg,77,15A,2,Mallets Bay Avenue,,,,,Georgianna,Wife,F,W,39,M1,19,9,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,No,No,,,,,,,,,0,
+77-15A.jpg,77,15A,3,Mallets Bay Avenue,,,,,Adelard,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Oiler,Cotton mill,W,No,4,No,No,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,4,Mallets Bay Avenue,,,,,Oliver,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Laborer,Cotton mill,W,No,2,,,Yes,,,,,,,,1,read/write cells blank or dot only
+77-15A.jpg,77,15A,5,Mallets Bay Avenue,,,,,Aldae,Son,M,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,,,Yes,,,,,,,,1,given may be Aldai
+77-15A.jpg,77,15A,6,Mallets Bay Avenue,,,,,Ida,Daughter,F,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,English,None,,,,,,,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,7,Mallets Bay Avenue,,,,,Dinale,Daughter,F,W,3,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,English,None,,,,,,,,,,,,,,,1,given name unclear
+77-15A.jpg,77,15A,8,Mallets Bay Avenue,,,,,Joseph,Father,M,W,88,Wd,,7,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,French,None,,,,,No,No,,,,,,,,,1,children born/living 7 5 written on male row; naturalization mark unclear
+77-15A.jpg,77,15A,9,Mallets Bay Avenue,47,247,247,Delorge,Joseph,Head,M,W,29,M1,6,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Woolen mill,W,No,2,No,No,,R,,H,,,,,0,
+77-15A.jpg,77,15A,10,Mallets Bay Avenue,,,,,Anna,Wife,F,W,24,M1,6,4,3,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Azma?)
+77-15A.jpg,77,15A,11,Mallets Bay Avenue,,,,,Frederick,Son,M,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+77-15A.jpg,77,15A,12,Mallets Bay Avenue,,,,,David,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+77-15A.jpg,77,15A,13,Mallets Bay Avenue,51,248,248,Lefebvre,Delia,Head,F,W,34,Wd,,6,5,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,R,,H,,,,,0,
+77-15A.jpg,77,15A,14,Mallets Bay Avenue,,,,,Edward,Son,M,W,15,S,,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Woolen mill,W,No,20,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,15,Mallets Bay Avenue,,,,,Eugene,Son,M,W,13,S,,,,Vermont,Vermont,Vermont,,,,,,French,Laborer,Woolen mill,W,No,31,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,16,Mallets Bay Avenue,,,,,Alfred,Son,M,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,17,Mallets Bay Avenue,,,,,Edna,Daughter,F,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,18,Mallets Bay Avenue,,,,,Albert,Son,M,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,19,Mallets Bay Avenue,,,,Brunell,John,Boarder,M,W,31,M1,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screw shop,W,Yes,0,Yes,Yes,,,,,,,,,0,
+77-15A.jpg,77,15A,20,Mallets Bay Avenue,,,,Grandbois,Clofas,Boarder,M,W,52,Wd,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Screw shop,W,No,0,Yes,Yes,,,,,,,,,1,given may be Cleofas
+77-15A.jpg,77,15A,21,Mallets Bay Avenue,,,,Bedard,Clara,Sister,F,W,38,M1,,,,Vermont,Vermont,Vermont,,,,,,English,Burler,Woolen mill,W,Yes,1,No,No,,,,,,,,,1,relation written Sister with extra mark
+77-15A.jpg,77,15A,22,Mallets Bay Avenue,61,249,249,Delorge,Arthur,Head,M,W,39,M1,19,,,Vermont,Vermont,Vermont,,,,,,English,Cutter,Woolen mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+77-15A.jpg,77,15A,23,Mallets Bay Avenue,,,,,Meduise,Wife,F,W,38,M1,19,6,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+77-15A.jpg,77,15A,24,Mallets Bay Avenue,,,,,Edward,Son,M,W,18,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Laborer,Woolen mill,W,Yes,10,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,25,Mallets Bay Avenue,,,,,Albina,Daughter,F,W,12,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Spooler,Woolen mill,W,Yes,8,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,26,Mallets Bay Avenue,,,,,Beatrice,Daughter,F,W,11,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,27,Mallets Bay Avenue,,,,,Amible,Daughter,F,W,5,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,Yes,,,,,,,,1,given may be Amable
+77-15A.jpg,77,15A,28,Mallets Bay Avenue,,,,,Yvonne,Daughter,F,W,4,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-15A.jpg,77,15A,29,Mallets Bay Avenue,63,250,250,Delorge,Hector,Head,M,W,31,M1,1,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Woolen mill,W,No,13,Yes,Yes,,R,,H,,,,,0,
+77-15A.jpg,77,15A,30,Mallets Bay Avenue,,,,,Laura,Wife,F,W,19,M1,1,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,31,Mallets Bay Avenue,,,,,Mary,Mother,F,W,52,Wd,,7,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1887,,English,None,,,,,No,No,,,,,,,,,0,
+77-15A.jpg,77,15A,32,Mallets Bay Avenue,61 1/2,251,251,Lamoreux,Virginia,Head,F,W,53,Wd,,12,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,Cook,Hotel,W,No,0,No,No,,R,,H,,,,,1,surname may be Lamoureux; children living may be 7; ownership mark unclear
+77-15A.jpg,77,15A,33,Mallets Bay Avenue,,,,,Levi,Son,M,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Woolen mill,W,Yes,8,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,34,Mallets Bay Avenue,,,,,Arthur,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Woolen mill,W,Yes,13,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,35,Mallets Bay Avenue,,,,,Henry,Son,M,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,36,Mallets Bay Avenue,,,,,Hervey,Son,M,W,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-15A.jpg,77,15A,37,Mallets Bay Avenue,,,,Trembly,Tennis,Brother,M,W,36,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Laborer,Woolen mill,W,No,4,Yes,Yes,,,,,,,,,1,given name unclear
+77-15A.jpg,77,15A,38,Mallets Bay Avenue,63 1/2,252,252,Marchant,Henry,Head,M,W,43,M1,17,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mill,W,No,3,Yes,Yes,,R,,H,,,,,1,surname may be Merchant or Marchand
+77-15A.jpg,77,15A,39,Mallets Bay Avenue,,,,,Emma,Wife,F,W,36,M1,17,7,6,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-15A.jpg,77,15A,40,Mallets Bay Avenue,,,,,Henry,Son,M,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,41,Mallets Bay Avenue,,,,,Delia,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,42,Mallets Bay Avenue,,,,,Mable,Daughter,F,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-15A.jpg,77,15A,43,Mallets Bay Avenue,,,,,Yvonne,Daughter,F,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,age overwritten
+77-15A.jpg,77,15A,44,Mallets Bay Avenue,,,,,Ernest,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,age overwritten (may be 2)
+77-15A.jpg,77,15A,45,Mallets Bay Avenue,,,,,Theodore,Son,M,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age may be 1/2
+77-15A.jpg,77,15A,46,Mallets Bay Avenue,65,253,253,West,Peter,Head,M,W,32,M1,1,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,Al,English,Laborer,Woolen mill,W,No,8,No,No,,R,,H,,,,,1,house number may be 63; surname may be Wess; immigration year may be 1910
+77-15A.jpg,77,15A,47,Mallets Bay Avenue,,,,,Clara,Wife,F,W,35,M2,1,3,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-15A.jpg,77,15A,48,Mallets Bay Avenue,,,,Benoit,Delima,Step child,F,W,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-15A.jpg,77,15A,49,Mallets Bay Avenue,,,,,Frederick,Step child,M,W,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,age may be 11
+77-15A.jpg,77,15A,50,Mallets Bay Avenue,,,,,William,Step child,M,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,age unclear

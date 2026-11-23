@@ -13,6 +13,7 @@ number can't be placed and are skipped. Confidence is the geocoder's (`exact`, `
 import csv
 import json
 import os
+import re
 import sys
 import urllib.parse
 import urllib.request
@@ -56,6 +57,13 @@ def main(people_csv, dst, g):
     for addr, (num, street) in addresses.items():
         if addr not in cache:
             cache[addr] = geocode(num, street, token, g)
+        whole = re.match(r"\d+", num)
+        if cache[addr] is None and whole and whole.group() != num:
+            # "23 1/2", "8½", "12 R": the geocoder rejects these, so place them at the whole number.
+            hit = geocode(whole.group(), street, token, g)
+            if hit:
+                hit["note"] = f"placed at {whole.group()}"
+            cache[addr] = hit
         hit = cache[addr] or {}
         print(f"{addr:<25} -> {hit.get('matched', 'NO MATCH')}  [{hit.get('confidence', '')}]")
     json.dump(cache, open(dst, "w"), ensure_ascii=False, indent=1)

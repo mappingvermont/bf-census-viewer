@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-07B.jpg,77,07B,51,North,11,107,107,Metivier,M.,Head,M,W,38,M1,9,,,Vermont,Vermont,Vermont,,,,,,English,Loom fixer,Woolen mills,W,No,0,Yes,Yes,,R,,H,,,,,1,street read from vertical 'North St' near lines 87-90; dwelling/family may be 101; surname may be Metevier; given only an initial; age may be 33
+77-07B.jpg,77,07B,52,North,,,,,Elas,Wife,F,W,27,M1,9,5,4,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Ella or Elias
+77-07B.jpg,77,07B,53,North,,,,,Irene,Daughter,F,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,1,given faint
+77-07B.jpg,77,07B,54,North,,,,,Mildred,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,55,North,,,,,Carl,Son,M,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,56,North,,,,,Arnold,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,1,given may be Donald
+77-07B.jpg,77,07B,57,North,,,,Myers,Lena Mae,Mother-in-law,F,W,51,Wd,,4,4,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,1,surname may be Wyers; marital unclear; children counts faint
+77-07B.jpg,77,07B,58,North,,,,Perry,Emma,Sister-in-law,F,W,18,S,,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,Yes,,,,,,,,1,school entry faint
+77-07B.jpg,77,07B,59,North,11 1/2,108,108,Brouillard,Joseph,Head,M,W,58,M1,34,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1862,Al,French,Laborer,Brick yard,W,No,0,No,No,,R,,H,,,,,1,read/write overwritten (Yes or No)
+77-07B.jpg,77,07B,60,North,,,,,Victorine,Wife,F,W,50,M1,34,4,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1862,,French,None,,,,,No,No,,,,,,,,,1,given may be Vitaline
+77-07B.jpg,77,07B,61,North,,,,,Olive,Daughter,F,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,school entry faint
+77-07B.jpg,77,07B,62,North,11 1/2 R,109,109,Mellen,John,Head,M,W,33,M1,5,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Sand sifter,Odd jobs,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Mellon; occupation unclear (Card fixer?); given may be Jules
+77-07B.jpg,77,07B,63,North,,,,,Melvina,Wife,F,W,24,M1,5,3,3,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07B.jpg,77,07B,64,North,,,,,Harold,Son,M,W,4,S,,,,New York,Vermont,New York,,,,,,English,None,,,,,,,,,,,,,,,0,
+77-07B.jpg,77,07B,65,North,,,,,Clovis,Son,M,W,2,S,,,,New York,Vermont,New York,,,,,,English,None,,,,,,,,,,,,,,,1,given unclear (Clarence?); age faint
+77-07B.jpg,77,07B,66,North,,,,,Joseph,Son,M,W,1/12,S,,,,Vermont,Vermont,New York,,,,,,,None,,,,,,,,,,,,,,,1,age may be 1/2
+77-07B.jpg,77,07B,67,North,13,110,110,Lavalley,Henry,Head,M,W,25,M1,6,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Clerk,Grocery store,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling/family numbers faint; surname written Lavelly; given unclear (Jerry?)
+77-07B.jpg,77,07B,68,North,,,,,Cecile,Wife,F,W,26,M1,6,1,1,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given unclear
+77-07B.jpg,77,07B,69,North,,,,,Armand,Son,M,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,70,North,,,,,Isaac,Father,M,W,63,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,Na,English,Laborer,Woolen mills,W,No,6,Yes,Yes,,,,,,,,,1,given faint
+77-07B.jpg,77,07B,71,North,12,111,111,Lavalley,Gustave,Head,M,W,34,M1,4,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,Na,English,Blacksmith,Shop,W,No,0,Yes,Yes,,R,,H,,,,,1,surname written Lavelly; dwelling/family numbers faint
+77-07B.jpg,77,07B,72,North,,,,,Eugenie,Wife,F,W,31,M1,4,3,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1893,,French,None,,,,,Yes,Yes,,,,,,,,,1,age may be 21; immigration year may be 1903
+77-07B.jpg,77,07B,73,North,,,,,Wilfrid,Son,M,W,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given unclear
+77-07B.jpg,77,07B,74,North,,,,,Mary,Daughter,F,W,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-07B.jpg,77,07B,75,North,,,,,Mary Lydia,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-07B.jpg,77,07B,76,North,,,,,John,Son,M,W,1/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age may be 9/12
+77-07B.jpg,77,07B,77,North,20,112,112,Cauchon,Joseph,Head,M,W,47,M1,18,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Bookkeeper,Woolen mill,W,Yes,10,Yes,Yes,,O,F,H,,,,,1,surname may be Couchon; age may be 44
+77-07B.jpg,77,07B,78,North,,,,,Octavie,Wife,F,W,40,M1,18,12,9,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07B.jpg,77,07B,79,North,,,,,Agnes,Daughter,F,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,Sewer,Woolen mills,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,80,North,,,,,Clarisse,Daughter,F,W,16,S,,,,Vermont,Vermont,Vermont,,,,,,English,Winder,Woolen mills,W,No,30,Yes,Yes,Yes,,,,,,,,1,given unclear (Clarice?)
+77-07B.jpg,77,07B,81,North,,,,,Anna,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,82,North,,,,,Rosalie,Daughter,F,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,83,North,,,,,Ernest,Son,M,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,84,North,,,,,Henry,Son,M,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,85,North,,,,,Irene,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-07B.jpg,77,07B,86,North,,,,,Raymond,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-07B.jpg,77,07B,87,North,,,,,Leopold,Son,M,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age may be 1/2
+77-07B.jpg,77,07B,88,North,15,113,113,Poudrier,Ferdinand,Head,M,W,30,M1,11,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,French,Laborer,Woolen mills,W,No,8,Yes,Yes,,R,,H,,,,,1,surname may be Foudrier; house number partly obscured
+77-07B.jpg,77,07B,89,North,,,,,Clara,Wife,F,W,29,M1,11,4,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07B.jpg,77,07B,90,North,,,,,Yvonne,Daughter,F,W,10,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,91,North,,,,,Juliette,Daughter,F,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,92,North,,,,,Germaine,Daughter,F,W,7,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given written Germine
+77-07B.jpg,77,07B,93,North,,,,,Roland,Son,M,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,,,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,94,North,17,114,114,Bertrand,Oswald,Head,M,W,48,M1,20,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1901,Al,French,Laborer,Screw works,W,No,2,Yes,Yes,,R,,H,,,,,0,
+77-07B.jpg,77,07B,95,North,,,,,Laura,Wife,F,W,37,M1,20,8,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1901,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07B.jpg,77,07B,96,North,,,,,Samuel,Son,M,W,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,English,Laborer,Woolen mills,W,No,8,Yes,Yes,Yes,,,,,,,,1,age may be 18; immigration year may be 1901
+77-07B.jpg,77,07B,97,North,,,,,Odinal,Son,M,W,16,S,,,,Rhode Island,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screw works,W,No,,Yes,Yes,Yes,,,,,,,,1,given unclear; weeks unemployed cell reads 'yes'; school entry unclear
+77-07B.jpg,77,07B,98,North,,,,,Alberta,Daughter,F,W,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,99,North,,,,,Adelard,Son,M,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-07B.jpg,77,07B,100,North,,,,,Ovelius,Son,M,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given unclear; sex mark resembles F but relation is Son

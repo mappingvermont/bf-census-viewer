@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-01B.jpg,76,01B,51,Main,211,11,12,St. Germain,Prosper,Head,M,W,45,M1,25,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Al,French,Carpenter,Factory,W,No,0,Yes,Yes,,R,,H,,,,,1,given may be Prospere
+76-01B.jpg,76,01B,52,Main,,,,,Victoline,Wife,F,W,44,M1,25,7,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Victorine
+76-01B.jpg,76,01B,53,Main,,,,,Alfred,Son,M,W,22,M1,0,,,Rhode Island,Canada (Fr),Canada (Fr),,French,French,,,English,Carpenter,Factory,W,Yes,1,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,54,Main,,,,,Mary,Daughter-in-law,F,W,23,M1,0,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,1,immigration year may be 1886
+76-01B.jpg,76,01B,55,Main,,,,,Marie,Daughter,F,W,20,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,French,Tailoress,Tailor,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-01B.jpg,76,01B,56,Main,,,,,Eva,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-01B.jpg,76,01B,57,Main,,,,,Palmana,Daughter,F,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,No,,,,,,,,1,given may be Palmina
+76-01B.jpg,76,01B,58,Main,,,,,Edwilda,Daughter,F,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,school corrected from No to Yes
+76-01B.jpg,76,01B,59,Main,,,,,Arthur,Son,M,W,10,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01B.jpg,76,01B,60,Main,,,,Lacour,Arthur,Lodger,M,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,Laborer,Factory,W,No,0,Yes,Yes,No,,,,,,,,1,surname may be Lacoeur
+76-01B.jpg,76,01B,61,Main,209,12,13,Dufresne,Merile,Head,M,W,57,M1,33,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,Al,French,Laborer,Hospital,W,No,12,Yes,Yes,,R,,H,,,,,1,surname may be Dufrene; ownership mark unclear
+76-01B.jpg,76,01B,62,Main,,,,,Pelmire,Wife,F,W,60,M1,33,3,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,French,None,,,,,Yes,No,,,,,,,,,1,given may be Delmire
+76-01B.jpg,76,01B,63,Main,209,13,14,Larose,Mary,Head,F,W,76,Wd,,5,1,Belgium,Belgium,Belgium,French,French,French,1874,,English,Fancy sewing,Home,W,No,0,Yes,Yes,,O,F,H,,,,,1,house number marked rear; surname may be Larosa; immigration year faint
+76-01B.jpg,76,01B,64,Main,,,,,Elizabeth,Daughter,F,W,34,S,,,,Belgium,Belgium,Belgium,French,French,French,1874,,English,None,,,,,Yes,Yes,,,,,,,,,1,age may be 39
+76-01B.jpg,76,01B,65,Main,209,,15,Paquette,Henri,Head,M,W,28,M1,2,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,,French,Weaver,Mill,W,No,2,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (possibly 14); surname may be Pasquette
+76-01B.jpg,76,01B,66,Main,,,,,Marie,Wife,F,W,24,M1,2,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,67,Main,,,,,Yvonne,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,No,No,,,,,,,,,0,
+76-01B.jpg,76,01B,68,Main,205,13,16,Paquette,Isaac,Head,M,W,57,M1,34,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1897,Al,French,Carpenter,Outside,W,Yes,52,No,No,,O,M,H,,,,,1,given name unclear
+76-01B.jpg,76,01B,69,Main,,,,,Mary,Wife,F,W,57,M1,34,9,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1897,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,70,Main,,,,,Rose,Daughter,F,W,23,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1897,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,71,Main,,,,,Albert,Son,M,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1897,,French,Weaver,Mill,W,No,4,Yes,Yes,No,,,,,,,,0,
+76-01B.jpg,76,01B,72,Main,,,,Furlong,Carrie,Lodger,F,W,12,S,,,,Massachusetts,Unknown,Unknown,,,,,,French,None,,,,,Yes,Yes,No,,,,,,,,1,surname reading uncertain
+76-01B.jpg,76,01B,73,Main,,,,Paquette,Leroy,Nephew,M,W,11,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Levy
+76-01B.jpg,76,01B,74,Main,,,,,Rodolphe,Nephew,M,W,8,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Rodolph
+76-01B.jpg,76,01B,75,Main,195,14,17,Viquette,Odile,Head,F,W,88,Wd,,10,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1867,,French,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname reading uncertain
+76-01B.jpg,76,01B,76,Main,,,,,Denise,Daughter,F,W,49,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Milliner,Store,W,No,0,Yes,Yes,,,,,,,,,1,employer class overwritten
+76-01B.jpg,76,01B,77,Main,,,,,Irene,Adopted child,F,W,12,S,,,,Vermont,Unknown,Unknown,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01B.jpg,76,01B,78,Main,183,15,18,Langlois,Ezra T.,Head,M,W,51,M1,19,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Photographer,Photo shop,OA,No,0,Yes,Yes,,O,F,H,,,,,1,surname reading uncertain (Fangois?)
+76-01B.jpg,76,01B,79,Main,,,,,Celia A.,Wife,F,W,40,M1,19,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,80,Main,,,,Mongeon,Cordelia,Mother-in-law,F,W,65,D,,3,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+76-01B.jpg,76,01B,81,Main,179,16,19,Horton,Edward H.,Head,M,W,46,Wd,,,,Vermont,Vermont,Vermont,,,,,,English,Chief,Police,W,No,0,Yes,Yes,,O,F,H,,,,,1,marital written W (widowed?)
+76-01B.jpg,76,01B,82,Main,,,,,Emily,Mother,F,W,70,Wd,,2,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,83,Main,,,,,George H. Jr.,Son,M,W,20,S,,,,Vermont,Vermont,Vermont,,,,,,English,Salesman,Traveling,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-01B.jpg,76,01B,84,Main,,,,,Edward E. Jr.,Son,M,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01B.jpg,76,01B,85,Main,,,,,Crawford,Son,M,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01B.jpg,76,01B,86,Main,,,,Comstock,Anna,Servant,F,W,38,S,,,,New York,New York,New York,,,,,,English,Servant,Family,W,,,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,87,Main,135,17,20,Parkhurst,Ella,Head,F,W,58,Wd,,6,5,New York,Scotland,New York,,English,,,,English,None,,,,,Yes,Yes,,R,,H,,,,,0,
+76-01B.jpg,76,01B,88,Main,,,,,Charles,Son,M,W,32,S,,,,New York,New York,New York,,,,,,English,Bookkeeper,Mill,W,No,2,Yes,Yes,,,,,,,,,1,age may be 37
+76-01B.jpg,76,01B,89,Main,,,,,Lillian,Daughter,F,W,28,S,,,,New York,New York,New York,,,,,,English,Saleslady,Store,W,No,0,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,90,Main,,,,,Charlotte,Daughter,F,W,25,S,,,,New York,New York,New York,,,,,,English,Teacher,School,W,No,12,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,91,Main,,,,,Marion,Daughter,F,W,15,S,,,,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,industry entry struck out
+76-01B.jpg,76,01B,92,Main,,,,McDowell,Richard,Lodger,M,W,27,S,,,,New Hampshire,New Jersey,Ireland,,,Irish,,,English,Bookkeeper,Mill,W,No,12,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,93,Main,149,18,21,Gadue,Frank,Head,M,W,39,M1,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Machinist,Power station,W,No,0,No,No,,R,,H,,,,,0,
+76-01B.jpg,76,01B,94,Main,,,,,Maud,Wife,F,W,33,M1,15,5,3,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+76-01B.jpg,76,01B,95,Main,,,,,Lawrence,Son,M,W,9,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01B.jpg,76,01B,96,Main,,,,,Yvonne,Daughter,F,W,6,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01B.jpg,76,01B,97,Main,,,,,Arthur,Son,M,W,5,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,,,Yes,,,,,,,,0,
+76-01B.jpg,76,01B,98,Main,,,,Cook,Frank,Lodger,M,W,38,S,,,,Massachusetts,New York,New York,,,,,,English,Mason,Brick,W,No,0,Yes,Yes,,,,,,,,,0,
+76-01B.jpg,76,01B,99,Main,121,19,22,Hall,Frank,Head,M,W,40,M1,12,0,0,New Hampshire,Canada (Fr),New Hampshire,,French,,,,English,Mechanic,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,children born/living 0 0 written on male head's row
+76-01B.jpg,76,01B,100,Main,,,,,Rena,Wife,F,W,34,M1,12,,,New Hampshire,New Hampshire,New Hampshire,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,

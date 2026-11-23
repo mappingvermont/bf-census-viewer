@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-04B.jpg,77,04B,51,Maple,114,62,62,Laville,Emil,Boarder,M,W,37,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,English,Laborer,Screen works,W,No,4,Yes,Yes,,,,,,,,,1,"street not written beside lines 51-56 (Maple St written from line 57); house 114 may belong to a street carried from previous sheet; ""Lin"" written in header of house column; surname may be Sqaville/Lasville; given may be Ernie"
+77-04B.jpg,77,04B,52,Maple,,,,Terrien,Eugene,Boarder,M,W,34,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,English,Weaver,Woolen mills,W,No,1,Yes,Yes,,,,,,,,,1,surname may be Ferrien
+77-04B.jpg,77,04B,53,Maple,,,,Fortier,Ned,Boarder,M,W,32,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mills,W,No,7,Yes,Yes,,,,,,,,,1,name faint; surname may be Portier; given may be Medd
+77-04B.jpg,77,04B,54,Maple,,,,Tetrault,Michel,Boarder,M,W,56,M,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,Al,English,Clerk,Grocery store,W,No,0,Yes,Yes,,,,,,,,,1,marital written M without number; given may be Michael
+77-04B.jpg,77,04B,55,Maple,,,,Libounty,Jos,Boarder,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,English,Weaver,Woolen mills,W,No,2,Yes,Yes,,,,,,,,,1,surname may be Lebounty
+77-04B.jpg,77,04B,56,Maple,,,,Aubuil,Jos,Boarder,M,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,English,Weaver,Woolen mills,W,No,9,Yes,Yes,Yes,,,,,,,,1,surname may be Aubin; weeks may be 6; school Yes written loosely
+77-04B.jpg,77,04B,57,Maple,15,63,63,Little,A. H.,Head,M,W,40,M1,17,,,England,England,England,English,English,English,1879,Na,English,Boss finisher,Woolen mills,W,No,0,Yes,Yes,,,,H,,,,,1,owned/rented blank; occupation may be Boss finisher (unclear)
+77-04B.jpg,77,04B,58,Maple,,,,,Anna,Wife,F,W,38,M1,17,5,4,Rhode Island,Canada (Fr),Germany,,French,German,,,English,None,,,,,Yes,Yes,,,,,,,,,1,mother birthplace written Germ Germany (unclear)
+77-04B.jpg,77,04B,59,Maple,,,,,Roscoe,Son,M,W,15,S,,,,Rhode Island,England,Rhode Island,,English,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04B.jpg,77,04B,60,Maple,,,,,Ruth,Daughter,F,W,14,S,,,,Connecticut,England,Rhode Island,,English,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,birthplace unclear (Connecticut?)
+77-04B.jpg,77,04B,61,Maple,,,,,Anna,Daughter,M,W,12,S,,,,Rhode Island,England,Rhode Island,,English,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,sex written M for daughter; given may be Emma
+77-04B.jpg,77,04B,62,Maple,,,,,Mildred,Daughter,F,W,6/12,S,,,,Vermont,England,Rhode Island,,English,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear (may be 9/12)
+77-04B.jpg,77,04B,63,Maple,13,64,64,Lonegan,A. M. Mrs,Head,F,W,48,Wd,,,,Massachusetts,Ireland,Ireland,,English,English,,,English,Teacher,Schools,W,No,12,Yes,Yes,,R,,H,,,,,1,surname may be Lonergan
+77-04B.jpg,77,04B,64,Maple,,,,,John,Son,M,W,27,S,,,,Vermont,Vermont,Massachusetts,,,,,,English,Typer,Printing house,W,No,2,Yes,Yes,,,,,,,,,1,occupation and industry unclear
+77-04B.jpg,77,04B,65,Maple,19,65,65,Smith,Ornis,Head,M,W,45,M1,9,,,Vermont,Vermont,Vermont,,,,,,English,Bookkeeper,Mill,W,Yes,16,Yes,Yes,,O,F,H,,,,,1,given may be Orris
+77-04B.jpg,77,04B,66,Maple,,,,,May,Wife,F,W,35,M1,9,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-04B.jpg,77,04B,67,Maple,,,,,Arthur,Brother,M,W,32,S,,,,Vermont,Vermont,Vermont,,,,,,English,Bartender,Saloon,W,Yes,0,Yes,Yes,,,,,,,,,0,
+77-04B.jpg,77,04B,68,Maple,24,66,66,Blondin,Joseph,Head,M,W,63,Wd,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Brick maker,Brick yard,W,No,22,Yes,Yes,,O,F,H,,,,,0,
+77-04B.jpg,77,04B,69,Maple,,,,,Evodard,Son,M,W,36,M,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,1,given unclear; marital written M without number
+77-04B.jpg,77,04B,70,Maple,,,,,Clara,Daughter,F,W,28,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-04B.jpg,77,04B,71,Maple,,,,,Louis,Son,M,W,19,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Laborer,Brick yard,W,No,22,Yes,Yes,Yes,,,,,,,,0,
+77-04B.jpg,77,04B,72,Maple,,,,Taincland,Yvonne,Granddaughter,F,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,surname reading uncertain
+77-04B.jpg,77,04B,73,Maple,,,,Blondin,Anna,Granddaughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04B.jpg,77,04B,74,Maple,,,,,Selma,Granddaughter,F,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Gelma
+77-04B.jpg,77,04B,75,Maple,99,67,67,McGreevy,Patrick,Head,M,W,60,M1,25,2,2,New York,Ireland,Ireland,,English,English,,,English,Druggist,Drug store,OA,,,Yes,Yes,Yes,O,F,H,,,,,1,surname may be McGrevy; children born/living written on male head's row
+77-04B.jpg,77,04B,76,Maple,,,,,Flora,Wife,F,W,55,M1,25,1,1,Vermont,Canada,Canada,,Scotch,Scotch,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-04B.jpg,77,04B,77,Maple,39,68,68,Desautels,Eugene,Head,M,W,30,M1,3,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Electrician,Woolen mills,W,No,0,Yes,Yes,,R,,H,,,,,1,surname reading uncertain
+77-04B.jpg,77,04B,78,Maple,,,,,Stella,Wife,F,W,30,M1,3,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-04B.jpg,77,04B,79,Maple,,,,,Horace,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,given unclear (Horal/Lorae)
+77-04B.jpg,77,04B,80,Maple,,,,,Donald,Son,M,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-04B.jpg,77,04B,81,Maple,,,,Prini,Emilie Mrs,Mother-in-law,F,W,58,Wd,,4,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1858,,English,None,,,,,Yes,Yes,,,,,,,,,1,surname unclear (Trini/Brini)
+77-04B.jpg,77,04B,82,Maple,41,69,69,Jerry,Alodia Mrs,Head,F,W,42,Wd,,4,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1873,,English,Dressmaker,,OA,,,Yes,Yes,,R,,H,,,,,1,surname may be Terry
+77-04B.jpg,77,04B,83,Maple,,,,Lattel,Rosalina,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,English,Dressmaker,Tailor shop,W,No,0,Yes,Yes,No,,,,,,,,1,surname unclear (Lattie?)
+77-04B.jpg,77,04B,84,Maple,,,,Jerry,Alodia,Daughter,F,W,12,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,surname may be Terry
+77-04B.jpg,77,04B,85,Maple,45,70,70,Mercure,Eusebe,Head,M,W,63,M1,32,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1846,Na,French,Laborer,Woolen mills,W,No,0,Yes,Yes,,R,,H,,,,,1,surname and given unclear
+77-04B.jpg,77,04B,86,Maple,,,,,Zoa,Wife,F,W,57,M1,32,9,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1896,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Ida
+77-04B.jpg,77,04B,87,Maple,,,,,Hermidas,Son,M,W,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1886,,English,Clerk,Grocery store,W,No,0,Yes,Yes,,,,,,,,,1,immigration year may be 1846
+77-04B.jpg,77,04B,88,Maple,45 1/2,71,71,Marcotte,George,Head,M,W,23,M1,2,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Carder,Woolen mills,W,No,0,Yes,Yes,,R,,H,,,,,1,marital written M with 2 (may be M2)
+77-04B.jpg,77,04B,89,Maple,,,,,Emma,Wife,F,W,23,M1,2,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,,French,None,,,,,Yes,Yes,,,,,,,,,1,immigration year may be 1881
+77-04B.jpg,77,04B,90,Maple,,,,,Cecile,Daughter,F,W,7/12,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-04B.jpg,77,04B,91,Maple,47,72,72,McGreevy,Archie,Head,M,W,24,M1,2,,,Vermont,Vermont,Vermont,,,,,,English,Clerk,Drug store,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be McGrevy
+77-04B.jpg,77,04B,92,Maple,,,,,,Wife,F,W,22,M1,2,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name not written
+77-04B.jpg,77,04B,93,Maple,,,,,,,M,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,1,given name and relation not written; age fraction unclear
+77-04B.jpg,77,04B,94,Maple,47 1/2,73,73,Marcotte,Albert,Head,M,W,27,M1,4,,,Vermont,Vermont,Vermont,,,,,,English,Clerk,Drug store,W,No,0,Yes,Yes,,,,H,,,,,1,owned/rented mark unclear
+77-04B.jpg,77,04B,95,Maple,,,,,Alice,Wife,F,W,25,M1,4,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-04B.jpg,77,04B,96,Maple,,,,,Genevieve,Daughter,F,W,7/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-04B.jpg,77,04B,97,Maple,50,74,74,Jobell,Frank,Head,M,W,73,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1841,Na,English,None,Own income,,,,Yes,Yes,,,,H,,,,,1,surname may be Tobell; marital unclear; owned/rented mark unclear
+77-04B.jpg,77,04B,98,Maple,,,,,Nellie,Daughter,F,W,35,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-04B.jpg,77,04B,99,Maple,,,,,Eugene,Son,M,W,30,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,,,,,,,,,,,0,

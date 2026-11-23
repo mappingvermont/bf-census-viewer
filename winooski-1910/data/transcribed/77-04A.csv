@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-04A.jpg,77,04A,1,Weaver,249,53,53,Richard,George,Head,M,W,28,M1,6,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1896,Na,English,Weaver,Woolen mills,W,No,11,Yes,Yes,,R,,H,,,,,1,house number overwritten (249 or 295?)
+77-04A.jpg,77,04A,2,Weaver,,,,,Ledia,Wife,F,W,31,M1,6,4,3,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Lydia
+77-04A.jpg,77,04A,3,Weaver,,,,,George,Son,M,W,6,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,4,Weaver,,,,,Florenda,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,1,given may be Florence
+77-04A.jpg,77,04A,5,Weaver,,,,,Morris,Son,M,W,7/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,
+77-04A.jpg,77,04A,6,Weaver,303,54,54,Germain,Dolphus,Head,M,W,36,M1,11,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1896,Na,English,Harness maker,Shop,OA,,,Yes,Yes,,R,,H,,,,,1,immigration year may be 1890
+77-04A.jpg,77,04A,7,Weaver,,,,,Florena,Wife,F,W,29,M1,11,5,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Florence
+77-04A.jpg,77,04A,8,Weaver,,,,,Raymond,Son,M,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,9,Weaver,,,,,Yvonne,Daughter,F,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,10,Weaver,,,,,Lorenzo,Son,M,W,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,1,given unclear (Carozo?)
+77-04A.jpg,77,04A,11,Weaver,309,55,55,Barkheart,Mary,Head,F,W,63,Wd,,0,0,Hungary,Hungary,Hungary,Magyar,Magyar,Magyar,1882,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname reading uncertain
+77-04A.jpg,77,04A,12,Weaver,317,56,56,Duprat,Henry,Head,M,W,72,Wd,,13,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1863,Na,English,None,,,,,Yes,,,O,F,H,,,,,1,children born/living 13 9 written on male head's row; can write cell unclear
+77-04A.jpg,77,04A,13,Weaver,,,,,Theodore,Son,M,W,28,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Ice house,W,No,0,Yes,Yes,,,,,,,,,0,
+77-04A.jpg,77,04A,14,Weaver,,,,,Elafus,Son,M,W,26,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Teamster,Ice Co,W,No,0,Yes,Yes,,,,,,,,,1,given unclear (Clafus?)
+77-04A.jpg,77,04A,15,Weaver,,,,,Hormidas,Son,M,W,26,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Clerk,Furniture store,W,No,0,Yes,Yes,,,,,,,,,1,given may be Horsidas
+77-04A.jpg,77,04A,16,Weaver,,,,,Delphine,Daughter,F,W,24,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Dressmaker,,OA,No,0,Yes,Yes,,,,,,,,,0,
+77-04A.jpg,77,04A,17,Weaver,,,,,Marcell,Son,M,W,21,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Woolen mills,W,No,2,Yes,Yes,,,,,,,,,0,
+77-04A.jpg,77,04A,18,Weaver,,,,,Arthur,Son,M,W,18,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Ice house,W,No,7,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-04A.jpg,77,04A,19,Weaver,,,,,Marie,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,20,Weaver,,,,,Frederick,Son,M,W,15,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,21,Weaver,331,57,57,Bessionette,Medor,Head,M,W,33,M1,13,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,Na,English,Teamster,Grist mill,W,No,0,Yes,Yes,,O,F,H,,,,,1,children born/living 1 1 written on male head's row; surname may be Bessionetti
+77-04A.jpg,77,04A,22,Weaver,,,,,Meralda,Wife,F,W,33,M1,13,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1897,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-04A.jpg,77,04A,23,Weaver,,,,,Joseph,Son,M,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,24,Weaver,337,58,58,Ciruski,Josephine Mrs,Head,F,W,34,Wd,,4,2,Germany,Germany,Germany,Slovak,Slovak,German,1900,,Slovak,None,,,,,Yes,Yes,,O,F,H,,,,,1,house number may be 237; surname may be Peruski
+77-04A.jpg,77,04A,25,Weaver,,,,,Bertha,Daughter,F,W,7,S,,,,Vermont,Germany,Germany,,Slovak,Slovak,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,26,Weaver,,,,,John,Son,M,W,5,S,,,,Vermont,Germany,Germany,,Slovak,Slovak,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,27,Weaver,,59,59,Prine,Louis,Head,M,W,30,M1,5,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,,O,F,H,,,,,1,house number column shows only a + mark; surname may be Prive
+77-04A.jpg,77,04A,28,Weaver,,,,,Eugenie,Wife,F,W,25,M1,5,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-04A.jpg,77,04A,29,Weaver,,,,,Roland,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-04A.jpg,77,04A,30,Weaver,,,,,Lucille,Daughter,F,W,9/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+77-04A.jpg,77,04A,31,Maple,53,60,60,Paizo,Joseph,Head,M,W,33,M1,10,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Meat cutter,Meat market,OA,,,Yes,Yes,,O,F,H,,,,,1,surname reading uncertain
+77-04A.jpg,77,04A,32,Maple,,,,,Clara,Wife,F,W,30,M1,10,7,3,Connecticut,Connecticut,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,father birthplace Connecticut with French written over/struck
+77-04A.jpg,77,04A,33,Maple,,,,,Clarence,Son,M,W,5,S,,,,Vermont,Vermont,Connecticut,,,,,,French,None,,,,,,,,,,,,,,,1,given unclear; mother birthplace has French written over
+77-04A.jpg,77,04A,34,Maple,,,,,Emile,Son,M,W,3,S,,,,Vermont,Vermont,Connecticut,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-04A.jpg,77,04A,35,Maple,,,,,Homer,Son,M,W,1 8/12,S,,,,Vermont,Vermont,Connecticut,,,,,,,None,,,,,,,,,,,,,,,1,age may be 18/12 or 10/12
+77-04A.jpg,77,04A,36,Maple,,,,Wenette,Rose,Nurse girl,F,W,18,S,,,,New York,Canada (Fr),New York,,French,,,,English,Nurse girl,House,W,No,16,Yes,Yes,Yes,,,,,,,,1,surname may be Wennette
+77-04A.jpg,77,04A,37,Maple,,,,Dumas,Edmond,Cousin,M,W,22,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Clerk,Grocery store,W,No,22,Yes,Yes,,,,,,,,,0,
+77-04A.jpg,77,04A,38,Maple,114,61,61,Canbelle,Jules,Head,M,W,44,M1,21,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,English,Laborer,Woolen mills,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Cambelle
+77-04A.jpg,77,04A,39,Maple,,,,,Edgrouche,Wife,F,W,39,M1,21,11,10,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+77-04A.jpg,77,04A,40,Maple,,,,,Mathilde,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,English,Winder,Woolen mills,W,No,0,Yes,Yes,Yes,,,,,,,,1,given unclear (Michalde?); school entry unclear
+77-04A.jpg,77,04A,41,Maple,,,,,Anthelme,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Doffer,Cotton mills,W,No,9,Yes,Yes,Yes,,,,,,,,1,given unclear; school entry unclear
+77-04A.jpg,77,04A,42,Maple,,,,,Lena,Daughter,F,W,15,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Spooler,Woolen mills,W,No,0,Yes,Yes,Yes,,,,,,,,1,school entry unclear
+77-04A.jpg,77,04A,43,Maple,,,,,Jules,Son,M,W,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,44,Maple,,,,,Aurore,Daughter,F,W,11,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-04A.jpg,77,04A,45,Maple,,,,,Hortense,Daughter,F,W,8,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given written Hertause
+77-04A.jpg,77,04A,46,Maple,,,,,Egile,Son,M,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-04A.jpg,77,04A,47,Maple,,,,,Ella,Daughter,F,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,,,,,,,,,,,0,
+77-04A.jpg,77,04A,48,Maple,,,,,Leo,Son,M,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-04A.jpg,77,04A,49,Maple,,,,,Louis,Son,M,W,7/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,

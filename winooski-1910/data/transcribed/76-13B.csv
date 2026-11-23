@@ -1,0 +1,47 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-13B.jpg,76,13B,51,East Center,13,189,234,Foisey,Pierre,Head,M,W,51,M1,23,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Machinist,Machine shop,W,No,0,Yes,Yes,,R,,H,,,,,1,street written Ea. Center St (partly faint)
+76-13B.jpg,76,13B,52,East Center,,,,,Priscilla,Wife,F,W,48,M1,23,10,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Prisella
+76-13B.jpg,76,13B,53,East Center,,,,,Adrian,Son,M,W,22,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Clerk,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,54,East Center,,,,,Anna,Daughter,F,W,20,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Milliner,Store,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-13B.jpg,76,13B,55,East Center,,,,,Leone,Daughter,F,W,18,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,No,,,,,,,,1,given name unclear (Lione/Cione)
+76-13B.jpg,76,13B,56,East Center,,,,,Adolphine,Daughter,F,W,17,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Laborer,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-13B.jpg,76,13B,57,East Center,,,,,Ildaphonse,Son,M,W,15,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Ildefonse
+76-13B.jpg,76,13B,58,East Center,,,,,Gabriel,Daughter,F,W,13,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Gabrielle
+76-13B.jpg,76,13B,59,East Center,,,,,Maximin,Son,M,W,8,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Majiman?)
+76-13B.jpg,76,13B,60,East Center,,,,,Williamina,Daughter,F,W,6,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Williamie?)
+76-13B.jpg,76,13B,61,East Center,,,,,Antoinette,Daughter,F,W,4,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,,None,,,,,,,,,,,,,,,0,
+76-13B.jpg,76,13B,62,East Center,,,,Emmette,Blaise,Father-in-law,M,W,77,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,Na,French,None,,,,,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-13B.jpg,76,13B,63,East Center,,,,Hallbert,George,Lodger,M,W,40,S,,,,Vermont,Canada (Fr),United States,,French,,,,English,Moulder,Machine shop,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Hulbert
+76-13B.jpg,76,13B,64,East Center,,,,Fletcher,Clarence,Lodger,M,W,18,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Laborer,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-13B.jpg,76,13B,65,East Center,,,,Murphy,Jeremiah,Lodger,M,W,48,Wd,,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Mill,W,Yes,0,Yes,Yes,,,,,,,,,1,out of work may be No
+76-13B.jpg,76,13B,66,East Center,,,,Prior,Herbert,Lodger,M,W,46,S,,,,Vermont,Vermont,Vermont,,,,,,,Carpenter,Screen shop,W,No,0,Yes,Yes,,,,,,,,,1,weeks unemployed may be 2
+76-13B.jpg,76,13B,67,East Center,,,,Johnson,Henry,Lodger,M,W,27,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1899,Al,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,68,East Center,,,,Dowiski,Sally,Lodger,M,W,30,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1898,Al,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname blotted (Lowiski?); given unclear; immigration year may be 1891
+76-13B.jpg,76,13B,69,East Center,,,,Naholm,Oscar,Lodger,M,W,24,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1890,Al,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-13B.jpg,76,13B,70,East Center,,,,Williams,James,Lodger,M,W,30,S,,,,New York,New York,New York,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,71,East Center,12,190,235,Doma,Joseph,Head,M,W,51,M2,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,Al,French,Mason,Stone,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Dona
+76-13B.jpg,76,13B,72,East Center,,,,,Elizabeth,Wife,F,W,54,M2,3,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,73,East Center,,,,Girard,Anna,Adopted daughter,F,W,10,S,,,,Massachusetts,France,Massachusetts,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,surname unclear (Gravel?); father birthplace written Fr. French
+76-13B.jpg,76,13B,74,East Center,,,,Yendow,George,Lodger,M,W,29,S,,,,Vermont,Vermont,Vermont,,,,,,French,Laborer,Screen shop,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-13B.jpg,76,13B,75,East Center,,,,Dufanis,Joseph,Lodger,M,W,56,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,French,Laborer,Screen shop,W,No,0,Yes,Yes,,,,,,,,,1,surname faint and uncertain
+76-13B.jpg,76,13B,76,East Center,12,,236,Lacroix,Narcisse,Head,M,W,73,M2,40,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1902,Na,French,Laborer,Mill,W,No,0,Yes,No,,R,,H,,,,,1,dwelling number crossed out; surname overwritten (Ladroit?); marital looks like m3
+76-13B.jpg,76,13B,77,East Center,,,,,Arsee,Wife,F,W,51,M1,40,8,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+76-13B.jpg,76,13B,78,East Center,12,,237,Bond,Andrew,Head,M,W,38,M2,5,,,New York,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out; house number may be 1
+76-13B.jpg,76,13B,79,East Center,,,,,Nellie,Wife,F,W,30,M1,5,1,1,Vermont,Vermont,Scotland,,,Scotch,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,80,East Center,,,,,Mildred,Daughter,F,W,4,S,,,,Vermont,New York,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-13B.jpg,76,13B,81,East Center,8,191,238,Dufaw,Josiah Jr.,Head,M,W,50,M1,29,,,Vermont,Vermont,Vermont,,,,,,English,Farming,On farm,W,No,0,Yes,Yes,,R,,H,,,,,1,surname faint (Dufour?); industry unclear
+76-13B.jpg,76,13B,82,East Center,,,,,Cordelia,Wife,F,W,46,M1,29,0,0,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,83,East Center,5,192,239,Smith,Ernest,Head,M,W,36,M1,9,,,Connecticut,New Hampshire,New Hampshire,,,,,,English,Second hand,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-13B.jpg,76,13B,84,East Center,,,,,Josephine,Wife,F,W,26,M1,9,2,2,Sweden,Sweden,Sweden,Swedish,Swedish,Swedish,1845,,English,None,,,,,Yes,Yes,,,,,,,,,1,immigration year written 1845 (impossible for age 26; likely 1885 or 1895)
+76-13B.jpg,76,13B,85,East Center,,,,,Dorothy,Daughter,F,W,5,S,,,,Connecticut,Connecticut,Sweden,,,Swedish,,,,None,,,,,No,No,No,,,,,,,,0,
+76-13B.jpg,76,13B,86,East Center,,,,,Adalbert,Son,M,W,1/12,S,,,,Vermont,Connecticut,Sweden,,,Swedish,,,,None,,,,,,,,,,,,,,,0,
+76-13B.jpg,76,13B,87,East Center,5,,240,Devins,Charles,Head,M,W,28,M1,5,,,Vermont,Vermont,Vermont,,,,,,English,Saloon keeper,Saloon,OA,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out
+76-13B.jpg,76,13B,88,East Center,,,,,Emma,Wife,F,W,26,M1,5,0,0,Vermont,New York,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,89,East Center,7,193,241,Vien,Alfred,Head,M,W,27,M1,3,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Tacking,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,house number may be 2
+76-13B.jpg,76,13B,90,East Center,,,,,Bridget,Wife,F,W,25,M1,3,1,1,Vermont,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,91,East Center,,,,,Raymond,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-13B.jpg,76,13B,92,East Canal,x,194,242,Jarvais,Victor,Head,M,W,28,M1,4,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Na,French,Filler,Mill,W,No,0,Yes,No,,R,,H,,,,,1,street written Ea. Canal Street (not on list; possibly West Canal); house number written x; surname may be Jarais
+76-13B.jpg,76,13B,93,East Canal,,,,,Georgiana,Wife,F,W,27,M1,4,3,3,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-13B.jpg,76,13B,94,East Canal,,,,,Bertha,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,
+76-13B.jpg,76,13B,95,East Canal,,,,,Yvonne,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,
+76-13B.jpg,76,13B,96,East Canal,,,,,Emile,Son,M,W,9/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,

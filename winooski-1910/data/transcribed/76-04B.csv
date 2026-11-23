@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-04B.jpg,76,04B,51,Barlow,129,63,72,Balain,Louis,Brother-in-law,M,W,91,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1840,Al,French,None,,,,,No,No,,,,,,,,,1,"Barlow not on street list but clearly written; lines 51-52 may continue the street of the previous sheet (Barlow box starts at line 53); dwelling 63 and family 72 marked with X (possibly struck, family begun on previous sheet); surname may be Balan"
+76-04B.jpg,76,04B,52,Barlow,,,,Bouchard,Leon,Lodger,M,W,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,Na,English,Laborer,Outside,W,,,Yes,Yes,,,,,,,,,1,immigration year may read 1840
+76-04B.jpg,76,04B,53,Barlow,18,64,73,Bigwood,Frank,Head,M,W,47,M1,20,,,Vermont,England,Vermont,,English,,,,English,Merchant,Hardware store,OA,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-04B.jpg,76,04B,54,Barlow,,,,,Dora,Wife,F,W,44,M1,20,5,5,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,55,Barlow,,,,,Ella B.,Daughter,F,W,19,S,,,,Vermont,Vermont,Vermont,,,,,,English,Stenographer,Office,W,,,Yes,Yes,No,,,,,,,,0,
+76-04B.jpg,76,04B,56,Barlow,,,,,Elizabeth,Daughter,F,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-04B.jpg,76,04B,57,Barlow,,,,,Marion,Daughter,F,W,16,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-04B.jpg,76,04B,58,Barlow,,,,,Burke,Son,M,W,13,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Burke?)
+76-04B.jpg,76,04B,59,Barlow,,,,,Frank J.,Son,M,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-04B.jpg,76,04B,60,Leclair,24,65,74,Buckley,Maurice,Head,M,W,65,M1,35,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1855,Na,English,Laborer,Mill,W,No,0,No,No,,O,M,H,,,,,1,"street written Le Clair Street (lines ~72-86), applied from line 60 where new house numbering begins"
+76-04B.jpg,76,04B,61,Leclair,,,,,Katherine,Wife,F,W,52,M1,35,7,5,Ireland,Ireland,Ireland,Irish,Irish,Irish,1855,,English,None,,,,,Yes,No,,,,,,,,,0,
+76-04B.jpg,76,04B,62,Leclair,,,,,Daniel,Son,M,W,32,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,63,Leclair,,,,,Michael,Son,M,W,31,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Steam fitter,Mill,W,No,2,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,64,Leclair,,,,,Nellie,Daughter,F,W,27,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Laborer,Tailor shop,W,No,0,Yes,Yes,,,,,,,,,1,industry may read Tailor shop
+76-04B.jpg,76,04B,65,Leclair,,,,,Josie,Daughter,F,W,25,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Clerk,Store,W,No,0,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,66,Leclair,32,66,75,Pepin,Hattie,Head,F,W,51,Wd,,5,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1879,,French,Weaver,Mill,W,No,10,Yes,Yes,,O,F,H,,,,,1,given name unclear (Hattie?); immigration year may be 1877
+76-04B.jpg,76,04B,67,Leclair,,,,,Frank,Son,M,W,26,M1,1,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Barber,Shop,W,No,0,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,68,Leclair,,,,,Alida,Daughter-in-law,F,W,25,M1,1,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,French,None,,,,,Yes,Yes,,,,,,,,,1,immigration year may be 1894
+76-04B.jpg,76,04B,69,Leclair,36,67,76,Yandow,Arthur,Head,M,W,28,M1,9,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Mill,W,No,6,Yes,Yes,,O,M,H,,,,,0,
+76-04B.jpg,76,04B,70,Leclair,,,,,Josephina,Wife,F,W,27,M1,9,4,4,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Josephine
+76-04B.jpg,76,04B,71,Leclair,,,,,Lucile,Daughter,F,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-04B.jpg,76,04B,72,Leclair,,,,,Isabella,Daughter,F,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,No,No,No,,,,,,,,0,
+76-04B.jpg,76,04B,73,Leclair,,,,,Gertrude,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+76-04B.jpg,76,04B,74,Leclair,,,,,Theodora,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,given may be Theodore
+76-04B.jpg,76,04B,75,Leclair,40,68,77,Armstrong,James,Head,M,B,30,M1,2,,,Virginia,Virginia,Virginia,,,,,,English,Soldier,U.S. Army,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-04B.jpg,76,04B,76,Leclair,,,,,Carmina,Wife,F,Mu,22,M1,2,0,0,Philippine Islands,Philippine Islands,Philippine Islands,,,,,,Spanish,None,,,,,No,No,,,,,,,,,1,given may be Carmine
+76-04B.jpg,76,04B,77,Leclair,40,68,78,Connor,Jack,Head,M,B,27,M1,1,,,Virginia,Virginia,Virginia,,,,,,English,Soldier,U.S. Army,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number 68 overwritten/repeated for same house
+76-04B.jpg,76,04B,78,Leclair,,,,,Isadora,Wife,F,Mu,15,M1,1,1,1,Philippine Islands,Philippine Islands,Philippine Islands,,,,,,Spanish,None,,,,,No,No,No,,,,,,,,1,given may be Ipadora
+76-04B.jpg,76,04B,79,Leclair,,,,,Robin,Son,M,Mu,8/12,S,,,,Vermont,Virginia,Philippine Islands,,,,,,,None,,,,,,,,,,,,,,,0,
+76-04B.jpg,76,04B,80,Leclair,42,69,79,Barr,Edward,Head,M,B,54,M1,2,,,Virginia,Virginia,Virginia,,,,,,English,Soldier,U.S. Army,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-04B.jpg,76,04B,81,Leclair,,,,,Pauline,Wife,F,Mu,26,M1,2,0,0,Philippine Islands,Philippine Islands,Philippine Islands,,,,,,Spanish,None,,,,,No,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,82,Leclair,42,69,80,Green,Zeke,Head,M,B,40,M1,1,,,Virginia,Virginia,Virginia,,,,,,English,Soldier,U.S. Army,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten (may read 68); surname may be Grace; given unclear
+76-04B.jpg,76,04B,83,Leclair,,,,,B.,Wife,F,Mu,28,M1,1,0,0,Philippine Islands,Philippine Islands,Philippine Islands,,,,,,Spanish,None,,,,,No,No,,,,,,,,,0,
+76-04B.jpg,76,04B,84,Leclair,42,69,81,May,Clarke,Head,M,B,22,M1,4,,,Kentucky,Kentucky,Kentucky,,,,,,English,Soldier,U.S. Army,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten; surname may be Moy
+76-04B.jpg,76,04B,85,Leclair,,,,,Anne,Wife,F,Mu,19,M1,4,0,0,Philippine Islands,Philippine Islands,Philippine Islands,,,,,,Spanish,None,,,,,Yes,Yes,No,,,,,,,,0,stray mark in employer class column
+76-04B.jpg,76,04B,86,Leclair,48,69,82,Lemaire,Frank,Head,M,W,67,M1,44,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1850,Na,English,Machinist,Mill,W,No,0,Yes,Yes,,O,F,H,,,,,1,surname may be Lemoine; dwelling 69 repeats number used at house 42
+76-04B.jpg,76,04B,87,Leclair,,,,,Louise,Wife,F,W,60,M1,44,10,2,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,88,Leclair,,,,,Clara,Daughter,F,W,35,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,89,Leclair,,,,Crawley,Mrs. E.,Daughter,F,W,32,Wd,,3,3,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,90,Leclair,,,,,Hazel,Granddaughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-04B.jpg,76,04B,91,Leclair,,,,,Paul,Grandson,M,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-04B.jpg,76,04B,92,Leclair,,,,,Madeline,Granddaughter,F,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-04B.jpg,76,04B,93,Leclair,,,,,Della,Daughter,F,W,19,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Sewing,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,surname dittoed under Crawley but daughter of head (likely Lemaire)
+76-04B.jpg,76,04B,94,Leclair,,,,,George,Son,M,W,29,M1,3,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Weaving,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-04B.jpg,76,04B,95,Leclair,,,,,Emma,Daughter-in-law,F,W,28,M1,3,0,0,Canada (Eng),Canada (Eng),Canada (Eng),English,English,English,1907,,English,Weaving,Mill,W,No,0,Yes,Yes,,,,,,,,,1,birthplaces written Canada Eng over struck Nova Scotia
+76-04B.jpg,76,04B,96,Leclair,54,70,83,Bissonette,John,Head,M,W,54,M1,38,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1873,Na,English,Carpenter,Screen shop,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-04B.jpg,76,04B,97,Leclair,,,,,,Wife,F,W,54,M1,38,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name not written
+76-04B.jpg,76,04B,98,Leclair,60,71,84,Devino,Mrs. Edw.,Head,F,W,54,Wd,,6,5,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname may be Devins
+76-04B.jpg,76,04B,99,Leclair,,,,,Arthur,Son,M,W,17,S,,,,Vermont,Vermont,New York,,,,,,English,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,0,

@@ -58,7 +58,10 @@ dumb. There is no birth month or year on this form.
 
 - `image` = PAGE.jpg, `ed` = the page's enumeration district (the part of PAGE before the dash), `sheet` = \
 the part after the dash (e.g. 04B), `line` = printed line number.
-- `street`: from the vertical street column, written on **every** row (e.g. {streets}). Bare name, no "St".
+- `street`: from the vertical street column, written on **every** row. Bare name, no "St". Streets in this \
+town include {streets}. The street names are hurried cursive, so before writing a name that isn't on this list, \
+check whether it is a misreading of one that is (e.g. "Nartle Sh" is North St). If the street is still unclear, \
+say so in `notes` on the first row of that street only, not on every row.
 - `house_num`: only on the first row of a dwelling that has one; blank otherwise. Read these carefully: they \
 are what places each household on the map. The STREET image also shows the house number column next to the \
 printed line numbers.

@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-02B.jpg,76,02B,51,Union,46,29,32,Turner,James A.,Head,M,W,33,M1,15,,,Vermont,England,Ireland,,English,English,,,English,Finisher,,W,Yes,0,Yes,Yes,,O,F,H,,,,,1,"street written like 'Uunion Street', read as Union; industry unreadable (looks like Dresde); out of work reads yes"
+76-02B.jpg,76,02B,52,Union,,,,,Flora,Wife,F,W,32,M1,,3,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,53,Union,,,,,Madeline,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,54,Union,,,,,Mildred,Daughter,F,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name faint
+76-02B.jpg,76,02B,55,Union,,,,,Helen,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+76-02B.jpg,76,02B,56,Union,,,,Davey,Edward,Lodger,M,W,38,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,Al,English,Loomfixer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Davy
+76-02B.jpg,76,02B,57,Union,,,,Geary,Saddie,Lodger,F,W,32,S,,,,Vermont,Ireland,Ireland,,English,English,,,English,Teacher,School,W,No,16,Yes,Yes,,,,,,,,,1,surname overwritten
+76-02B.jpg,76,02B,58,Union,49,30,33,Desautelot,Adelard,Head,M,W,39,M1,8,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,Na,English,Plumber,Outside,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Desautels; ownership mark unclear
+76-02B.jpg,76,02B,59,Union,,,,,Emma,Wife,F,W,28,M1,8,5,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,60,Union,,,,,Alfred,Son,M,W,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,1,school entry faint
+76-02B.jpg,76,02B,61,Union,,,,,Ernest,Son,M,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+76-02B.jpg,76,02B,62,Union,,,,,Yvonne,Daughter,F,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+76-02B.jpg,76,02B,63,Union,,,,,Elias,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given name unclear
+76-02B.jpg,76,02B,64,Union,,,,,Lucille,Daughter,F,W,8/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,
+76-02B.jpg,76,02B,65,Spring,58,31,34,Bourgault,Clement,Head,M,W,57,M1,35,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Al,French,Watchman,Mill,W,No,0,No,No,,O,M,H,,,,,1,"street not written for lines 65-76; lines 77-85 show only 'S... Street', read as Spring (could be another S street); surname may be Bourgeault; house number faint"
+76-02B.jpg,76,02B,66,Spring,,,,,Rose,Wife,F,W,51,M1,35,12,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,67,Spring,,,,,Joseph,Son,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Al,English,Operative,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-02B.jpg,76,02B,68,Spring,,,,,Henry,Son,M,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,,English,Operative,Mill,W,No,4,Yes,Yes,No,,,,,,,,0,
+76-02B.jpg,76,02B,69,Spring,,,,,Arthur,Son,M,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Operative,Mill,W,No,4,Yes,Yes,No,,,,,,,,0,
+76-02B.jpg,76,02B,70,Spring,,,,,Theodore,Son,M,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,71,Spring,,,,,Alfred,Son,M,W,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,72,Spring,56,32,35,Lavigne,Joseph W.,Head,M,W,66,M2,38,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1858,Na,English,Own income,,,,,Yes,Yes,,O,M,H,,,,,1,surname written like Laviyne
+76-02B.jpg,76,02B,73,Spring,,,,,Mary,Wife,F,W,66,M1,38,7,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1858,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,74,Spring,,,,Daniel,Arthur,Lodger,M,W,21,S,,,,Vermont,Vermont,Vermont,,,,,,English,Engineer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,75,Spring,,,,Bernier,Leo,Lodger,M,W,23,S,,,,Vermont,Vermont,Vermont,,,,,,English,Shipper,Screen shop,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+76-02B.jpg,76,02B,76,Spring,,,,Nichols,Louis,Lodger,M,W,25,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Mason,Brick,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Nicols
+76-02B.jpg,76,02B,77,Spring,52,33,36,Corron,Louis,Head,M,W,62,M1,46,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1850,Na,English,Wheelwright,Fort Ethan Allen,W,No,0,Yes,Yes,,O,M,H,,,,,1,surname may be Carron
+76-02B.jpg,76,02B,78,Spring,,,,,Mary L.,Wife,F,W,56,M1,46,9,4,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Dressmaking,At home,W,No,0,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,79,Spring,,,,,Hubert,Son,M,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,80,Spring,,,,,Wilfrid,Son,M,W,23,M1,4,2,2,Vermont,Canada (Fr),Vermont,,French,,,,English,Spinner,Mill,W,,,Yes,Yes,,,,,,,,,0,children born/living 2 2 written on male row
+76-02B.jpg,76,02B,81,Spring,48,34,37,Smith,Maurice,Head,M,W,39,M1,14,,,Vermont,Vermont,Vermont,,,,,,English,Machinist,Machine shop,W,No,1,Yes,Yes,,O,F,H,,,,,0,
+76-02B.jpg,76,02B,82,Spring,,,,,Ellen,Wife,F,W,40,M1,14,2,2,Vermont,Ireland,Ireland,,English,English,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,83,Spring,,,,,Mary,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,84,Spring,,,,,Helen M.,Daughter,F,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,85,Spring,,,,Traver,Harriet,Lodger,F,W,74,Wd,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,surname may be Graver
+76-02B.jpg,76,02B,86,Platt,40,35,38,Dyke,William,Head,M,W,44,M1,22,,,Vermont,Vermont,Vermont,,,,,,English,Machinist,Machine shop,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-02B.jpg,76,02B,87,Platt,,,,,Minnie,Wife,F,W,44,M1,22,2,1,New York,New York,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,88,Platt,,,,,Loretta,Daughter,F,W,15,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,89,Platt,34,36,39,Allard,Christopher,Head,M,W,52,M1,32,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Clerk & Treas.,Town,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-02B.jpg,76,02B,90,Platt,,,,,Zoa,Wife,F,W,50,M1,32,9,5,Canada (Fr),Canada (Fr),Ireland,French,French,English,1870,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,91,Platt,,,,,Frank,Son,M,W,30,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,92,Platt,,,,,Julian,Son,M,W,28,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Advertiser,Newspaper,W,No,0,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,93,Platt,,,,,Mary,Daughter,F,W,24,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,94,Platt,,,,,Zoa,Daughter,F,W,21,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Bookkeeper,Office,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-02B.jpg,76,02B,95,Platt,,,,,William,Son,M,W,18,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,96,Platt,20,37,40,Lavalle,Alfred,Head,M,W,41,M1,20,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,Na,English,Teamster,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,house number may be 30
+76-02B.jpg,76,02B,97,Platt,,,,,Emma,Wife,F,W,40,M1,20,3,3,Vermont,Germany,Vermont,,German,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-02B.jpg,76,02B,98,Platt,,,,,Charles,Son,M,W,19,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-02B.jpg,76,02B,99,Platt,,,,,Florence,Daughter,F,W,18,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,No,,,,,,,,1,father birthplace corrected from Vermont to Canada Fr
+76-02B.jpg,76,02B,100,Platt,,,,,Earl,Son,M,W,16,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,

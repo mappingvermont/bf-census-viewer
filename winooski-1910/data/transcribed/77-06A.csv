@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-06A.jpg,77,06A,1,Union,54,95,95,Turner,Edward,Head,M,W,37,M1,14,,,New York,England,Ireland,,English,English,,,English,Painter,House,W,No,16,Yes,Yes,,O,M,H,,,,,0,
+77-06A.jpg,77,06A,2,Union,,,,,Marguerite,Wife,F,W,34,M1,14,2,2,Vermont,Canada (Fr),Ireland,,French,English,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given unclear (Marguette?)
+77-06A.jpg,77,06A,3,Union,,,,,Francis,Daughter,F,W,13,S,,,,Vermont,New York,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06A.jpg,77,06A,4,Union,,,,,Geraldine,Daughter,F,W,9,S,,,,Vermont,New York,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06A.jpg,77,06A,5,Union,56,96,96,Turner,Richard,Head,M,W,67,M1,41,,,England,England,England,English,English,English,1850,,English,None,Own income,,,,Yes,Yes,,O,F,H,,,,,0,
+77-06A.jpg,77,06A,6,Union,,,,,Elizabeth,Wife,F,W,65,M1,41,6,5,Ireland,Ireland,Ireland,English,English,English,1853,,English,None,,,,,Yes,Yes,,,,,,,,,1,immigration year partly unclear
+77-06A.jpg,77,06A,7,Union,,,,,Elizabeth,Daughter,F,W,33,S,,,,Vermont,England,Ireland,,English,English,,,English,Weaver,Woolen mill,W,No,6,Yes,Yes,,,,,,,,,1,age may be 23
+77-06A.jpg,77,06A,8,Union,,,,,Nellie,Daughter,F,W,28,S,,,,Vermont,England,Ireland,,English,English,,,English,Bookkeeper,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,9,Union,,,,,Katie,Daughter,F,W,26,S,,,,Vermont,England,Ireland,,English,English,,,English,Teacher,School,W,No,12,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,10,Union,60,97,97,Lamountain,Julia,Head,F,W,58,Wd,,8,6,New York,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+77-06A.jpg,77,06A,11,Union,,,,,Helen,Daughter,F,W,25,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Weaver,Woolen mill,W,No,3,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,12,Union,76,98,98,Bourgois,Jeremie,Head,M,W,62,M1,37,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,French,Laborer,Woolen mill,W,No,12,Yes,Yes,,R,,H,,,,,1,given name unclear (Jerusale?)
+77-06A.jpg,77,06A,13,Union,,,,,Delphine,Wife,F,W,58,M1,37,16,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,14,Union,,,,,Josephine,Daughter,F,W,36,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Weaver,Woolen mill,W,No,4,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,15,Union,,,,,Caroline,Daughter,F,W,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,Weaver,Woolen mill,W,No,1,Yes,Yes,,,,,,,,,1,weeks unemployed unclear
+77-06A.jpg,77,06A,16,Union,,,,,Victoria,Daughter,F,W,26,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,Weaver,Woolen mill,W,No,10,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,17,Union,,,,,Amede,Son,M,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,Weaver,Woolen mill,W,No,5,Yes,Yes,Yes,,,,,,,,1,given name faint
+77-06A.jpg,77,06A,18,Union,,,,,George,Son,M,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06A.jpg,77,06A,19,Union,76 1/2,99,99,Miser,Alice,Head,F,W,55,Wd,,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,"""Mrs"" written after given; surname may be Miner"
+77-06A.jpg,77,06A,20,Union,,,,Corrier,Julia,Mother,F,W,80,Wd,,11,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1868,,French,None,,,,,Yes,Yes,,,,,,,,,1,"""Mrs"" written after given; surname may be Carrier; immigration year unclear"
+77-06A.jpg,77,06A,21,Union,,,,,Louis,Brother,M,W,48,Wd,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Salesman,Travelling,W,No,0,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,22,Union,86,100,100,Mongeon,George,Head,M,W,29,M1,6,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Meat cutter,Meat market,W,No,5,Yes,Yes,,O,M,H,,,,,0,
+77-06A.jpg,77,06A,23,Union,,,,,Celia,Wife,F,W,25,M1,6,2,2,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,24,Union,,,,,Isabelle,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,25,Union,,,,,Maurice,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,26,Union,,,,Dubuc,Ida,Boarder,F,W,19,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,12,Yes,Yes,Yes,,,,,,,,1,surname unclear (Dubois?)
+77-06A.jpg,77,06A,27,Union,89,101,101,Gusmain,Ernest,Head,M,W,32,M1,7,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Mill man,,OA,,,Yes,Yes,,R,,H,,,,,1,surname may be Germain
+77-06A.jpg,77,06A,28,Union,,,,,Albina,Wife,F,W,30,M1,7,3,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,29,Union,,,,,Adelard,Son,M,W,5,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,30,Union,,,,,Maurice,Son,M,W,4,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,31,Union,,,,,Lucile,Daughter,F,W,2,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,32,Union,89R,102,102,Germain,Jacob,Head,M,W,33,M1,5,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,Al,English,Carpenter,Woolen mill,W,No,0,Yes,Yes,,R,,H,,,,,1,house number 89 R (rear); immigration year unclear
+77-06A.jpg,77,06A,33,Union,,,,,Regina,Wife,F,W,24,M1,5,4,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,,French,None,,,,,Yes,Yes,,,,,,,,,1,immigration year unclear
+77-06A.jpg,77,06A,34,Union,,,,,Albert,Son,M,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,35,Union,,,,,Cecile,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,36,Union,,,,,Henry,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,37,Union,,,,,Edgar,Son,M,W,1/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age may be 1/2
+77-06A.jpg,77,06A,38,Leclair,9,103,103,Isabourd,Samuel,Head,M,W,26,M1,1,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1898,Na,French,Weaver,Woolen mill,W,No,4,Yes,Yes,,R,,H,,,,,1,surname unclear (Trafourd?); street written Leclair Ave
+77-06A.jpg,77,06A,39,Leclair,,,,,Alice,Wife,F,W,26,M1,1,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,40,Leclair,9,103,104,Mercure,Adelard,Head,M,W,,M1,4,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1896,Na,French,Weaver,Woolen mill,W,No,2,Yes,Yes,,R,,H,,,,,1,age obscured by ink blot (2?); surname unclear (Mirrire?); given may be Delard
+77-06A.jpg,77,06A,41,Leclair,,,,,Lucianna,Wife,F,W,32,M1,4,4,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-06A.jpg,77,06A,42,Leclair,,,,,Jean,Daughter,F,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,43,Leclair,,,,,Eva,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06A.jpg,77,06A,44,Leclair,,,,,Anita,Daughter,F,W,1/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age may be 1/2
+77-06A.jpg,77,06A,45,Leclair,15,104,105,Dennis,Phillip,Head,M,W,85,M1,48,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,31,Na,French,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname unclear (Demers?); immigration year written 31; ownership may be R
+77-06A.jpg,77,06A,46,Leclair,,,,,Sophia,Wife,F,W,75,M1,48,9,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,31,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Sofhia; immigration year written 31
+77-06A.jpg,77,06A,47,Leclair,,,,Tabellee,Clara,Daughter,F,W,31,M1,14,4,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,31,,English,None,,,,,Yes,Yes,,,,,,,,,1,surname unclear (Tabelle?); immigration year written 31
+77-06A.jpg,77,06A,48,Leclair,,,,,Philip,Son-in-law,M,W,32,M1,14,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,16,Na,English,Carpenter,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,1,immigration year written 16
+77-06A.jpg,77,06A,49,Leclair,,,,,Eva,Grandchild,F,W,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06A.jpg,77,06A,50,Leclair,,,,,Mary,Grandchild,F,W,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,

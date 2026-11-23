@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-26A.jpg,77,26A,1,Weaver,83,433,433,Provost,Alphonse,Head,M,W,27,M1,1,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen shop,W,No,2,Yes,Yes,,R,,H,,,,,1,street name in vertical column hard to read (Weaver?); dwelling/family numbers faint (433?); age may be 28
+77-26A.jpg,77,26A,2,Weaver,,,,,Emma,Wife,F,W,21,M1,1,0,0,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,age faint
+77-26A.jpg,77,26A,3,Weaver,,,,,Agnes,Mother,F,W,63,Wd,,9,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1881,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear; age and immigration year faint; literacy may be No
+77-26A.jpg,77,26A,4,Weaver,,,,,Flora,Sister,F,W,23,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Warper,Cotton mill,W,No,2,Yes,Yes,,,,,,,,,1,age faint
+77-26A.jpg,77,26A,5,Weaver,81,434,434,Beaudoin,Severin,Head,M,W,40,M1,21,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,Al,English,Weaver,Woolen mill,W,No,10,Yes,Yes,,R,,H,,,,,1,surname may be Brandon; given name unclear; dwelling/family numbers faint; literacy may be No
+77-26A.jpg,77,26A,6,Weaver,,,,,Adelaide,Wife,F,W,38,M1,21,13,11,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Adelaise; children counts faint
+77-26A.jpg,77,26A,7,Weaver,,,,,Severin,Son,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,Doffer,Cotton mill,W,No,2,Yes,Yes,Yes,,,,,,,,1,given name unclear; occupation unclear
+77-26A.jpg,77,26A,8,Weaver,,,,,Armanda,Daughter,F,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,Spinner,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,1,occupation unclear; weeks unclear
+77-26A.jpg,77,26A,9,Weaver,,,,,Estelle,Daughter,F,W,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-26A.jpg,77,26A,10,Weaver,,,,,Alma,Daughter,F,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Elina
+77-26A.jpg,77,26A,11,Weaver,,,,,Eva,Daughter,F,W,11,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-26A.jpg,77,26A,12,Weaver,,,,,Wilfred,Son,M,W,10,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-26A.jpg,77,26A,13,Weaver,,,,,Napoleon,Son,M,W,8,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name partly struck/unclear
+77-26A.jpg,77,26A,14,Weaver,,,,,Rodolphe,Son,M,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,,,Yes,,,,,,,,1,given may be Randolphe; immigration year may be 1903
+77-26A.jpg,77,26A,15,Weaver,,,,,Amedee,Son,M,W,4,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,,,,,,,,,,,1,given name illegible (Amedee?)
+77-26A.jpg,77,26A,16,Weaver,,,,,Gaudiose,Son,M,W,3,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,,,,,,,,,,,1,given may be Gaudious
+77-26A.jpg,77,26A,17,Weaver,,,,,Dora,Daughter,F,W,1 4/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,given may be Lura; age unclear
+77-26A.jpg,77,26A,18,Weaver,77,435,435,Bissonette,Joseph,Head,M,W,23,M1,4,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mill,W,No,2,Yes,Yes,,R,,H,,,,,1,surname may be Bissonnette
+77-26A.jpg,77,26A,19,Weaver,,,,,Genevieve,Wife,F,W,20,M1,4,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-26A.jpg,77,26A,20,Weaver,,,,,Raymond,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-26A.jpg,77,26A,21,Weaver,,,,,Louis,Son,M,W,1 2/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,given name unclear; age unclear
+77-26A.jpg,77,26A,22,Weaver,,,,Primeau,Joseph,Father-in-law,M,W,48,M1,23,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1868,Na,English,None,,,,,No,No,,,,,,,,,1,surname and given unclear; age and immigration year faint
+77-26A.jpg,77,26A,23,Weaver,,,,,Julia,Mother-in-law,F,W,41,M1,23,14,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,,French,None,,,,,No,No,,,,,,,,,1,age and children counts faint
+77-26A.jpg,77,26A,24,Weaver,,,,Barron,Clara,Sister-in-law,F,W,25,M1,8,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Warper,Woolen mill,W,Yes,13,Yes,Yes,,,,,,,,,1,age faint; weeks unemployed unclear
+77-26A.jpg,77,26A,25,Weaver,69,436,436,Willette,Fred,Head,M,W,51,M2,16,,,New York,New York,New York,,,,,,French,Soap maker,Woolen mill,W,No,1,Yes,Yes,,,,,,,,,1,given name unclear; ownership columns obscured by code marks
+77-26A.jpg,77,26A,26,Weaver,,,,,Marguerite,Wife,F,W,35,M1,16,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-26A.jpg,77,26A,27,Weaver,,,,,Herman,Son,M,W,8,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-26A.jpg,77,26A,28,Weaver,,,,,Carl,Son,M,W,5,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-26A.jpg,77,26A,29,Weaver,,437,437,Brosseau,Isaac,Head,M,W,52,M1,36,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,Al,French,Laborer,Woolen mill,W,No,0,Yes,Yes,,O,F,H,,,,,1,ownership marks unclear
+77-26A.jpg,77,26A,30,Weaver,,,,,Elodie,Wife,F,W,58,M1,36,12,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Ilidie
+77-26A.jpg,77,26A,31,Weaver,,,,,Mathilde,Daughter,F,W,23,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear; age faint
+77-26A.jpg,77,26A,32,Weaver,,,,,Vincent,Son,M,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,English,Laborer,Woolen mill,W,Yes,1,Yes,Yes,Yes,,,,,,,,1,weeks unemployed faint
+77-26A.jpg,77,26A,33,Weaver,,,,Desautels,Mary,Daughter,F,W,21,M1,2,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,English,Weaver,Woolen mill,W,No,6,Yes,Yes,,,,,,,,,1,surname unclear
+77-26A.jpg,77,26A,34,Weaver,,,,,Rodrigue,Son-in-law,M,W,21,M1,2,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Millwright,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+77-26A.jpg,77,26A,35,Weaver,,,,Provost,Paul,Boarder,M,W,19,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Woolen mill,W,No,2,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-26A.jpg,77,26A,36,Weaver,59,438,438,Santaria,Stanislas,Head,M,W,32,M1,15,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,Al,English,Laborer,Woolen mill,W,No,12,Yes,Yes,,O,M,H,,,,,1,surname may be Santoro; given unclear; ownership marks unclear
+77-26A.jpg,77,26A,37,Weaver,,,,,Santora,Wife,F,W,33,M1,15,7,6,Italy,Italy,Italy,Italian,Italian,Italian,1905,,Italian,None,,,,,No,No,,,,,,,,,1,literacy marks unclear
+77-26A.jpg,77,26A,38,Weaver,,,,,Nellie,Daughter,F,W,11,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-26A.jpg,77,26A,39,Weaver,,,,,Phillip,Son,M,W,8,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-26A.jpg,77,26A,40,Weaver,,,,,Tony,Son,M,W,5,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,,English,None,,,,,,,Yes,,,,,,,,1,given name unclear
+77-26A.jpg,77,26A,41,Weaver,,,,,Ester,Daughter,F,W,3,S,,,,Vermont,Italy,Italy,,Italian,Italian,,,Italian,None,,,,,,,,,,,,,,,0,
+77-26A.jpg,77,26A,42,Weaver,,,,,Madeline,Daughter,F,W,1/12,S,,,,Vermont,Italy,Italy,,Italian,Italian,,,,None,,,,,,,,,,,,,,,1,age unclear
+77-26A.jpg,77,26A,43,Weaver,,,,Pagano,Tony,Boarder,M,W,22,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,Al,English,Laborer,Woolen mill,W,No,3,Yes,Yes,,,,,,,,,1,surname may be Pegan
+77-26A.jpg,77,26A,44,Weaver,,,,Dimaso,Joseph,Boarder,M,W,29,M1,7,,,Italy,Italy,Italy,Italian,Italian,Italian,1907,Al,English,Laborer,Woolen mill,W,Yes,11,Yes,Yes,,,,,,,,,1,surname unclear (Demas?)
+77-26A.jpg,77,26A,45,Weaver,,,,Corbi,Dominic,Boarder,M,W,27,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1907,Al,Italian,Laborer,Woolen mill,W,No,1,Yes,Yes,,,,,,,,,1,given written Dommund?; immigration year last digit unclear
+77-26A.jpg,77,26A,46,Weaver,,,,Spucciniari,Domenico,Boarder,M,W,31,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,Al,English,Laborer,Woolen mill,W,Yes,1,Yes,Yes,,,,,,,,,1,surname illegible; given may be Domenicino
+77-26A.jpg,77,26A,47,Weaver,,,,Sangaliana,Gabriele,Boarder,M,W,27,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,Al,English,Laborer,Woolen mill,W,Yes,10,Yes,Yes,,,,,,,,,1,surname unclear
+77-26A.jpg,77,26A,48,Weaver,51,439,439,Frays,Fred,Head,M,W,44,M1,18,,,New York,New York,Canada (Fr),,,French,,,English,Painter,Furniture store,W,No,0,Yes,Yes,,,,,,,,,1,surname and given unclear; age faint; ownership columns obscured by code marks
+77-26A.jpg,77,26A,49,Weaver,,,,,Clara,Wife,F,W,43,M1,18,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,age and children counts faint

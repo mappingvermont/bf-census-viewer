@@ -1,0 +1,39 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-15A.jpg,76,15A,1,West Canal,24,207,261,Mongeon,William,Head,M,W,37,M1,15,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,R,,H,,,,,1,surname may be Mungeon
+76-15A.jpg,76,15A,2,West Canal,,,,,Elva,Wife,F,W,37,M1,15,2,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Elmira
+76-15A.jpg,76,15A,3,West Canal,,,,,Rita,Daughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-15A.jpg,76,15A,4,West Canal,,,,Stone,Lizzie,Sister-in-law,F,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,Yes,Yes,No,,,,,,,,1,age unclear (10/16/18)
+76-15A.jpg,76,15A,5,West Canal,,,,Farrell,James,Lodger,M,W,73,Wd,,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1858,Na,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,immigration year may be 1853
+76-15A.jpg,76,15A,6,West Canal,,,,Murphy,Richard,Lodger,M,W,42,S,,,,Connecticut,Ireland,Massachusetts,,Irish,,,,English,Spinner,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,7,West Canal,,,,Smith,Clarence,Lodger,M,W,54,S,,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,8,West Canal,,,,King,Charles,Lodger,M,W,26,S,,,,Massachusetts,Canada (Eng),New York,,English,,,,English,Spinner,Mill,W,No,0,Yes,Yes,,,,,,,,,1,father tongue Eng written over French
+76-15A.jpg,76,15A,9,West Canal,,,,Pollard,Arthur,Lodger,M,W,39,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,Na,English,Spinner,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,10,West Canal,,,,Cantara,Amos,Lodger,M,W,38,S,,,,Wisconsin,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,11,West Canal,,,,Donigian,Manuog,Lodger,M,W,25,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Armenian,Armenian,Armenian,1907,Al,Armenian,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear (Manuoj/Manouk); age unclear
+76-15A.jpg,76,15A,12,West Canal,,,,McClure,George,Lodger,M,W,45,S,,,,Vermont,Ireland,New York,,English,,,,English,Spinner,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be McCluer; occupation appears struck through
+76-15A.jpg,76,15A,13,West Canal,,,,McCarthy,John C.,Lodger,M,W,37,S,,,,Vermont,Ireland,Ireland,,English,Irish,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,14,West Canal,,,,Chasavant,William,Lodger,M,W,43,Wd,,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinning,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain; children 2 2 written on male row; stray mark in house number column
+76-15A.jpg,76,15A,15,West Canal,,,,,Paul,Lodger,M,W,15,S,,,,Massachusetts,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-15A.jpg,76,15A,16,West Canal,,,,Nelson,John,Lodger,M,W,42,S,,,,Rhode Island,Ireland,Ireland,,Irish,Irish,,,English,Shear,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,17,West Canal,,,,Cary,George,Lodger,M,W,33,S,,,,Vermont,Vermont,Vermont,,,,,,English,Finishing,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,18,West Canal,,,,Minor,Frank,Lodger,M,W,17,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Picking,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,surname reading uncertain
+76-15A.jpg,76,15A,19,West Canal,,,,Wager,Frank,Lodger,M,W,18,S,,,,Massachusetts,Germany,Germany,,German,German,,,English,Weaving,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-15A.jpg,76,15A,20,West Canal,,,,Menard,Joseph,Lodger,M,W,30,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1896,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Minard
+76-15A.jpg,76,15A,21,West Canal,,,,Deforge,Philip,Lodger,M,W,40,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given name faint
+76-15A.jpg,76,15A,22,West Canal,,,,Labarre,Wilfrid,Lodger,M,W,26,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-15A.jpg,76,15A,23,West Canal,,,,Minihan,John,Lodger,M,W,45,S,,,,Connecticut,Ireland,Ireland,,Irish,Irish,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-15A.jpg,76,15A,24,West Canal,,,,Butler,Dominick,Lodger,M,W,31,S,,,,Russia,Russia,Russia,Russian,Russian,Russian,1896,Al,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,25,West Canal,,,,Godsill,John,Lodger,M,W,30,M1,4,,,New Hampshire,Ireland,Ireland,,Irish,Irish,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-15A.jpg,76,15A,26,West Canal,,,,,Millie,Lodger,F,W,27,M1,4,4,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Servant,Boarding house,W,No,0,Yes,Yes,,,,,,,,,1,children born may be 1
+76-15A.jpg,76,15A,27,West Canal,,,,Dupratt,Anna,Lodger,F,W,18,S,,,,Vermont,Vermont,Vermont,,,,,,French,Servant,Boarding house,W,No,0,Yes,Yes,No,,,,,,,,1,surname may be Pratt with Du prefix
+76-15A.jpg,76,15A,28,West Canal,,,,Bagdadi,David,Lodger,M,W,38,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Syrian,Syrian,Syrian,1896,Al,Syrian,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,Syria struck and Turkey in Asia written above; surname may be Baghdadi
+76-15A.jpg,76,15A,29,West Canal,,,,Demitry,Charles,Lodger,M,W,21,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Syrian,Syrian,Syrian,1905,Al,Syrian,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain (Dentry?); Syria struck and Turkey in Asia written above
+76-15A.jpg,76,15A,30,West Canal,,,,Giroux,Frank,Lodger,M,W,27,S,,,,Connecticut,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-15A.jpg,76,15A,31,West Canal,,,,Allard,Fred,Lodger,M,W,38,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Clerk,Store,W,No,0,Yes,Yes,,,,,,,,,1,George written above Fred
+76-15A.jpg,76,15A,32,West Canal,,,,Butler,William,Lodger,M,W,33,S,,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1882,Na,English,Carpenter,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,33,West Canal,,,,Brogan,Peter,Lodger,M,W,48,M1,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1864,Na,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain (Bogan?)
+76-15A.jpg,76,15A,34,West Canal,,,,Gill,Roy,Lodger,M,W,19,S,,,,Vermont,Vermont,Vermont,,,,,,English,Carpenter,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-15A.jpg,76,15A,35,West Canal,,,,Morgan,John,Lodger,M,W,30,S,,,,New York,Ireland,Ireland,,Irish,Irish,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,36,West Canal,,,,Davis,John,Lodger,M,W,24,S,,,,Massachusetts,New York,New York,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,entry faint; surname reading uncertain
+76-15A.jpg,76,15A,37,West Canal,,,,Harvey,Arthur,Lodger,M,W,29,S,,,,New York,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-15A.jpg,76,15A,38,West Canal,,,,Waters,John,Lodger,M,W,30,S,,,,New York,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,

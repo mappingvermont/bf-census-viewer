@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-24B.jpg,77,24B,51,West,13,456,456,Vilmaire,Edward,Head,M,W,31,M1,7,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Plumber,Shop,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Vilmaine
+77-24B.jpg,77,24B,52,West,,,,,Emma,Wife,F,W,29,M1,7,3,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-24B.jpg,77,24B,53,West,,,,,Ernest,Son,M,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,1,father/mother birthplace Can French overwritten with Vermont
+77-24B.jpg,77,24B,54,West,,,,,Geneva,Daughter,F,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,1,father/mother birthplace Can French overwritten with Vermont
+77-24B.jpg,77,24B,55,West,,,,,Blanche,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,father/mother birthplace Can French overwritten with Vermont
+77-24B.jpg,77,24B,56,West,13 1/2,457,457,Bashaw,Edward,Head,M,W,36,M1,8,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Loom fixer,Woolen mill,W,No,2,Yes,Yes,,R,,H,,,,,0,
+77-24B.jpg,77,24B,57,West,,,,,Alma,Wife,F,W,37,M1,8,3,3,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-24B.jpg,77,24B,58,West,,,,,Mildred,Daughter,F,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,59,West,,,,,Raymond,Son,M,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,60,West,,,,,Mary,Daughter,F,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-24B.jpg,77,24B,61,West,7,458,458,Potvin,Alphonse,Head,M,W,50,M2,22,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1874,Na,English,Carder,Cotton mill,W,No,2,Yes,No,,O,M,H,,,,,1,can read overwritten (Yes/No); ownership mark unclear
+77-24B.jpg,77,24B,62,West,,,,,Alish,Wife,F,W,51,M1,22,4,4,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Alice
+77-24B.jpg,77,24B,63,West,,,,,Florence,Daughter,F,W,19,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Spooler,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,64,West,,,,,Rose,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Spooler,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,65,West,,,,,Ernest,Son,M,W,15,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,66,West,,,,,Isaac,Son,M,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,67,West,27,469,469,Fountain,Dennis,Head,M,W,37,M1,11,,,New York,New York,New York,,,,,,English,Laborer,Woolen mill,W,No,2,No,No,,R,,H,,,,,1,surname may be Lafountain
+77-24B.jpg,77,24B,68,West,,,,,Katie,Wife,F,W,35,M1,11,7,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,No,No,,,,,,,,,0,
+77-24B.jpg,77,24B,69,West,,,,,Noah,Son,M,W,8,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,70,West,,,,,Mary,Daughter,F,W,7,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-24B.jpg,77,24B,71,West,,,,,Mary Louise,Daughter,F,W,2,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-24B.jpg,77,24B,72,West,,,,,Philomen,Daughter,F,W,1/12,S,,,,Vermont,New York,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear; given may be Philomene
+77-24B.jpg,77,24B,73,West,,,,,Aurore,Daughter,F,W,6,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,74,West,,,,,George,Brother,M,W,46,S,,,,New York,New York,New York,,,,,,English,Finisher,Woolen mill,W,No,4,Yes,Yes,,,,,,,,,0,
+77-24B.jpg,77,24B,75,West,,,,,Maxime,Father,M,W,69,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1867,Na,French,None,,,,,No,No,,,,,,,,,1,given may be Maxine
+77-24B.jpg,77,24B,76,West,31,470,470,Laferier,Henry,Head,M,W,80,M1,58,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1869,Na,French,None,,,,,No,No,,O,F,H,,,,,1,surname may be Lafrinier; dwelling/family written 4?0 read as 470
+77-24B.jpg,77,24B,77,West,,,,,Domitile,Wife,F,W,77,M1,58,13,10,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1869,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Domitille
+77-24B.jpg,77,24B,78,West,,,,Mongo,Josephine,Daughter,F,W,44,M1,8,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1869,,English,Weaver,Woolen mill,W,No,6,Yes,Yes,,,,,,,,,1,surname unclear (Mongeon? Mouge?)
+77-24B.jpg,77,24B,79,West,33,471,471,Laferier,Arthur,Head,M,W,37,M1,13,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Plumber,Woolen mill,W,No,1,Yes,Yes,,O,M,H,,,,,1,surname may be Lafrier; weeks unemployed may be 0
+77-24B.jpg,77,24B,80,West,,,,,Elizabeth,Wife,F,W,34,M1,13,8,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Na,English,None,,,,,Yes,Yes,,,,,,,,,1,given written Elizabette
+77-24B.jpg,77,24B,81,West,,,,,Roland,Son,M,W,12,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,82,West,,,,,Irene,Daughter,F,W,10,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,83,West,,,,,Archile,Son,M,W,8,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Archille
+77-24B.jpg,77,24B,84,West,,,,,Alfred,Son,M,W,6,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,85,West,,,,,Homer,Son,M,W,5,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,1,age may be 3; small mark in school column
+77-24B.jpg,77,24B,86,West,,,,,Florida,Daughter,F,W,2,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,1,given may be Floroda
+77-24B.jpg,77,24B,87,West,,,,,Mary Ann,Daughter,F,W,7/12,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-24B.jpg,77,24B,88,West,45,472,472,Lusby,James,Head,M,W,38,M1,12,,,Tennessee,Vermont,Tennessee,,,,,,English,Teamster,Fort Ethan Allen,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Lusky; industry reading uncertain
+77-24B.jpg,77,24B,89,West,,,,,Georgianna,Wife,F,W,30,M1,12,5,4,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-24B.jpg,77,24B,90,West,,,,,Rena,Daughter,F,W,11,S,,,,Vermont,Tennessee,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,91,West,,,,,Allen,Son,M,W,8,S,,,,Vermont,Tennessee,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,92,West,,,,,Mary,Daughter,F,W,2,S,,,,New York,Tennessee,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+77-24B.jpg,77,24B,93,West,,,,,Robert,Son,M,W,4/12,S,,,,New York,Tennessee,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-24B.jpg,77,24B,94,West,,,,Dubrat,Clara,Sister-in-law,F,W,33,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Sewer,Tailor shop,W,Yes,12,Yes,Yes,,,,,,,,,1,surname reading uncertain
+77-24B.jpg,77,24B,95,River,,473,473,Poirrier,John,Head,M,W,36,M2,7,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Fireman,Woolen mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+77-24B.jpg,77,24B,96,River,,,,,Clara,Wife,F,W,35,M1,7,4,4,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-24B.jpg,77,24B,97,River,,,,,May,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-24B.jpg,77,24B,98,River,,,,,Leo,Son,M,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,given may be Lew
+77-24B.jpg,77,24B,99,River,,,,,Florence,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-24B.jpg,77,24B,100,River,,,,,Wilfred,Son,M,W,5/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear

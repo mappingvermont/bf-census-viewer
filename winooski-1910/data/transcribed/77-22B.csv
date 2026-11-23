@@ -1,0 +1,48 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-22B.jpg,77,22B,51,Elm,54,367,367,Mattle,Philip,Head,M,W,30,M1,6,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,Al,English,Carpenter,Screen shop,W,No,6,Yes,Yes,,R,,,,,,,1,surname may be Martle; possible M mark in column 27
+77-22B.jpg,77,22B,52,Elm,,,,,Florence,Wife,F,W,30,M1,6,5,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1881,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-22B.jpg,77,22B,53,Elm,,,,,Edward,Son,M,W,5,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,54,Elm,,,,,Florian,Son,M,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given may be Floriam
+77-22B.jpg,77,22B,55,Elm,,,,,Arthur,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,age unclear (may be 4)
+77-22B.jpg,77,22B,56,Elm,,,,,Maurice,Son,M,W,1/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,
+77-22B.jpg,77,22B,57,Elm,,368,368,Lugal,Ozea,Head,M,W,25,M1,2,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,English,Spinner,Woolen mill,W,No,0,Yes,Yes,,R,,,,,,,1,surname may be Dugal or Duval; given name unclear; house number column has only a + mark
+77-22B.jpg,77,22B,58,Elm,,,,,Adrianna,Wife,F,W,22,M1,2,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Aldianna
+77-22B.jpg,77,22B,59,Elm,,,,Pilet,Almenzar,Head,M,W,25,M1,2,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Mason,Stone mason,W,No,12,Yes,Yes,,R,,,,,,,1,no family number written; surname may be Pillet or Piket
+77-22B.jpg,77,22B,60,Elm,,,,,Antoinette,Wife,F,W,26,M1,2,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-22B.jpg,77,22B,61,Elm,,,,,Emile,Son,M,W,8/12,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,,None,,,,,,,,,,,,,,,0,
+77-22B.jpg,77,22B,62,West,115,369,369,Julien,Dolphus,Head,M,W,48,M1,21,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Na,English,Mason,Stone mason,W,No,16,Yes,Yes,,O,F,,,,,,1,given may be Adolphus
+77-22B.jpg,77,22B,63,West,,,,,Virginia,Wife,F,W,42,M1,21,10,10,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+77-22B.jpg,77,22B,64,West,,,,,Delors,Son,M,W,19,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Woolen mill,W,No,12,Yes,Yes,Yes,,,,,,,,1,given may be Delore
+77-22B.jpg,77,22B,65,West,,,,,Joseph,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mill,W,No,40,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,66,West,,,,,Alfred,Son,M,W,15,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mill,W,No,52,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,67,West,,,,,Albi,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given unclear (Alli? Alice?)
+77-22B.jpg,77,22B,68,West,,,,,Helen,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,69,West,,,,,Henry,Son,M,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,70,West,,,,,Angelina,Daughter,F,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,1,given may be Angelica
+77-22B.jpg,77,22B,71,West,,,,,Simon,Son,M,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,72,West,,,,,Arthur,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age overwritten
+77-22B.jpg,77,22B,73,West,111,370,370,Delmaire,Frederick,Head,M,W,38,M1,15,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Boss spooler,Woolen mill,W,No,1,Yes,Yes,,R,,,,,,,1,family number may read 378; surname may be Velmaire
+77-22B.jpg,77,22B,74,West,,,,,Louisa,Wife,F,W,38,M1,15,6,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,English,None,,,,,Yes,Yes,,,,,,,,,1,immigration year written 180 (1880?)
+77-22B.jpg,77,22B,75,West,,,,,Theodore,Son,M,W,14,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,father birthplace overwritten (Can French to Vermont)
+77-22B.jpg,77,22B,76,West,,,,,Eli,Son,M,W,13,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,77,West,,,,,Yvonne,Daughter,F,W,10,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,78,West,,,,,Henry,Son,M,W,2,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-22B.jpg,77,22B,79,West,85 1/2,371,371,Byer,Alfred,Head,M,W,29,M1,2,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,Na,English,Teamster,Woolen mill,W,No,1,Yes,Yes,,R,,,,,,,1,house number unclear (85 1/2); surname may be Beyer
+77-22B.jpg,77,22B,80,West,,,,,Clara,Wife,F,W,19,M1,2,2,1,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,81,West,,,,,Beatrice,Daughter,F,W,9/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,
+77-22B.jpg,77,22B,82,West,108,372,372,Marcotte,Samuel,Head,M,W,58,M1,33,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1887,Pa,English,Carpenter,House,W,No,12,Yes,Yes,,O,F,,,,,,1,age may be 54
+77-22B.jpg,77,22B,83,West,,,,,Desalda,Wife,F,W,55,M1,33,12,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1887,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+77-22B.jpg,77,22B,84,West,,,,,Eugene,Son,M,W,32,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1887,,English,Laborer,Woolen mill,W,Yes,14,Yes,Yes,,,,,,,,,1,industry entry partly struck through
+77-22B.jpg,77,22B,85,West,,,,,Estelle,Daughter,F,W,23,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,8,Yes,Yes,,,,,,,,,0,
+77-22B.jpg,77,22B,86,West,,,,,Albina,Son,F,W,19,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,16,Yes,Yes,Yes,,,,,,,,1,relation written Son but sex F
+77-22B.jpg,77,22B,87,West,,,,,Sarah,Daughter,F,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spooler,Woolen mill,W,No,26,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,88,West,,,,,Maria,Daughter,F,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-22B.jpg,77,22B,89,West,84,373,373,Valley,George,Head,M,W,36,M1,14,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Manager,Theatre,Emp,,,Yes,Yes,,R,,,,,,,1,ownership mark unclear
+77-22B.jpg,77,22B,90,West,,,,,Maggie,Wife,F,W,36,M1,14,6,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-22B.jpg,77,22B,91,West,,,,,Arthur,Son,M,W,12,S,,,,Canada (Fr),Vermont,Canada (Fr),French,,French,1905,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,father birthplace overwritten (Can French to Vermont)
+77-22B.jpg,77,22B,92,West,,,,,Murial,Daughter,F,W,11,S,,,,Canada (Fr),Vermont,Canada (Fr),French,,French,1905,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,father birthplace overwritten
+77-22B.jpg,77,22B,93,West,,,,,Alice,Daughter,F,W,10,S,,,,Canada (Fr),Vermont,Canada (Fr),French,,French,1905,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,birthplace overwritten
+77-22B.jpg,77,22B,94,West,,,,,Agnes,Daughter,F,W,9,S,,,,Canada (Fr),Vermont,Canada (Fr),French,,French,1905,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,birthplace overwritten
+77-22B.jpg,77,22B,95,West,,,,,Evelyn,Daughter,F,W,7,S,,,,Canada (Fr),Vermont,Canada (Fr),French,,French,1905,,English,None,,,,,,,Yes,,,,,,,,1,birthplace overwritten
+77-22B.jpg,77,22B,96,West,,,,,Madeline,Daughter,F,W,4,S,,,,Canada (Fr),Vermont,Canada (Fr),French,,French,1906,,English,None,,,,,,,,,,,,,,,1,age overwritten; birthplace overwritten
+77-22B.jpg,77,22B,97,West,,,,,Homer,Brother,M,W,21,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Fireman,Railroad,W,No,14,Yes,Yes,,,,,,,,,0,

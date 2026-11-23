@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-22B.jpg,76,22B,51,East Center,81,274,282,Sheppard,Oscar,Head,M,W,56,M1,26,,,Canada (Fr),England,Canada (Fr),French,English,French,1870,Na,English,Polisher,Marble,W,No,0,Yes,Yes,,R,,H,,,,,1,"street written vertically as 'Center Street' with a word read as 'West' lower down; recorded as East Center (on list, within ED 76); surname may be Shappard; family may be 281"
+76-22B.jpg,76,22B,52,East Center,,,,,Mary,Wife,F,W,50,M1,26,8,3,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-22B.jpg,76,22B,53,East Center,,,,,Charles,Son,M,W,22,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Grading,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-22B.jpg,76,22B,54,East Center,,,,,Arthur,Son,M,W,19,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Grading,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-22B.jpg,76,22B,55,East Center,,,,,Albertine,Daughter,F,W,14,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-22B.jpg,76,22B,56,East Center,105,275,283,Labrecque,Napoleon,Head,M,W,43,M1,20,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,French,Laborer,Mill,W,Yes,14,Yes,Yes,,R,,H,,,,,1,surname reading uncertain (Labrecqui?); years married may be 26
+76-22B.jpg,76,22B,57,East Center,,,,,Mathilda,Wife,F,W,45,M1,20,10,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,No,No,,,,,,,,,1,given may be Mathilde
+76-22B.jpg,76,22B,58,East Center,,,,,Joseph,Son,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,Laborer,Mill,W,Yes,,Yes,Yes,No,,,,,,,,1,weeks unemployed obscured by ink blot
+76-22B.jpg,76,22B,59,East Center,,,,,Douglas,Son,M,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+76-22B.jpg,76,22B,60,East Center,,,,,Eva,Daughter,F,W,10,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-22B.jpg,76,22B,61,East Center,,,,,Edwilda,Daughter,F,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-22B.jpg,76,22B,62,East Center,,,,,Emelina,Daughter,F,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,,None,,,,,No,No,No,,,,,,,,1,given may be Emilina
+76-22B.jpg,76,22B,63,East Center,105,,284,Bourdeau,Zephire,Head,M,W,23,M1,2,,,Rhode Island,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Outside,W,,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (possibly 276); given name unclear; out of work obscured by ink blot
+76-22B.jpg,76,22B,64,East Center,,,,,Rosana,Wife,F,W,19,M1,2,0,0,Rhode Island,Canada (Fr),Canada (Fr),,French,French,,,French,Spooler,Mill,W,,0,Yes,Yes,No,,,,,,,,1,out of work obscured by ink blot; given may be Rosanna
+76-22B.jpg,76,22B,65,East Center,,,285,Demarest,George,Head,M,W,31,M1,7,,,New York,New York,New York,,,,,,English,Laborer,Excavating,W,,0,Yes,Yes,,R,,H,,,,,1,family number small and unclear; numbers 105 / 27? / 28? written on line 66 and crossed out; industry reading uncertain; out of work obscured by ink
+76-22B.jpg,76,22B,66,East Center,,,,,Ollie,Wife,F,W,26,M1,7,3,3,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,house 105 and crossed dwelling/family numbers written on this row; given and age unclear
+76-22B.jpg,76,22B,67,East Center,,,,,Marvina,Daughter,F,W,6,S,,,,Vermont,New York,Vermont,,,,,,,None,,,,,Yes,Yes,Yes,,,,,,,,1,write cell obscured by ink blot
+76-22B.jpg,76,22B,68,East Center,,,,,Elizabeth,Daughter,F,W,3,S,,,,Vermont,New York,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-22B.jpg,76,22B,69,East Center,,,,,Francis,Son,M,W,2/12,S,,,,Vermont,New York,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,given may be Frances; age fraction unclear (may be 4/12)
+76-22B.jpg,76,22B,70,East Center,141,276,286,Bessette,Stella,Head,F,W,39,D,,3,2,New York,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-22B.jpg,76,22B,71,East Center,,,,,Pearl,Daughter,F,W,12,S,,,,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-22B.jpg,76,22B,72,East Center,,,,,Oliver,Son,M,W,4,S,,,,New York,New York,New York,,,,,,,None,,,,,,,,,,,,,,,1,given name unclear (Iver?)
+76-22B.jpg,76,22B,73,East Center,,,,Wyatt,Josephine,Grandmother,F,W,54,M1,20,2,2,New York,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint/possibly struck; relation written over; age may be 84
+76-22B.jpg,76,22B,74,East Center,,,,,Martin,Father,M,W,59,M1,20,,,New York,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,relation unclear
+76-22B.jpg,76,22B,75,East Center,196,277,287,Fremeau,Alex,Head,M,W,47,M1,25,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Al,French,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,family number may be 281; years married may be 23
+76-22B.jpg,76,22B,76,East Center,,,,,Levina,Wife,F,W,40,M1,25,5,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-22B.jpg,76,22B,77,East Center,,,,McQuade,Ella,Daughter,F,W,22,M1,4,2,2,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,,,,,,,,,1,surname reading uncertain (McGrade?)
+76-22B.jpg,76,22B,78,East Center,,,,,Alfred,Son-in-law,M,W,27,M1,4,,,Vermont,Canada (Fr),Vermont,,French,,,,French,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-22B.jpg,76,22B,79,East Center,,,,,Yvonne,Granddaughter,F,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-22B.jpg,76,22B,80,East Center,,,,,Blanch,Granddaughter,F,W,2/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+76-22B.jpg,76,22B,81,East Center,,,,Fremeau,Blanch,Daughter,F,W,17,M1,1,0,0,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-22B.jpg,76,22B,82,East Center,,,,,William,Son-in-law,M,W,26,M1,1,,,Switzerland,,,,,,1907,,French,Filler,Mill,W,,,Yes,Yes,,,,,,,,,1,birthplace entries struck through and rewritten; person's birthplace possibly Switzerland; parents' entries illegible; out of work only a dot
+76-22B.jpg,76,22B,83,East Center,,,,,Florence,Daughter,F,W,7,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-22B.jpg,76,22B,84,East Center,198,278,288,Kirby,Alfred,Head,M,W,51,M1,30,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Spinner,Mill,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-22B.jpg,76,22B,85,East Center,,,,,Philomena,Wife,F,W,48,M1,30,6,6,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given written Philiman
+76-22B.jpg,76,22B,86,East Center,,,,,Minnie,Daughter,F,W,30,Wd,,2,2,Vermont,Vermont,Vermont,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-22B.jpg,76,22B,87,East Center,,,,,Bernadette,Granddaughter,F,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,relation written Daughter with Grand inserted
+76-22B.jpg,76,22B,88,East Center,,,,,Raymond,Grandson,M,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,1,relation written as Daughter Grand
+76-22B.jpg,76,22B,89,East Center,,,,Foot,Stella,Daughter,F,W,27,D,,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,surname unclear
+76-22B.jpg,76,22B,90,East Center,,,,,Gertrude,Granddaughter,F,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,Yes,,,,,,,,0,
+76-22B.jpg,76,22B,91,East Center,,,,Kirby,Dewey,Son,M,W,22,S,,,,Vermont,Vermont,Vermont,,,,,,English,Percher,Mill,W,No,0,Yes,Yes,,,,,,,,,1,father's birthplace overwritten (Can French to Vermont); age may be 12
+76-22B.jpg,76,22B,92,East Center,,,,,Irene,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,father's birthplace overwritten
+76-22B.jpg,76,22B,93,East Center,,,,,Carl,Adopted son,M,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,age may be 12
+76-22B.jpg,76,22B,94,East Center,,,,,Eugene,Son,M,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,father's birthplace overwritten
+76-22B.jpg,76,22B,95,East Center,,,,,Ruth,Daughter,F,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,Yes,Yes,Yes,,,,,,,,1,father's birthplace overwritten
+76-22B.jpg,76,22B,96,East Center,,281,291,Stapleton,James,Head,M,W,57,M1,28,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Superintendent,Street,W,No,0,Yes,Yes,,O,F,H,,,,,1,house number blotted (begins with 2); dwelling/family numbers out of sequence
+76-22B.jpg,76,22B,97,East Center,,,,,Katherine,Wife,F,W,56,M1,28,2,1,Ireland,Ireland,Ireland,Irish,Irish,Irish,1880,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-22B.jpg,76,22B,98,East Center,,,,,Maria,Daughter,M,W,24,S,,,,Vermont,Vermont,Ireland,,,Irish,,,English,Laborer,Paint shop,W,No,1,Yes,Yes,,,,,,,,,1,given unclear (Marrie?); sex M conflicts with relation Daughter; industry reading uncertain
+76-22B.jpg,76,22B,99,East Center,220,279,289,Larogin,Alfred,Head,M,W,32,M1,12,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname reading very uncertain; dwelling/family may read 274/283
+76-22B.jpg,76,22B,100,East Center,,,,,Doris,Wife,F,W,33,M1,12,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,

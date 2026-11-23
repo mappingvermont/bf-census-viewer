@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-16B.jpg,76,16B,51,Main,49,,273,Belfore,Eugene,Head,M,W,33,M1,13,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (possibly 202); surname may be Belfare
+76-16B.jpg,76,16B,52,Main,,,,,Clara,Wife,F,W,33,M1,13,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-16B.jpg,76,16B,53,Main,,,,,Eugene Jr.,Son,M,W,11,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-16B.jpg,76,16B,54,Main,,,,,Leopold,Son,M,W,8,S,,,,Canada (Fr),Canada (Fr),Vermont,French,French,,1905,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-16B.jpg,76,16B,55,Main,49,,274,Bordleau,Emma,Head,F,W,35,D,,7,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,None,,,,,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (202?); surname may be Bordeleau
+76-16B.jpg,76,16B,56,Main,,,,,Clara,Daughter,F,W,17,S,,,,Connecticut,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Mill,W,No,10,Yes,Yes,No,,,,,,,,0,
+76-16B.jpg,76,16B,57,Main,,,,,Jennette,Daughter,F,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,age may be 17
+76-16B.jpg,76,16B,58,Main,49,,275,Dubrule,Joel,Head,M,W,22,M1,3,,,Vermont,Vermont,Vermont,,,,,,French,Carpenter,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (202?); given may be Josef; ownership mark obscured by check
+76-16B.jpg,76,16B,59,Main,,,,,Angelina,Wife,F,W,22,M1,3,1,1,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-16B.jpg,76,16B,60,Main,,,,,Alice,Daughter,F,W,6/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-16B.jpg,76,16B,61,Main,,,,Grandbois,Rhelias,Lodger,M,W,24,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1898,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given may be Philias
+76-16B.jpg,76,16B,62,Main,,,,,Ezia,Lodger,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1898,Al,French,Sorter,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,given may be Elzia
+76-16B.jpg,76,16B,63,West Canal,,,,Deska,Ignat,Head,M,W,37,M1,15,,,Russia,Russia,Russia,Polish,Polish,Polish,1900,Al,Polish,Laborer,Mill,W,No,0,No,No,,R,,H,,,,,1,street read as West Canal; no dwelling or family numbers written for lines 63-73 (check marks only); given may be Ignatz
+76-16B.jpg,76,16B,64,West Canal,,,,,Frances,Wife,F,W,37,M1,15,2,2,Russia,Russia,Russia,Polish,Polish,Polish,1900,,Polish,None,,,,,No,No,,,,,,,,,0,
+76-16B.jpg,76,16B,65,West Canal,,,,,Annie,Daughter,F,W,10,S,,,,Russia,Russia,Russia,Polish,Polish,Polish,1900,,Polish,None,,,,,No,No,No,,,,,,,,0,
+76-16B.jpg,76,16B,66,West Canal,,,,,Francis,Daughter,F,W,7,S,,,,Russia,Russia,Russia,Polish,Polish,Polish,1906,Al,Polish,None,,,,,No,No,No,,,,,,,,1,immigration year corrected from 1908 to 1906
+76-16B.jpg,76,16B,67,West Canal,,,,Narkavick,John,Lodger,M,W,30,M1,3,,,Russia,Russia,Russia,Polish,Polish,Polish,1908,Al,Polish,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Markavick
+76-16B.jpg,76,16B,68,West Canal,,,,,Annie,Lodger,F,W,30,M1,3,0,0,Russia,Russia,Russia,Polish,Polish,Polish,1908,,Polish,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-16B.jpg,76,16B,69,West Canal,,,,Rolas,Andrew,Lodger,M,W,30,M1,1,,,Russia,Russia,Russia,Polish,Polish,Polish,1910,Al,Polish,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint
+76-16B.jpg,76,16B,70,West Canal,,,,,Sophie,Lodger,F,W,18,M1,1,0,0,Russia,Russia,Russia,Polish,Polish,Polish,1910,,Polish,Sewing,Mill,W,No,0,No,No,No,,,,,,,,0,
+76-16B.jpg,76,16B,71,West Canal,,,,,Andrew,Brother,M,W,25,S,,,,Russia,Russia,Russia,Polish,Polish,Polish,1910,Al,Polish,Laborer,Mill,W,No,0,No,No,,,,,,,,,0,
+76-16B.jpg,76,16B,72,West Canal,,,,,Sophie,Sister,F,W,22,S,,,,Russia,Russia,Russia,Polish,Polish,Polish,1910,,Polish,Laborer,Mill,W,No,10,No,No,,,,,,,,,0,
+76-16B.jpg,76,16B,73,West Canal,,,,Narkavicts,Annie,Sister,F,W,20,S,,,,Russia,Russia,Russia,Polish,Polish,Polish,1910,,Polish,Laborer,Mill,W,No,10,No,Yes,No,,,,,,,,1,surname may be Narkavich
+76-16B.jpg,76,16B,74,West Canal,137,203,276,Moisio,Charles,Head,M,W,22,M1,2,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1902,Al,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,ownership mark partly obscured by check
+76-16B.jpg,76,16B,75,West Canal,,,,,Annie,Wife,F,W,23,M1,2,1,1,Finland,Finland,Finland,Finnish,Finnish,Finnish,1902,,Finnish,None,,,,,Yes,Yes,,,,,,,,,0,
+76-16B.jpg,76,16B,76,West Canal,,,,,Ina,Daughter,F,W,9/12,S,,,,Vermont,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,,,,,,,,,1,given may be Irja
+76-16B.jpg,76,16B,77,West Canal,,,,Paynumaki,Annie,Lodger,F,W,28,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Pajunmaki
+76-16B.jpg,76,16B,78,West Canal,,,,Wiitalie,Hilma,Lodger,F,W,36,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Wiitala
+76-16B.jpg,76,16B,79,West Canal,,,,Hydeen,Victor,Lodger,M,W,22,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Hyden
+76-16B.jpg,76,16B,80,West Canal,,,,Rauta,Nestor,Lodger,M,W,23,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given may be Hector; surname may be Rasta
+76-16B.jpg,76,16B,81,West Canal,188,204,277,Vilan,Nestor,Head,M,W,21,M1,4,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1906,Al,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Vilen
+76-16B.jpg,76,16B,82,West Canal,,,,,Samone,Wife,F,W,33,M2,4,3,3,Finland,Finland,Finland,Finnish,Finnish,Finnish,1906,,Finnish,None,,,,,Yes,Yes,,,,,,,,,1,given unclear; marital may be M1 (overwritten)
+76-16B.jpg,76,16B,83,West Canal,,,,,Sanni,Daughter,F,W,9,S,,,,Massachusetts,Finland,Finland,,Finnish,Finnish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Sami
+76-16B.jpg,76,16B,84,West Canal,,,,,Dora,Daughter,F,W,7,S,,,,Massachusetts,Finland,Finland,,Finnish,Finnish,,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-16B.jpg,76,16B,85,West Canal,,,,,Olie,Daughter,M,W,4/12,S,,,,Vermont,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,,,,,,,,,1,sex written M for a daughter; given unclear
+76-16B.jpg,76,16B,86,West Canal,188,,278,Simon,,Head,M,W,33,M1,5,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1908,,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,given name struck out (Charles?); dwelling number crossed out (204?); ownership mark partly obscured by check
+76-16B.jpg,76,16B,87,West Canal,,,,,Helena,Wife,F,W,25,M1,5,2,2,Finland,Finland,Finland,Finnish,Finnish,Finnish,1908,,Finnish,None,,,,,,,,,,,,,,,1,age may be 23
+76-16B.jpg,76,16B,88,West Canal,,,,,Iria,Son,F,W,7/12,S,,,,Vermont,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,,,,,,,,,1,twins bracketed with line 89; relation Son with sex F (possibly swapped with line 89); given may be Irja; language entry smudged
+76-16B.jpg,76,16B,89,West Canal,,,,,Wiho,Daughter,F,W,7/12,S,,,,Vermont,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,,,,,,,,,1,given may be Urho; relation possibly swapped with line 88
+76-16B.jpg,76,16B,90,West Canal,188,,279,Haarala,Charles,Head,M,W,30,M1,9,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1901,Al,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (204?)
+76-16B.jpg,76,16B,91,West Canal,,,,,Mary,Wife,F,W,31,M1,9,3,3,Finland,Finland,Finland,Finnish,Finnish,Finnish,1901,,Finnish,None,,,,,,,,,,,,,,,0,
+76-16B.jpg,76,16B,92,West Canal,,,,,Senia,Daughter,F,W,8,S,,,,Massachusetts,Finland,Finland,,Finnish,Finnish,,,Finnish,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Sevia
+76-16B.jpg,76,16B,93,West Canal,,,,,Arno,Son,M,W,5,S,,,,Massachusetts,Finland,Finland,,Finnish,Finnish,,,Finnish,None,,,,,,,,,,,,,,,1,given may be Ano
+76-16B.jpg,76,16B,94,West Canal,,,,,Iria,Son,F,W,3,S,,,,Massachusetts,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,,,,,,,,,1,relation Son with sex F; given may be Irja
+76-16B.jpg,76,16B,95,West Canal,188,,280,Olander,Eno,Head,M,W,25,M1,,1,1,Finland,Finland,Finland,Finnish,Finnish,Finnish,1909,,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (204?); children 1 1 written on male head's row; given may be Eino; ownership mark obscured by check
+76-16B.jpg,76,16B,96,West Canal,190,205,281,Sorel,Matti,Head,M,W,34,M1,7,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1907,Al,Finnish,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,given unclear; out of work may read Yes; ownership mark obscured by check
+76-16B.jpg,76,16B,97,West Canal,,,,,Selma,Wife,F,W,32,M1,7,1,1,Finland,Finland,Finland,Finnish,Finnish,Finnish,1907,,Finnish,None,,,,,Yes,Yes,,,,,,,,,1,given may be Solma
+76-16B.jpg,76,16B,98,West Canal,,,,,Walma,Daughter,F,W,11,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1907,,Finnish,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Wolma

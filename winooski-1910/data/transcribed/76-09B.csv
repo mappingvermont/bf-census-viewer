@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-09B.jpg,76,09B,51,Main,111,130,151,St. Louis,Ellen,Head,F,W,76,Wd,,11,7,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,R,,H,,,,,0,
+76-09B.jpg,76,09B,52,Main,,,,,Lena,Daughter,F,W,29,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,53,Main,,,,,William,Son,M,W,35,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Clerk,Saloon,W,No,0,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,54,Main,,,,,Louis,Son,M,W,50,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Painter,Outside,W,No,0,Yes,Yes,,,,,,,,,1,age may be 30
+76-09B.jpg,76,09B,55,Main,,,,,George,Son,M,W,52,S,,,,New York,Canada (Fr),New York,,French,,,,English,Woodworker,Shop,W,No,16,Yes,Yes,,,,,,,,,1,age may be 32
+76-09B.jpg,76,09B,56,Main,,,,Benedict,Edward,Lodger,M,W,25,S,,,,New York,England,New York,,English,,,,English,Clerk,Drug store,W,,,Yes,Yes,,,,,,,,,1,out of work and weeks entries struck through (possibly Yes / 26)
+76-09B.jpg,76,09B,57,Main,105,131,152,MacDonald,Alexander,Head,M,W,69,M1,39,,,Canada (Eng),Canada (Eng),Canada (Fr),English,English,French,1840,Na,English,Machinist,Shop,W,No,0,Yes,Yes,,O,F,H,,,,,1,birthplace and father tongue written English with French struck; free/mortgaged mark unclear (looks like 3)
+76-09B.jpg,76,09B,58,Main,,,,,Anna,Wife,F,W,70,M1,39,5,2,Canada,Ireland,Ireland,Irish,Irish,Irish,1840,,English,None,,,,,Yes,Yes,,,,,,,,,1,birthplace written Canada with Irish above (French struck); may be Ireland
+76-09B.jpg,76,09B,59,Main,,,,,Estella,Daughter,F,W,33,S,,,,Vermont,Canada (Eng),Canada,,English,Irish,,,English,Nurse,Outside,W,No,0,Yes,Yes,,,,,,,,,1,parent tongues written with French struck; mother tongue Irish
+76-09B.jpg,76,09B,60,Main,105,132,153,Trull,Roger H,Head,M,W,26,M1,1,,,England,England,England,English,English,English,1909,Al,English,Minister,Church,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Trill or Tull; dwelling number overwritten with X (132?)
+76-09B.jpg,76,09B,61,Main,,,,,Dora,Wife,F,W,23,M1,1,0,0,England,England,England,English,English,English,1909,,English,None,,,,,Yes,Yes,,,,,,,,,1,age overwritten
+76-09B.jpg,76,09B,62,Main,106,133,154,McAvoy,Margaret,Head,F,W,60,Wd,,,,New York,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,free/mortgaged mark unclear
+76-09B.jpg,76,09B,63,Main,,,,,Winnie,Daughter,F,W,26,S,,,,Vermont,Vermont,New York,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,64,Main,,,,,Helen,Daughter,F,W,24,S,,,,Vermont,Vermont,New York,,,,,,English,Teacher,School,W,No,20,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,65,Main,,,,,Thomas H,Son,M,W,30,S,,,,Vermont,Vermont,New York,,,,,,English,Driver,Outside,W,No,0,Yes,Yes,,,,,,,,,1,age may be 20
+76-09B.jpg,76,09B,66,Main,,,,Hanley,Mary,Daughter,F,W,34,Wd,,1,1,Vermont,Vermont,New York,,,,,,English,Weaver,Mill,W,No,16,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,67,Main,,,,,Lawrence,Grandson,M,W,14,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,68,Main,,,,Murphy,Elizabeth,Sister,F,W,76,Wd,,3,3,Ireland,Ireland,Ireland,Irish,Irish,Irish,1862,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,69,Main,102,134,155,Page,John,Head,M,W,42,M1,21,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Outside,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-09B.jpg,76,09B,70,Main,,,,,Cora,Wife,F,W,39,M1,21,2,2,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,71,Main,,,,,Maynard,Son,M,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,72,Main,,,,,Lida,Daughter,F,W,15,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+76-09B.jpg,76,09B,73,Main,102,135,156,Spoor,Harriet,Head,F,W,65,Wd,,0,0,New York,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,,R,,H,,,,,1,surname unclear; dwelling number overwritten; ownership marks unclear
+76-09B.jpg,76,09B,74,Main,95,136,157,O'Brien,Ellen,Head,F,W,37,M1,19,5,5,Ireland,Ireland,Ireland,Irish,Irish,Irish,1881,,English,None,,,,,Yes,Yes,,R,,H,,,,,0,
+76-09B.jpg,76,09B,75,Main,,,,,John,Son,M,W,18,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Bookkeeper,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-09B.jpg,76,09B,76,Main,,,,,Anna,Daughter,F,W,15,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Sewing,Mill,W,No,10,Yes,Yes,No,,,,,,,,0,
+76-09B.jpg,76,09B,77,Main,,,,,Ella,Daughter,F,W,12,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,78,Main,,,,,Margaret,Daughter,F,W,9,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,79,Main,,,,,William,Son,M,W,6,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,80,Main,92,137,158,Saunders,Delia,Head,F,W,42,Wd,,2,2,New Jersey,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,R,,H,,,,,0,
+76-09B.jpg,76,09B,81,Main,,,,,Harvey,Son,M,W,12,S,,,,Rhode Island,Rhode Island,New Jersey,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,82,Main,,,,,Margaret,Daughter,F,W,8,S,,,,Rhode Island,Rhode Island,New Jersey,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,83,Main,92,,159,Chester,Fred B.,Head,M,W,40,M1,19,,,Connecticut,Rhode Island,Rhode Island,,,,,,English,Perching,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (possibly 138)
+76-09B.jpg,76,09B,84,Main,,,,,Phebe,Wife,F,W,40,M1,19,1,1,Rhode Island,Germany,Vermont,,German,,,,English,Sewing,Mill,W,No,0,Yes,Yes,,,,,,,,,1,out of work entry unclear
+76-09B.jpg,76,09B,85,Main,,,,,Grace,Daughter,F,W,17,S,,,,Rhode Island,Connecticut,Rhode Island,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,86,Main,,,,Vassler,Phebe,Mother-in-law,F,W,72,Wd,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-09B.jpg,76,09B,87,Main,82,139,160,Kenny,Bion,Head,M,W,57,M1,27,,,Maine,Maine,Maine,,,,,,English,Overseer,Mill,W,No,0,Yes,Yes,,O,M,H,,,,,1,house number may be 87; given name unclear
+76-09B.jpg,76,09B,88,Main,,,,,Ella,Wife,F,W,49,M1,27,7,5,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,89,Main,,,,,Harold,Son,M,W,26,S,,,,Massachusetts,Maine,New York,,,,,,English,Overseer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,90,Main,,,,,Gertrude,Daughter,F,W,23,S,,,,Vermont,Maine,New York,,,,,,English,Stenographer,Office,W,No,0,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,91,Main,,,,,Alice,Daughter,F,W,22,S,,,,Vermont,Maine,New York,,,,,,English,Teacher,School,W,No,10,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,92,Main,,,,,Ruth,Daughter,F,W,20,S,,,,Vermont,Maine,New York,,,,,,English,Bookkeeper,Office,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-09B.jpg,76,09B,93,Main,,,,,Joseph,Son,M,W,15,S,,,,Vermont,Maine,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-09B.jpg,76,09B,94,Main,81,140,161,Blossom,Mary,Head,F,W,72,Wd,,2,2,Vermont,New Hampshire,New Hampshire,,,,,,English,None,,,,,Yes,Yes,,O,M,H,,,,,0,
+76-09B.jpg,76,09B,95,Main,,,,,Ella,Daughter,F,W,53,S,,,,Illinois,Vermont,Vermont,,,,,,English,Librarian,Library,W,No,0,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,96,Main,,,,Peck,Clara,Daughter,F,W,48,Wd,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,97,Main,,,,,Mary,Granddaughter,F,W,22,S,,,,Vermont,Vermont,Vermont,,,,,,English,Teacher,Music,OA,No,0,Yes,Yes,,,,,,,,,0,
+76-09B.jpg,76,09B,98,Main,,,,Crowe,Martha,Servant,F,W,50,S,,,,Vermont,Vermont,Vermont,,,,,,English,Servant,House,W,No,0,Yes,Yes,,,,,,,,,0,

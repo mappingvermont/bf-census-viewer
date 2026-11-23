@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-16B.jpg,77,16B,51,Mallets Bay Avenue,128,271,271,Brouillard,John,Head,M,W,57,M1,35,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Laborer,,W,No,0,No,No,,R,,H,,,,,1,house number may be 120; years married faint
+77-16B.jpg,77,16B,52,Mallets Bay Avenue,,,,,Rose,Wife,F,W,55,M1,35,9,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1866,,French,None,,,,,No,No,,,,,,,,,0,
+77-16B.jpg,77,16B,53,Mallets Bay Avenue,,,,,Henry,Son,M,W,26,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,Laborer,Woolen Mills,W,No,0,No,No,,,,,,,,,0,language cell dashed
+77-16B.jpg,77,16B,54,Mallets Bay Avenue,,,,,Edward,Son,M,W,23,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Wood Yard,W,No,12,Yes,Yes,,,,,,,,,0,
+77-16B.jpg,77,16B,55,Mallets Bay Avenue,,,,,William,Son,M,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen Mills,W,No,5,Yes,Yes,No,,,,,,,,0,
+77-16B.jpg,77,16B,56,Mallets Bay Avenue,,,,,Irene,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Burler,Woolen Mills,W,No,2,Yes,Yes,No,,,,,,,,1,weeks unemployed faint
+77-16B.jpg,77,16B,57,Mallets Bay Avenue,,,,,Arthur,Son,M,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen Mills,W,No,20,Yes,Yes,Yes,,,,,,,,0,
+77-16B.jpg,77,16B,58,Mallets Bay Avenue,,,,,Eugene,Son,M,W,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-16B.jpg,77,16B,59,Mallets Bay Avenue,,,,Sidair,Odilon,Son-in-law,M,W,29,M1,2,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,English,Carpenter,Woolen Mills,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Lidair/Sedair; given may be Odelon
+77-16B.jpg,77,16B,60,Mallets Bay Avenue,,,,,Clara,Daughter,F,W,28,M1,2,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-16B.jpg,77,16B,61,Mallets Bay Avenue,,,,,Yvonne,Daughter,F,W,1 4/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,1,age overwritten; relation written Daughter (likely granddaughter)
+77-16B.jpg,77,16B,62,Mallets Bay Avenue,124,273,273,Paquette,Napoleon,Head,M,W,58,M2,1,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,Al,French,None,,,,,No,No,,R,,H,,,,,0,
+77-16B.jpg,77,16B,63,Mallets Bay Avenue,,,,,Estelle,Wife,F,W,51,M2,1,6,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,None,,,,,No,No,,,,,,,,,0,
+77-16B.jpg,77,16B,64,Mallets Bay Avenue,,,,Goby,Rosanna,Daughter,F,W,20,S,,,,Connecticut,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen Mills,W,No,4,Yes,Yes,No,,,,,,,,1,surname may be Gobey
+77-16B.jpg,77,16B,65,Mallets Bay Avenue,,,,,Josephine,Daughter,F,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Woolen Mill,W,No,4,Yes,Yes,No,,,,,,,,1,occupation abbreviated Sp
+77-16B.jpg,77,16B,66,Mallets Bay Avenue,,,,,Eva,Daughter,F,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Sewer,Woolen Mills,W,No,4,Yes,Yes,Yes,,,,,,,,1,school may be No
+77-16B.jpg,77,16B,67,Mallets Bay Avenue,,,,,Joseph,Son,M,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,school may be No
+77-16B.jpg,77,16B,68,Mallets Bay Avenue,,,,Viret,Theophile,Boarder,M,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,Laborer,Woolen Mill,W,No,0,Yes,Yes,No,,,,,,,,1,surname may be Vinet
+77-16B.jpg,77,16B,69,Mallets Bay Avenue,,,,Miller,Mary,Boarder,F,W,21,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Tacker,Screen Shop,W,No,2,Yes,Yes,,,,,,,,,1,occupation may be Picker
+77-16B.jpg,77,16B,70,Mallets Bay Avenue,126,274,274,Robert,Theophile,Head,M,W,41,M1,20,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,Al,French,Laborer,Woolen Mills,W,No,20,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten
+77-16B.jpg,77,16B,71,Mallets Bay Avenue,,,,,Rosanna,Wife,F,W,40,M1,20,9,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Rosanne
+77-16B.jpg,77,16B,72,Mallets Bay Avenue,,,,,Yvonne,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,Sewer,Woolen Mills,W,No,20,Yes,Yes,No,,,,,,,,0,
+77-16B.jpg,77,16B,73,Mallets Bay Avenue,,,,,Marie,Daughter,F,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,Sewer,Woolen Mills,W,No,20,Yes,Yes,No,,,,,,,,0,
+77-16B.jpg,77,16B,74,Mallets Bay Avenue,,,,,Eulrie,Son,M,W,13,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Euclide?)
+77-16B.jpg,77,16B,75,Mallets Bay Avenue,,,,,Ernestine,Daughter,F,W,10,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-16B.jpg,77,16B,76,Mallets Bay Avenue,,,,,Armand,Son,M,W,8,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-16B.jpg,77,16B,77,Mallets Bay Avenue,,,,,Rose,Daughter,F,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-16B.jpg,77,16B,78,Mallets Bay Avenue,,,,,Joseph,Son,M,W,4,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,None,,,,,,,,,,,,,,,0,
+77-16B.jpg,77,16B,79,Mallets Bay Avenue,82 1/2,275,275,Louis,Manoogian,Head,M,W,35,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Armenian,Armenian,Armenian,1906,Al,English,Weaver,Woolen Mills,W,No,12,Yes,Yes,,R,,H,,,,,1,surname and given appear reversed (Manoogian Louis?); house number reading uncertain
+77-16B.jpg,77,16B,80,Mallets Bay Avenue,,,,Boyoain,John,Boarder,M,W,28,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Armenian,Armenian,Armenian,1909,Al,Armenian,Weaver,Woolen Mill,W,No,20,Yes,Yes,,,,,,,,,1,surname may be Boyajian
+77-16B.jpg,77,16B,81,Mallets Bay Avenue,,,,Sononie,Masart,Boarder,M,W,21,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Armenian,Armenian,Armenian,1909,Al,Armenian,Weaver,Woolen Mill,W,No,20,Yes,Yes,,,,,,,,,1,surname and given unclear
+77-16B.jpg,77,16B,82,Mallets Bay Avenue,,,,Eranon,Charles,Boarder,M,W,30,M1,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Armenian,Armenian,Armenian,1907,Al,Armenian,Weaver,Woolen Mills,W,No,4,Yes,Yes,,,,,,,,,1,surname unclear (Erazon?); marital written M/
+77-16B.jpg,77,16B,83,Mallets Bay Avenue,,,,Johnson,Hagop,Boarder,M,W,35,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Armenian,Armenian,Armenian,1909,Al,Armenian,Weaver,Woolen Mills,W,No,12,Yes,Yes,,,,,,,,,1,given unclear (Hogy?)
+77-16B.jpg,77,16B,84,Mallets Bay Avenue,,,,Dick,George,Boarder,M,W,22,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Armenian,Armenian,Armenian,1909,Al,Armenian,Weaver,Woolen Mills,W,No,12,Yes,Yes,,,,,,,,,1,surname unclear
+77-16B.jpg,77,16B,85,Mallets Bay Avenue,,,,Kasabian,Garabed,Boarder,M,W,29,S,,,,Turkey in Asia,Turkey in Asia,Turkey in Asia,Armenian,Armenian,Armenian,1901,Al,Armenian,Weaver,Woolen Mill,W,No,1,Yes,Yes,,,,,,,,,1,immigration year may be 1907/1981 as written
+77-16B.jpg,77,16B,86,Mallets Bay Avenue,131,276,276,Blais,Josephine Mrs,Head,F,W,46,Wd,26,11,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,O,F,H,,,,,1,years married 26 written for widow
+77-16B.jpg,77,16B,87,Mallets Bay Avenue,,,,,Emma,Daughter,F,W,23,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Tacker,Screen Shop,W,No,2,Yes,Yes,,,,,,,,,0,
+77-16B.jpg,77,16B,88,Mallets Bay Avenue,,,,,Eugene,Son,M,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen Mill,W,No,4,Yes,Yes,No,,,,,,,,0,
+77-16B.jpg,77,16B,89,Mallets Bay Avenue,,,,,Malvina,Daughter,F,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Tacker,Screen Shop,W,No,2,Yes,Yes,No,,,,,,,,1,given unclear
+77-16B.jpg,77,16B,90,Mallets Bay Avenue,,,,,Henry,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Tacker,Screen Shop,W,No,2,Yes,Yes,No,,,,,,,,0,
+77-16B.jpg,77,16B,91,Mallets Bay Avenue,,,,,Arthur,Son,M,W,15,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen Shop,W,No,42,Yes,Yes,Yes,,,,,,,,0,
+77-16B.jpg,77,16B,92,Mallets Bay Avenue,,,,,Lena,Daughter,F,W,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-16B.jpg,77,16B,93,Mallets Bay Avenue,,,,,Armand,Son,M,W,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-16B.jpg,77,16B,94,Mallets Bay Avenue,130,277,277,Granger,John,Head,M,W,69,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1877,Na,French,Laborer,Lime Kiln,W,No,0,Yes,Yes,,R,,H,,,,,0,
+77-16B.jpg,77,16B,95,Mallets Bay Avenue,,,,,Henry,Son,M,W,24,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen Mills,W,No,22,Yes,Yes,,,,,,,,,0,
+77-16B.jpg,77,16B,96,Mallets Bay Avenue,131 1/2,278,278,Cadieux,Georgianna,Head,F,W,33,M1,11,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,Washer,House Private,W,No,0,Yes,Yes,,R,,H,,,,,1,house number may be 13 1/2; surname may be Cadieuy
+77-16B.jpg,77,16B,97,Mallets Bay Avenue,,,,,Orphia,Daughter,F,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given unclear (Ophelia/Orelia?)
+77-16B.jpg,77,16B,98,Mallets Bay Avenue,,,,,Achille,Son,M,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given unclear (Aphile as written)

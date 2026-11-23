@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-19B.jpg,76,19B,51,Follett,52,238,324,Kirby,Charles,Head,M,W,58,Wd,,9,5,Vermont,Canada (Eng),Canada (Eng),,English,English,,,English,Cobbler,Shop,OA,No,0,Yes,Yes,,R,,H,,,,,1,children born/living 9 5 written on male head's row; parents' tongue corrected from French to English
+76-19B.jpg,76,19B,52,Follett,,,,,William,Son,M,W,19,S,,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,given name overwritten
+76-19B.jpg,76,19B,53,Follett,,,,,Wilbur,Son,M,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,Clerk,Drug store,W,No,10,Yes,Yes,No,,,,,,,,1,given may be William; age may be 17
+76-19B.jpg,76,19B,54,Follett,,,,,Henry,Son,M,W,14,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-19B.jpg,76,19B,55,Follett,41,239,325,Gadue,Frank,Head,M,W,45,M1,21,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Electrician,Theatre,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-19B.jpg,76,19B,56,Follett,,,,,Delia A.,Wife,F,W,42,M1,21,0,0,Massachusetts,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19B.jpg,76,19B,57,Follett,,,,Suzzle,Henry,Lodger,M,W,46,M1,10,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Al,English,Weaver,Mill,W,,,,,,,,,,,,,1,surname reading uncertain (Supple?)
+76-19B.jpg,76,19B,58,Follett,,,,,Mary,Lodger,F,W,43,M1,10,0,0,Rhode Island,Rhode Island,Rhode Island,,,,,,English,Weaver,Mill,W,,,,,,,,,,,,,0,
+76-19B.jpg,76,19B,59,Follett,33,240,326,Gagnon,Adolph,Head,M,W,29,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,Al,French,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,age may be 24
+76-19B.jpg,76,19B,60,Follett,,,,,Melina,Wife,F,W,24,M1,3,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19B.jpg,76,19B,61,Follett,,,,,Adolph,Son,M,W,2/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age fraction unclear (6/12?)
+76-19B.jpg,76,19B,62,Follett,33,240,327,St. Louis,Jesse,Head,M,W,58,M1,30,,,New York,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number 240 written with a cross mark
+76-19B.jpg,76,19B,63,Follett,,,,,Julia,Wife,F,W,47,M1,30,13,8,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Housekeeper,Outside,W,No,0,Yes,Yes,,,,,,,,,0,
+76-19B.jpg,76,19B,64,Follett,,,,,George,Son,M,W,27,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,Al,French,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,birthplaces struck through with an illegible correction written above
+76-19B.jpg,76,19B,65,Follett,,,,,Laura,Daughter-in-law,F,W,18,M1,3,1,1,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,No,,,,,,,,1,given name unclear (Emma?)
+76-19B.jpg,76,19B,66,Follett,,,,Falcone,Thelias,Son-in-law,M,W,25,M1,2,,,Canada (Fr),New York,Canada (Fr),French,,French,1892,Na,French,Laborer,Screen shop,W,No,0,Yes,Yes,,,,,,,,,1,surname and given name uncertain (Falone? Elias?); birthplace corrected with illegible word ('...City')
+76-19B.jpg,76,19B,67,Follett,,,,,Irene,Daughter,F,W,17,M1,2,1,1,Vermont,New York,Vermont,,,,,,French,None,,,,,Yes,Yes,No,,,,,,,,1,mother's birthplace corrected from Canada French to Vermont
+76-19B.jpg,76,19B,68,Follett,,,,,Helen,Daughter,F,W,8/12,S,,,,Vermont,Canada,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,father's birthplace corrected; relation written Daughter (granddaughter of head)
+76-19B.jpg,76,19B,69,Follett,29,241,328,Delorge,Isaie,Head,M,W,60,M1,40,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1860,Na,French,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname and given name uncertain
+76-19B.jpg,76,19B,70,Follett,,,,,Priga,Wife,F,W,55,M1,40,11,7,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+76-19B.jpg,76,19B,71,Follett,,,,,Florence,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,mother's birthplace corrected to Vermont
+76-19B.jpg,76,19B,72,Follett,29,241,329,,Edward,Head,M,W,29,M1,10,,,Vermont,Canada (Fr),Vermont,,French,,,,French,Painter,Outside,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number written with a cross mark; mother's birthplace corrected to Vermont
+76-19B.jpg,76,19B,73,Follett,,,,,Mary,Wife,F,W,29,M1,10,3,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19B.jpg,76,19B,74,Follett,,,,,Eddie,Son,M,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-19B.jpg,76,19B,75,Follett,,,,,Madeline,Daughter,F,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,No,No,No,,,,,,,,0,
+76-19B.jpg,76,19B,76,Follett,,,,,Archie,Son,M,W,1,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-19B.jpg,76,19B,77,Follett,,,,Hennebert,Alfred,Lodger,M,W,27,S,,,,France,Belgium,Belgium,French,French,French,1901,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain; immigration year faint
+76-19B.jpg,76,19B,78,Follett,,,,Merlet,Henry,Lodger,M,W,23,S,,,,France,France,France,French,French,French,1907,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-19B.jpg,76,19B,79,Union,62,242,330,Brodeur,Joseph,Head,M,W,76,M1,46,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,Na,French,None,,,,,No,No,,O,F,H,,,,,1,street name unclear (Union?)
+76-19B.jpg,76,19B,80,Union,,,,,Aurelia,Wife,F,W,68,M1,46,11,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,,French,None,,,,,Yes,Yes,,,,,,,,,1,children living may be 9
+76-19B.jpg,76,19B,81,Union,,,,,Mary Louise,Daughter,F,W,36,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,,French,Spooler,Mill,W,No,10,Yes,Yes,,,,,,,,,0,
+76-19B.jpg,76,19B,82,Union,,,,Dumoreau,Edward,Lodger,M,W,30,M1,10,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,Al,French,Laborer,Mill,W,No,12,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-19B.jpg,76,19B,83,Union,,,,,Mary,Lodger,F,W,28,M1,10,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,Weaver,Mill,W,No,10,Yes,Yes,,,,,,,,,0,
+76-19B.jpg,76,19B,84,Union,66,243,331,Brodeur,Hormidas,Head,M,W,36,M1,7,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,Na,French,Butcher,Market,W,No,10,Yes,Yes,,R,,H,,,,,0,
+76-19B.jpg,76,19B,85,Union,,,,,Alida,Wife,F,W,35,M1,7,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19B.jpg,76,19B,86,East Allen,35,244,332,Piette,Louis,Head,M,W,34,M1,4,,,Vermont,Canada (Fr),New York,,French,,,,English,Dentist,Office,OA,No,0,Yes,Yes,,R,,H,,,,,1,age may be 29
+76-19B.jpg,76,19B,87,East Allen,,,,,Lea,Wife,F,W,31,M1,4,3,3,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19B.jpg,76,19B,88,East Allen,,,,,Genevieve,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,age may be 2
+76-19B.jpg,76,19B,89,East Allen,,,,,Dorothy,Daughter,F,W,1,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-19B.jpg,76,19B,90,East Allen,,,,,Gilbert,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age unclear
+76-19B.jpg,76,19B,91,East Allen,35,244,333,Rosenthal,William,Head,M,W,29,M1,2,,,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1892,Na,English,Owner,Dry goods store,OA,No,0,Yes,Yes,,R,,H,,,,,1,surname reading uncertain; dwelling number written with a cross mark; age and years married unclear
+76-19B.jpg,76,19B,92,East Allen,,,,,Jennie,Wife,F,W,25,M1,2,2,2,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1892,,English,None,,,,,Yes,Yes,,,,,,,,,1,age unclear
+76-19B.jpg,76,19B,93,East Allen,,,,,Ina,Daughter,F,W,1,S,,,,Vermont,Russia,Russia,,Yiddish,Yiddish,,,,None,,,,,,,,,,,,,,,1,given name unclear
+76-19B.jpg,76,19B,94,East Allen,,,,,Evaline,Daughter,F,W,2/12,S,,,,Vermont,Russia,Russia,,Yiddish,Yiddish,,,,None,,,,,,,,,,,,,,,1,given name unclear
+76-19B.jpg,76,19B,95,East Allen,35,244,334,Vien,Antoine,Head,M,W,63,M1,35,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1860,Na,French,None,,,,,Yes,Yes,,R,,H,,,,,1,dwelling number written with a cross mark
+76-19B.jpg,76,19B,96,East Allen,,,,,Philomene,Wife,F,W,52,M1,35,10,9,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Philomen
+76-19B.jpg,76,19B,97,East Allen,,,,,George,Son,M,W,23,M1,0,,,Vermont,Canada (Fr),Vermont,,French,,,,French,Percher,Mill,W,No,0,Yes,Yes,,,,,,,,,1,occupation reading uncertain (Perching?)
+76-19B.jpg,76,19B,98,East Allen,,,,,Silvina,Daughter-in-law,F,W,22,M1,0,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,immigration year faint
+76-19B.jpg,76,19B,99,East Allen,,,,,Albert,Son,M,W,19,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-19B.jpg,76,19B,100,East Allen,,,,,Charles,Son,M,W,16,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,0,

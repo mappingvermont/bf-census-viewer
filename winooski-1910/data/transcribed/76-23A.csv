@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-23A.jpg,76,23A,1,East Center,210,279,289,Hebert,Hector,Head,M,W,55,M1,35,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1878,Na,English,Painter,Outside,W,No,0,Yes,Yes,,O,F,H,,,,,1,street written vertically for lines 1-19 as Center Street with a prefix that may read East or West; dwelling/family numbers faint (279/289 uncertain); surname and given name faint; immigration year faint; ownership marks unclear
+76-23A.jpg,76,23A,2,East Center,,,,,Agnes,Wife,F,W,53,M1,35,7,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,English,None,,,,,Yes,Yes,,,,,,,,,1,immigration year faint
+76-23A.jpg,76,23A,3,East Center,,,,,Edward,Son,M,W,36,M1,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Grocer,Store,W,No,0,Yes,Yes,,,,,,,,,1,given name overwritten (Edward/Clifford?); age may be 26
+76-23A.jpg,76,23A,4,East Center,,,,,Arthur,Son,M,W,19,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Filler,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,given name has extra letters (Arthur/Artheme?)
+76-23A.jpg,76,23A,5,East Center,211,280,290,Parizo,Arthur,Head,M,W,24,M1,4,,,Vermont,Vermont,Vermont,,,,,,English,Butcher,Slaughter house,W,No,0,Yes,Yes,,R,,H,,,,,1,weeks unemployed may be 1; dwelling/family numbers faint
+76-23A.jpg,76,23A,6,East Center,,,,,Carrie,Wife,F,W,23,M1,4,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,7,East Center,,,,,Thomas,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-23A.jpg,76,23A,8,East Center,213,282,292,Younger,Mary,Head,F,W,68,Wd,,,,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,,R,,H,,,,,1,dwelling/family may be 281/291; surname may be Yonge
+76-23A.jpg,76,23A,9,East Center,,,,,John,Son,M,W,37,S,,,,New York,New York,New York,,,,,,English,Laborer,Outside,W,No,0,Yes,Yes,,,,,,,,,1,age may be 34
+76-23A.jpg,76,23A,10,East Center,,,,Little,James,Cousin,M,W,52,Wd,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Dresser,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint; relation may be Boarder
+76-23A.jpg,76,23A,11,East Center,16,283,293,Bulger,Winnie,Head,F,W,30,S,,,,New York,Canada (Fr),New York,,French,,,,English,Sewing,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,house number may be 216; surname written Bulloge
+76-23A.jpg,76,23A,12,East Center,,,,Bulger,Bessie,Sister,F,W,19,S,,,,New York,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,age faint
+76-23A.jpg,76,23A,13,East Center,,,,Bulger,Margaret,Sister,F,W,23,S,,,,New York,Canada (Fr),New York,,French,,,,English,Sewing,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,14,East Center,,,,,Mary,Sister,F,W,24,S,,,,New York,Canada (Fr),New York,,French,,,,English,Sewing,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,15,East Center,,,,,Theresa,Sister,F,W,20,S,,,,New York,Canada (Fr),New York,,French,,,,English,Finisher,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,16,East Center,,,,,Agnes,Sister,F,W,18,S,,,,New York,Canada (Fr),New York,,French,,,,English,Sewing,Mill,W,No,0,Yes,Yes,Yes,,,,,,,,1,school entry possibly struck
+76-23A.jpg,76,23A,17,East Center,,,,,Mabel,Sister,F,W,15,S,,,,New York,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,18,East Center,178,286,292,O'Sullivan,Daniel,Head,M,W,44,S,,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1885,Na,English,Clerk,Village,W,No,0,Yes,Yes,,R,,H,,,,,1,house number may be 218; dwelling overwritten; family number unclear (reads like 342/292)
+76-23A.jpg,76,23A,19,East Center,,,,,Nora A.,Sister,F,W,42,S,,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1885,,English,Sewing,Overall factory,W,No,0,Yes,Yes,,,,,,,,,1,industry unclear (Overgarment Fac?)
+76-23A.jpg,76,23A,20,Spring,60,287,294,Welsh,Martin,Head,M,W,43,M1,19,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1890,Na,English,Fireman,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,birthplace written Eng English struck with Ire written above; dwelling may be 284
+76-23A.jpg,76,23A,21,Spring,,,,,Helen,Wife,F,W,40,M1,19,6,6,England,England,England,English,English,English,1893,,English,None,,,,,Yes,Yes,,,,,,,,,1,immigration year may be 1895; employer class entry struck out
+76-23A.jpg,76,23A,22,Spring,,,,,Wilfrid,Son,M,W,11,S,,,,Vermont,England,England,,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,23,Spring,,,,,Lawrence,Son,M,W,8,S,,,,Vermont,England,England,,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,bracketed with line 24 (twins)
+76-23A.jpg,76,23A,24,Spring,,,,,Florence,Daughter,F,W,8,S,,,,Vermont,England,England,,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,25,Spring,,,,,Irene,Daughter,F,W,18,S,,,,Vermont,England,England,,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,age may be 10
+76-23A.jpg,76,23A,26,Spring,,,,,Marion,Daughter,F,W,14,S,,,,Vermont,England,England,,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,27,Spring,,,,,Alfred,Son,M,W,7,S,,,,Vermont,England,England,,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,28,Weaver,11,214,293,Belanger,Joseph,Head,M,W,57,M1,27,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,French,Laborer,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,street name for lines 28-32 illegible (possibly Weaver); house number 214 struck with 11 written above; dwelling number partly struck
+76-23A.jpg,76,23A,29,Weaver,,,,,Eliza,Wife,F,W,40,M1,27,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,30,Weaver,15,215,294,Marquette,Albert,Head,M,W,44,M1,19,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1873,Na,French,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,immigration year may be 1878; surname may be Marquet
+76-23A.jpg,76,23A,31,Weaver,,,,,Ida,Wife,F,W,34,M1,19,5,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,age may be 39; children born may be 3
+76-23A.jpg,76,23A,32,Weaver,,,,,Alfred,Son,M,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,33,Weaver,,,,,Alice,Daughter,F,W,8,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,34,West Lane,15,216,295,Potvin,Francois,Head,M,W,47,D,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Machinist,Shop,W,No,0,Yes,Yes,Yes,R,,H,,,,,1,street written like Weaver Lane; dwelling number crossed out; school Yes written for adult
+76-23A.jpg,76,23A,35,West Lane,,,,,Lydia,Daughter,F,W,18,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Sewing,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-23A.jpg,76,23A,36,West Lane,,,,,Elizabeth,Daughter,F,W,13,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,37,West Lane,15,217,296,Mitchell,Porter,Head,M,W,60,M1,30,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,French,Own income,,,,,Yes,Yes,Yes,R,,H,,,,,1,dwelling number crossed out (217?); years married may be 20; given name unclear
+76-23A.jpg,76,23A,38,West Lane,,,,,Josephine,Wife,F,W,55,M1,30,3,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,39,East Allen,57,,,Fournier,Alfred,Lodger,M,W,17,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,street for lines 39-41 small and unclear (possibly East Allen); dwelling and family numbers scribbled out; house number may be 37
+76-23A.jpg,76,23A,40,East Allen,,,,,Ernest,Lodger,M,W,15,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,English,Carder,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-23A.jpg,76,23A,41,East Allen,,,,Russell,Joseph,Lodger,M,W,23,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,English,Painter,Outside,W,No,0,Yes,Yes,,,,,,,,,1,age may be 33
+76-23A.jpg,76,23A,42,Weaver,44,285,297,Benway,Francis,Head,M,W,58,M1,37,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Carpenter,Outside,W,No,0,Yes,Yes,,O,M,H,,,,,1,street for lines 42-50 unclear (possibly Weaver); dwelling number unclear (285/235/255); family may be 277; surname written Bunvay; given name unclear
+76-23A.jpg,76,23A,43,Weaver,,,,,Sarah,Wife,F,W,57,M1,37,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,44,Weaver,,,,,Mary,Daughter,F,W,13,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-23A.jpg,76,23A,45,Weaver,,,,Johnson,James,Lodger,M,W,37,S,,,,New York,New York,New York,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,46,Weaver,,,,Wilson,Andrew,Lodger,M,W,30,S,,,,Massachusetts,New York,New York,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-23A.jpg,76,23A,47,Weaver,,,,Addison,William,Lodger,M,W,24,S,,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,age may be 29
+76-23A.jpg,76,23A,48,Weaver,,,,Desclaire,John,Lodger,M,W,24,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname unclear (Desclaire/Proclaire)
+76-23A.jpg,76,23A,49,Weaver,,,,Osborn,James,Lodger,M,W,50,S,,,,Vermont,New York,New York,,,,,,English,Overseer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint; age faint
+76-23A.jpg,76,23A,50,Weaver,,,,Osborn,Arthur,Lodger,M,W,26,S,,,,Vermont,New York,New York,,,,,,English,Spinner,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint; age faint

@@ -1,0 +1,47 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-07A.jpg,77,07A,1,North,23,115,115,Mayo,Israel,Head,M,W,46,M,23,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1862,,English,Laborer,Foundry,W,No,0,No,No,,R,,H,,,,,1,given name Israel uncertain
+77-07A.jpg,77,07A,2,North,,,,,Ellen,Wife,F,W,42,M,23,3,3,Ohio,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,"'14' written in immigration column, left blank"
+77-07A.jpg,77,07A,3,North,,,,,Oscar,Son,M,W,19,S,,,,Vermont,Canada (Fr),Ohio,,French,,,,English,Spinner,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,1,given name Oscar uncertain
+77-07A.jpg,77,07A,4,North,,,,,Cora,Daughter,F,W,14,S,,,,Vermont,Canada (Fr),Ohio,,French,,,,English,Spooler,Cotton mill,W,No,,Yes,Yes,Yes,,,,,,,,1,"weeks unemployed cell reads 'yes', left blank"
+77-07A.jpg,77,07A,5,North,,,,,Fred,Son,M,W,10,S,,,,Vermont,Canada (Fr),Ohio,,French,,,,English,None,,W,No,2,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,6,North,26,116,116,Aubrule,Joseph,Head,M,W,52,M,30,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,,French,Carpenter,Screw shop,W,No,2,Yes,Yes,,O,F,H,,,,,1,house number 26 or 46; surname Aubrule/Ambrule
+77-07A.jpg,77,07A,7,North,,,,,Mary,Wife,F,W,44,M,30,7,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,8,North,,,,,Georgianna,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,9,North,,117,117,Blais,John,Head,M,W,40,M,6,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Weaver,Woolen mill,W,No,6,Yes,Yes,Yes,,,H,,,,,1,owned/rented cell unclear (only a check mark)
+77-07A.jpg,77,07A,10,North,,,,,Mary,Wife,F,W,36,M,6,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,11,North,,,,,John Jr,Son,M,W,3,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,1,father birthplace Vermont written over struck-out Can French
+77-07A.jpg,77,07A,12,North,,,,,Jean Batiste,Father,M,W,62,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,French,Soap maker,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,13,North,34,118,118,Provost,Edward,Head,M,W,66,M,37,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,Al,English,None,Own income,,,,No,No,,R,,H,,,,,1,employer class cell struck out
+77-07A.jpg,77,07A,14,North,,,,,Catherine,Wife,F,W,53,M,38,12,9,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,15,North,,,,,August,Son,M,W,18,S,,,,Canada (Fr),Canada (Fr),New York,French,French,,1899,,English,Carpenter,House,W,No,10,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,16,North,,,,,Rose,Daughter,F,W,21,S,,,,Canada (Fr),Canada (Fr),New York,French,French,,1899,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,17,North,,,,,Yvonne,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),New York,French,French,,1899,,English,Spooler,Woolen mills,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,18,North,,,,,Eugene,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),New York,French,French,,1899,,English,Spinner,Woolen mills,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,19,North,,119,119,Stokes,Hugh,Head,M,W,73,M,53,,,Vermont,Ireland,Ireland,,English,English,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname Stokes/Rhokes; given Hugh uncertain
+77-07A.jpg,77,07A,20,North,,,,,Helen,Wife,F,W,60,M,53,9,7,Canada (Eng),Ireland,Ireland,English,English,English,1880,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,21,North,,,,,John,Son,M,W,43,S,,,,Canada,Vermont,Canada (Eng),,,English,1880,Na,English,Laborer,Woolen mills,W,No,16,Yes,Yes,,,,,,,,,1,birthplace written Montreal
+77-07A.jpg,77,07A,22,North,,,,,Minnie,Daughter,F,W,34,S,,,,Canada,Vermont,Canada (Eng),,,English,1880,,English,None,,,,,,,,,,,,,,,1,birthplace written Montreal
+77-07A.jpg,77,07A,24,North,50,120,120,Niquette,Joseph Sr,Head,M,W,63,M,42,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Proprietor,Meat market,OA,,,Yes,Yes,,O,F,H,,,,,1,given name possibly Jos Sr
+77-07A.jpg,77,07A,25,North,,,,,Fanny,Wife,F,W,63,M,42,12,10,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1854,,English,None,,,,,Yes,Yes,,,,,,,,,1,children living 10 or 13
+77-07A.jpg,77,07A,26,North,,,,,Rosa,Daughter,F,W,21,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,,,,,,,,,,,0,
+77-07A.jpg,77,07A,27,North,,,,,Beatrice,Daughter,F,W,14,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,28,North,,,,Carron,Anna Mrs,Daughter,F,W,26,M,5,2,2,Vermont,Vermont,Canada (Fr),,,French,,,English,Weaver,Woolen mills,W,No,6,Yes,Yes,,,,,,,,,1,surname Carron/Carrou
+77-07A.jpg,77,07A,29,North,,,,,Alice,Granddaughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-07A.jpg,77,07A,30,North,,,,,Julina,Granddaughter,F,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,given name Julina/Juliva
+77-07A.jpg,77,07A,31,North,40,121,121,Lavelley,Frederick,Head,M,W,46,M,26,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Spinner,Woolen mill,W,No,0,Yes,Yes,,O,F,H,,,,,1,surname Lavelley/Lavalley
+77-07A.jpg,77,07A,32,North,,,,,Cordelia,Wife,F,W,43,M,26,7,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,33,North,,,,,Alfred,Son,M,W,22,S,,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,34,North,,,,,Rosa,Daughter,F,W,20,S,,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Woolen mills,W,No,2,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,35,North,,,,,Edward,Son,M,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,Spinner,Woolen mill,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,36,North,,,,,Attia,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name Attia/Attie
+77-07A.jpg,77,07A,37,North,,,,,Eursille,Daughter,F,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name Eursille/Eursulle
+77-07A.jpg,77,07A,38,North,83,122,122,Aucoin,E,Head,M,W,40,M,22,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,Na,English,Laborer,Wood shop,W,No,0,Yes,Yes,,R,,H,,,,,1,house number 83 or 43 (blotted); surname hard to read
+77-07A.jpg,77,07A,39,North,,,,,Emma,Wife,F,W,40,M,22,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-07A.jpg,77,07A,40,North,,,,Louiselle,Emanuel,Boarder,M,W,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,English,Laborer,Screw works,W,No,8,Yes,Yes,,,,,,,,,1,surname Louiselle/Loiselle
+77-07A.jpg,77,07A,41,North,,,,,Evylin,Boarder,F,W,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,Packer,Screw works,W,No,2,Yes,Yes,,,,,,,,,1,given name Evylin/Eveline
+77-07A.jpg,77,07A,42,North,,,,Couture,Mary,Step child,F,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-07A.jpg,77,07A,43,North,81,X,X,Bouchard,Joseph,Head,M,W,34,M,11,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling and family numbers written as X
+77-07A.jpg,77,07A,44,North,,,,,Sophia,Wife,F,W,34,M,11,5,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,,English,None,,,,,Yes,Yes,,,,,,,,,1,immigration year overwritten (1883/1889)
+77-07A.jpg,77,07A,45,North,,,,,Clemens,Son,M,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name Clemens/Clement
+77-07A.jpg,77,07A,46,North,,,,,Yvonne,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given name written Yevonne
+77-07A.jpg,77,07A,47,North,,,,,Florence,Daughter,F,W,11/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age 11/12 or 12/12

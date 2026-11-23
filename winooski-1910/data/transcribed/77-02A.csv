@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-02A.jpg,77,02A,1,Main,158,15,15,Bouffard,Arthur,Boarder,M,W,19,S,,,,New Hampshire,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,1,school Yes written for a 19-year-old weaver
+77-02A.jpg,77,02A,2,Main,,,,Dage,Edmond,Boarder,M,W,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,French,Teamster,Woolen mill,W,No,2,Yes,Yes,,,,,,,,,1,surname may be Dagg or Daye
+77-02A.jpg,77,02A,3,Main,,,,Fountain,Peter,Boarder,M,W,26,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,Al,English,Percher,Woolen mill,W,No,2,Yes,Yes,,,,,,,,,1,occupation reading uncertain (Percher)
+77-02A.jpg,77,02A,4,Main,,,,Ducharme,Phillip,Boarder,M,W,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,English,Clerk,Grocery store,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Ducharne
+77-02A.jpg,77,02A,5,Main,154,16,16,McGreevy,Mary,Head,F,W,47,Wd,,4,2,Massachusetts,Massachusetts,Massachusetts,,,,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+77-02A.jpg,77,02A,6,Main,,,,,Mary,Daughter,F,W,16,S,,,,Vermont,Vermont,Massachusetts,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02A.jpg,77,02A,7,Main,,,,,Edward,Son,M,W,13,S,,,,Vermont,Vermont,Massachusetts,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02A.jpg,77,02A,8,Main,148,17,17,Sullivan,Michael,Head,M,W,46,M1,22,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1868,Na,English,Overseer,Woolen mills,W,No,0,Yes,Yes,,R,,H,,,,,1,given written Michel; immigration year may be 1867; tongue written English Ire
+77-02A.jpg,77,02A,9,Main,,,,,Helen,Wife,F,W,41,M1,22,1,1,New York,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-02A.jpg,77,02A,10,Main,,,,,William,Son,M,W,19,S,,,,Pennsylvania,Ireland,New York,,Irish,,,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,Yes,,,,,,,,1,school Yes written for a 19-year-old weaver
+77-02A.jpg,77,02A,11,Main,,,,Biglow,Charles,Boarder,M,W,22,S,,,,Vermont,Vermont,Vermont,,,,,,English,Bookkeeper,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-02A.jpg,77,02A,12,Main,,,,Leach,W. James,Boarder,M,W,27,S,,,,Vermont,Vermont,Vermont,,,,,,English,Stenographer,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Leack
+77-02A.jpg,77,02A,13,Main,146,18,18,Allen,Ira,Head,M,W,83,M1,25,,,Vermont,Maine,Vermont,,,,,,English,None,,,No,,Yes,Yes,,O,F,H,,,,,1,marital may be M2
+77-02A.jpg,77,02A,14,Main,,,,,E. Ruth,Wife,F,W,59,M1,25,5,5,Vermont,Vermont,Scotland,,,Scotch,,,English,None,,,,,Yes,Yes,,,,,,,,,1,marital may be M2
+77-02A.jpg,77,02A,15,Main,,,,Bailey,J. Fred,Son-in-law,M,W,41,M1,4,,,England,England,England,English,English,English,1887,Al,English,Mason,Stone mason,W,No,0,Yes,Yes,,,,,,,,,1,immigration year may be 1883
+77-02A.jpg,77,02A,16,Main,,,,,Annetta,Daughter,F,W,22,M1,4,1,1,New York,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Arnetta
+77-02A.jpg,77,02A,17,Main,,,,,G. Allen,Son,M,W,2,S,,,,Vermont,England,Vermont,,English,,,,English,None,,,,,,,,,,,,,,,0,
+77-02A.jpg,77,02A,18,Main,,,,Chambers,Arthur,Lodger,M,W,23,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Weaver,Woolen mills,W,No,10,Yes,Yes,,,,,,,,,0,
+77-02A.jpg,77,02A,19,Main,132,19,19,Tabault,J. George,Head,M,W,35,M1,4,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,Na,English,Doctor,,OA,No,0,Yes,Yes,,O,F,H,,,,,1,surname may be Thibault
+77-02A.jpg,77,02A,20,Main,,,,,Beatrice,Wife,F,W,26,M1,4,3,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-02A.jpg,77,02A,21,Main,,,,,G. Louis,Son,M,W,2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,0,
+77-02A.jpg,77,02A,22,Main,,,,,Beatrice,Daughter,F,W,1/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-02A.jpg,77,02A,23,Main,,,,Savard,Flora,Servant,F,W,21,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Servant,House,W,No,0,Yes,Yes,,,,,,,,,0,
+77-02A.jpg,77,02A,24,Main,120,20,20,Marcotte,Louis,Head,M,W,57,M1,30,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1867,Na,English,Druggist,Drug store,OA,,,Yes,Yes,,O,F,H,,,,,0,
+77-02A.jpg,77,02A,25,Main,,,,,Celina,Wife,F,W,46,M1,31,9,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1867,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Celiza; years married written 31 vs 30 for husband
+77-02A.jpg,77,02A,26,Main,,,,,Anna,Daughter,F,W,29,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-02A.jpg,77,02A,27,Main,,,,,Ozeme,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Azelie?)
+77-02A.jpg,77,02A,28,Main,4,21,21,Nash,George,Head,M,W,73,M1,47,,,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,street uncertain (house 4 breaks Main numbering); mark in employer column struck
+77-02A.jpg,77,02A,29,Main,,,,,B. Mary,Wife,F,W,69,M1,47,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,sex written M
+77-02A.jpg,77,02A,30,Weaver,84,22,22,Leclair,E. Joseph,Head,M,W,57,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,street uncertain for lines 28-32 (Weaver written from line 34)
+77-02A.jpg,77,02A,31,Weaver,,,,,A. Agusta,Sister,F,W,44,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-02A.jpg,77,02A,32,Weaver,,,,Graaves,Irene,Niece,F,W,31,S,,,,New York,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,surname may be Graves
+77-02A.jpg,77,02A,33,Weaver,81,23,23,Lanoue,Joseph,Head,M,W,51,M1,26,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,Al,English,Boardinghouse,Keeper,Emp,No,0,Yes,Yes,,R,,H,,,,,0,
+77-02A.jpg,77,02A,34,Weaver,,,,,Hermine,Wife,F,W,51,M1,26,10,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,Cook,Boarding house,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+77-02A.jpg,77,02A,35,Weaver,,,,,Laura,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02A.jpg,77,02A,36,Weaver,,,,,Addie,Son,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-02A.jpg,77,02A,37,Weaver,,,,,Evelyn,Daughter,F,W,13,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name overwritten
+77-02A.jpg,77,02A,38,Weaver,,,,,Hermina,Daughter,F,W,11,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Germina
+77-02A.jpg,77,02A,39,Weaver,,,,,Alphonse,Son,M,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02A.jpg,77,02A,40,Weaver,,,,,Edward,Son,M,W,7,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,,,Yes,,,,,,,,0,
+77-02A.jpg,77,02A,41,Weaver,,,,Ward,Ira,Boarder,M,W,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,Al,English,Presser,Woolen mills,W,No,6,Yes,Yes,,,,,,,,,0,
+77-02A.jpg,77,02A,42,Weaver,,,,Lucier,Joseph,Boarder,M,W,24,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,English,Presser,Woolen mills,W,No,13,Yes,Yes,,,,,,,,,1,surname may be Lucia
+77-02A.jpg,77,02A,43,Weaver,,,,Beaudette,Joseph,Boarder,M,W,38,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,Al,English,Eye doctor,Eyesight,OA,No,0,Yes,Yes,,,,,,,,,1,surname may be Blandette; immigration year written 1908 faintly
+77-02A.jpg,77,02A,44,Weaver,,,,Latourno,Joseph,Boarder,M,W,27,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Latourne
+77-02A.jpg,77,02A,45,Weaver,,,,Labour,Wilfred,Boarder,M,W,28,S,,,,Rhode Island,Canada (Fr),Rhode Island,,French,,,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+77-02A.jpg,77,02A,46,Weaver,,,,Doyle,Richard,Boarder,M,W,20,S,,,,England,England,England,English,English,English,1900,Al,English,Laborer,Woolen mills,W,Yes,17,Yes,Yes,Yes,,,,,,,,1,immigration year may be 1910; school Yes uncertain
+77-02A.jpg,77,02A,47,Weaver,,,,Desorier,Joseph,Boarder,M,W,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,English,Carder,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Desrosier
+77-02A.jpg,77,02A,48,Weaver,,,,Fox,A. F.,Boarder,M,W,25,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Laborer,Screw works,W,No,6,Yes,Yes,,,,,,,,,1,initials unclear (H. F.?)
+77-02A.jpg,77,02A,49,Weaver,87,24,24,Dillon,John,Head,M,W,40,M1,20,,,Connecticut,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+77-02A.jpg,77,02A,50,Weaver,,,,,Agnes,Wife,F,W,41,M1,20,4,4,Vermont,Ireland,New York,,Irish,,,,English,,,,,,Yes,Yes,,,,,,,,,0,

@@ -1,0 +1,47 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-02B.jpg,77,02B,51,Weaver,87,24,24,Dillon,P. William,Son,M,W,19,S,,,,Vermont,Connecticut,Vermont,,,,,,English,Office boy,Woolen mills,W,No,14,Yes,Yes,Yes,,,,,,,,1,"first line is a Son (head likely on previous sheet) but house 87, dwelling 24, family 24 are written here; initial may be J.; birthplaces written with English tongue"
+77-02B.jpg,77,02B,52,Weaver,,,,,Mazie,Daughter,F,W,17,S,,,,New York,Connecticut,Vermont,,,,,,English,None,,,No,0,Yes,Yes,Yes,,,,,,,,1,employer class W struck out; out of work No and 0 weeks written despite occupation None
+77-02B.jpg,77,02B,53,Weaver,,,,,John,Son,M,W,16,S,,,,Vermont,Connecticut,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02B.jpg,77,02B,54,Weaver,,,,,James,Son,M,W,13,S,,,,Vermont,Connecticut,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02B.jpg,77,02B,55,Weaver,101,25,25,Carpenter,David,Head,M,W,42,M,10,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,Al,English,Salesman,Traveling salesman,W,No,0,Yes,Yes,,O,F,H,,,,,1,marital written M without number
+77-02B.jpg,77,02B,56,Weaver,,,,,Thereasa,Wife,M,W,36,M,10,3,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,,English,None,,,,,Yes,Yes,,,,,,,,,1,sex written M (likely error for F); given may be Theresa
+77-02B.jpg,77,02B,57,Weaver,,,,,Hortense,Daughter,F,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given written Hertanse; sex F overwritten
+77-02B.jpg,77,02B,58,Weaver,,,,,Laurence,Son,M,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02B.jpg,77,02B,59,Weaver,,,,,Herminie,Daughter,F,W,5,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,,,Yes,,,,,,,,1,given unclear (Hermine/Herminiel)
+77-02B.jpg,77,02B,60,Weaver,105,26,26,Lavalley,Isadore,Head,M,W,79,M,52,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,French,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname may be Lavelley
+77-02B.jpg,77,02B,61,Weaver,,,,,Marie,Wife,F,W,70,M,52,13,12,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-02B.jpg,77,02B,62,Weaver,,,,Paladeau,Rose,Daughter,F,W,23,M,4,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Packer,Screen works,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Paladean
+77-02B.jpg,77,02B,63,Weaver,,,,,George,Son-in-law,M,W,24,M,4,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen works,W,No,2,Yes,Yes,,,,,,,,,0,
+77-02B.jpg,77,02B,64,Weaver,105A,27,27,Lavalley,Hector,Head,M,W,42,D,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,Na,English,Carpenter,None,W,No,15,Yes,Yes,,R,,H,,,,,1,house number may be 105 1/2; given unclear; immigration year last digit unclear
+77-02B.jpg,77,02B,65,Weaver,,,,,Alphonse,Son,M,W,6,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-02B.jpg,77,02B,66,Weaver,109,28,28,Cusson,Peter,Head,M,W,64,M3,12,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,Na,French,Soap maker,Woolen mills,W,No,0,Yes,Yes,,O,M,H,,,,,1,surname written Cussion; immigration year may be 1894
+77-02B.jpg,77,02B,67,Weaver,,,,,Louise,Wife,F,W,80,M2,12,7,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1898,,French,None,,,,,Yes,Yes,,,,,,,,,1,age may be 50
+77-02B.jpg,77,02B,68,Weaver,,,,Hebert,Edwidge,Stepdaughter,F,W,32,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Sewer,Woolen mills,W,No,3,Yes,Yes,,,,,,,,,1,given written Edwidge/Edwidgy
+77-02B.jpg,77,02B,69,Weaver,108,29,29,Desautels,John,Head,M,W,60,M1,40,11,11,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1864,Na,French,Carpenter,,W,No,0,Yes,Yes,,O,F,H,,,,,1,children born/living 11 11 also written on male head's row
+77-02B.jpg,77,02B,70,Weaver,,,,,Vitaline,Wife,F,W,58,M,40,11,11,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-02B.jpg,77,02B,71,Weaver,,,,,Beatrice,Daughter,F,W,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Trimmer,Millinery,W,No,2,Yes,Yes,No,,,,,,,,1,school entry unclear
+77-02B.jpg,77,02B,72,Weaver,,,,,Edna,Daughter,F,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02B.jpg,77,02B,73,Weaver,111,30,30,Hebert,Frank Mrs,Head,F,W,70,Wd,,10,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1848,,French,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+77-02B.jpg,77,02B,74,Weaver,,,,Cassino,Jos,Son-in-law,M,W,27,M1,5,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Carpenter,,W,No,6,Yes,Yes,,,,,,,,,1,surname reading uncertain (Cossiwo?)
+77-02B.jpg,77,02B,75,Weaver,,,,,Mary,Daughter,F,W,30,M1,5,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Sewer,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-02B.jpg,77,02B,76,Weaver,,,,Hebert,Clara,Grandchild,F,W,22,S,,,,Vermont,Vermont,Vermont,,,,,,English,Spooler,Woolen mills,W,No,2,Yes,Yes,,,,,,,,,0,
+77-02B.jpg,77,02B,77,Weaver,,,,Allen,E. William,Grandchild,M,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,surname may be Allee
+77-02B.jpg,77,02B,78,Weaver,116,31,31,Bessette,Leona Mrs,Head,F,W,46,M,27,4,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,,R,,H,,,,,0,
+77-02B.jpg,77,02B,79,Weaver,,,,,Theophile,Son,M,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,French,Laborer,Woolen mills,W,No,20,Yes,Yes,Yes,,,,,,,,1,age overwritten (18 or 28)
+77-02B.jpg,77,02B,80,Weaver,,,,,Delia,Daughter,F,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,Spooler,Woolen mills,W,No,32,Yes,Yes,Yes,,,,,,,,1,school entry overwritten
+77-02B.jpg,77,02B,81,Weaver,,,,Demarais,Joseph,Brother,M,W,53,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,French,Laborer,Woolen mills,W,No,6,Yes,Yes,,,,,,,,,1,immigration year unclear (1910 or 1900)
+77-02B.jpg,77,02B,82,Weaver,112,32,32,Cimmito,Mike,Head,M,W,33,M1,14,,,Italy,Italy,Italy,Italian,Italian,Italian,1902,Al,Italian,Laborer,Woolen mills,W,No,0,Yes,Yes,,R,,H,,,,,1,surname reading uncertain (Cimmto)
+77-02B.jpg,77,02B,83,Weaver,,,,,Jane,Wife,F,W,33,M,14,5,3,Italy,Italy,Italy,Italian,Italian,Italian,1902,,Italian,None,,,,,,,,,,,,,,,1,years married not clearly written
+77-02B.jpg,77,02B,84,Weaver,,,,,Frank,Son,M,W,12,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1902,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02B.jpg,77,02B,85,Weaver,,,,,Catharine,Daughter,F,W,3,S,,,,Vermont,Italy,Italy,,Italian,Italian,,,Italian,None,,,,,,,,,,,,,,,1,birthplace written Italian It/Vt overwritten
+77-02B.jpg,77,02B,86,Weaver,,,,,Domnick,Son,M,W,1,S,,,,Vermont,Italy,Italy,,Italian,Italian,,,,None,,,,,,,,,,,,,,,0,
+77-02B.jpg,77,02B,87,Weaver,118,33,33,Hebert,George,Head,M,W,30,M,10,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Carpenter,Screen works,W,No,7,Yes,Yes,,R,,H,,,,,0,
+77-02B.jpg,77,02B,88,Weaver,,,,,Lucia,Wife,F,W,33,M,10,4,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-02B.jpg,77,02B,89,Weaver,,,,,Wilfred,Son,M,W,13,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,age unclear (13 or 8)
+77-02B.jpg,77,02B,90,Weaver,,,,,Malvina,Daughter,F,W,9,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-02B.jpg,77,02B,91,Weaver,,,,,Yvonne,Daughter,F,W,2,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+77-02B.jpg,77,02B,92,Weaver,122,34,34,Burke,Ellen Mrs,Head,F,W,72,Wd,,10,6,Ireland,Ireland,Ireland,Irish,Irish,Irish,1858,Na,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,own tongue written English then struck/overwritten; immigration year may be 1856
+77-02B.jpg,77,02B,93,Weaver,,,,Dooley,Charles,Boarder,M,W,50,M,22,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1888,Na,English,Lumberman,Mills,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Donley; own tongue written English then struck
+77-02B.jpg,77,02B,94,Weaver,,,,,Catherine Mrs,Boarder,F,W,49,M,22,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1888,,English,Spooler,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,1,own tongue written English then struck
+77-02B.jpg,77,02B,95,Weaver,126,35,35,Carpenter,B. Henry,Head,M,W,60,M,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1881,Na,English,Grocer,Grocery store,OA,,,Yes,Yes,,O,F,H,,,,,0,
+77-02B.jpg,77,02B,96,Weaver,,,,,Flora,Wife,F,W,53,M,35,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1875,,English,None,,,,,Yes,Yes,,,,,,,,,1,age overwritten (53 or 63)

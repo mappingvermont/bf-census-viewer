@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-01A.jpg,76,01A,1,Main,457,1,1,Standy,Loren,Head,M,W,29,M1,7,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Manager,Farm,W,No,0,Yes,Yes,,R,,F,1,,,,1,"street written vertically as Main Street (lines 20-33), applied to page; surname may be Stanley; mark in free/mortgaged column smudged or struck"
+76-01A.jpg,76,01A,2,Main,,,,,Jessa,Wife,M,W,30,M1,7,5,5,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,sex written M for wife; given may be Jessie
+76-01A.jpg,76,01A,3,Main,,,,,Farrand,Son,M,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,given may be Harrand
+76-01A.jpg,76,01A,4,Main,,,,,Wilma,Daughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-01A.jpg,76,01A,5,Main,,,,,Milan,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,given may be Wilan
+76-01A.jpg,76,01A,6,Main,,,,,Josie,Daughter,F,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-01A.jpg,76,01A,7,Main,,,,,Iona,Daughter,F,W,6/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,given may be Jona
+76-01A.jpg,76,01A,8,Main,,2,2,Marier,John,Head,M,W,33,M1,12,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen shop,W,No,3,Yes,Yes,,R,,H,,,,,1,house number column marked x; surname may be Marrier or Mercier
+76-01A.jpg,76,01A,9,Main,,,,,Anna,Wife,F,W,33,M1,12,6,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01A.jpg,76,01A,10,Main,,,,,Pricilla,Daughter,F,W,10,S,,,,Vermont,Massachusetts,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01A.jpg,76,01A,11,Main,,,,,Mary,Daughter,F,W,8,S,,,,Canada (Fr),Massachusetts,Canada (Fr),French,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01A.jpg,76,01A,12,Main,,,,,,Son,M,W,7,S,,,,Vermont,Massachusetts,Canada (Fr),,,French,,,French,None,,,,,,,No,,,,,,,,1,given name illegible (possibly Wortnel or Mortimer)
+76-01A.jpg,76,01A,13,Main,,,,,Roland,Son,M,W,5,S,,,,Vermont,Massachusetts,Canada (Fr),,,French,,,French,None,,,,,,,No,,,,,,,,0,
+76-01A.jpg,76,01A,14,Main,,,,,Irene,Daughter,F,W,3,S,,,,Vermont,Massachusetts,Canada (Fr),,,French,,,French,None,,,,,,,,,,,,,,,0,
+76-01A.jpg,76,01A,15,Main,,,,,Normand,Son,M,W,1 3/4,S,,,,Vermont,Massachusetts,Canada (Fr),,,French,,,,None,,,,,,,,,,,,,,,0,
+76-01A.jpg,76,01A,16,Main,259,3,3,St. Peter,Joseph,Head,M,W,48,M1,27,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1854,Na,English,Painter,House,Emp,No,16,No,No,,O,,H,,,,,1,employer class Emp written over OA; mark in free/mortgaged column unclear
+76-01A.jpg,76,01A,17,Main,,,,,Edna,Wife,F,W,46,M1,27,4,4,Vermont,New York,Vermont,,,,,,English,None,,,,,No,No,,,,,,,,,0,industry entry struck out
+76-01A.jpg,76,01A,18,Main,,,,,Leo,Son,M,W,20,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Painter,House,W,No,16,Yes,Yes,No,,,,,,,,0,
+76-01A.jpg,76,01A,19,Main,,,,,Thomas,Son,M,W,18,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Screen shop,W,No,40,Yes,Yes,No,,,,,,,,0,
+76-01A.jpg,76,01A,20,Main,251,4,4,Mongeon,George J.,Head,M,W,48,M1,25,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Mason,Brick,W,No,16,Yes,Yes,,O,M,H,,,,,0,
+76-01A.jpg,76,01A,21,Main,,,,,Jennie,Wife,F,W,50,M1,25,2,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,English,Dressmaker,Home,OA,No,0,Yes,Yes,,,,,,,,,0,
+76-01A.jpg,76,01A,22,Main,,,,,Irena,Daughter,F,W,18,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,No,,,,,,,,1,given may be Irene
+76-01A.jpg,76,01A,23,Main,253,5,5,Spicer,George H.,Head,M,W,40,M1,4,,,Canada (Eng),Canada (Eng),Canada (Eng),English,English,English,1890,Na,English,Sargent,U.S. Army,W,No,0,Yes,Yes,,R,,H,,,,,1,birthplaces Can Eng written over struck Nova Scotia
+76-01A.jpg,76,01A,24,Main,,,,,Anna,Wife,F,W,32,M1,4,2,2,New York,Ireland,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01A.jpg,76,01A,25,Main,,,,,Carleton,Son,M,W,2,S,,,,Vermont,Canada (Eng),New York,,English,,,,,None,,,,,,,,,,,,,,,0,
+76-01A.jpg,76,01A,26,Main,,,,,George H. Jr.,Son,M,W,7/12,S,,,,Vermont,Canada (Eng),New York,,English,,,,,None,,,,,,,No,,,,,,,,1,father birthplace Can Eng over struck Nova Scotia; school No may belong to line 27
+76-01A.jpg,76,01A,27,Main,247,6,6,Metivier,George,Head,M,W,29,M1,4,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-01A.jpg,76,01A,28,Main,,,,,Dorothy,Wife,F,W,24,M1,4,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01A.jpg,76,01A,29,Main,,,,Wade,Emma,Aunt,F,W,45,Wd,,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,No,No,,,,,,,,,0,
+76-01A.jpg,76,01A,30,Main,,,,Metivier,Madeline,Daughter,F,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,mother birthplace Vermont written over struck Canada
+76-01A.jpg,76,01A,31,Main,,,,,Maurice,Son,M,W,11/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,mother birthplace Vermont written over struck Canada; age may be 10/12
+76-01A.jpg,76,01A,32,Main,237,7,7,Lowell,Herbert,Head,M,W,38,M1,14,,,Canada (Fr),Canada (Fr),Ireland,French,French,Irish,1886,Na,English,Laborer,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Fowell or Powell
+76-01A.jpg,76,01A,33,Main,,,,,May,Wife,F,W,33,M1,14,3,3,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-01A.jpg,76,01A,34,Main,,,,,Earl W.,Son,M,W,14,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01A.jpg,76,01A,35,Main,,,,,Bertha,Daughter,F,W,8,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,twin bracketed with Bernice
+76-01A.jpg,76,01A,36,Main,,,,,Bernice,Daughter,F,W,8,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,twin bracketed with Bertha
+76-01A.jpg,76,01A,37,Main,,,,Jette,Louis,Lodger,M,W,33,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screen shop,W,No,0,Yes,Yes,,,,,,,,,0,
+76-01A.jpg,76,01A,38,Main,235,8,8,Lavalee,Frank,Head,M,W,28,M1,10,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Mill,W,No,50,Yes,Yes,,O,M,H,,,,,1,surname may be Lavallee; weeks unemployed may be 20
+76-01A.jpg,76,01A,39,Main,,,,,Rose,Wife,F,W,28,M1,10,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,English,Weaver,Mill,W,No,45,Yes,Yes,,,,,,,,,0,
+76-01A.jpg,76,01A,40,Main,225,9,9,Manseau,Louis T.,Head,M,W,46,M1,17,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1866,Na,English,Driver,Express Co.,W,No,0,Yes,Yes,,O,M,H,,,,,1,age 46 written over 39
+76-01A.jpg,76,01A,41,Main,,,,,Lillian,Wife,F,W,39,M1,17,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Dressmaking,Home,OA,No,0,Yes,Yes,,,,,,,,,0,
+76-01A.jpg,76,01A,42,Main,,,,,Eugene,Son,M,W,16,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Operator,Telegraph,W,No,12,Yes,Yes,No,,,,,,,,0,
+76-01A.jpg,76,01A,43,Main,,,,,Florence,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-01A.jpg,76,01A,44,Main,219,10,10,St. Jean,Arthur,Head,M,W,24,M1,2,,,Wisconsin,Canada (Fr),Canada (Fr),,French,French,,,English,Operator,Telegraph,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-01A.jpg,76,01A,45,Main,,,,,Eva,Wife,F,W,19,M1,2,,,Rhode Island,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-01A.jpg,76,01A,46,Main,217,,11,Smith,Lucius,Head,M,B,35,M1,6,,,Alabama,Georgia,Georgia,,,,,,English,Soldier,U.S. Army,W,Yes,1,Yes,Yes,,R,,H,,,,,1,dwelling number written 10 and struck out (likely 11); given name unclear; years married may be 0
+76-01A.jpg,76,01A,47,Main,,,,,Mary,Wife,F,B,34,M1,6,0,0,Virginia,Virginia,Virginia,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,years married may be 8
+76-01A.jpg,76,01A,48,Main,,,,Banks,Nellie,Lodger,F,B,21,M1,1/2,0,0,New York,South Carolina,South Carolina,,,,,,English,None,,,,,Yes,Yes,No,,,,,,,,1,given Nellie written over struck Joseph
+76-01A.jpg,76,01A,49,Main,,,,,Joseph,Lodger,M,B,25,M1,1/2,,,Texas,Texas,Texas,,,,,,English,Soldier,U.S. Army,W,No,4,Yes,Yes,,,,,,,,,0,

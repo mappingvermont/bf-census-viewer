@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-01B.jpg,77,01B,51,Main,226,8,8,Thomas,Horace,Head,M,W,63,M1,37,,,New York,New York,New York,,,,,,English,Electrician,Power Station,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+77-01B.jpg,77,01B,52,Main,,,,,Anna,Wife,F,W,58,M1,37,7,6,New York,Ireland,Ireland,,English,English,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,53,Main,,,,,Nellie,Daughter,F,W,26,S,,,,Vermont,New York,New York,,,,,,English,Housework,Home,W,,,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,54,Main,,,,,Erwin,Son,M,W,22,S,,,,Vermont,New York,New York,,,,,,English,Engineer,Construction Co,W,No,3,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,55,Main,,,,,Frederick,Son,M,W,21,S,,,,Vermont,New York,New York,,,,,,English,Clerk,Grocery Store,W,No,0,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,56,Main,220,9,9,Masseau,Arthur,Head,M,W,53,M1,25,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1868,Na,English,Merchant,Grocery Store,Emp,,,Yes,Yes,,O,F,H,,,,,1,surname may be Mascau; immigration year may be 1861; naturalization written Na/No
+77-01B.jpg,77,01B,57,Main,,,,,Emma,Wife,F,W,47,M1,25,7,6,New York,New York,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,58,Main,,,,,William,Son,M,W,21,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Clerk,Grocery Store,W,No,0,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,59,Main,,,,,Wilfred,Son,M,W,17,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,60,Main,,,,,Lydia,Daughter,F,W,14,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,61,Main,,,,,Henry,Son,M,W,12,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,62,Main,,,,,Leo,Son,M,W,6,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,63,Main,,,,Seymour,Agnes,Sister-in-law,F,W,44,M1,18,2,1,New York,New York,Canada (Fr),,,French,,,English,Spooler,Woolen Mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,64,Main,,,,,Eva,Niece,F,W,17,S,,,,Vermont,Vermont,New York,,,,,,English,Sewer,Hat Shop,W,No,2,Yes,Yes,,,,,,,,,1,given may be Ida; industry may be Hater Shop; school cell overwritten (Yes/No unclear)
+77-01B.jpg,77,01B,65,Main,196,10,10,Hennessy,Mary,Head,F,W,58,Wd,,11,7,Ireland,Ireland,Ireland,English,English,English,1871,,English,None,,,,,Yes,Yes,,R,,H,,,,,1,dwelling number written faintly; immigration year may be 1891; ownership mark unclear
+77-01B.jpg,77,01B,66,Main,,,,,Daniel,Son,M,W,17,S,,,,Vermont,Ireland,Ireland,,English,English,,,English,Dresser,Woolen Mill,W,No,0,Yes,Yes,,,,,,,,,1,school cell overwritten (Yes/No unclear)
+77-01B.jpg,77,01B,67,Main,,,,Martha,Thomas,Grandchild,M,W,14,S,,,,Vermont,New York,Ireland,,,English,,,English,None,,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Marthea/Mather; industry entry erased; school cell overwritten
+77-01B.jpg,77,01B,68,Main,,,,Hill,Florence,Granddaughter,F,W,13,S,,,,Vermont,Ohio,Ireland,,,English,,,English,None,,,,,Yes,Yes,,,,,,,,,1,school cell overwritten (Yes/No unclear)
+77-01B.jpg,77,01B,69,Main,192,11,11,Kirby,Paul,Head,M,W,42,M1,22,,,Vermont,Vermont,Vermont,,,,,,English,Electrician,Woolen Mills,W,No,0,Yes,Yes,,R,,H,,,,,0,
+77-01B.jpg,77,01B,70,Main,,,,,Pauline,Wife,F,W,41,M1,22,13,8,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,school Yes written on wife's row
+77-01B.jpg,77,01B,71,Main,,,,,Alma,Daughter,F,W,20,S,,,,Vermont,Vermont,Vermont,,,,,,English,Sewer,Woolen Mills,W,No,11,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,72,Main,,,,,Harry,Son,M,W,15,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,73,Main,,,,,Leo,Son,M,W,13,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,74,Main,,,,,Francis,Daughter,F,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,75,Main,,,,,William,Son,M,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,76,Main,,,,,Isabelle,Daughter,F,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,77,Main,,,,,Elda,Daughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,language written French (unclear)
+77-01B.jpg,77,01B,78,Main,,,,,Donald,Son,M,W,3/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+77-01B.jpg,77,01B,79,Main,188,12,12,Hebert,Louis,Head,M,W,42,M1,15,,,Vermont,Vermont,Vermont,,,,,,English,Delivery Clerk,Wine Store,W,No,0,Yes,Yes,,R,,H,,,,,1,age may be 72
+77-01B.jpg,77,01B,80,Main,,,,,Lucy,Wife,F,W,44,M1,15,,,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,81,Main,176,13,13,Packard,M. Estelle,Head,F,W,31,S,,,,Vermont,Vermont,New York,English,English,English,,,English,Teacher,Parochial school,W,No,0,Yes,Yes,,O,,H,,,,,1,age overwritten (30/31); birthplaces written with English as tongue; col 27 has check mark instead of F/M
+77-01B.jpg,77,01B,82,Main,,,,,Frank,Brother,M,W,30,S,,,,Vermont,Vermont,New York,English,English,English,,,English,Liquor Dealer,Liquor Store,Emp,No,0,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,83,Main,,,,,Floyd,Brother,M,W,25,S,,,,Vermont,Vermont,New York,English,English,English,,,English,Collector,Burlington Light Co,W,No,0,Yes,Yes,,,,,,,,,1,birthplace cells overwritten
+77-01B.jpg,77,01B,84,Main,170,14,14,Shanley,L. John,Head,M,W,29,M1,6,,,Vermont,Ireland,Vermont,English,Irish,English,,,English,Druggist,Drug Store,Emp,No,0,Yes,Yes,,R,,H,,,,,1,birthplace cells overwritten
+77-01B.jpg,77,01B,85,Main,,,,,M. Louise,Wife,F,W,31,M1,6,2,2,Vermont,Vermont,Vermont,French,French,English,,,English,None,,,,,Yes,Yes,,,,,,,,,1,birthplace cells overwritten
+77-01B.jpg,77,01B,86,Main,,,,,Eleanor,Daughter,F,W,2,S,,,,Vermont,Vermont,Vermont,English,English,French,,,English,None,,,,,,,,,,,,,,,0,
+77-01B.jpg,77,01B,87,Main,,,,,Francis,Daughter,F,W,7/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-01B.jpg,77,01B,88,Main,,,,Brown,Josie,Nurse girl,F,W,35,S,,,,Vermont,Canada (Fr),Vermont,English,French,English,,,English,Nurse Girl,House,W,No,0,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,89,Main,,,,Gadue,Mary,Roomer,F,W,28,S,,,,Vermont,Canada (Fr),Canada (Fr),French,French,French,,,English,Weaver,Woolen Mills,W,No,0,Yes,Yes,,,,,,,,,1,mother birthplace overwritten (Vermont written above)
+77-01B.jpg,77,01B,90,Main,,,,Carter,Chester,Roomer,M,W,40,Wd,,,,Vermont,Vermont,Vermont,French,French,French,,,English,Clerk,Dry Goods Store,W,No,0,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,91,Main,,,,Metcalf,Arthur,Roomer,M,W,27,S,,,,Vermont,Vermont,Vermont,English,English,English,,,English,Laborer,Woolen Mills,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Medolf
+77-01B.jpg,77,01B,92,Main,158,15,15,Adams,Chas,Head,M,W,41,M1,20,,,Vermont,Canada (Fr),Canada (Eng),English,French,English,,,English,Teamster,Trucking,Emp,No,0,Yes,Yes,,O,M,H,,,,,1,house number may be 154
+77-01B.jpg,77,01B,93,Main,,,,,Mary,Wife,F,W,40,M1,20,3,3,Vermont,Canada (Fr),Canada (Fr),English,French,French,,,English,Boarding House,Mistress,Emp,No,0,Yes,Yes,,,,,,,,,0,
+77-01B.jpg,77,01B,94,Main,,,,,Chas,Son,M,W,19,S,,,,Vermont,Vermont,Vermont,English,English,English,,,English,Teamster,Woodyard,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,95,Main,,,,,Lilly,Daughter,F,W,10,S,,,,Vermont,Vermont,Vermont,English,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,96,Main,,,,,Anna,Daughter,F,W,8,S,,,,Vermont,Vermont,Vermont,English,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,97,Main,,,,Bertrand,Antoinette,Servant,F,W,18,S,,,,Rhode Island,Canada (Fr),Canada (Fr),French,French,French,,,English,Servant,House,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-01B.jpg,77,01B,98,Main,,,,Potvin,Frank,Boarder,M,W,20,S,,,,Vermont,Illinois,Canada (Fr),,,French,,,English,Laborer,Woolen Mills,W,No,4,Yes,Yes,Yes,,,,,,,,1,surname may be Potvin/Potrin
+77-01B.jpg,77,01B,99,Main,,,,Favers,Henry,Boarder,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,English,Weaver,Woolen Mill,W,No,7,Yes,Yes,,,,,,,,,1,surname may be Favero
+77-01B.jpg,77,01B,100,Main,,,,Trembly,Euclid,Boarder,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1901,Al,English,Weaver,Woolen Mill,W,No,2,Yes,Yes,,,,,,,,,0,

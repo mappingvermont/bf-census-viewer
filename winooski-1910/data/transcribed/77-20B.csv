@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-20B.jpg,77,20B,51,Hickok,98,334,334,Buslay,Levi,Head,M,W,48,M1,23,,,Vermont,Vermont,New York,,,,,,English,Spinner,Cotton mill,W,No,0,Yes,Yes,,O,F,H,,,,,1,surname may be Bushey; age may be 43
+77-20B.jpg,77,20B,52,Hickok,,,,,Sarah,Wife,F,W,43,M1,23,6,6,New York,New York,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-20B.jpg,77,20B,53,Hickok,,,,,Henry,Son,M,W,21,S,,,,Vermont,Vermont,New York,,,,,,English,Spinner,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,1,marital mark overwritten
+77-20B.jpg,77,20B,54,Hickok,,,,,Flora,Daughter,F,W,20,S,,,,Vermont,Vermont,New York,,,,,,English,Spooler,Woolen mill,W,No,0,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-20B.jpg,77,20B,55,Hickok,,,,,Delore,Son,M,W,16,S,,,,Vermont,Vermont,New York,,,,,,English,Spooler,Woolen mill,W,No,40,Yes,Yes,Yes,,,,,,,,1,given may be Delors; weeks unemployed unclear
+77-20B.jpg,77,20B,56,Hickok,,,,,Isabelle,Daughter,F,W,13,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,57,Hickok,,,,,Arthur,Son,M,W,8,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,58,Hickok,,,,,Rudolph,Son,M,W,2,S,,,,Vermont,Vermont,New York,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-20B.jpg,77,20B,59,Hickok,106,335,335,Wheat,Joseph Sr.,Head,M,W,59,M1,37,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mill,W,No,12,Yes,Yes,,R,,H,,,,,1,weeks unemployed unclear
+77-20B.jpg,77,20B,60,Hickok,,,,,Clara,Wife,F,W,55,M1,37,14,9,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-20B.jpg,77,20B,61,Hickok,,,,,Nellie,Daughter,F,W,28,Wd,,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Woolen mill,W,No,4,Yes,Yes,,,,,,,,,1,given name unclear; marital may be S
+77-20B.jpg,77,20B,62,Hickok,,,,,Ellen,Daughter,F,W,16,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Glyn?)
+77-20B.jpg,77,20B,63,Hickok,,,,,George,Son,M,W,13,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,64,Hickok,110,336,336,Blanchard,Adelard,Head,F,W,55,Wd,,,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,French,None,,,,,No,No,,R,,H,,,,,1,given written Adilard (may be Adelaide); only one children number written (7)
+77-20B.jpg,77,20B,65,Hickok,,,,,Alphonse,Son,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,French,Laborer,Woolen mill,W,Yes,8,Yes,Yes,,,,,,,,,1,weeks unemployed unclear
+77-20B.jpg,77,20B,66,Hickok,,,,,Fomula,Daughter,F,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,Sewer,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,1,given name unclear (Romula?); weeks unemployed unclear
+77-20B.jpg,77,20B,67,Hickok,118,337,337,Myers,Philomene,Head,F,W,77,Wd,,14,7,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,No,No,,O,F,H,,,,,1,surname written Myrs; ownership marks unclear
+77-20B.jpg,77,20B,68,Hickok,,,,,Philomene,Daughter,F,W,37,Wd,,1,0,Vermont,Vermont,Vermont,,,,,,English,None,,,,,No,No,,,,,,,,,0,
+77-20B.jpg,77,20B,69,Hickok,,,,,Charles,Son,M,W,43,D,,,,Vermont,Vermont,Vermont,,,,,,English,Proprietor,Wood yard,Emp,,,Yes,Yes,,,,,,,,,0,
+77-20B.jpg,77,20B,70,Hickok,,,,,Pheobe,Granddaughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,71,Hickok,144,338,338,Chartney,Philip,Head,M,W,45,M1,22,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1881,Na,English,Mason,Brick mason,W,No,4,Yes,Yes,,R,,H,,,,,1,surname unclear (Chastney?)
+77-20B.jpg,77,20B,72,Hickok,,,,,Honorine,Wife,F,W,43,M1,22,9,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-20B.jpg,77,20B,73,Hickok,,,,,Saraphine,Daughter,F,W,21,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,6,Yes,Yes,,,,,,,,,0,
+77-20B.jpg,77,20B,74,Hickok,,,,,Armand,Son,M,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screw shop,W,No,0,Yes,Yes,Yes,,,,,,,,1,weeks unemployed unclear
+77-20B.jpg,77,20B,75,Hickok,,,,,Artiline,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,1,given name unclear (Aptiline?); weeks unemployed unclear
+77-20B.jpg,77,20B,76,Hickok,,,,,Honorine,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,77,Hickok,,,,,Clement,Son,M,W,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,78,Hickok,,,,,Bernadette,Adopted child,F,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-20B.jpg,77,20B,79,Hickok,152,339,339,Bouffard,Virginia,Head,F,W,56,Wd,,11,11,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+77-20B.jpg,77,20B,80,Hickok,,,,,Zoey,Daughter,F,W,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Zaday?)
+77-20B.jpg,77,20B,81,Hickok,,,,,Henri,Son,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,Al,English,Weaver,Woolen mill,W,No,3,Yes,Yes,,,,,,,,,1,weeks unemployed unclear
+77-20B.jpg,77,20B,82,Hickok,,,,,Rosanna,Daughter,F,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Inspector,Woolen mill,W,No,2,Yes,Yes,Yes,,,,,,,,1,given written Rosantra
+77-20B.jpg,77,20B,83,Hickok,,,,,Alphonse,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,84,Hickok,,,,,Emma,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,85,Hickok,164,340,340,Fille,Victor,Head,M,W,55,M1,29,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Mason,Stone mason,W,No,13,Yes,Yes,,O,F,H,,,,,1,surname faint and unclear
+77-20B.jpg,77,20B,86,Hickok,,,,,Victoria,Wife,F,W,47,M1,29,12,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-20B.jpg,77,20B,87,Hickok,,,,,Albina,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,,English,Weaver,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,88,Hickok,,,,,Cordellia,Daughter,F,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Tacker,Screw shop,W,No,7,Yes,Yes,Yes,,,,,,,,1,occupation may be Packer; weeks unemployed unclear
+77-20B.jpg,77,20B,89,Hickok,,,,,Isadore,Son,M,W,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,90,Hickok,,,,,Thomas,Son,M,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,91,Hickok,,,,,Peter,Son,M,W,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20B.jpg,77,20B,92,Hickok,,,,,Arienne,Daughter,F,W,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-20B.jpg,77,20B,93,Hickok,,,,,Clare,Son,M,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given name unclear; faint mark in education columns
+77-20B.jpg,77,20B,94,Hickok,174,341,341,Couchon,Joseph,Head,M,W,63,M1,34,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Na,French,Mason,Stone mason,W,Yes,14,No,No,,O,F,H,,,,,1,surname may be Conchon
+77-20B.jpg,77,20B,95,Hickok,,,,,Ida,Wife,F,W,62,M1,34,6,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-20B.jpg,77,20B,96,Hickok,172,342,342,Bissonette,Wilfred,Head,M,W,29,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1893,,English,Laborer,Screw shop,W,,,Yes,Yes,,O,M,H,,,,,1,surname may be Bissonnette
+77-20B.jpg,77,20B,97,Hickok,,,,,Josephine,Wife,F,W,31,M1,3,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1893,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-20B.jpg,77,20B,98,Hickok,,,,,Rheanna,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given name unclear
+77-20B.jpg,77,20B,99,Hickok,,,,,Armand,Son,M,W,1/2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age written as fraction 1/2 (may be 1/12)

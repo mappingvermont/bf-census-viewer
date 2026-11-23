@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-10B.jpg,76,10B,51,Barlow,12,149,172,Hurcombe,William,Head,M,W,27,M1,8,,,England,England,England,English,English,English,1906,Al,English,Weaver,Mill,W,No,10,Yes,Yes,,R,,H,,,,,1,street written Barlow Street (not on the street list but clearly written)
+76-10B.jpg,76,10B,52,Barlow,,,,,Elizabeth,Wife,F,W,25,M1,8,2,1,England,England,England,English,English,English,1906,,English,Sewing,Mill,W,No,10,Yes,Yes,,,,,,,,,0,
+76-10B.jpg,76,10B,53,Barlow,,,,,William H.,Son,M,W,4/12,S,,,,Vermont,England,England,,English,English,,,,None,,,,,,,,,,,,,,,0,
+76-10B.jpg,76,10B,54,Barlow,,,,Wilkinson,Phoebe,Sister-in-law,F,W,30,S,,,,England,England,England,English,English,English,1909,,English,Housekeeper,Home,W,No,0,Yes,Yes,,,,,,,,,0,
+76-10B.jpg,76,10B,55,Barlow,14,,173,Burt,George,Head,M,W,50,M2,7,,,Michigan,New York,New York,,,,,,English,Painter,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,house number may be 74 or 17; dwelling number 149 crossed out
+76-10B.jpg,76,10B,56,Barlow,,,,,Sarah,Wife,F,W,54,M1,7,0,0,Michigan,New York,England,,,English,,,English,Stamping,Screen shop,W,No,0,Yes,Yes,,,,,,,,,1,occupation reading uncertain
+76-10B.jpg,76,10B,57,Barlow,,,,Ames,Henry,Lodger,M,W,35,S,,,,Vermont,Vermont,New York,,,,,,English,Salesman,Screen shop,W,No,0,Yes,Yes,,,,,,,,,0,
+76-10B.jpg,76,10B,58,Barlow,,,,Bernardina,Ralph,Lodger,M,W,32,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1896,Al,English,Fruit dealer,Store,OA,No,0,Yes,Yes,,,,,,,,,1,surname may be Bernardino
+76-10B.jpg,76,10B,59,Barlow,44,150,174,Guillet,Magloire,Head,M,W,55,M1,30,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,Na,French,Blacksmith,Shop,OA,No,0,Yes,Yes,,R,,H,,,,,1,given written like Magulaire
+76-10B.jpg,76,10B,60,Barlow,,,,,Octavia,Wife,F,W,53,M1,30,10,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-10B.jpg,76,10B,61,Barlow,,,,,Anna,Daughter,F,W,30,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Milliner,Shop,OA,No,0,Yes,Yes,,,,,,,,,0,
+76-10B.jpg,76,10B,62,Barlow,,,,,Omer,Son,M,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-10B.jpg,76,10B,63,Barlow,53,151,175,Marcotte,Sarfain,Head,M,W,44,M1,18,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,Na,French,Druggist,Store,OA,No,0,Yes,Yes,,O,F,H,,,,,1,given may be Serafin; street boundary boxed at this line (Barlow assumed for whole family)
+76-10B.jpg,76,10B,64,Barlow,,,,,Angelina,Wife,F,W,39,M1,18,6,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,years married may read 8 (head has 18)
+76-10B.jpg,76,10B,65,Barlow,,,,,Florinda,Daughter,F,W,15,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Florence?)
+76-10B.jpg,76,10B,66,Barlow,,,,,Anna,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-10B.jpg,76,10B,67,Barlow,,,,,Raymond,Son,M,W,11,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-10B.jpg,76,10B,68,Barlow,,,,,Robert,Son,M,W,8,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-10B.jpg,76,10B,69,Barlow,,,,,Irene,Daughter,F,W,1,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,1,age may be 4
+76-10B.jpg,76,10B,70,East Allen,49,152,176,Shepard,James Jr.,Head,M,W,34,M1,12,,,Rhode Island,England,England,,English,English,,,English,Asst. Supt.,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,street written East Allen Street (first letter could be read W; East per ED); surname may be Sheppard
+76-10B.jpg,76,10B,71,East Allen,,,,,Harriet,Wife,F,W,32,M1,12,2,2,Canada (Eng),Canada (Eng),Canada (Eng),English,English,English,1892,,English,None,,,,,Yes,Yes,,,,,,,,,1,birthplaces corrected from Nova Scotia to Can Eng; given name unclear
+76-10B.jpg,76,10B,72,East Allen,,,,,Daniel,Son,M,W,11,S,,,,Massachusetts,Rhode Island,Canada (Eng),,,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,mother birthplace corrected from Nova Scotia
+76-10B.jpg,76,10B,73,East Allen,,,,,Meredith,Daughter,F,W,2,S,,,,Massachusetts,Rhode Island,Canada (Eng),,,English,,,English,None,,,,,,,,,,,,,,,1,given written Meridith; mother birthplace corrected from Nova Scotia
+76-10B.jpg,76,10B,74,East Allen,47,153,177,McArthur,Margaret,Head,F,W,49,Wd,,4,4,Scotland,Scotland,Scotland,Scotch,Scotch,Scotch,1889,,English,None,,,,,Yes,Yes,,R,,H,,,,,0,
+76-10B.jpg,76,10B,75,East Allen,,,,,Ruth,Daughter,F,W,21,S,,,,Massachusetts,Massachusetts,Scotland,,,Scotch,,,English,Bookkeeper,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-10B.jpg,76,10B,76,East Allen,,,,,Edith,Daughter,F,W,20,S,,,,Massachusetts,Massachusetts,Scotland,,,Scotch,,,English,Bookkeeper,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,school entry partly obscured
+76-10B.jpg,76,10B,77,East Allen,,,,,Grace,Daughter,F,W,14,S,,,,New Hampshire,Massachusetts,Scotland,,,Scotch,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-10B.jpg,76,10B,78,East Allen,,,,,Robert,Son,M,W,23,S,,,,Massachusetts,Massachusetts,Scotland,,,Scotch,,,English,Loomfixer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,birthplace written Lowell
+76-10B.jpg,76,10B,79,East Allen,47,153,,Monty,Joseph,Lodger,M,W,22,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1907,Al,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,house and dwelling repeated; family column has only a stroke (1?)
+76-10B.jpg,76,10B,80,East Allen,47,,,Houle,Mary,Servant,F,W,37,D,,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,English,House work,Home,W,No,0,Yes,Yes,,,,,,,,,1,dwelling and family numbers crossed out
+76-10B.jpg,76,10B,81,East Allen,46,154,178,Devino,William,Head,M,W,72,M2,17,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Grocer,Store,OA,No,0,Yes,Yes,,O,F,H,,,,,1,surname reading uncertain
+76-10B.jpg,76,10B,82,East Allen,,,,,Ellen,Wife,F,W,60,M2,17,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,,None,,,,,Yes,Yes,,,,,,,,,1,None written in language column; literacy faint
+76-10B.jpg,76,10B,83,East Allen,46,,179,Manseau,Edward,Head,M,W,24,M1,1,,,Vermont,Canada (Fr),New York,,French,,,,French,Bookkeeper,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (154?); surname unclear
+76-10B.jpg,76,10B,84,East Allen,,,,,Rose,Wife,F,W,21,M1,1,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,Yes,Yes,,,,,,,,,1,language entry faint or struck
+76-10B.jpg,76,10B,85,East Allen,,,,,Beatrice,Daughter,F,W,6/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-10B.jpg,76,10B,86,East Allen,,,,Ladouceur,Albertine,Lodger,F,W,35,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Teacher,Music,OA,,,Yes,Yes,,,,,,,,,0,
+76-10B.jpg,76,10B,87,East Allen,46,,180,Lalbert,William,Head,M,W,24,M1,6,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,French,Painter,House,W,No,10,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out (155?); surname may be Lambert
+76-10B.jpg,76,10B,88,East Allen,,,,,Josephine,Wife,F,W,26,M1,6,6,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,,,,,,,,,1,children born may be 1
+76-10B.jpg,76,10B,89,East Allen,,,,,Loretta,Daughter,F,W,2,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,,,,,,,,,,,0,
+76-10B.jpg,76,10B,90,East Allen,43,156,181,Devino,William,Head,M,W,40,M2,19,,,New York,Vermont,Canada (Fr),,,French,,,French,Pulling,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname reading uncertain
+76-10B.jpg,76,10B,91,East Allen,,,,,Paola,Wife,F,W,40,M1,19,8,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+76-10B.jpg,76,10B,92,East Allen,,,,,Sadie,Daughter,F,W,17,S,,,,Vermont,New York,Vermont,,,,,,French,Weaver,Mill,W,No,10,Yes,Yes,No,,,,,,,,0,
+76-10B.jpg,76,10B,93,East Allen,,,,,Henry,Son,M,W,15,S,,,,Vermont,New York,Vermont,,,,,,French,Pulling,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-10B.jpg,76,10B,94,East Allen,,,,,Madeline,Daughter,F,W,12,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-10B.jpg,76,10B,95,East Allen,,,,,Clara,Daughter,F,W,7,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-10B.jpg,76,10B,96,East Allen,,,,,William Jr.,Son,M,W,6,S,,,,Vermont,New York,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-10B.jpg,76,10B,97,East Allen,34,157,182,Dubuc,Alphonse,Head,M,W,63,M2,10,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1868,Na,French,Grocer,Store,Emp,No,0,Yes,Yes,,O,F,H,,,,,1,employer class overwritten (Emp over OA?)
+76-10B.jpg,76,10B,98,East Allen,,,,,Margaret,Wife,F,W,57,M1,10,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1868,,French,None,,,,,Yes,Yes,,,,,,,,,1,literacy entries overwritten
+76-10B.jpg,76,10B,99,East Allen,,,,,Evaline,Daughter,F,W,33,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Nurse,Outside,OA,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+76-10B.jpg,76,10B,100,East Allen,,,,,Laura,Daughter,F,W,22,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Clerk,Store,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear (Laurea?)

@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-21A.jpg,76,21A,1,East Allen,55,^,^,Hanna,Nicholas,Lodger,M,W,19,S,,,,Turkey,Turkey,Turkey,Syrian,Syrian,Syrian,1906,Al,English,Weaver,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,"street not written for lines 1-9, assumed East Allen from the street written below; dwelling and family numbers crossed out with X (possibly 249/352); house number may be 57; surname may be Homa; birthplace written Turkey with small word above (Turkey in Asia?)"
+76-21A.jpg,76,21A,2,East Allen,37,250,353,Thomas,Herbert,Head,M,W,33,M1,14,,,Turkey,Turkey,Turkey,Syrian,Syrian,Syrian,1896,Al,Syrian,Store keeper,Fruit store,OA,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Tannus; dwelling/family numbers faint (250/353 uncertain); house number may be 57; industry unclear
+76-21A.jpg,76,21A,3,East Allen,,,,,Emilia,Wife,F,W,28,M1,14,7,3,Turkey,Turkey,Turkey,Syrian,Syrian,Syrian,1891,,Syrian,None,,,,,No,No,,,,,,,,,1,row entries appear lined through; children living may be 2
+76-21A.jpg,76,21A,4,East Allen,,,,,George,Son,M,W,9,S,,,,Vermont,Turkey,Turkey,,Syrian,Syrian,,,Syrian,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21A.jpg,76,21A,5,East Allen,,,,,Rose,Daughter,F,W,8,S,,,,Vermont,Turkey,Turkey,,Syrian,Syrian,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21A.jpg,76,21A,6,East Allen,,,,Frag,Abraham,Cousin,M,W,30,S,,,,Turkey,Turkey,Turkey,Syrian,Syrian,Syrian,1904,Al,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Frog
+76-21A.jpg,76,21A,7,East Allen,53,251,354,Burroughs,Bertha,Head,F,B,20,M1,7,4,2,Kansas,Michigan,Michigan,,,,,,English,None,,,,,Yes,Yes,No,R,,H,,,,,1,birthplace may be Texas; ownership mark unclear
+76-21A.jpg,76,21A,8,East Allen,,,,,Allie,Son,M,B,4,S,,,,Nebraska,Virginia,Idaho,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,mother birthplace may be Illinois
+76-21A.jpg,76,21A,9,East Allen,,,,,Minnie,Daughter,F,B,2,S,,,,Nebraska,Virginia,Iowa,,,,,,,None,,,,,,,,,,,,,,,0,
+76-21A.jpg,76,21A,10,East Allen,135,252,355,Pratte,Edward,Head,M,W,37,M1,17,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Fixer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,occupation may be Filler; years married may be 7 (first digit faint); surname may be Prattes
+76-21A.jpg,76,21A,11,East Allen,,,,,Helen,Wife,F,W,34,M1,17,12,7,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,No,0,Yes,Yes,,,,,,,,,1,employer class smudged out; years married may be 7; children living may be 8
+76-21A.jpg,76,21A,12,East Allen,,,,,Edward Jr.,Son,M,W,15,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,No,No,No,,,,,,,,1,row appears struck through; literacy/school entries struck over
+76-21A.jpg,76,21A,13,East Allen,,,,,Mary,Son,F,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,relation written Son though sex F (daughter?)
+76-21A.jpg,76,21A,14,East Allen,,,,,George,Son,M,W,14,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21A.jpg,76,21A,15,East Allen,,,,,Henry,Son,M,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21A.jpg,76,21A,16,East Allen,,,,,Leo,Son,M,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21A.jpg,76,21A,17,East Allen,,,,,Sylvia,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-21A.jpg,76,21A,18,East Allen,,,,,Roland,Son,M,W,1,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-21A.jpg,76,21A,19,East Allen,,,,,Raymond,Son,M,W,4/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction faint
+76-21A.jpg,76,21A,20,East Allen,136,,356,Barbeau,Mary,Head,F,W,38,D,,3,3,Vermont,Vermont,Vermont,,,,,,French,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten/crossed (possibly 252)
+76-21A.jpg,76,21A,21,East Allen,,,,Pratte,Annie,Sister,F,W,28,S,,,,Vermont,Vermont,Vermont,,,,,,French,Laborer,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-21A.jpg,76,21A,22,East Allen,,,,Barbeau,Rose Alma,Daughter,F,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,second given name unclear
+76-21A.jpg,76,21A,23,East Allen,136,,357,Delorge,Eugene Jr.,Head,M,W,30,M1,4,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Mill,W,No,0,Yes,Yes,No,R,,H,,,,,1,dwelling number crossed out; surname may be Delarge
+76-21A.jpg,76,21A,24,East Allen,,,,,Clara,Wife,F,W,24,M1,4,2,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21A.jpg,76,21A,25,East Allen,,,,,Ernest,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-21A.jpg,76,21A,26,East Allen,106,,358,,Vina,Head,M,W,41,D,,,,New Hampshire,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out; sex overwritten (may be F); house number may be 136
+76-21A.jpg,76,21A,27,East Allen,,,,,Raymond,Son,M,W,7,S,,,,Vermont,New Hampshire,Canada (Fr),,,French,,,,None,,,,,No,No,No,,,,,,,,0,
+76-21A.jpg,76,21A,28,East Allen,,,,,Victoria,Daughter,F,W,10,S,,,,Vermont,New Hampshire,Canada (Fr),,,French,,,,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+76-21A.jpg,76,21A,29,West,131,253,359,Barone,Rocco,Head,M,W,47,M1,7,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Mill,W,No,0,No,No,,R,,H,,,,,1,"street written ""West"" (could be West Allen); surname may be Burno/Bruno; given unclear"
+76-21A.jpg,76,21A,30,West,,,,,Concetta,Wife,F,W,47,M1,7,1,1,Italy,Italy,Italy,Italian,Italian,Italian,1910,,Italian,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear; age may be 37 or 67
+76-21A.jpg,76,21A,31,West,,,,,Rosa,Daughter,F,W,7,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-21A.jpg,76,21A,32,West,,,,Savona,Peter,Brother,M,W,23,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint (Sorrone?)
+76-21A.jpg,76,21A,33,West,,,,,Antonio,Lodger,M,W,25,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-21A.jpg,76,21A,34,West,,,,Cormac,John,Lodger,M,W,38,Wd,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint (Corrao?)
+76-21A.jpg,76,21A,35,West,,,,Fae,John,Lodger,M,W,24,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Fra
+76-21A.jpg,76,21A,36,West,,,,,Dominic,Lodger,M,W,41,M1,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-21A.jpg,76,21A,37,West,,,,Schinel,Ralph,Head,M,W,23,M1,1,,,Italy,Italy,Italy,Italian,Italian,Italian,1907,Al,Italian,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,no dwelling/family number written (check mark only); surname may be Schivel
+76-21A.jpg,76,21A,38,West,,,,,Annie,Wife,F,W,17,M1,1,0,0,Spain,Spain,Spain,Spanish,Spanish,Spanish,1907,,Spanish,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-21A.jpg,76,21A,39,West,,,,,Joseph,Brother,M,W,24,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1907,Al,Italian,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-21A.jpg,76,21A,40,West,156,254,360,McGrath,Edward,Head,M,W,78,M1,44,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1864,Na,English,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+76-21A.jpg,76,21A,41,West,,,,,Helen,Wife,F,W,58,M1,44,6,5,Ireland,Ireland,Ireland,Irish,Irish,Irish,1862,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21A.jpg,76,21A,42,West,,,,,John,Son,M,W,31,M1,4,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Mason,Brick,W,Yes,10,Yes,Yes,,,,,,,,,0,
+76-21A.jpg,76,21A,43,West,,,,,Aileen,Daughter-in-law,F,W,24,M1,4,2,1,Vermont,Vermont,Canada (Fr),,,French,,,English,Weaver,Mill,W,No,9,Yes,Yes,,,,,,,,,1,given name unclear (Eileen?); relation written Daughter with addition (in-law?)
+76-21A.jpg,76,21A,44,West,,,,,Philip,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-21A.jpg,76,21A,45,West,164,255,361,Fox,Thomas,Head,M,W,67,M1,41,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1865,Na,English,Watchman,Mill,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-21A.jpg,76,21A,46,West,,,,,Katherine,Wife,F,W,60,M1,41,4,2,Ireland,Ireland,Ireland,Irish,Irish,Irish,1865,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-21A.jpg,76,21A,47,West,,,,,Thomas Jr.,Son,M,W,25,M1,1,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-21A.jpg,76,21A,48,West,,,,,Bertha,Daughter-in-law,F,W,20,M1,1,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Sewing,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,

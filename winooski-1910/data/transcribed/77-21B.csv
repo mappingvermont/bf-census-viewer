@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-21B.jpg,77,21B,51,,69,353,353,Reed,Lena,Head,F,W,46,Wd,,10,8,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,R,,H,,,,,1,street column left blank on this page; surname may be Reid
+77-21B.jpg,77,21B,52,,,,,,William,Son,M,W,27,S,,,,Vermont,Vermont,Vermont,,,,,,English,Loom fixer,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,0,
+77-21B.jpg,77,21B,53,,,,,,Anna,Daughter,F,W,18,S,,,,Vermont,Vermont,Vermont,,,,,,English,Twister,Woolen mill,W,No,6,Yes,Yes,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,54,,,,,,Isabelle,Daughter,F,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,Twister,Woolen mill,W,No,10,Yes,Yes,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,55,,,,,,Irene,Daughter,F,W,15,S,,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Woolen mill,W,No,40,Yes,Yes,Yes,,,,,,,,1,weeks unemployed may be 10
+77-21B.jpg,77,21B,56,,,,,,Florence,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,age unclear (12 or 13)
+77-21B.jpg,77,21B,57,,,,,,Gertrude,Daughter,F,W,9,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,58,,75,354,354,Vilmaire,Albert,Head,M,W,39,M1,13,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Molder,Machine shop,W,No,1,Yes,Yes,,O,F,H,,,,,1,surname may be Vilmain or Villemaire
+77-21B.jpg,77,21B,59,,,,,,Emma,Wife,F,W,37,M1,13,7,7,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-21B.jpg,77,21B,60,,,,,,Rosella,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,61,,,,,,Clement,Son,M,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,62,,,,,,Delores,Daughter,F,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,63,,,,,,Germaine,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,1,given written Germanne; read/write cells have stray marks only
+77-21B.jpg,77,21B,64,,,,,,Peter,Son,M,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-21B.jpg,77,21B,65,,,,,,Rudolphe,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,given written Roudolfle
+77-21B.jpg,77,21B,66,,,,,,Gerard,Son,M,W,8/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,infant age fraction unclear
+77-21B.jpg,77,21B,67,,83,355,355,Girard,George,Head,M,W,50,M1,21,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mill,W,No,12,Yes,Yes,,R,,H,,,,,1,surname written Grard (Girard?)
+77-21B.jpg,77,21B,68,,,,,,Caroline,Wife,F,W,48,M1,21,5,4,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Washer,Private house,W,No,0,No,No,,,,,,,,,0,
+77-21B.jpg,77,21B,69,,,,,,Sabrine,Daughter,F,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,Spooler,Woolen mill,W,No,10,Yes,Yes,Yes,,,,,,,,1,given unclear (Sublime/Sabrine)
+77-21B.jpg,77,21B,70,,,,,,Frederick,Son,M,W,15,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,No,No,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,71,,,,,,Rose,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,72,,,,,,Emma,Daughter,F,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,73,,,,,Bombace,Angelie,Mother-in-law,F,W,70,Wd,,14,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,French,None,,,,,Yes,Yes,,,,,,,,,1,surname reading uncertain
+77-21B.jpg,77,21B,74,,,,,,Theophile,Brother-in-law,M,W,36,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,Al,English,Laborer,Woolen mill,W,No,14,No,No,,,,,,,,,0,
+77-21B.jpg,77,21B,75,,85,356,356,Couture,Edouard,Head,M,W,30,M1,6,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,Al,English,Painter,House,W,No,,Yes,Yes,,R,,H,,,,,1,given written Edaian (Edouard?)
+77-21B.jpg,77,21B,76,,,,,,Eugenie,Wife,F,W,29,M1,6,3,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,,French,None,Cotton mill,W,No,2,Yes,Yes,,,,,,,,,1,given unclear; occupation None but industry Cotton mill written
+77-21B.jpg,77,21B,77,,,,,,Peter,Son,M,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,,,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,78,,,,,,Lottie,Daughter,F,W,4,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,,,,,,,,,,,0,
+77-21B.jpg,77,21B,79,,,,,,Lucienne,Daughter,F,W,4/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,infant age fraction unclear
+77-21B.jpg,77,21B,80,,,,,Beloin,Dora,Servant,F,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,English,House girl,Private house,W,No,0,Yes,Yes,Yes,,,,,,,,1,surname reading uncertain (Belon?)
+77-21B.jpg,77,21B,81,,,,,Mathew,Elfine,Roomer,F,W,32,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,Al,English,Weaver,Woolen mill,W,No,10,Yes,Yes,,,,,,,,,1,given unclear (Elfin); immigration year may be 1904
+77-21B.jpg,77,21B,82,,81,357,357,Lurinki,Elias,Head,M,W,31,M1,,,,Russia,Russia,Russia,Finnish,Finnish,Finnish,Unknown,Al,English,Weaver,Woolen mill,W,No,6,No,No,,R,,H,,,,,1,surname reading uncertain; immigration written Un
+77-21B.jpg,77,21B,83,,,,,,Sarah,Wife,F,W,30,M1,,3,3,Russia,Russia,Russia,Finnish,Finnish,Finnish,Unknown,,Finnish,None,,,,,,,,,,,,,,,1,immigration written Un
+77-21B.jpg,77,21B,84,,,,,,Leo,Son,M,W,3,S,,,,Vermont,Russia,Russia,,Finnish,Finnish,,,Finnish,None,,,,,,,,,,,,,,,1,given may be Les
+77-21B.jpg,77,21B,85,,,,,,Tilly,Daughter,F,W,9/12,S,,,,Vermont,Russia,Russia,,Finnish,Finnish,,,Finnish,None,,,,,,,,,,,,,,,1,infant age fraction unclear
+77-21B.jpg,77,21B,86,,,,,Floers,Felix,Head,M,W,22,M1,2,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1902,Al,English,Weaver,Woolen mill,W,,,Yes,Yes,,,,,,,,,1,surname and given unclear; age may be 23
+77-21B.jpg,77,21B,87,,,,,,Libby,Wife,F,W,20,M1,2,1,1,Vermont,Finland,Finland,,Finnish,Finnish,,,English,Weaver,Woolen mill,W,No,6,No,No,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,88,,,,,,Fanny,Daughter,F,W,9/12,S,,,,Vermont,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,,,,,,,,,1,infant age fraction unclear
+77-21B.jpg,77,21B,89,,,358,358,Baillargeon,George,Head,M,W,33,M1,9,,,New York,Canada (Fr),Finland,,French,Finnish,,,English,Barber,Barber shop,Emp,,,Yes,Yes,,R,,H,,,,,1,surname overwritten; mother birthplace reads Fin Finnish (possible error); ownership marks unclear
+77-21B.jpg,77,21B,90,,,,,,Rose,Wife,F,W,37,M1,9,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Dressmaker,Woolen mill,OA,,,Yes,Yes,,,,,,,,,1,industry and employer class unclear
+77-21B.jpg,77,21B,91,,91,359,359,Myers,Acave,Head,M,W,56,M1,37,,,New York,Canada (Fr),Canada (Fr),,French,French,,,English,Mason,Stone mason,W,No,10,Yes,Yes,,O,F,H,,,,,1,given unclear; dwelling overwritten (358/359); family appears written 358
+77-21B.jpg,77,21B,92,,,,,,Mary,Wife,F,W,57,M1,37,9,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1865,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-21B.jpg,77,21B,93,,,,,,Mary,Daughter,F,W,34,S,,,,Vermont,New York,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-21B.jpg,77,21B,94,,,,,,Frank,Son,M,W,33,S,,,,Vermont,New York,Canada (Fr),,,French,,,English,Loom fixer,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,0,
+77-21B.jpg,77,21B,95,,,,,,Georgianna,Daughter,F,W,25,S,,,,Vermont,New York,Canada (Fr),,,French,,,English,Spooler,Woolen mill,W,No,4,Yes,Yes,,,,,,,,,0,
+77-21B.jpg,77,21B,96,,,,,,Napoleon,Son,M,W,22,S,,,,Vermont,New York,Canada (Fr),,,French,,,English,Weaver,Woolen mill,W,No,8,Yes,Yes,,,,,,,,,0,
+77-21B.jpg,77,21B,97,,,,,,George,Son,M,W,20,S,,,,Vermont,New York,Canada (Fr),,,French,,,English,Spinner,Woolen mill,W,No,6,Yes,Yes,Yes,,,,,,,,0,
+77-21B.jpg,77,21B,98,,,,,,Fred,Son,M,W,15,S,,,,Vermont,New York,Canada (Fr),,,French,,,English,Laborer,Woolen mill,W,No,20,Yes,Yes,Yes,,,,,,,,0,

@@ -1,0 +1,48 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-06B.jpg,77,06B,51,Leclair,16,165,166,Provost,Ella,Head,F,W,50,Wd,,17,11,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,R,,H,,,,,1,"street written ""Leclair Ave"" in cursive; mother_bp has ""NY"" written above Can French"
+77-06B.jpg,77,06B,52,Leclair,,,,,Albert,Son,M,W,25,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Laborer,Screen shop,W,No,4,Yes,Yes,,,,,,,,,0,
+77-06B.jpg,77,06B,53,Leclair,,,,,Ethel,Daughter,F,W,19,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Packer,Screen shop,W,No,4,Yes,Yes,Yes,,,,,,,,1,weeks unemployed unclear
+77-06B.jpg,77,06B,54,Leclair,,,,,Mable,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Servant,Private house,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,55,Leclair,,,,,Lena,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Servant,Private house,W,No,10,Yes,Yes,Yes,,,,,,,,1,age may be 15
+77-06B.jpg,77,06B,56,Leclair,,,,,Pearl,Daughter,F,W,14,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,57,Leclair,,,,,Lilly,Daughter,F,W,12,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,58,Leclair,,,,,Leon,Son,M,W,11,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Leord
+77-06B.jpg,77,06B,59,Leclair,,,,Hubbard,Lillian Mrs,Daughter,F,W,21,M1,8,1,1,Vermont,Canada (Fr),New York,,French,,,,English,Weaver,Woolen mill,W,No,6,Yes,Yes,Yes,,,,,,,,1,years married may be 3
+77-06B.jpg,77,06B,60,Leclair,,,,,George,Grandchild,M,W,2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,,,,,,,,,,,0,
+77-06B.jpg,77,06B,61,Leclair,16 1/2,165,167,Denaite,Charles,Head,M,W,27,M1,4,,,Vermont,Vermont,Vermont,,,,,,English,Clerk,Grocery store,W,No,2,Yes,Yes,,,,H,,,,,1,surname may be Denaile; ownership cells marked with checks only; dwelling may be 105
+77-06B.jpg,77,06B,62,Leclair,,,,,Maud,Wife,F,W,23,M1,4,1,1,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-06B.jpg,77,06B,63,Leclair,,,,,Verne,Son,M,W,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-06B.jpg,77,06B,64,Leclair,,,,Lovejoy,Blanche,Boarder,F,W,22,S,,,,Vermont,Vermont,Vermont,,,,,,English,Spooler,Woolen mills,W,No,4,Yes,Yes,,,,,,,,,0,
+77-06B.jpg,77,06B,65,Leclair,,,,Poulich,Jerome,Boarder,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,Al,English,Weaver,Woolen mills,W,No,10,Yes,Yes,,,,,,,,,1,surname reading uncertain (Fortier?)
+77-06B.jpg,77,06B,66,Leclair,8,166,168,Bourassa,Louis,Head,M,W,46,M1,21,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,French,Laborer,Woolen mill,W,No,20,Yes,Yes,,R,,H,,,,,1,weeks unemployed unclear
+77-06B.jpg,77,06B,67,Leclair,,,,,Victorine,Wife,F,W,44,M1,21,11,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given written Victhine; school Yes as written
+77-06B.jpg,77,06B,68,Leclair,,,,,Mary,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,69,Leclair,,,,,Albina,Daughter,F,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,70,Leclair,,,,,Irene,Daughter,F,W,13,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,age may be 15
+77-06B.jpg,77,06B,71,Leclair,,,,,Augustine,Daughter,F,W,11,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,72,Leclair,,,,,Robertine,Daughter,F,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,73,Leclair,,,,,Joseph,Son,M,W,7,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,74,Leclair,,,,,Anna,Daughter,F,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Emma?)
+77-06B.jpg,77,06B,75,Leclair,,,,,Alphonse,Son,M,W,3,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,literacy/school marks for age 3 as written
+77-06B.jpg,77,06B,76,Leclair,,,,,Augustus,Son,M,W,1/12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-06B.jpg,77,06B,77,Leclair,6,167,169,Mercure,Joseph,Head,M,W,34,M1,13,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1889,Na,English,Laborer,Screen shop,W,No,4,Yes,Yes,,R,,H,,,,,0,
+77-06B.jpg,77,06B,78,Leclair,,,,,Aglae,Wife,F,W,33,M1,13,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,Na,French,None,,,,,Yes,Yes,,,,,,,,,1,given written Aglat
+77-06B.jpg,77,06B,79,Leclair,,,,,Emile,Son,M,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,80,Leclair,,,,,Odianna,Daughter,F,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,81,Leclair,10,168,170,Lefebvre,Delima Mrs,Head,F,W,50,Wd,,3,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1896,,French,Weaver,Woolen mill,W,,,Yes,Yes,,R,,H,,,,,1,surname written Lefevbre; given unclear; age may be 30
+77-06B.jpg,77,06B,82,Leclair,,,,,Antoinette,Daughter,F,W,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,83,Leclair,,,,,Louis,Son,M,W,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,age may be 9
+77-06B.jpg,77,06B,84,Leclair,,,,Pelletier,William,Head,M,W,40,M1,3,,,Vermont,Vermont,Vermont,,,,,,English,Teamster,Woolen mill,W,,,Yes,Yes,,R,,H,,,,,1,dwelling/family columns show only check marks; surname unclear
+77-06B.jpg,77,06B,85,Leclair,,,,,Rose,Wife,F,W,23,M1,3,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-06B.jpg,77,06B,86,Leclair,,,,,Hilda,Daughter,F,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+77-06B.jpg,77,06B,87,Leclair,,,,,Jane Mrs,Mother,F,W,62,Wd,,7,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,age may be 42; children born entry unclear/struck
+77-06B.jpg,77,06B,88,Leclair,,,,Morrow,Nelson,Head,M,W,38,M1,17,,,Vermont,Vermont,Vermont,,,,,,English,Carpenter,Woolen mill,W,No,2,Yes,Yes,,R,,H,,,,,1,dwelling/family columns show only check marks
+77-06B.jpg,77,06B,89,Leclair,,,,,Matty,Wife,F,W,35,M1,17,4,4,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-06B.jpg,77,06B,90,Leclair,,,,,Frederick,Son,M,W,16,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,91,Leclair,,,,,Corie,Daughter,F,W,14,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given unclear (Cora?)
+77-06B.jpg,77,06B,92,Leclair,,,,,Myrtle,Daughter,F,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,93,Leclair,,,,,Margarette,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-06B.jpg,77,06B,94,North,8,169,171,Roy,Edward,Head,M,W,26,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1884,Na,English,Weaver,Woolen mill,W,,,Yes,Yes,,O,F,H,,,,,1,dwelling/family numbers faint
+77-06B.jpg,77,06B,95,North,,,,,Laura,Wife,F,W,24,M1,3,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,None,,,,,Yes,Yes,,,,,,,,,1,given written Lania?
+77-06B.jpg,77,06B,96,North,,,,,Irene,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-06B.jpg,77,06B,97,North,,,,,Morris,Son,M,W,7/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age fraction unclear (5/12?)

@@ -1,0 +1,48 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-23B.jpg,77,23B,51,West,76,385,385,Deshna,Ceria,Head,F,W,67,Wd,,12,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1845,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname may be Deshaw; given unclear; sex mark looks like M but children born/living given; immigration year may be 1865
+77-23B.jpg,77,23B,52,West,,,,,William,Son,M,W,28,M1,1,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Carder,Woolen mill,W,Yes,8,Yes,Yes,,,,,,,,,1,mother birthplace overwritten (Vermont?)
+77-23B.jpg,77,23B,53,West,,,,,Elizabeth,Daughter-in-law,F,W,19,M1,1,1,0,New York,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,school column has scribbled Yes; left blank
+77-23B.jpg,77,23B,54,West,64,386,386,Serette,Flora,Head,F,W,32,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,English,Housekeeper,Private family,W,No,0,Yes,Yes,,R,,H,,,,,1,surname reading uncertain (Sevette?); given may be Febra
+77-23B.jpg,77,23B,55,West,,,,,Ovaly,Sister,F,W,29,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,English,Laborer,Woolen mill,W,No,10,Yes,Yes,,,,,,,,,1,given unclear; immigration year ditto mark
+77-23B.jpg,77,23B,56,West,,,,,Julia,Sister,F,W,27,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,4,Yes,Yes,,,,,,,,,1,given may be Yelia
+77-23B.jpg,77,23B,57,West,,,,,Louise,Sister,F,W,22,S,,,,New York,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen mill,W,No,6,Yes,Yes,,,,,,,,,0,
+77-23B.jpg,77,23B,58,West,,,,Mecklaw,Eva,Boarder,F,W,19,S,,,,New York,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,surname may be Nicklaw
+77-23B.jpg,77,23B,59,West,,,,,Ella,Boarder,F,W,21,S,,,,New York,Canada (Fr),New York,,French,,,,English,Weaver,Woolen mill,W,No,20,Yes,Yes,,,,,,,,,1,mother birthplace has Can struck before New York
+77-23B.jpg,77,23B,60,West,58,387,387,Allery,Louis,Head,M,W,63,M1,35,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1860,Al,English,Carpenter,Woodshop,W,Yes,4,Yes,Yes,,R,,H,,,,,1,surname may be Albery; house number faint
+77-23B.jpg,77,23B,61,West,,,,,Medora,Wife,F,W,58,M1,35,9,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1860,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-23B.jpg,77,23B,62,West,,,,,Ernestine,Daughter,F,W,31,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1888,,English,Burler,Woolen mill,W,No,2,Yes,Yes,,,,,,,,,1,occupation unclear
+77-23B.jpg,77,23B,63,West,,,,,Arthur,Son,M,W,26,S,,,,New York,Canada (Fr),Canada (Fr),,French,French,,,English,Carpenter,Wood shop,W,No,1,Yes,Yes,,,,,,,,,0,
+77-23B.jpg,77,23B,64,West,50,388,388,Germain,Esdras,Head,M,W,43,M1,20,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1861,Na,English,Patternmaker,Foundry,W,No,1,Yes,Yes,,O,F,H,,,,,1,immigration year may be 1860; free/mortgaged mark unclear
+77-23B.jpg,77,23B,65,West,,,,,Louise,Wife,F,W,42,M1,20,8,5,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given unclear (Luise?)
+77-23B.jpg,77,23B,66,West,,,,,Leo,Son,M,W,19,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Woolen mill,W,No,12,Yes,Yes,Yes,,,,,,,,1,given unclear
+77-23B.jpg,77,23B,67,West,,,,,Isaac,Son,M,W,18,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,1,given unclear (Lias?)
+77-23B.jpg,77,23B,68,West,,,,,Louisa,Daughter,F,W,16,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Clerk,Dry goods store,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,69,West,,,,,Laury,Son,M,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Larry
+77-23B.jpg,77,23B,70,West,,,,,Yvonne,Daughter,F,W,7,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,,,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,71,West,,,,Germain,Rose,Niece,F,W,18,S,,,,New York,Canada (Fr),New York,,French,,,,English,Dressmaker,Home,OA,,,Yes,Yes,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,72,West,44,389,389,Miset,Philip,Head,M,W,44,M1,16,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Mason,Stone mason,W,No,14,Yes,Yes,,R,,H,,,,,1,surname reading uncertain
+77-23B.jpg,77,23B,73,West,,,,,Rose,Wife,F,W,35,M1,16,7,4,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-23B.jpg,77,23B,74,West,,,,,Virginia,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,75,West,,,,,Louis,Son,M,W,14,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,76,West,,,,,Rozalie,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,77,West,,,,,Eli,Son,M,W,5,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,78,West,40,390,390,Gouyau,Josephine,Head,F,W,58,Wd,,8,6,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname reading uncertain
+77-23B.jpg,77,23B,79,West,,,,,Ida,Daughter,F,W,40,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Weaver,Woolen mill,W,No,2,Yes,Yes,,,,,,,,,1,given unclear (J. Oda?)
+77-23B.jpg,77,23B,80,West,34,391,391,Cusson,Jerome,Head,M,W,36,M1,14,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,Na,English,Mason,Stone mason,W,No,12,Yes,Yes,,O,M,H,,,,,1,given name unclear
+77-23B.jpg,77,23B,81,West,,,,,Ernestine,Wife,F,W,35,M1,14,8,6,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-23B.jpg,77,23B,82,West,,,,,Mary,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,83,West,,,,,Delvina,Daughter,F,W,8,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given unclear
+77-23B.jpg,77,23B,84,West,,,,,Beatrice,Daughter,F,W,6,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,85,West,,,,,Bertha,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,0,
+77-23B.jpg,77,23B,86,West,,,,,Albina,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,0,
+77-23B.jpg,77,23B,87,West,,,,,Armand,Son,M,W,7/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,
+77-23B.jpg,77,23B,88,West,36,392,392,Jubert,Oswal,Head,M,W,45,M1,15,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,Al,French,Laborer,Woolen,W,,,Yes,Yes,,R,,H,,,,,1,surname may be Gilbert; given unclear
+77-23B.jpg,77,23B,89,West,,,,,Louise,Wife,F,W,40,M1,15,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,French,Burler,Woolen mill,W,,,Yes,Yes,,,,,,,,,1,occupation unclear
+77-23B.jpg,77,23B,90,West,24,393,393,Leclaire,Ulric,Head,M,W,60,M1,22,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Clerk,Grocery store,W,No,1,Yes,Yes,,O,F,H,,,,,1,surname written like Ledaire; given unclear (Wilfrid?)
+77-23B.jpg,77,23B,91,West,,,,,Adeline,Wife,F,W,55,M1,22,6,6,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given unclear
+77-23B.jpg,77,23B,92,West,,,,,Louise,Daughter,F,W,21,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,Packer,Screen shop,W,No,2,Yes,Yes,,,,,,,,,0,
+77-23B.jpg,77,23B,93,West,,,,,Emelia,Daughter,F,W,20,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given written Emeila
+77-23B.jpg,77,23B,94,West,,,,,Eugenie,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,95,West,,,,,Cecile,Daughter,F,W,15,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Odile
+77-23B.jpg,77,23B,96,West,,,,,Joseph,Son,M,W,12,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-23B.jpg,77,23B,97,West,,,,,Zelfa,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Zelda

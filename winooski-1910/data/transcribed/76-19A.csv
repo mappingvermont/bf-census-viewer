@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-19A.jpg,76,19A,1,West Allen,76,232,316,Brain,James,Head,M,W,30,M1,8,,,Scotland,Scotland,Scotland,Scotch,Scotch,Scotch,1898,Pa,English,Dyer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number may read 237 (sequence suggests 232)
+76-19A.jpg,76,19A,2,West Allen,,,,,Jennette,Wife,F,W,29,M1,8,3,3,England,England,England,English,English,English,1898,,English,None,,,,,Yes,Yes,,,,,,,,,1,age may be 24
+76-19A.jpg,76,19A,3,West Allen,,,,,Alexander,Son,M,W,6,S,,,,Maine,Scotland,England,,Scotch,English,,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-19A.jpg,76,19A,4,West Allen,,,,,Marion,Daughter,F,W,2,S,,,,Vermont,Scotland,England,,Scotch,English,,,,None,,,,,,,,,,,,,,,0,
+76-19A.jpg,76,19A,5,West Allen,,,,,James,Son,M,W,7/12,S,,,,Vermont,Scotland,England,,Scotch,English,,,,None,,,,,,,,,,,,,,,1,age may be 2/12
+76-19A.jpg,76,19A,6,West Allen,30,233,317,Gadue,George,Head,M,W,47,M1,25,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1864,Na,English,Electrician,Power house,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-19A.jpg,76,19A,7,West Allen,,,,,Josephine,Wife,F,W,43,M1,25,5,4,Wisconsin,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19A.jpg,76,19A,8,West Allen,,,,,Ernest,Son,M,W,22,S,,,,Vermont,Canada (Fr),Wisconsin,,French,,,,English,Conductor,St. R.R.,W,No,0,Yes,Yes,,,,,,,,,0,
+76-19A.jpg,76,19A,9,West Allen,,,,,Albert,Son,M,W,19,S,,,,Vermont,Canada (Fr),Wisconsin,,French,,,,English,Clerk,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-19A.jpg,76,19A,10,West Allen,,,,,Beatrice,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Wisconsin,,French,,,,English,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-19A.jpg,76,19A,11,West Allen,30,,,,Henry,Brother-in-law,M,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Dresser,Mill,W,No,4,Yes,Yes,No,,,,,,,,1,house number 30 repeated on this line with no dwelling/family number; weeks unemployed may be 0
+76-19A.jpg,76,19A,12,West Allen,,,,,Abraham,Adopted child,M,W,4,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,0,
+76-19A.jpg,76,19A,13,West Allen,30,,318,Seymore,Charles,Head,M,W,36,M2,3,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Bartender,Saloon,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number written and crossed out (same dwelling as above); surname may be Seymour
+76-19A.jpg,76,19A,14,West Allen,,,,,Helen,Wife,F,W,24,M1,3,1,1,Vermont,Canada (Fr),Wisconsin,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19A.jpg,76,19A,15,West Allen,,,,,Margorie,Daughter,F,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,Yes,Yes,,,,,,,,,1,given may be Marjorie; literacy Yes written for age 2
+76-19A.jpg,76,19A,16,West Allen,,,,,Aionie,Daughter,F,W,9,S,,,,Massachusetts,Vermont,Vermont,,,,,,,None,,,,,,,Yes,,,,,,,,1,given name unclear (Avonie?)
+76-19A.jpg,76,19A,17,East Center,,,,Gonette,Michael,Head,M,W,52,M1,26,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1876,Al,French,Laborer,Mill,W,No,0,No,No,,R,,H,,,,,1,street may read West Center; no dwelling/family numbers written (check marks only); surname unclear (Goulette?); years married may be 24
+76-19A.jpg,76,19A,18,East Center,,,,,Caroline,Wife,F,W,52,M1,26,4,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1876,,French,Laborer,Mill,W,No,0,No,No,,,,,,,,,0,
+76-19A.jpg,76,19A,19,East Center,,,,,William,Son,M,W,24,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,French,Carder,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-19A.jpg,76,19A,20,East Center,,,,,Alde,Son,M,W,21,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+76-19A.jpg,76,19A,21,East Center,,,,,Alminda,Daughter,F,W,18,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,French,French,,,French,Sewing,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,given may be Almida
+76-19A.jpg,76,19A,22,East Center,,,,Lacharier,Clotilda,Sister-in-law,F,W,50,D,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1876,,French,Burling,Mill,W,No,0,No,No,,,,,,,,,1,surname unclear (Lacharite?)
+76-19A.jpg,76,19A,23,East Center,,,,,Minnie,Daughter,F,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Sewing,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-19A.jpg,76,19A,24,East Center,33,234,319,Sala,Karl,Head,M,W,38,M1,13,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1903,Al,Finnish,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Sola
+76-19A.jpg,76,19A,25,East Center,,,,,Minnie,Wife,F,W,36,M1,13,6,6,Finland,Finland,Finland,Finnish,Finnish,Finnish,1903,,Finnish,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19A.jpg,76,19A,26,East Center,,,,,Sala C.,Son,M,W,12,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1903,,Finnish,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-19A.jpg,76,19A,27,East Center,,,,,Elmer,Son,M,W,10,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1903,,Finnish,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-19A.jpg,76,19A,28,East Center,,,,,Emfie,Daughter,F,W,8,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1903,,Finnish,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+76-19A.jpg,76,19A,29,East Center,,,,,Olavy,Daughter,F,W,5,S,,,,Massachusetts,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,Yes,,,,,,,,1,given name unclear
+76-19A.jpg,76,19A,30,East Center,,,,,Alvo,Son,M,W,3,S,,,,Massachusetts,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,,,,,,,,,1,given name unclear
+76-19A.jpg,76,19A,31,East Center,,,,,Mary,Daughter,F,W,2/12,S,,,,Vermont,Finland,Finland,,Finnish,Finnish,,,,None,,,,,,,,,,,,,,,0,
+76-19A.jpg,76,19A,32,East Center,19,235,320,Campbell,Mary,Head,F,W,70,Wd,,9,8,Ireland,Ireland,Ireland,Irish,Irish,Irish,1890,,English,None,,,,,Yes,Yes,,R,,H,,,,,1,immigration year as written (sons born Vermont)
+76-19A.jpg,76,19A,33,East Center,,,,,Edward,Son,M,W,27,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Laborer,Screen shop,W,No,0,Yes,Yes,,,,,,,,,1,industry unclear
+76-19A.jpg,76,19A,34,East Center,,,,,Joseph,Son,M,W,32,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Motorman,St. R.R.,W,No,0,Yes,Yes,,,,,,,,,0,
+76-19A.jpg,76,19A,35,East Center,19,,321,Dion,Napoleon,Head,M,W,31,M1,7,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,French,Laborer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number written and crossed out (same dwelling as above)
+76-19A.jpg,76,19A,36,East Center,,,,,Regina,Wife,F,W,25,M1,7,4,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-19A.jpg,76,19A,37,East Center,,,,,Bertha,Daughter,F,W,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,No,No,No,,,,,,,,0,
+76-19A.jpg,76,19A,38,East Center,,,,,Delorsise,Daughter,F,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,,None,,,,,No,No,No,,,,,,,,1,given name unclear
+76-19A.jpg,76,19A,39,East Center,,,,,Aida,Daughter,F,W,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,given may be Cida
+76-19A.jpg,76,19A,40,East Center,,,,,Donat,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,
+76-19A.jpg,76,19A,41,East Center,,,,Therrien,Flora,Sister-in-law,F,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Spooler,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given may be Fiora
+76-19A.jpg,76,19A,42,Follett,41,236,322,Menier,Edward,Head,M,W,28,M1,5,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1895,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Mercier or Meunier
+76-19A.jpg,76,19A,43,Follett,,,,,Clara,Wife,F,W,35,M1,5,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,age may be 25
+76-19A.jpg,76,19A,44,Follett,,,,,Clement,Son,M,W,3,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,1,mother's birthplace overwritten
+76-19A.jpg,76,19A,45,Follett,,,,,Doris,Daughter,F,W,1,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,1,mother's birthplace overwritten
+76-19A.jpg,76,19A,46,Follett,50,237,323,Coté,Joseph,Head,M,W,30,M1,9,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,industry unclear
+76-19A.jpg,76,19A,47,Follett,,,,,Lucy,Wife,F,W,30,M1,9,5,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+76-19A.jpg,76,19A,48,Follett,,,,,Narcisse,Son,M,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,No,No,No,,,,,,,,1,given may be Narcissa
+76-19A.jpg,76,19A,49,Follett,,,,,Isabella,Daughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-19A.jpg,76,19A,50,Follett,,,,,Florence,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,given name unclear

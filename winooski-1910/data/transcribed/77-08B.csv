@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-08B.jpg,77,08B,51,North,75,131,131,Chicoine,Andrew,Head,M,W,72,M1,45,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1860,Na,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,street written vertically (read as North Street); surname may be Checoine
+77-08B.jpg,77,08B,52,North,,,,,Delima,Wife,F,W,66,M1,45,8,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1865,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,53,North,,,,,Eldrick,Son,M,W,29,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Screw Works,W,No,2,Yes,Yes,,,,,,,,,1,given may be Eldrich
+77-08B.jpg,77,08B,54,North,78,132,132,Menard,George,Head,M,W,29,M1,8,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen Mills,W,No,12,Yes,Yes,,O,M,H,,,,,0,
+77-08B.jpg,77,08B,55,North,,,,,Mary,Wife,F,W,27,M1,8,2,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,56,North,,,,,Clement,Son,M,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,given name unclear; father birthplace scrawled (Vermont?)
+77-08B.jpg,77,08B,57,North,78 1/2,133,133,Menard,Moses,Head,M,W,26,M1,4,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Woolen Mills,W,No,4,Yes,Yes,,R,,H,,,,,0,
+77-08B.jpg,77,08B,58,North,,,,,Emma,Wife,F,W,25,M1,4,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,59,North,,,,,Cleophas,Son,M,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,1,given written Clefas/Cleofas
+77-08B.jpg,77,08B,60,North,,,,,Willard,Son,M,W,11/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear (may be 1/12 or 12/12)
+77-08B.jpg,77,08B,61,North,84,134,134,Raymond,Eli,Head,M,W,64,M1,38,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,Na,English,Laborer,Screw Works,W,No,2,Yes,Yes,,R,,H,,,,,0,
+77-08B.jpg,77,08B,62,North,,,,,Adell,Wife,F,W,67,M1,38,7,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,63,North,,,,,Ida,Daughter,F,W,26,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,French,Sewer,Woolen Mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,64,North,83,135,135,Chicoine,Andrew Jr.,Head,M,W,41,M1,20,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Carpenter,House,OA,No,0,Yes,Yes,,O,F,H,,,,,1,employer class overwritten (OA?)
+77-08B.jpg,77,08B,65,North,,,,,Clara,Wife,F,W,41,M1,20,4,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,66,North,,,,,Armance,Daughter,F,W,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,sex overwritten
+77-08B.jpg,77,08B,67,North,,,,,Henry,Son,M,W,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,68,North,,,,,Ernest,Son,M,W,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,69,North,79,135,135,Phillips,August,Head,M,W,39,M1,14,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,Na,English,Foreman,Screw Works,W,No,0,Yes,Yes,,O,F,H,,,,,1,dwelling/family appear as 135 again (duplicate of line 64; may be 136); house number may be 89
+77-08B.jpg,77,08B,70,North,,,,,Catherine,Wife,F,W,43,M1,14,3,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,71,North,,,,,Morris,Son,M,W,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,72,North,,,,,Eugene,Son,M,W,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,73,North,,,,Yandow,Philomene,Mother-in-law,F,W,72,Wd,,10,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1873,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,74,North,,,,,Emma,Sister-in-law,F,W,48,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,English,Picker,Screw Works,W,No,0,Yes,Yes,,,,,,,,,1,immigration year may be 1849
+77-08B.jpg,77,08B,75,North,104,136,136,Barbery,Jerry,Head,M,W,60,M1,28,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1882,Na,English,Laborer,,W,No,12,Yes,Yes,,R,,H,,,,,1,surname may be Barkery; children 8 6 apparently written then struck on head's row; dwelling may read 96
+77-08B.jpg,77,08B,76,North,,,,,Mathilda,Wife,F,W,50,M1,28,8,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1862,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,77,North,,,,,Jennie,Daughter,F,W,24,S,,,,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Jessie
+77-08B.jpg,77,08B,78,North,,,,,Anna,Daughter,F,W,14,S,,,,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,79,North,99,137,137,Frenette,Arthur,Head,M,W,38,M1,12,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1880,Na,English,Mason,,OA,No,16,Yes,Yes,,O,F,H,,,,,1,surname may be Fremette
+77-08B.jpg,77,08B,80,North,,,,,Virginia,Wife,F,W,41,M1,12,10,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1871,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,81,North,,,,,Ermine,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Ermina
+77-08B.jpg,77,08B,82,North,,,,,Blanche,Daughter,F,W,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,83,North,,,,,Prosper,Son,M,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,84,North,,,,,Adrien,Son,M,W,5,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,85,North,,,,,Raphael,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,given written Rahaule/Raphaele
+77-08B.jpg,77,08B,86,North,,,,,Lucille,Daughter,F,W,4/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,
+77-08B.jpg,77,08B,87,North,,138,138,Frenette,Phebe Mrs,Head,F,W,63,Wd,,13,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,None,,,,,Yes,Yes,,O,F,H,,,,,1,given written Fife/Fibe Mrs; surname may be Fremotte; no house number
+77-08B.jpg,77,08B,88,North,,,,,Georgiana,Daughter,F,W,34,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,Weaver,Woolen Mills,W,No,6,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,89,North,,,,,Blanche,Daughter,F,W,32,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,English,Sewer,Woolen Mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,90,North,,,,,Adjutor,Son,M,W,29,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,English,Laborer,Screw Works,W,No,12,Yes,Yes,,,,,,,,,1,given written Adzator
+77-08B.jpg,77,08B,91,North,,,,,Napoleon,Son,M,W,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,English,Proprietor,Wood Yard,Emp,No,0,Yes,Yes,,,,,,,,,0,
+77-08B.jpg,77,08B,92,North,108,139,139,Perrault,Adolphe,Head,M,W,48,M1,30,12,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,English,Laborer,Screw Works,W,No,0,Yes,Yes,,R,,H,,,,,1,given written Adelfe; children 12 6 written on male head's row; marital written M
+77-08B.jpg,77,08B,93,North,,,,,Mary,Wife,F,W,42,M1,30,12,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,No,No,,,,,,,,,0,
+77-08B.jpg,77,08B,94,North,,,,,Ida,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Picker,Screw Works,W,No,2,Yes,Yes,Yes,,,,,,,,1,given written Idd
+77-08B.jpg,77,08B,95,North,,,,,Victoria,Daughter,F,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,English,Picker,Screw Works,W,No,2,Yes,Yes,Yes,,,,,,,,0,
+77-08B.jpg,77,08B,96,North,,,,,Olina,Daughter,F,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Olivia or Alma
+77-08B.jpg,77,08B,97,North,,,,,Delores,Daughter,F,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given written Deloreo/Delorea
+77-08B.jpg,77,08B,98,North,,,,,Homer,Son,M,W,7,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,,,Yes,,,,,,,,1,can read cell has an unclear mark
+77-08B.jpg,77,08B,99,North,,,,,Amede,Son,M,W,6/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,given may be Amedee; age may be 4/12

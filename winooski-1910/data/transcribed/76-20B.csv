@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-20B.jpg,76,20B,51,West Allen,14,250,343,Doria,Ennio,Head,M,W,34,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,Al,Italian,Storekeeper,Fruit store,Emp,No,0,Yes,Yes,,R,,H,,,,,1,"given may be Emio or Louis; street West Allen Street written vertically lines 64-83, applied to whole page"
+76-20B.jpg,76,20B,52,West Allen,,,,,Romeo,Brother,M,W,24,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,Al,Italian,Clerk,Fruit store,W,No,0,Yes,Yes,,,,,,,,,1,given may be Romano
+76-20B.jpg,76,20B,53,West Allen,,,,Granata,John,Lodger,M,W,21,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1908,Al,Italian,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname faint; may be Gravanta or Granada
+76-20B.jpg,76,20B,54,West Allen,,,,Pisani,Joseph,Lodger,M,W,24,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1905,Al,Italian,Storekeeper,Fruit store,OA,No,0,Yes,Yes,,,,,,,,,1,surname faint; reading uncertain
+76-20B.jpg,76,20B,55,West Allen,76,251,344,Granger,Mary B.,Head,F,W,47,Wd,,2,2,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Dressmaking,At home,OA,No,0,Yes,Yes,,R,,H,,,,,0,
+76-20B.jpg,76,20B,56,West Allen,,,,,Henry,Son,M,W,19,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Weaver,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-20B.jpg,76,20B,57,West Allen,,,,Barron,Margaret,Sister,F,W,38,S,,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Laborer,Overgaiter shop,W,No,0,Yes,Yes,,,,,,,,,1,industry reading uncertain
+76-20B.jpg,76,20B,58,West Allen,,,,Donahue,Francis,Lodger,M,W,14,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,No,,,,,,,,1,surname unclear; may be McMahue or O'Mahue
+76-20B.jpg,76,20B,59,West Allen,80,252,345,O'Day,John,Head,M,W,50,Wd,,1,1,Canada,Ireland,Ireland,Irish,Irish,Irish,1875,Al,English,Engineer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,birthplace Can. French with French struck and Irish written above; children born/living 1 1 written on male head's row
+76-20B.jpg,76,20B,60,West Allen,,,,,William,Son,M,W,13,S,,,,Vermont,Canada,Ireland,,Irish,Irish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,father birthplace Can. French with French struck and Irish written above
+76-20B.jpg,76,20B,61,West Allen,,,,,Anna,Mother,F,W,83,Wd,,1,1,Ireland,Ireland,Ireland,Irish,Irish,Irish,1875,,English,None,,,,,Yes,Yes,,,,,,,,,1,relation written Mother; birthplace overwritten
+76-20B.jpg,76,20B,62,West Allen,114,253,346,Dufort,Pierre,Head,M,W,47,M1,28,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,French,Laborer,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-20B.jpg,76,20B,63,West Allen,,,,,Caroline,Wife,F,W,54,M1,28,8,8,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-20B.jpg,76,20B,64,West Allen,,,,,Maria,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,Spooler,Mill,W,No,0,Yes,Yes,No,,,,,,,,1,given may be Marian
+76-20B.jpg,76,20B,65,West Allen,,,,,Alice,Daughter,F,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,Spooler,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-20B.jpg,76,20B,66,West Allen,,,,,Leonor,Son,M,W,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Leonce
+76-20B.jpg,76,20B,67,West Allen,,,,,Marian,Daughter,F,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-20B.jpg,76,20B,68,West Allen,114,253,347,Dufort,Napoleon,Head,M,W,21,M1,2,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,French,Laborer,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten/struck (25?); possible mark in school column
+76-20B.jpg,76,20B,69,West Allen,,,,,Alice,Wife,F,W,22,M1,2,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,Laborer,Screen shop,W,No,0,Yes,Yes,,,,,,,,,0,
+76-20B.jpg,76,20B,70,West Allen,,,,Guerin,Emile,Lodger,M,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,French,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-20B.jpg,76,20B,71,West Allen,,,,,Beatrice,Lodger,F,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1902,,French,Spooler,Mill,W,No,10,Yes,Yes,No,,,,,,,,1,immigration year may be 1907
+76-20B.jpg,76,20B,72,West Allen,114,253,348,Gadue,Henry,Head,M,W,27,M1,5,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Outside,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten/struck (25?)
+76-20B.jpg,76,20B,73,West Allen,,,,,Mattie,Wife,F,W,27,M1,5,3,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-20B.jpg,76,20B,74,West Allen,,,,,Alfred,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-20B.jpg,76,20B,75,West Allen,,,,,Rosa,Daughter,F,W,1,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-20B.jpg,76,20B,76,West Allen,114,253,349,Ratte,Phillip,Head,M,W,42,M1,14,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,French,Dyer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten/struck (25?); given may be Philias
+76-20B.jpg,76,20B,77,West Allen,,,,,Theriodore,Wife,F,W,38,M1,14,11,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+76-20B.jpg,76,20B,78,West Allen,,,,,Armand,Son,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Laborer,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-20B.jpg,76,20B,79,West Allen,,,,,Leopold,Son,M,W,15,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Laborer,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-20B.jpg,76,20B,80,West Allen,,,,,Alcide,Son,M,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-20B.jpg,76,20B,81,West Allen,,,,,Angelina,Daughter,F,W,7,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-20B.jpg,76,20B,82,West Allen,,,,,Blanch,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,
+76-20B.jpg,76,20B,83,West Allen,,,,,Ida,Daughter,F,W,5/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,
+76-20B.jpg,76,20B,84,West Allen,,,,,Archie,Uncle,M,W,52,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-20B.jpg,76,20B,85,West Allen,120,254,350,West,Joseph,Head,M,W,59,M1,40,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1844,Al,French,Dyer,Mill,W,No,0,No,No,,R,,H,,,,,1,immigration year written 1844 (rest of family 1894)
+76-20B.jpg,76,20B,86,West Allen,,,,,Victorine,Wife,F,W,49,M1,40,8,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-20B.jpg,76,20B,87,West Allen,,,,,Victorine,Daughter,F,W,28,Wd,,5,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,None,,,,,Yes,Yes,,,,,,,,,1,marital may be M (written Wd?)
+76-20B.jpg,76,20B,88,West Allen,,,,,Ida,Daughter,F,W,24,D,,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-20B.jpg,76,20B,89,West Allen,,,,,Helen,Daughter,F,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-20B.jpg,76,20B,90,West Allen,120,254,351,Carroretto,John,Head,M,W,25,M1,5,,,France,Italy,Italy,Italian,Italian,Italian,1896,Na,English,Engineer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten (254?); surname may be Cavoretto; birthplace written Fr. Italian
+76-20B.jpg,76,20B,91,West Allen,,,,,Anna,Wife,F,W,22,M1,5,3,3,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-20B.jpg,76,20B,92,West Allen,,,,,Ernest,Son,M,W,4,S,,,,Vermont,France,Vermont,,Italian,,,,,None,,,,,,,,,,,,,,,0,
+76-20B.jpg,76,20B,93,West Allen,,,,,Sarafina,Daughter,F,W,2,S,,,,Vermont,France,Vermont,,Italian,,,,,None,,,,,,,,,,,,,,,1,given may be Serafina
+76-20B.jpg,76,20B,94,West Allen,,,,,Mabell,Daughter,F,W,1,S,,,,Vermont,France,Vermont,,Italian,,,,,None,,,,,,,,,,,,,,,0,
+76-20B.jpg,76,20B,95,West Allen,126,255,352,Danilo,Tony,Head,M,W,57,M1,31,2,2,Italy,Italy,Italy,Italian,Italian,Italian,1850,Al,Italian,Laborer,Coal yard,W,No,0,No,No,,R,,H,,,,,1,surname may be Denilo; children born/living 2 2 written on male head's row; immigration year 1850 as written
+76-20B.jpg,76,20B,96,West Allen,,,,,Degnan,Wife,F,W,57,M1,,,,Italy,Italy,Italy,Italian,Italian,Italian,1850,,Italian,None,,,,,No,No,,,,,,,,,1,given name unclear
+76-20B.jpg,76,20B,97,West Allen,,,,Brochos,Salva,Lodger,M,W,32,M1,,2,2,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Coal yard,W,No,0,No,No,,,,,,,,,1,surname reading uncertain; children born/living 2 2 on male row
+76-20B.jpg,76,20B,98,West Allen,,,,Fudda,Joseph,Lodger,M,W,28,M1,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Coal yard,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Fadda
+76-20B.jpg,76,20B,99,West Allen,,,,Brochos,Micol,Lodger,M,W,26,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Coal yard,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear (Nicol?)
+76-20B.jpg,76,20B,100,West Allen,,,,Herbina,Joseph,Lodger,M,W,26,S,,,,Italy,Italy,Italy,Italian,Italian,Italian,1910,Al,Italian,Laborer,Coal yard,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Herlina

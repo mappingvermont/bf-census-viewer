@@ -1,0 +1,4165 @@
+{
+ "457 Main St": {
+  "lon": -73.182687,
+  "lat": 44.501841,
+  "matched": "457 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "259 Main St": {
+  "lon": -73.184808,
+  "lat": 44.496864,
+  "matched": "259 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "251 Main St": {
+  "lon": -73.184979,
+  "lat": 44.496596,
+  "matched": "251 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "253 Main St": {
+  "lon": -73.185309,
+  "lat": 44.496148,
+  "matched": "253 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "247 Main St": {
+  "lon": -73.18497,
+  "lat": 44.496405,
+  "matched": "247 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "237 Main St": {
+  "lon": -73.18507,
+  "lat": 44.4962,
+  "matched": "237 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "235 Main St": {
+  "lon": -73.185196,
+  "lat": 44.496189,
+  "matched": "235 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "225 Main St": {
+  "lon": -73.18532,
+  "lat": 44.49593,
+  "matched": "225 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "219 Main St": {
+  "lon": -73.185535,
+  "lat": 44.496012,
+  "matched": "219 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "211 Main St": {
+  "lon": -73.185487,
+  "lat": 44.495752,
+  "matched": "211 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "209 Main St": {
+  "lon": -73.18558,
+  "lat": 44.49553,
+  "matched": "209 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "205 Main St": {
+  "lon": -73.18562,
+  "lat": 44.49546,
+  "matched": "205 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "195 Main St": {
+  "lon": -73.18574,
+  "lat": 44.49519,
+  "matched": "195 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "183 Main St": {
+  "lon": -73.185834,
+  "lat": 44.494869,
+  "matched": "183 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "179 Main St": {
+  "lon": -73.18598,
+  "lat": 44.49464,
+  "matched": "179 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "135 Main St": {
+  "lon": -73.18629,
+  "lat": 44.49362,
+  "matched": "135 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "149 Main St": {
+  "lon": -73.186532,
+  "lat": 44.493893,
+  "matched": "149 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "121 Main St": {
+  "lon": -73.1863,
+  "lat": 44.49327,
+  "matched": "121 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "107 Main St": {
+  "lon": -73.18652,
+  "lat": 44.492756,
+  "matched": "107 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "109 Main St": {
+  "lon": -73.18608,
+  "lat": 44.49281,
+  "matched": "109 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "11 Mansion St": {
+  "lon": -73.18591,
+  "lat": 44.4931,
+  "matched": "11 Mansion Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "19 Mansion St": {
+  "lon": -73.186003,
+  "lat": 44.492943,
+  "matched": "19 Mansion Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "23 Mansion St": {
+  "lon": -73.185523,
+  "lat": 44.493115,
+  "matched": "23 Mansion Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "47 Mansion St": {
+  "lon": -73.184578,
+  "lat": 44.493088,
+  "matched": "47 Mansion Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "27 Mansion St": {
+  "lon": -73.185482,
+  "lat": 44.492934,
+  "matched": "27 Mansion Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "30 Mansion St": {
+  "lon": -73.18521,
+  "lat": 44.49278,
+  "matched": "30 Mansion Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "36 Mansion St": {
+  "lon": -73.18502,
+  "lat": 44.49277,
+  "matched": "36 Mansion Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "42 Mansion St": {
+  "lon": -73.18482,
+  "lat": 44.49278,
+  "matched": "42 Mansion Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "46 Union St": {
+  "lon": -73.188489,
+  "lat": 44.49362,
+  "matched": "46 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "49 Union St": {
+  "lon": -73.188675,
+  "lat": 44.493618,
+  "matched": "49 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "58 Spring St": {
+  "lon": -73.18407,
+  "lat": 44.4942,
+  "matched": "58 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "56 Spring St": {
+  "lon": -73.18853,
+  "lat": 44.49498,
+  "matched": "56 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "52 Spring St": {
+  "lon": -73.18426,
+  "lat": 44.49408,
+  "matched": "52 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "48 Spring St": {
+  "lon": -73.184178,
+  "lat": 44.494386,
+  "matched": "48 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "40 Platt St": {
+  "lon": -73.18494,
+  "lat": 44.49342,
+  "matched": "40 Platt Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "34 Platt St": {
+  "lon": -73.185253,
+  "lat": 44.493437,
+  "matched": "34 Platt Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "20 Platt St": {
+  "lon": -73.185762,
+  "lat": 44.493491,
+  "matched": "20 Platt Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "11 East St": {
+  "lon": -73.182226,
+  "lat": 44.492198,
+  "matched": "11 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "19 East St": {
+  "lon": -73.182193,
+  "lat": 44.49214,
+  "matched": "19 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "25 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "25 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "33 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "33 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "35 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "35 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "37 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "37 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "41 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "41 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "51 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "51 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "59 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "59 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "22 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "22 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "24 Spring St": {
+  "lon": -73.18538,
+  "lat": 44.49448,
+  "matched": "24 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "16 Spring St": {
+  "lon": -73.186017,
+  "lat": 44.494742,
+  "matched": "16 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "14 Spring St": {
+  "lon": -73.18561,
+  "lat": 44.49454,
+  "matched": "14 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "13 Spring St": {
+  "lon": -73.1855,
+  "lat": 44.49482,
+  "matched": "13 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "19 Spring St": {
+  "lon": -73.185274,
+  "lat": 44.49478,
+  "matched": "19 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "55 Spring St": {
+  "lon": -73.183918,
+  "lat": 44.494334,
+  "matched": "55 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "57 Spring St": {
+  "lon": -73.183769,
+  "lat": 44.494509,
+  "matched": "57 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "59 Spring St": {
+  "lon": -73.183807,
+  "lat": 44.494312,
+  "matched": "59 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "61 Spring St": {
+  "lon": -73.183807,
+  "lat": 44.494312,
+  "matched": "61 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "69 Spring St": {
+  "lon": -73.18339,
+  "lat": 44.4944,
+  "matched": "69 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "85 Spring St": {
+  "lon": -73.18282,
+  "lat": 44.49423,
+  "matched": "85 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "89 Spring St": {
+  "lon": -73.18228,
+  "lat": 44.493819,
+  "matched": "89 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "91 Spring St": {
+  "lon": -73.18245,
+  "lat": 44.49406,
+  "matched": "91 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "115 Barlow St": {
+  "lon": -73.183502,
+  "lat": 44.493414,
+  "matched": "115 Barlow Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "124 Barlow St": {
+  "lon": -73.18397,
+  "lat": 44.493456,
+  "matched": "124 Barlow Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "129 Barlow St": {
+  "lon": -73.183967,
+  "lat": 44.493468,
+  "matched": "129 Barlow Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "18 Barlow St": {
+  "lon": -73.184171,
+  "lat": 44.491553,
+  "matched": "18 Barlow Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "24 Leclair St": {
+  "lon": -73.1844,
+  "lat": 44.49514,
+  "matched": "24 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "32 Leclair St": {
+  "lon": -73.184307,
+  "lat": 44.495329,
+  "matched": "32 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "36 Leclair St": {
+  "lon": -73.18424,
+  "lat": 44.49548,
+  "matched": "36 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "40 Leclair St": {
+  "lon": -73.184328,
+  "lat": 44.495608,
+  "matched": "40 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "42 Leclair St": {
+  "lon": -73.18415,
+  "lat": 44.49565,
+  "matched": "42 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "48 Leclair St": {
+  "lon": -73.1841,
+  "lat": 44.49574,
+  "matched": "48 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "54 Leclair St": {
+  "lon": -73.18399,
+  "lat": 44.49593,
+  "matched": "54 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "60 Leclair St": {
+  "lon": -73.18392,
+  "lat": 44.49608,
+  "matched": "60 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "70 Burlington St": null,
+ "43 Leclair St": {
+  "lon": -73.183988,
+  "lat": 44.495566,
+  "matched": "43 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "61 Leclair St": {
+  "lon": -73.183413,
+  "lat": 44.495952,
+  "matched": "61 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "47 Leclair St": {
+  "lon": -73.183918,
+  "lat": 44.495705,
+  "matched": "47 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "34 Leclair St": {
+  "lon": -73.184247,
+  "lat": 44.495056,
+  "matched": "34 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "31 Leclair St": {
+  "lon": -73.18392,
+  "lat": 44.49529,
+  "matched": "31 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "27 Leclair St": {
+  "lon": -73.18395,
+  "lat": 44.4952,
+  "matched": "27 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "19 Leclair St": {
+  "lon": -73.184409,
+  "lat": 44.494737,
+  "matched": "19 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "30 Lafountain St": {
+  "lon": -73.183922,
+  "lat": 44.496485,
+  "matched": "30 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "35 Lafountain St": {
+  "lon": -73.18369,
+  "lat": 44.49657,
+  "matched": "35 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "45 Lafountain St": {
+  "lon": -73.18316,
+  "lat": 44.49644,
+  "matched": "45 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "64 Lafountain St": {
+  "lon": -73.1826,
+  "lat": 44.49537,
+  "matched": "64a Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "65 Lafountain St": {
+  "lon": -73.18223,
+  "lat": 44.49621,
+  "matched": "65 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "69 Lafountain St": {
+  "lon": -73.1817,
+  "lat": 44.49607,
+  "matched": "69 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "71 Lafountain St": {
+  "lon": -73.18155,
+  "lat": 44.49603,
+  "matched": "71 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "73 Lafountain St": {
+  "lon": -73.181138,
+  "lat": 44.495942,
+  "matched": "73 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "75 Lafountain St": {
+  "lon": -73.181011,
+  "lat": 44.495911,
+  "matched": "75 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "35 Russell St": {
+  "lon": -73.180568,
+  "lat": 44.494441,
+  "matched": "35 Russell Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "75 Russell St": {
+  "lon": -73.179888,
+  "lat": 44.495333,
+  "matched": "75 Russell Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "45 Russell St": {
+  "lon": -73.180348,
+  "lat": 44.49473,
+  "matched": "45 Russell Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "171 Russell St": {
+  "lon": -73.178331,
+  "lat": 44.497405,
+  "matched": "171 Russell Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "171 Spring St": {
+  "lon": -73.179665,
+  "lat": 44.492833,
+  "matched": "171 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "223 East Allen St": {
+  "lon": -73.178039,
+  "lat": 44.493091,
+  "matched": "223 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "240 East Allen St": {
+  "lon": -73.177368,
+  "lat": 44.492723,
+  "matched": "240 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "227 East Allen St": {
+  "lon": -73.17797,
+  "lat": 44.492796,
+  "matched": "227 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "291 East Allen St": {
+  "lon": -73.17553,
+  "lat": 44.493399,
+  "matched": "291 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "73½ East Allen St": {
+  "lon": -73.183393,
+  "lat": 44.491528,
+  "matched": "73 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 73"
+ },
+ "378 East Allen St": {
+  "lon": -73.171961,
+  "lat": 44.493335,
+  "matched": "378 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "367 East Allen St": {
+  "lon": -73.172722,
+  "lat": 44.49331,
+  "matched": "367 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "362 East Allen St": {
+  "lon": -73.173068,
+  "lat": 44.493299,
+  "matched": "362 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "366 East Allen St": {
+  "lon": -73.172791,
+  "lat": 44.493308,
+  "matched": "366 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "380 East Allen St": {
+  "lon": -73.171822,
+  "lat": 44.493333,
+  "matched": "380 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "392 East Allen St": {
+  "lon": -73.17166,
+  "lat": 44.49306,
+  "matched": "392 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "171 East Allen St": {
+  "lon": -73.179851,
+  "lat": 44.492408,
+  "matched": "171 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "166 East Allen St": {
+  "lon": -73.179908,
+  "lat": 44.492025,
+  "matched": "166 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "160 East Allen St": {
+  "lon": -73.18014,
+  "lat": 44.491961,
+  "matched": "160 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "152 East Allen St": {
+  "lon": -73.18038,
+  "lat": 44.4919,
+  "matched": "152 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "159 East Allen St": {
+  "lon": -73.18032,
+  "lat": 44.49211,
+  "matched": "159 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "157 East Allen St": {
+  "lon": -73.180408,
+  "lat": 44.492083,
+  "matched": "157 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "155 East Allen St": {
+  "lon": -73.180497,
+  "lat": 44.492056,
+  "matched": "155 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "145 East Allen St": {
+  "lon": -73.180885,
+  "lat": 44.492179,
+  "matched": "145 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "144 East Allen St": {
+  "lon": -73.18069,
+  "lat": 44.49181,
+  "matched": "144 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "144 Main St": {
+  "lon": -73.186538,
+  "lat": 44.493788,
+  "matched": "144 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "138 East Allen St": {
+  "lon": -73.18094,
+  "lat": 44.49175,
+  "matched": "138 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "130 East Allen St": {
+  "lon": -73.181599,
+  "lat": 44.491711,
+  "matched": "130 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "131 East Allen St": {
+  "lon": -73.181555,
+  "lat": 44.491724,
+  "matched": "131 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "126 East Allen St": {
+  "lon": -73.181776,
+  "lat": 44.491655,
+  "matched": "126 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "125 East Allen St": {
+  "lon": -73.18182,
+  "lat": 44.491641,
+  "matched": "125 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "91 East St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "91 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "53 East St": {
+  "lon": -73.181748,
+  "lat": 44.491482,
+  "matched": "53 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "112 East Allen St": {
+  "lon": -73.183959,
+  "lat": 44.491367,
+  "matched": "112 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "111 Main St": {
+  "lon": -73.186515,
+  "lat": 44.491797,
+  "matched": "111 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "105 Main St": {
+  "lon": -73.186518,
+  "lat": 44.492701,
+  "matched": "105 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "106 Main St": {
+  "lon": -73.186519,
+  "lat": 44.492728,
+  "matched": "106 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "102 Main St": {
+  "lon": -73.186516,
+  "lat": 44.492618,
+  "matched": "102 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "95 Main St": {
+  "lon": -73.186511,
+  "lat": 44.492426,
+  "matched": "95 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "92 Main St": {
+  "lon": -73.186509,
+  "lat": 44.492343,
+  "matched": "92 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "82 Main St": {
+  "lon": -73.186511,
+  "lat": 44.492068,
+  "matched": "82 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "81 Main St": {
+  "lon": -73.186511,
+  "lat": 44.49204,
+  "matched": "81 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "73 East Allen St": {
+  "lon": -73.183393,
+  "lat": 44.491528,
+  "matched": "73 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "72 East Allen St": {
+  "lon": -73.18346,
+  "lat": 44.4912,
+  "matched": "72 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "69 East Allen St": {
+  "lon": -73.183612,
+  "lat": 44.491602,
+  "matched": "69 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "61 East Allen St": {
+  "lon": -73.183878,
+  "lat": 44.491601,
+  "matched": "61 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "64 East Allen St": {
+  "lon": -73.183788,
+  "lat": 44.491161,
+  "matched": "64 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "60 East Allen St": {
+  "lon": -73.183955,
+  "lat": 44.491155,
+  "matched": "60 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "12 Barlow St": {
+  "lon": -73.184172,
+  "lat": 44.491488,
+  "matched": "12 Barlow Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "44 Barlow St": {
+  "lon": -73.184169,
+  "lat": 44.491837,
+  "matched": "44 Barlow Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "53 Barlow St": {
+  "lon": -73.184168,
+  "lat": 44.491935,
+  "matched": "53 Barlow Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "49 East Allen St": {
+  "lon": -73.184496,
+  "lat": 44.491558,
+  "matched": "49 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "47 East Allen St": {
+  "lon": -73.184567,
+  "lat": 44.491722,
+  "matched": "47 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "46 East Allen St": {
+  "lon": -73.184534,
+  "lat": 44.49137,
+  "matched": "46 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "43 East Allen St": {
+  "lon": -73.18469,
+  "lat": 44.491371,
+  "matched": "43 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "34 East Allen St": {
+  "lon": -73.185157,
+  "lat": 44.491374,
+  "matched": "34 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "41 East Allen St": {
+  "lon": -73.1848,
+  "lat": 44.49154,
+  "matched": "41 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "33 East Allen St": {
+  "lon": -73.18513,
+  "lat": 44.49154,
+  "matched": "33 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "37 East Allen St": {
+  "lon": -73.185001,
+  "lat": 44.491373,
+  "matched": "37 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "36 East Allen St": {
+  "lon": -73.185053,
+  "lat": 44.491373,
+  "matched": "36 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "18 East Allen St": {
+  "lon": -73.185421,
+  "lat": 44.491369,
+  "matched": "18 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "16 East Allen St": {
+  "lon": -73.185757,
+  "lat": 44.491376,
+  "matched": "16 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "17 East Allen St": {
+  "lon": -73.185772,
+  "lat": 44.491459,
+  "matched": "17 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "4 East Allen St": {
+  "lon": -73.185503,
+  "lat": 44.491363,
+  "matched": "4 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "9 East Allen St": {
+  "lon": -73.185994,
+  "lat": 44.491502,
+  "matched": "9 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "1 East Allen St": {
+  "lon": -73.186027,
+  "lat": 44.491609,
+  "matched": "1 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "13 East Allen St": {
+  "lon": -73.185899,
+  "lat": 44.491501,
+  "matched": "13 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "15 East Allen St": {
+  "lon": -73.185889,
+  "lat": 44.491567,
+  "matched": "15 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "116 East Center St": null,
+ "112 East Center St": null,
+ "98 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "98 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "188 East Center St": null,
+ "136 East Center St": null,
+ "90 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "90 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "93 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "93 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "75 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "75 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "71 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "71 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "67 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "67 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "61 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "61 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "45 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "45 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "41 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "41 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "46 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "46 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "42 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "42 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "31 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "31 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "17 East Center St": {
+  "lon": -73.182125,
+  "lat": 44.492025,
+  "matched": "17 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "13 East Center St": {
+  "lon": -73.181989,
+  "lat": 44.491795,
+  "matched": "13 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "12 East Center St": {
+  "lon": -73.181954,
+  "lat": 44.491738,
+  "matched": "12 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "8 East Center St": {
+  "lon": -73.182125,
+  "lat": 44.492025,
+  "matched": "8 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "5 East Center St": {
+  "lon": -73.182023,
+  "lat": 44.491852,
+  "matched": "5 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "7 East Center St": {
+  "lon": -73.182091,
+  "lat": 44.491967,
+  "matched": "7 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "x East Canal St": null,
+ "49 East Canal St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "49 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "17 East Canal St": {
+  "lon": -73.182125,
+  "lat": 44.492025,
+  "matched": "17 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "15 East Canal St": {
+  "lon": -73.182057,
+  "lat": 44.49191,
+  "matched": "15 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "11 East Canal St": {
+  "lon": -73.182226,
+  "lat": 44.492198,
+  "matched": "11 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "9 East Canal St": {
+  "lon": -73.182159,
+  "lat": 44.492082,
+  "matched": "9 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "7 East Canal St": {
+  "lon": -73.182091,
+  "lat": 44.491967,
+  "matched": "7 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "46 East Canal St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "46 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "42 West Center St": {
+  "lon": -73.188348,
+  "lat": 44.491049,
+  "matched": "42 West Center Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "44 West Center St": {
+  "lon": -73.188561,
+  "lat": 44.491142,
+  "matched": "44 West Center Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "46 West Center St": {
+  "lon": -73.188773,
+  "lat": 44.491236,
+  "matched": "46 West Center Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "73 West Canal St": {
+  "lon": -73.188663,
+  "lat": 44.49057,
+  "matched": "73 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "71 West Canal St": {
+  "lon": -73.188663,
+  "lat": 44.49057,
+  "matched": "71 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "24 West Canal St": {
+  "lon": -73.188055,
+  "lat": 44.490405,
+  "matched": "24 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "70 West Canal St": {
+  "lon": -73.188663,
+  "lat": 44.49057,
+  "matched": "70 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "41 West Canal St": {
+  "lon": -73.187348,
+  "lat": 44.490245,
+  "matched": "41 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "5 Main St": {
+  "lon": -73.18575,
+  "lat": 44.490479,
+  "matched": "5 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "9 Main St": {
+  "lon": -73.185748,
+  "lat": 44.490499,
+  "matched": "9 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "21 Main St": {
+  "lon": -73.185748,
+  "lat": 44.49056,
+  "matched": "21 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "25 Main St": {
+  "lon": -73.185749,
+  "lat": 44.49058,
+  "matched": "25 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "34 Main St": {
+  "lon": -73.186778,
+  "lat": 44.490571,
+  "matched": "34 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "45 Main St": {
+  "lon": -73.185583,
+  "lat": 44.490889,
+  "matched": "45 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "45 West Canal St": {
+  "lon": -73.187348,
+  "lat": 44.490245,
+  "matched": "45 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "137 West Canal St": {
+  "lon": -73.189367,
+  "lat": 44.490871,
+  "matched": "137 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "188 West Canal St": {
+  "lon": -73.19347,
+  "lat": 44.4906,
+  "matched": "188 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "190 West Canal St": {
+  "lon": -73.193202,
+  "lat": 44.490745,
+  "matched": "190 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "198 Canal St": {
+  "lon": -73.193532,
+  "lat": 44.490725,
+  "matched": "198 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "75 Canal St": {
+  "lon": -73.188663,
+  "lat": 44.49057,
+  "matched": "75 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "76 Union St": {
+  "lon": -73.189788,
+  "lat": 44.493431,
+  "matched": "76 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "70 Union St": {
+  "lon": -73.18956,
+  "lat": 44.493461,
+  "matched": "70 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "26 Union St": {
+  "lon": -73.187582,
+  "lat": 44.493632,
+  "matched": "26 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "rear Union St": null,
+ "37 1/2 Union St": {
+  "lon": -73.188055,
+  "lat": 44.493626,
+  "matched": "37 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 37"
+ },
+ "1 West Canal St": {
+  "lon": -73.186481,
+  "lat": 44.490205,
+  "matched": "1 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "9 West Canal St": {
+  "lon": -73.18702,
+  "lat": 44.49032,
+  "matched": "9 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "12 West Canal St": {
+  "lon": -73.187058,
+  "lat": 44.490073,
+  "matched": "12 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "17 West Canal St": {
+  "lon": -73.187399,
+  "lat": 44.490247,
+  "matched": "17 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "22 Main St": {
+  "lon": -73.186774,
+  "lat": 44.490107,
+  "matched": "22 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "18 Main St": {
+  "lon": -73.186483,
+  "lat": 44.490069,
+  "matched": "18 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "24 Main St": {
+  "lon": -73.18671,
+  "lat": 44.490326,
+  "matched": "24 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "7 West Allen St": {
+  "lon": -73.187679,
+  "lat": 44.491412,
+  "matched": "7 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "9 West Allen St": {
+  "lon": -73.18771,
+  "lat": 44.491412,
+  "matched": "9 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "17 West Allen St": {
+  "lon": -73.187833,
+  "lat": 44.491414,
+  "matched": "17 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "16 West Allen St": {
+  "lon": -73.187817,
+  "lat": 44.491414,
+  "matched": "16 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "10 West Allen St": {
+  "lon": -73.187725,
+  "lat": 44.491412,
+  "matched": "10 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "9 Allen Lane": null,
+ "15 Allen Lane": null,
+ "18 Allen Lane": null,
+ "10 Allen Lane": null,
+ "19 Allen Lane": null,
+ "17 Allen Lane": null,
+ "95 West Allen St": {
+  "lon": -73.190619,
+  "lat": 44.491422,
+  "matched": "95 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "76 West Allen St": {
+  "lon": -73.189937,
+  "lat": 44.491311,
+  "matched": "76 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "30 West Allen St": {
+  "lon": -73.187667,
+  "lat": 44.491227,
+  "matched": "30 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "30 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "30 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "33 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "33 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "19 East Center St": {
+  "lon": -73.182193,
+  "lat": 44.49214,
+  "matched": "19 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "41 Follett St": {
+  "lon": -73.187278,
+  "lat": 44.490739,
+  "matched": "41 Follett Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "50 Follett St": {
+  "lon": -73.187269,
+  "lat": 44.491059,
+  "matched": "50 Follett Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "52 Follett St": {
+  "lon": -73.187277,
+  "lat": 44.490788,
+  "matched": "52 Follett Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "33 Follett St": {
+  "lon": -73.18712,
+  "lat": 44.49055,
+  "matched": "33 Follett Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "29 Follett St": {
+  "lon": -73.18715,
+  "lat": 44.49045,
+  "matched": "29 Follett Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "62 Union St": {
+  "lon": -73.18928,
+  "lat": 44.49347,
+  "matched": "62 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "66 Union St": {
+  "lon": -73.189443,
+  "lat": 44.493609,
+  "matched": "66 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "35 East Allen St": {
+  "lon": -73.185105,
+  "lat": 44.491373,
+  "matched": "35 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "35 West Allen St": {
+  "lon": -73.18834,
+  "lat": 44.49157,
+  "matched": "35 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "45 West Allen St": {
+  "lon": -73.188609,
+  "lat": 44.491428,
+  "matched": "45 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "47 West Allen St": {
+  "lon": -73.18863,
+  "lat": 44.491701,
+  "matched": "47 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "51 West Allen St": {
+  "lon": -73.18873,
+  "lat": 44.491579,
+  "matched": "51 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "57 West Allen St": {
+  "lon": -73.189059,
+  "lat": 44.491676,
+  "matched": "57 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "14 West Allen St": {
+  "lon": -73.187786,
+  "lat": 44.491414,
+  "matched": "14 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "80 West Allen St": {
+  "lon": -73.189871,
+  "lat": 44.491467,
+  "matched": "80 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "114 West Allen St": {
+  "lon": -73.191416,
+  "lat": 44.491228,
+  "matched": "114 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "120 West Allen St": {
+  "lon": -73.191684,
+  "lat": 44.491205,
+  "matched": "120 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "126 West Allen St": {
+  "lon": -73.191896,
+  "lat": 44.491214,
+  "matched": "126 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "53 East Allen St": {
+  "lon": -73.184344,
+  "lat": 44.491596,
+  "matched": "53 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "135 East Allen St": {
+  "lon": -73.181281,
+  "lat": 44.492329,
+  "matched": "135 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "131 West St": {
+  "lon": -73.196893,
+  "lat": 44.495773,
+  "matched": "131 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "156 West St": {
+  "lon": -73.19763,
+  "lat": 44.49626,
+  "matched": "156 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "164 West St": {
+  "lon": -73.196226,
+  "lat": 44.495088,
+  "matched": "164 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "178 East Allen St": {
+  "lon": -73.180143,
+  "lat": 44.492165,
+  "matched": "178 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "186 East Allen St": {
+  "lon": -73.179789,
+  "lat": 44.492272,
+  "matched": "186 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "148 East Allen St": {
+  "lon": -73.181467,
+  "lat": 44.491752,
+  "matched": "148 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "210 East Allen St": {
+  "lon": -73.178717,
+  "lat": 44.492557,
+  "matched": "210 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "236 Main St": {
+  "lon": -73.185395,
+  "lat": 44.496283,
+  "matched": "236 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "241 Main St": {
+  "lon": -73.18532,
+  "lat": 44.496429,
+  "matched": "241 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "217 Main St": {
+  "lon": -73.1852,
+  "lat": 44.495692,
+  "matched": "217 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "181 East Allen St": {
+  "lon": -73.179342,
+  "lat": 44.492388,
+  "matched": "181 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "163 East Allen St": {
+  "lon": -73.180143,
+  "lat": 44.492165,
+  "matched": "163 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "179 East Allen St": {
+  "lon": -73.179432,
+  "lat": 44.492367,
+  "matched": "179 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "173 East Allen St": {
+  "lon": -73.1797,
+  "lat": 44.492298,
+  "matched": "173 East Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "157 West Allen St": {
+  "lon": -73.19293,
+  "lat": 44.49139,
+  "matched": "157 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "149 West Allen St": {
+  "lon": -73.19273,
+  "lat": 44.49143,
+  "matched": "149 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "147 West Allen St": {
+  "lon": -73.1926,
+  "lat": 44.49142,
+  "matched": "147 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "143 West Allen St": {
+  "lon": -73.19246,
+  "lat": 44.491412,
+  "matched": "143 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "134 West Allen St": {
+  "lon": -73.19212,
+  "lat": 44.491175,
+  "matched": "134 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "220 West Allen St": {
+  "lon": -73.195476,
+  "lat": 44.491141,
+  "matched": "220 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "81 East Center St": {
+  "lon": -73.181935,
+  "lat": 44.4917,
+  "matched": "81 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "105 East Center St": null,
+ "141 East Center St": null,
+ "196 East Center St": null,
+ "198 East Center St": null,
+ "220 East Center St": null,
+ "210 East Center St": null,
+ "211 East Center St": null,
+ "213 East Center St": null,
+ "16 East Center St": {
+  "lon": -73.182091,
+  "lat": 44.491967,
+  "matched": "16 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "178 East Center St": null,
+ "60 Spring St": {
+  "lon": -73.183807,
+  "lat": 44.494312,
+  "matched": "60 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "11 Weaver St": {
+  "lon": -73.186633,
+  "lat": 44.49701,
+  "matched": "11 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "15 Weaver St": {
+  "lon": -73.18663,
+  "lat": 44.497014,
+  "matched": "15 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "15 West Lane": {
+  "lon": -73.191794,
+  "lat": 44.493467,
+  "matched": "15 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "44 Weaver St": {
+  "lon": -73.186407,
+  "lat": 44.497425,
+  "matched": "44 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "378 Main St": {
+  "lon": -73.183417,
+  "lat": 44.500221,
+  "matched": "378 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "364 Main St": {
+  "lon": -73.184092,
+  "lat": 44.499726,
+  "matched": "364 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "348 Main St": {
+  "lon": -73.184157,
+  "lat": 44.49925,
+  "matched": "348 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "330 Main St": {
+  "lon": -73.183923,
+  "lat": 44.499146,
+  "matched": "330 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "340 Main St": {
+  "lon": -73.18382,
+  "lat": 44.499353,
+  "matched": "340 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "234 Main St": {
+  "lon": -73.185425,
+  "lat": 44.496225,
+  "matched": "234 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "230 Main St": {
+  "lon": -73.187627,
+  "lat": 44.491413,
+  "matched": "230 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "226 Main St": {
+  "lon": -73.18577,
+  "lat": 44.49607,
+  "matched": "226 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "220 Main St": {
+  "lon": -73.18584,
+  "lat": 44.4959,
+  "matched": "220 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "196 Main St": {
+  "lon": -73.186238,
+  "lat": 44.495309,
+  "matched": "196 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "192 Main St": {
+  "lon": -73.186059,
+  "lat": 44.495005,
+  "matched": "192 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "188 Main St": {
+  "lon": -73.186245,
+  "lat": 44.49518,
+  "matched": "188 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "176 Main St": {
+  "lon": -73.1865,
+  "lat": 44.49471,
+  "matched": "176 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "170 Main St": {
+  "lon": -73.186598,
+  "lat": 44.494492,
+  "matched": "170 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "158 Main St": {
+  "lon": -73.187259,
+  "lat": 44.494168,
+  "matched": "158 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "154 Main St": {
+  "lon": -73.186831,
+  "lat": 44.494093,
+  "matched": "154 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "148 Main St": {
+  "lon": -73.18677,
+  "lat": 44.49394,
+  "matched": "148 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "146 Main St": {
+  "lon": -73.18679,
+  "lat": 44.4938,
+  "matched": "146 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "132 Main St": {
+  "lon": -73.18684,
+  "lat": 44.49348,
+  "matched": "132 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "120 Main St": {
+  "lon": -73.186959,
+  "lat": 44.493198,
+  "matched": "120 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "4 Main St": {
+  "lon": -73.186519,
+  "lat": 44.489592,
+  "matched": "4 Main Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "84 Weaver St": {
+  "lon": -73.188399,
+  "lat": 44.492373,
+  "matched": "84 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "81 Weaver St": {
+  "lon": -73.188021,
+  "lat": 44.492327,
+  "matched": "81 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "87 Weaver St": {
+  "lon": -73.18771,
+  "lat": 44.49251,
+  "matched": "87 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "101 Weaver St": {
+  "lon": -73.187858,
+  "lat": 44.492972,
+  "matched": "101 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "105 Weaver St": {
+  "lon": -73.18776,
+  "lat": 44.49306,
+  "matched": "105 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "105A Weaver St": {
+  "lon": -73.18776,
+  "lat": 44.49306,
+  "matched": "105 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "109 Weaver St": {
+  "lon": -73.187843,
+  "lat": 44.493156,
+  "matched": "109 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "108 Weaver St": {
+  "lon": -73.18829,
+  "lat": 44.49316,
+  "matched": "108 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "111 Weaver St": {
+  "lon": -73.18787,
+  "lat": 44.49326,
+  "matched": "111 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "116 Weaver St": {
+  "lon": -73.188257,
+  "lat": 44.493348,
+  "matched": "116 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "112 Weaver St": {
+  "lon": -73.18826,
+  "lat": 44.49327,
+  "matched": "112 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "118 Weaver St": {
+  "lon": -73.188251,
+  "lat": 44.493409,
+  "matched": "118 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "122 Weaver St": {
+  "lon": -73.188319,
+  "lat": 44.493486,
+  "matched": "122 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "126 Weaver St": {
+  "lon": -73.185948,
+  "lat": 44.498303,
+  "matched": "126 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "132 Weaver St": {
+  "lon": -73.188402,
+  "lat": 44.493923,
+  "matched": "132 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "137 Weaver St": {
+  "lon": -73.18787,
+  "lat": 44.49401,
+  "matched": "137 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "138 Weaver St": {
+  "lon": -73.18839,
+  "lat": 44.49407,
+  "matched": "138 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "146 Weaver St": {
+  "lon": -73.18827,
+  "lat": 44.49432,
+  "matched": "146 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "156 Weaver St": {
+  "lon": -73.18814,
+  "lat": 44.49454,
+  "matched": "156 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "151 Weaver St": {
+  "lon": -73.187695,
+  "lat": 44.494345,
+  "matched": "151 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "155 Weaver St": {
+  "lon": -73.18775,
+  "lat": 44.49446,
+  "matched": "155 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "157 Weaver St": {
+  "lon": -73.1877,
+  "lat": 44.49455,
+  "matched": "157 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "161 Weaver St": {
+  "lon": -73.187689,
+  "lat": 44.494623,
+  "matched": "161 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "172 Weaver St": {
+  "lon": -73.187965,
+  "lat": 44.494989,
+  "matched": "172 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "168 Weaver St": {
+  "lon": -73.18799,
+  "lat": 44.49485,
+  "matched": "168 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "175 Weaver St": {
+  "lon": -73.186543,
+  "lat": 44.497175,
+  "matched": "175 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "202 Weaver St": {
+  "lon": -73.18552,
+  "lat": 44.499115,
+  "matched": "202 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "289 Weaver St": {
+  "lon": -73.18589,
+  "lat": 44.49805,
+  "matched": "289 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "295 Weaver St": {
+  "lon": -73.18579,
+  "lat": 44.4982,
+  "matched": "295 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "249 Weaver St": {
+  "lon": -73.186687,
+  "lat": 44.496905,
+  "matched": "249 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "303 Weaver St": {
+  "lon": -73.18569,
+  "lat": 44.49837,
+  "matched": "303 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "309 Weaver St": {
+  "lon": -73.18564,
+  "lat": 44.49852,
+  "matched": "309 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "317 Weaver St": {
+  "lon": -73.1855,
+  "lat": 44.49877,
+  "matched": "317 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "331 Weaver St": {
+  "lon": -73.1853,
+  "lat": 44.49914,
+  "matched": "331 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "337 Weaver St": {
+  "lon": -73.18521,
+  "lat": 44.49932,
+  "matched": "337 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "53 Maple St": {
+  "lon": -73.1889,
+  "lat": 44.49294,
+  "matched": "53 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "114 Maple St": {
+  "lon": -73.190199,
+  "lat": 44.492774,
+  "matched": "114 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "15 Maple St": {
+  "lon": -73.187029,
+  "lat": 44.4928,
+  "matched": "15 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "13 Maple St": {
+  "lon": -73.187164,
+  "lat": 44.49292,
+  "matched": "13 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "19 Maple St": {
+  "lon": -73.18733,
+  "lat": 44.49288,
+  "matched": "19 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "24 Maple St": {
+  "lon": -73.18755,
+  "lat": 44.49269,
+  "matched": "24 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "99 Maple St": {
+  "lon": -73.190281,
+  "lat": 44.492765,
+  "matched": "99 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "39 Maple St": {
+  "lon": -73.188434,
+  "lat": 44.492952,
+  "matched": "39 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "41 Maple St": {
+  "lon": -73.188187,
+  "lat": 44.492798,
+  "matched": "41 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "45 Maple St": {
+  "lon": -73.18859,
+  "lat": 44.49292,
+  "matched": "45 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "45 1/2 Maple St": {
+  "lon": -73.18859,
+  "lat": 44.49292,
+  "matched": "45 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 45"
+ },
+ "47 Maple St": {
+  "lon": -73.18872,
+  "lat": 44.49293,
+  "matched": "47 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "47 1/2 Maple St": {
+  "lon": -73.18872,
+  "lat": 44.49293,
+  "matched": "47 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 47"
+ },
+ "50 Maple St": {
+  "lon": -73.18875,
+  "lat": 44.49267,
+  "matched": "50 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "53 1/2 Maple St": {
+  "lon": -73.1889,
+  "lat": 44.49294,
+  "matched": "53 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 53"
+ },
+ "56 Maple St": {
+  "lon": -73.18894,
+  "lat": 44.49267,
+  "matched": "56 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "70 Maple St": {
+  "lon": -73.189496,
+  "lat": 44.492655,
+  "matched": "70 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "62 Maple St": {
+  "lon": -73.18912,
+  "lat": 44.49267,
+  "matched": "62 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "57 Maple St": {
+  "lon": -73.18911,
+  "lat": 44.49295,
+  "matched": "57 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "59 Maple St": {
+  "lon": -73.189478,
+  "lat": 44.492784,
+  "matched": "59 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "65 Maple St": {
+  "lon": -73.189319,
+  "lat": 44.492941,
+  "matched": "65 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "64 Maple St": {
+  "lon": -73.18933,
+  "lat": 44.49267,
+  "matched": "64 Maple Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "75 Union St": {
+  "lon": -73.18979,
+  "lat": 44.493605,
+  "matched": "75 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "22 Union St": {
+  "lon": -73.187203,
+  "lat": 44.493637,
+  "matched": "22 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "22R Union St": {
+  "lon": -73.187203,
+  "lat": 44.493637,
+  "matched": "22r Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "14 Union St": {
+  "lon": -73.187122,
+  "lat": 44.493638,
+  "matched": "14 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "15 Union St": {
+  "lon": -73.18717,
+  "lat": 44.49375,
+  "matched": "15 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "31 Union St": {
+  "lon": -73.187873,
+  "lat": 44.493779,
+  "matched": "31 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "30 Union St": {
+  "lon": -73.18796,
+  "lat": 44.493627,
+  "matched": "30 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "25 Union St": {
+  "lon": -73.18761,
+  "lat": 44.49376,
+  "matched": "25 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "53 Union St": {
+  "lon": -73.188922,
+  "lat": 44.493615,
+  "matched": "53 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "54 Union St": {
+  "lon": -73.188921,
+  "lat": 44.493415,
+  "matched": "54 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "56 Union St": {
+  "lon": -73.188575,
+  "lat": 44.493619,
+  "matched": "56 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "60 Union St": {
+  "lon": -73.18917,
+  "lat": 44.49326,
+  "matched": "60 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "76 1/2 Union St": {
+  "lon": -73.189788,
+  "lat": 44.493431,
+  "matched": "76 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 76"
+ },
+ "86 Union St": {
+  "lon": -73.190308,
+  "lat": 44.493598,
+  "matched": "86 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "89 Union St": {
+  "lon": -73.19026,
+  "lat": 44.49374,
+  "matched": "89 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "89R Union St": {
+  "lon": -73.19026,
+  "lat": 44.49374,
+  "matched": "89 Union Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "9 Leclair St": {
+  "lon": -73.184417,
+  "lat": 44.494721,
+  "matched": "9 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "15 Leclair St": {
+  "lon": -73.184479,
+  "lat": 44.494598,
+  "matched": "15 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "16 Leclair St": {
+  "lon": -73.184461,
+  "lat": 44.494633,
+  "matched": "16 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "16 1/2 Leclair St": {
+  "lon": -73.184461,
+  "lat": 44.494633,
+  "matched": "16 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 16"
+ },
+ "8 Leclair St": {
+  "lon": -73.184434,
+  "lat": 44.494688,
+  "matched": "8 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "6 Leclair St": {
+  "lon": -73.184467,
+  "lat": 44.494623,
+  "matched": "6 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "10 Leclair St": {
+  "lon": -73.184401,
+  "lat": 44.494753,
+  "matched": "10 Leclair Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "8 North St": {
+  "lon": -73.190009,
+  "lat": 44.493854,
+  "matched": "8 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "23 North St": {
+  "lon": -73.189553,
+  "lat": 44.494303,
+  "matched": "23 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "26 North St": {
+  "lon": -73.18999,
+  "lat": 44.4944,
+  "matched": "26 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "34 North St": {
+  "lon": -73.190067,
+  "lat": 44.49458,
+  "matched": "34 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "50 North St": {
+  "lon": -73.18997,
+  "lat": 44.49501,
+  "matched": "50 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "40 North St": {
+  "lon": -73.190067,
+  "lat": 44.49473,
+  "matched": "40 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "83 North St": {
+  "lon": -73.189576,
+  "lat": 44.496074,
+  "matched": "83 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "81 North St": {
+  "lon": -73.189765,
+  "lat": 44.496142,
+  "matched": "81 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "11 North St": {
+  "lon": -73.18965,
+  "lat": 44.49397,
+  "matched": "11 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "11 1/2 North St": {
+  "lon": -73.18965,
+  "lat": 44.49397,
+  "matched": "11 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 11"
+ },
+ "11 1/2 R North St": {
+  "lon": -73.18965,
+  "lat": 44.49397,
+  "matched": "11 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 11"
+ },
+ "13 North St": {
+  "lon": -73.1896,
+  "lat": 44.49402,
+  "matched": "13 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "12 North St": {
+  "lon": -73.190022,
+  "lat": 44.49398,
+  "matched": "12 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "20 North St": {
+  "lon": -73.189979,
+  "lat": 44.494186,
+  "matched": "20 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "15 North St": {
+  "lon": -73.189789,
+  "lat": 44.493652,
+  "matched": "15 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "17 North St": {
+  "lon": -73.189541,
+  "lat": 44.494174,
+  "matched": "17 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "59 North St": {
+  "lon": -73.189588,
+  "lat": 44.495459,
+  "matched": "59 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "54 North St": {
+  "lon": -73.189768,
+  "lat": 44.495092,
+  "matched": "54 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "54 1/2 North St": {
+  "lon": -73.189768,
+  "lat": 44.495092,
+  "matched": "54 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 54"
+ },
+ "66 North St": {
+  "lon": -73.189997,
+  "lat": 44.495622,
+  "matched": "66 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "68 North St": {
+  "lon": -73.18997,
+  "lat": 44.49567,
+  "matched": "68 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "72 North St": {
+  "lon": -73.18999,
+  "lat": 44.49575,
+  "matched": "72 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "71 North St": {
+  "lon": -73.18961,
+  "lat": 44.49574,
+  "matched": "71 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "75 North St": {
+  "lon": -73.18961,
+  "lat": 44.49586,
+  "matched": "75 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "78 North St": {
+  "lon": -73.190041,
+  "lat": 44.495928,
+  "matched": "78 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "78 1/2 North St": {
+  "lon": -73.190041,
+  "lat": 44.495928,
+  "matched": "78 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 78"
+ },
+ "84 North St": {
+  "lon": -73.190004,
+  "lat": 44.496089,
+  "matched": "84 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "79 North St": {
+  "lon": -73.189765,
+  "lat": 44.496053,
+  "matched": "79 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "104 North St": {
+  "lon": -73.189974,
+  "lat": 44.496558,
+  "matched": "104 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "99 North St": {
+  "lon": -73.189569,
+  "lat": 44.496572,
+  "matched": "99 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "108 North St": {
+  "lon": -73.190017,
+  "lat": 44.496803,
+  "matched": "108 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "10 Hall St": {
+  "lon": -73.19023,
+  "lat": 44.49715,
+  "matched": "10 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "18 Hall St": {
+  "lon": -73.19053,
+  "lat": 44.49713,
+  "matched": "18 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "17 Hall St": {
+  "lon": -73.19061,
+  "lat": 44.49745,
+  "matched": "17 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "2 Hall St": {
+  "lon": -73.189814,
+  "lat": 44.497266,
+  "matched": "2 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "209 Hall St": {
+  "lon": -73.192563,
+  "lat": 44.496776,
+  "matched": "209 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "173 North St": {
+  "lon": -73.189746,
+  "lat": 44.498614,
+  "matched": "173 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "262 North St": {
+  "lon": -73.19006,
+  "lat": 44.50096,
+  "matched": "262 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "333 North St": {
+  "lon": -73.18928,
+  "lat": 44.50294,
+  "matched": "333 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "339 North St": {
+  "lon": -73.189142,
+  "lat": 44.503107,
+  "matched": "339 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "114 North St": {
+  "lon": -73.18996,
+  "lat": 44.49696,
+  "matched": "114 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "114 1/2 North St": {
+  "lon": -73.18996,
+  "lat": 44.49696,
+  "matched": "114 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 114"
+ },
+ "73 North St": {
+  "lon": -73.18962,
+  "lat": 44.49576,
+  "matched": "73 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "70 North St": {
+  "lon": -73.189766,
+  "lat": 44.495608,
+  "matched": "70 North Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "35 Hall St": {
+  "lon": -73.19121,
+  "lat": 44.49743,
+  "matched": "35 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "150 St. Peter St": {
+  "lon": -73.192879,
+  "lat": 44.496099,
+  "matched": "150 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "146 St. Peter St": {
+  "lon": -73.19276,
+  "lat": 44.49614,
+  "matched": "146 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "142 St. Peter St": {
+  "lon": -73.19255,
+  "lat": 44.49613,
+  "matched": "142 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "143 St. Peter St": {
+  "lon": -73.192704,
+  "lat": 44.496429,
+  "matched": "143 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "141 St. Peter St": {
+  "lon": -73.192557,
+  "lat": 44.496391,
+  "matched": "141 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "137 St. Peter St": {
+  "lon": -73.19238,
+  "lat": 44.49638,
+  "matched": "137 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "130 St. Peter St": {
+  "lon": -73.19218,
+  "lat": 44.49611,
+  "matched": "130 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "81 Hall St": {
+  "lon": -73.192788,
+  "lat": 44.496884,
+  "matched": "81 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "141 Hall St": {
+  "lon": -73.192567,
+  "lat": 44.496774,
+  "matched": "141 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "141½ Hall St": {
+  "lon": -73.192567,
+  "lat": 44.496774,
+  "matched": "141 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 141"
+ },
+ "91 Hall St": {
+  "lon": -73.19303,
+  "lat": 44.49668,
+  "matched": "91 Hall Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "155 St. Peter St": {
+  "lon": -73.19309,
+  "lat": 44.49637,
+  "matched": "155 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "160 St. Peter St": {
+  "lon": -73.19322,
+  "lat": 44.49612,
+  "matched": "160 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "124 St. Peter St": {
+  "lon": -73.1919,
+  "lat": 44.4961,
+  "matched": "124 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "114 St. Peter St": {
+  "lon": -73.191539,
+  "lat": 44.496109,
+  "matched": "114 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "114 1/2 St. Peter St": {
+  "lon": -73.191539,
+  "lat": 44.496109,
+  "matched": "114 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 114"
+ },
+ "121 St. Peter St": {
+  "lon": -73.1918,
+  "lat": 44.4964,
+  "matched": "121 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "119 St. Peter St": {
+  "lon": -73.19174,
+  "lat": 44.4964,
+  "matched": "119 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "109 St. Peter St": {
+  "lon": -73.19135,
+  "lat": 44.49638,
+  "matched": "109 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "103 St. Peter St": {
+  "lon": -73.19112,
+  "lat": 44.49636,
+  "matched": "103 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "106 St. Peter St": {
+  "lon": -73.19116,
+  "lat": 44.49612,
+  "matched": "106 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "102 St. Peter St": {
+  "lon": -73.19101,
+  "lat": 44.49611,
+  "matched": "102 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "110 St. Peter St": {
+  "lon": -73.19133,
+  "lat": 44.49611,
+  "matched": "110 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "100 St. Peter St": {
+  "lon": -73.19092,
+  "lat": 44.49612,
+  "matched": "100 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "92 St. Peter St": {
+  "lon": -73.19061,
+  "lat": 44.49611,
+  "matched": "92 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "41 St. Peter St": {
+  "lon": -73.188606,
+  "lat": 44.496223,
+  "matched": "41 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "85 St. Peter St": {
+  "lon": -73.1904,
+  "lat": 44.49636,
+  "matched": "85 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "81 St. Peter St": {
+  "lon": -73.19027,
+  "lat": 44.49637,
+  "matched": "81 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "69 St. Peter St": {
+  "lon": -73.18961,
+  "lat": 44.49636,
+  "matched": "69 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "61 St. Peter St": {
+  "lon": -73.18936,
+  "lat": 44.49637,
+  "matched": "61 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "61 1/2 St. Peter St": {
+  "lon": -73.18936,
+  "lat": 44.49637,
+  "matched": "61 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 61"
+ },
+ "55 St. Peter St": {
+  "lon": -73.189119,
+  "lat": 44.496379,
+  "matched": "55 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "56 St. Peter St": {
+  "lon": -73.18913,
+  "lat": 44.49607,
+  "matched": "56 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "48 St. Peter St": {
+  "lon": -73.18872,
+  "lat": 44.49608,
+  "matched": "48 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "30 St. Peter St": {
+  "lon": -73.188152,
+  "lat": 44.496221,
+  "matched": "30 Saint Peter Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "15 Lafountain St": {
+  "lon": -73.184987,
+  "lat": 44.496752,
+  "matched": "15 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "10 Lafountain St": {
+  "lon": -73.184735,
+  "lat": 44.49655,
+  "matched": "10 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "5 Lafountain St": {
+  "lon": -73.184922,
+  "lat": 44.496736,
+  "matched": "5 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "6 Lafountain St": {
+  "lon": -73.18487,
+  "lat": 44.496723,
+  "matched": "6 Lafountain Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "12 Spring St": {
+  "lon": -73.18683,
+  "lat": 44.49479,
+  "matched": "12 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "24 1/2 Spring St": {
+  "lon": -73.18538,
+  "lat": 44.49448,
+  "matched": "24 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high",
+  "note": "placed at 24"
+ },
+ "75 Spring St": {
+  "lon": -73.183159,
+  "lat": 44.494144,
+  "matched": "75 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "39 Spring St": {
+  "lon": -73.184512,
+  "lat": 44.494453,
+  "matched": "39 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "low"
+ },
+ "62 Spring St": {
+  "lon": -73.18879,
+  "lat": 44.494925,
+  "matched": "62 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "68 Spring St": {
+  "lon": -73.18898,
+  "lat": 44.49497,
+  "matched": "68 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "70 Spring St": {
+  "lon": -73.18913,
+  "lat": 44.49501,
+  "matched": "70 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "78 Spring St": {
+  "lon": -73.1894,
+  "lat": 44.49498,
+  "matched": "78 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "78 1/2 Spring St": {
+  "lon": -73.1894,
+  "lat": 44.49498,
+  "matched": "78 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high",
+  "note": "placed at 78"
+ },
+ "79 Spring St": {
+  "lon": -73.183012,
+  "lat": 44.49429,
+  "matched": "79 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "63 Spring St": {
+  "lon": -73.18884,
+  "lat": 44.49533,
+  "matched": "63 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "56 1/2 Spring St": {
+  "lon": -73.18853,
+  "lat": 44.49498,
+  "matched": "56 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high",
+  "note": "placed at 56"
+ },
+ "77 Spring St": {
+  "lon": -73.18312,
+  "lat": 44.4945,
+  "matched": "77 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "95 Spring St": {
+  "lon": -73.190294,
+  "lat": 44.495394,
+  "matched": "95 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "107 Spring St": {
+  "lon": -73.190748,
+  "lat": 44.495308,
+  "matched": "107 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "10 Spring St": {
+  "lon": -73.185458,
+  "lat": 44.494529,
+  "matched": "10 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "115 Spring St": {
+  "lon": -73.18139,
+  "lat": 44.49367,
+  "matched": "115 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "121 Spring St": {
+  "lon": -73.19126,
+  "lat": 44.4953,
+  "matched": "121 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "126 Spring St": {
+  "lon": -73.19137,
+  "lat": 44.495,
+  "matched": "126 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "130 Spring St": {
+  "lon": -73.19148,
+  "lat": 44.49502,
+  "matched": "130 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "130½ Spring St": {
+  "lon": -73.19148,
+  "lat": 44.49502,
+  "matched": "130 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high",
+  "note": "placed at 130"
+ },
+ "134 Spring St": {
+  "lon": -73.191665,
+  "lat": 44.494947,
+  "matched": "134 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "134½ Spring St": {
+  "lon": -73.191665,
+  "lat": 44.494947,
+  "matched": "134 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high",
+  "note": "placed at 134"
+ },
+ "138 Spring St": {
+  "lon": -73.19191,
+  "lat": 44.49505,
+  "matched": "138 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "144 Spring St": {
+  "lon": -73.19211,
+  "lat": 44.49505,
+  "matched": "144 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "153 Spring St": {
+  "lon": -73.180185,
+  "lat": 44.49335,
+  "matched": "153 East Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "131 Spring St": {
+  "lon": -73.19162,
+  "lat": 44.49533,
+  "matched": "131 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "127 Spring St": {
+  "lon": -73.19148,
+  "lat": 44.49534,
+  "matched": "127 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "17 Railroad St": {
+  "lon": -73.18885,
+  "lat": 44.49228,
+  "matched": "17 Railroad Lane, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "29 Railroad St": {
+  "lon": -73.18933,
+  "lat": 44.49225,
+  "matched": "29 Railroad Lane, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "35 Railroad St": {
+  "lon": -73.189525,
+  "lat": 44.492226,
+  "matched": "35 Railroad Lane, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "33 Mallets Bay Avenue": {
+  "lon": -73.18974,
+  "lat": 44.49234,
+  "matched": "33 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "33 1/2 Mallets Bay Avenue": {
+  "lon": -73.18974,
+  "lat": 44.49234,
+  "matched": "33 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 33"
+ },
+ "34 Mallets Bay Avenue": {
+  "lon": -73.190154,
+  "lat": 44.492569,
+  "matched": "34 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "40 Mallets Bay Avenue": {
+  "lon": -73.190161,
+  "lat": 44.492575,
+  "matched": "40 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "37 Mallets Bay Avenue": {
+  "lon": -73.18983,
+  "lat": 44.49243,
+  "matched": "37 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "41 Mallets Bay Avenue": {
+  "lon": -73.189687,
+  "lat": 44.492095,
+  "matched": "41 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "47 Mallets Bay Avenue": {
+  "lon": -73.19,
+  "lat": 44.49262,
+  "matched": "47 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "51 Mallets Bay Avenue": {
+  "lon": -73.190144,
+  "lat": 44.492558,
+  "matched": "51 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "61 Mallets Bay Avenue": {
+  "lon": -73.19032,
+  "lat": 44.49294,
+  "matched": "61 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "63 Mallets Bay Avenue": {
+  "lon": -73.190163,
+  "lat": 44.492578,
+  "matched": "63 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "61 1/2 Mallets Bay Avenue": {
+  "lon": -73.19032,
+  "lat": 44.49294,
+  "matched": "61 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 61"
+ },
+ "63 1/2 Mallets Bay Avenue": {
+  "lon": -73.190163,
+  "lat": 44.492578,
+  "matched": "63 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 63"
+ },
+ "65 Mallets Bay Avenue": {
+  "lon": -73.190167,
+  "lat": 44.492581,
+  "matched": "65 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "61½ Mallets Bay Avenue": {
+  "lon": -73.19032,
+  "lat": 44.49294,
+  "matched": "61 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 61"
+ },
+ "75 Mallets Bay Avenue": {
+  "lon": -73.19061,
+  "lat": 44.49327,
+  "matched": "75 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "75½ Mallets Bay Avenue": {
+  "lon": -73.19061,
+  "lat": 44.49327,
+  "matched": "75 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 75"
+ },
+ "85 Mallets Bay Avenue": {
+  "lon": -73.1902,
+  "lat": 44.492614,
+  "matched": "85 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "86 Mallets Bay Avenue": {
+  "lon": -73.191118,
+  "lat": 44.493289,
+  "matched": "86 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "82 Mallets Bay Avenue": {
+  "lon": -73.191124,
+  "lat": 44.493193,
+  "matched": "82 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "82½ Mallets Bay Avenue": {
+  "lon": -73.191124,
+  "lat": 44.493193,
+  "matched": "82 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 82"
+ },
+ "76 Mallets Bay Avenue": {
+  "lon": -73.19096,
+  "lat": 44.49315,
+  "matched": "76 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "74 Mallets Bay Avenue": {
+  "lon": -73.19089,
+  "lat": 44.49307,
+  "matched": "74 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "62 Mallets Bay Avenue": {
+  "lon": -73.190185,
+  "lat": 44.492599,
+  "matched": "62 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "54 Mallets Bay Avenue": {
+  "lon": -73.190176,
+  "lat": 44.492591,
+  "matched": "54 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "100 Mallets Bay Avenue": {
+  "lon": -73.190226,
+  "lat": 44.492641,
+  "matched": "100 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "102 Mallets Bay Avenue": {
+  "lon": -73.19151,
+  "lat": 44.49372,
+  "matched": "102 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "103 1/2 Mallets Bay Avenue": {
+  "lon": -73.191367,
+  "lat": 44.493814,
+  "matched": "103 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 103"
+ },
+ "113 Mallets Bay Avenue": {
+  "lon": -73.191634,
+  "lat": 44.494098,
+  "matched": "113 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "112 Mallets Bay Avenue": {
+  "lon": -73.19176,
+  "lat": 44.49392,
+  "matched": "112 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "124 1/2 Mallets Bay Avenue": {
+  "lon": -73.192052,
+  "lat": 44.494537,
+  "matched": "124 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 124"
+ },
+ "128 Mallets Bay Avenue": {
+  "lon": -73.192131,
+  "lat": 44.49462,
+  "matched": "128 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "124 Mallets Bay Avenue": {
+  "lon": -73.192052,
+  "lat": 44.494537,
+  "matched": "124 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "126 Mallets Bay Avenue": {
+  "lon": -73.192091,
+  "lat": 44.494579,
+  "matched": "126 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "82 1/2 Mallets Bay Avenue": {
+  "lon": -73.191124,
+  "lat": 44.493193,
+  "matched": "82 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 82"
+ },
+ "131 Mallets Bay Avenue": {
+  "lon": -73.19189,
+  "lat": 44.49461,
+  "matched": "131 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "130 Mallets Bay Avenue": {
+  "lon": -73.19217,
+  "lat": 44.494662,
+  "matched": "130 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "131 1/2 Mallets Bay Avenue": {
+  "lon": -73.19189,
+  "lat": 44.49461,
+  "matched": "131 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 131"
+ },
+ "137 Mallets Bay Avenue": {
+  "lon": -73.192278,
+  "lat": 44.494775,
+  "matched": "137 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "134 Mallets Bay Avenue": {
+  "lon": -73.192249,
+  "lat": 44.494745,
+  "matched": "134 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "151 Mallets Bay Avenue": {
+  "lon": -73.192654,
+  "lat": 44.495171,
+  "matched": "151 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "163 Mallets Bay Avenue": {
+  "lon": -73.19261,
+  "lat": 44.49537,
+  "matched": "163 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "177 Mallets Bay Avenue": {
+  "lon": -73.19288,
+  "lat": 44.49569,
+  "matched": "177 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "181 Mallets Bay Avenue": {
+  "lon": -73.193192,
+  "lat": 44.495707,
+  "matched": "181 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "182 Mallets Bay Avenue": {
+  "lon": -73.193054,
+  "lat": 44.495567,
+  "matched": "182 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "184 Mallets Bay Avenue": {
+  "lon": -73.19332,
+  "lat": 44.49561,
+  "matched": "184 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "183 1/2 Mallets Bay Avenue": {
+  "lon": -73.193239,
+  "lat": 44.495755,
+  "matched": "183 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 183"
+ },
+ "178 Mallets Bay Avenue": {
+  "lon": -73.19323,
+  "lat": 44.49544,
+  "matched": "178 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "78 1/2 Mallets Bay Avenue": {
+  "lon": -73.190202,
+  "lat": 44.492617,
+  "matched": "78 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 78"
+ },
+ "94 Mallets Bay Avenue": {
+  "lon": -73.19142,
+  "lat": 44.493585,
+  "matched": "94 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "237 Mallets Bay Avenue": {
+  "lon": -73.19424,
+  "lat": 44.49703,
+  "matched": "237 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "241 Mallets Bay Avenue": {
+  "lon": -73.194604,
+  "lat": 44.497139,
+  "matched": "241 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "243 Mallets Bay Avenue": {
+  "lon": -73.194319,
+  "lat": 44.497189,
+  "matched": "243 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "185 Mallets Bay Avenue": {
+  "lon": -73.19317,
+  "lat": 44.49589,
+  "matched": "185 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "249 Mallets Bay Avenue": {
+  "lon": -73.19437,
+  "lat": 44.49738,
+  "matched": "249 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "265 Mallets Bay Avenue": {
+  "lon": -73.19474,
+  "lat": 44.497757,
+  "matched": "265 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "303 Mallets Bay Avenue": {
+  "lon": -73.19569,
+  "lat": 44.49858,
+  "matched": "303 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "307 Mallets Bay Avenue": {
+  "lon": -73.19579,
+  "lat": 44.49872,
+  "matched": "307 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "323 Mallets Bay Avenue": {
+  "lon": -73.19619,
+  "lat": 44.49911,
+  "matched": "323 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "334 Mallets Bay Avenue": {
+  "lon": -73.196532,
+  "lat": 44.498858,
+  "matched": "334 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "347 Mallets Bay Avenue": {
+  "lon": -73.196387,
+  "lat": 44.498959,
+  "matched": "347 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "1 Mallets Bay Avenue": {
+  "lon": -73.19724,
+  "lat": 44.49947,
+  "matched": "1 Malletts Bay Avenue, Colchester, Vermont 05446, United States",
+  "confidence": "high"
+ },
+ "353 Mallets Bay Avenue": {
+  "lon": -73.196387,
+  "lat": 44.498959,
+  "matched": "353 Malletts Bay Avenue, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "95 Shepard St": {
+  "lon": -73.19452,
+  "lat": 44.49914,
+  "matched": "95 Shepard Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "23 Shepard St": {
+  "lon": -73.192966,
+  "lat": 44.497271,
+  "matched": "23 Shepard Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "24 Shepard St": {
+  "lon": -73.19272,
+  "lat": 44.497021,
+  "matched": "24 Shepard Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "28 Shepard St": {
+  "lon": -73.19332,
+  "lat": 44.49745,
+  "matched": "28 Shepard Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "22 Shepard St": {
+  "lon": -73.193273,
+  "lat": 44.497209,
+  "matched": "22 Shepard Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "21 Shepard St": {
+  "lon": -73.19282,
+  "lat": 44.49736,
+  "matched": "21 Shepard Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "155 West Lane": null,
+ "9 West Lane": {
+  "lon": -73.19124,
+  "lat": 44.493524,
+  "matched": "9 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "2 West Lane": {
+  "lon": -73.191206,
+  "lat": 44.49354,
+  "matched": "2 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "20 West Lane": {
+  "lon": -73.191683,
+  "lat": 44.493122,
+  "matched": "20 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "16 West Lane": {
+  "lon": -73.19157,
+  "lat": 44.49321,
+  "matched": "16 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "16 1/2 West Lane": {
+  "lon": -73.19157,
+  "lat": 44.49321,
+  "matched": "16 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 16"
+ },
+ "12 West Lane": {
+  "lon": -73.191451,
+  "lat": 44.493258,
+  "matched": "12 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "23 West Lane": {
+  "lon": -73.192182,
+  "lat": 44.493254,
+  "matched": "23 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "25 West Lane": {
+  "lon": -73.192075,
+  "lat": 44.49312,
+  "matched": "25 West Lane, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "25 Hickok St": {
+  "lon": -73.191715,
+  "lat": 44.492662,
+  "matched": "25 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "21 Hickok St": {
+  "lon": -73.19162,
+  "lat": 44.492509,
+  "matched": "21 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "21½ Hickok St": {
+  "lon": -73.19162,
+  "lat": 44.492509,
+  "matched": "21 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 21"
+ },
+ "18 Hickok St": {
+  "lon": -73.191784,
+  "lat": 44.492351,
+  "matched": "18 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "12 Hickok St": {
+  "lon": -73.191792,
+  "lat": 44.492359,
+  "matched": "12 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "32 Hickok St": {
+  "lon": -73.192295,
+  "lat": 44.492547,
+  "matched": "32 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "36 Hickok St": {
+  "lon": -73.19235,
+  "lat": 44.49269,
+  "matched": "36 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "46 Hickok St": {
+  "lon": -73.192625,
+  "lat": 44.492828,
+  "matched": "46 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "52 Hickok St": {
+  "lon": -73.192662,
+  "lat": 44.493012,
+  "matched": "52 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "68 Hickok St": {
+  "lon": -73.19305,
+  "lat": 44.49343,
+  "matched": "68 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "72 Hickok St": {
+  "lon": -73.19313,
+  "lat": 44.49351,
+  "matched": "72 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "78 Hickok St": {
+  "lon": -73.19325,
+  "lat": 44.49363,
+  "matched": "78 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "82 Hickok St": {
+  "lon": -73.193326,
+  "lat": 44.493726,
+  "matched": "82 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "84 Hickok St": {
+  "lon": -73.19324,
+  "lat": 44.493849,
+  "matched": "84 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "94 Hickok St": {
+  "lon": -73.19359,
+  "lat": 44.49396,
+  "matched": "94 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "98 Hickok St": {
+  "lon": -73.19372,
+  "lat": 44.49409,
+  "matched": "98 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "106 Hickok St": {
+  "lon": -73.19387,
+  "lat": 44.49422,
+  "matched": "106 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "110 Hickok St": {
+  "lon": -73.19394,
+  "lat": 44.49432,
+  "matched": "110 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "118 Hickok St": {
+  "lon": -73.19415,
+  "lat": 44.49454,
+  "matched": "118 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "144 Hickok St": {
+  "lon": -73.194787,
+  "lat": 44.495061,
+  "matched": "144 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "152 Hickok St": {
+  "lon": -73.19496,
+  "lat": 44.495211,
+  "matched": "152 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "164 Hickok St": {
+  "lon": -73.195266,
+  "lat": 44.49566,
+  "matched": "164 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "174 Hickok St": {
+  "lon": -73.19542,
+  "lat": 44.49591,
+  "matched": "174 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "172 Hickok St": {
+  "lon": -73.1954,
+  "lat": 44.49579,
+  "matched": "172 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "16 Hickok St": {
+  "lon": -73.19192,
+  "lat": 44.49222,
+  "matched": "16 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "34 Hickok St": {
+  "lon": -73.192129,
+  "lat": 44.492704,
+  "matched": "34 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "41 Hickok St": {
+  "lon": -73.19228,
+  "lat": 44.492859,
+  "matched": "41 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "47a Hickok St": {
+  "lon": -73.191777,
+  "lat": 44.492344,
+  "matched": "47a Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "47 Hickok St": {
+  "lon": -73.191777,
+  "lat": 44.492344,
+  "matched": "47 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "51 Hickok St": {
+  "lon": -73.192427,
+  "lat": 44.49301,
+  "matched": "51 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "59 Hickok St": {
+  "lon": -73.19249,
+  "lat": 44.49336,
+  "matched": "59 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "60 Hickok St": {
+  "lon": -73.192842,
+  "lat": 44.493237,
+  "matched": "60 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "63 Hickok St": {
+  "lon": -73.19257,
+  "lat": 44.49349,
+  "matched": "63 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "71 Hickok St": {
+  "lon": -73.19281,
+  "lat": 44.49367,
+  "matched": "71 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "69 Hickok St": {
+  "lon": -73.19272,
+  "lat": 44.49356,
+  "matched": "69 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "75 Hickok St": {
+  "lon": -73.19291,
+  "lat": 44.49375,
+  "matched": "75 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "83 Hickok St": {
+  "lon": -73.19309,
+  "lat": 44.49391,
+  "matched": "83 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "85 Hickok St": {
+  "lon": -73.193453,
+  "lat": 44.494069,
+  "matched": "85 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "81 Hickok St": {
+  "lon": -73.193325,
+  "lat": 44.493938,
+  "matched": "81 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "91 Hickok St": {
+  "lon": -73.193145,
+  "lat": 44.494137,
+  "matched": "91 Hickok Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "185 Elm St": {
+  "lon": -73.196808,
+  "lat": 44.493351,
+  "matched": "185 Elm Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "97 Elm St": {
+  "lon": -73.19717,
+  "lat": 44.494567,
+  "matched": "97 Elm Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "48 Elm St": {
+  "lon": -73.19536,
+  "lat": 44.49529,
+  "matched": "48 Elm Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "54 Elm St": {
+  "lon": -73.195506,
+  "lat": 44.495209,
+  "matched": "54 Elm Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "58 Elm St": {
+  "lon": -73.19563,
+  "lat": 44.49514,
+  "matched": "58 Elm Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "65 Elm St": {
+  "lon": -73.19613,
+  "lat": 44.49524,
+  "matched": "65 Elm Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "99 Elm St": {
+  "lon": -73.1971,
+  "lat": 44.494602,
+  "matched": "99 Elm Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "53 Elm St": {
+  "lon": -73.195757,
+  "lat": 44.495437,
+  "matched": "53 Elm Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "115 West St": {
+  "lon": -73.19633,
+  "lat": 44.49547,
+  "matched": "115 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "111 West St": {
+  "lon": -73.19625,
+  "lat": 44.49537,
+  "matched": "111 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "85 1/2 West St": {
+  "lon": -73.19558,
+  "lat": 44.49471,
+  "matched": "85 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 85"
+ },
+ "108 West St": {
+  "lon": -73.19648,
+  "lat": 44.4951,
+  "matched": "108 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "84 West St": {
+  "lon": -73.19588,
+  "lat": 44.49444,
+  "matched": "84 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "102 West St": {
+  "lon": -73.19627,
+  "lat": 44.49489,
+  "matched": "102 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "96 West St": {
+  "lon": -73.19604,
+  "lat": 44.494899,
+  "matched": "96 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "94 West St": {
+  "lon": -73.19599,
+  "lat": 44.494849,
+  "matched": "94 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "92 West St": {
+  "lon": -73.19608,
+  "lat": 44.49471,
+  "matched": "92 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "90 West St": {
+  "lon": -73.195892,
+  "lat": 44.494748,
+  "matched": "90 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "88 West St": {
+  "lon": -73.19598,
+  "lat": 44.4946,
+  "matched": "88 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "95 West St": {
+  "lon": -73.195758,
+  "lat": 44.494896,
+  "matched": "95 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "85 West St": {
+  "lon": -73.19558,
+  "lat": 44.49471,
+  "matched": "85 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "79 West St": {
+  "lon": -73.195661,
+  "lat": 44.494512,
+  "matched": "79 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "77 West St": {
+  "lon": -73.19545,
+  "lat": 44.49456,
+  "matched": "77 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "76 West St": {
+  "lon": -73.19572,
+  "lat": 44.49432,
+  "matched": "76 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "64 West St": {
+  "lon": -73.19544,
+  "lat": 44.49402,
+  "matched": "64 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "58 West St": {
+  "lon": -73.19536,
+  "lat": 44.49387,
+  "matched": "58 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "50 West St": {
+  "lon": -73.19516,
+  "lat": 44.49373,
+  "matched": "50 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "44 West St": {
+  "lon": -73.19502,
+  "lat": 44.49358,
+  "matched": "44 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "40 West St": {
+  "lon": -73.19489,
+  "lat": 44.49346,
+  "matched": "40 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "34 West St": {
+  "lon": -73.194509,
+  "lat": 44.493332,
+  "matched": "34 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "36 West St": {
+  "lon": -73.194558,
+  "lat": 44.493382,
+  "matched": "36 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "24 West St": {
+  "lon": -73.19455,
+  "lat": 44.49312,
+  "matched": "24 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "20 West St": {
+  "lon": -73.1945,
+  "lat": 44.49303,
+  "matched": "20 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "14 West St": {
+  "lon": -73.19434,
+  "lat": 44.49288,
+  "matched": "14 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "14 1/2 West St": {
+  "lon": -73.19434,
+  "lat": 44.49288,
+  "matched": "14 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 14"
+ },
+ "15 West St": {
+  "lon": -73.193975,
+  "lat": 44.492786,
+  "matched": "15 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "8 West St": {
+  "lon": -73.193866,
+  "lat": 44.492675,
+  "matched": "8 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "6 West St": {
+  "lon": -73.1941,
+  "lat": 44.4927,
+  "matched": "6 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "6 1/2 West St": {
+  "lon": -73.1941,
+  "lat": 44.4927,
+  "matched": "6 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 6"
+ },
+ "59 West St": {
+  "lon": -73.194926,
+  "lat": 44.49413,
+  "matched": "59 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "9 West St": {
+  "lon": -73.193931,
+  "lat": 44.49301,
+  "matched": "9 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "13 West St": {
+  "lon": -73.193922,
+  "lat": 44.492732,
+  "matched": "13 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "13 1/2 West St": {
+  "lon": -73.193922,
+  "lat": 44.492732,
+  "matched": "13 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 13"
+ },
+ "7 West St": {
+  "lon": -73.194035,
+  "lat": 44.492847,
+  "matched": "7 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "27 West St": {
+  "lon": -73.194307,
+  "lat": 44.493351,
+  "matched": "27 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "31 West St": {
+  "lon": -73.19436,
+  "lat": 44.49342,
+  "matched": "31 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "33 West St": {
+  "lon": -73.194448,
+  "lat": 44.493518,
+  "matched": "33 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "45 West St": {
+  "lon": -73.19471,
+  "lat": 44.49377,
+  "matched": "45 West Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "27 River St": {
+  "lon": -73.193618,
+  "lat": 44.492723,
+  "matched": "27 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "23 River St": {
+  "lon": -73.19353,
+  "lat": 44.49293,
+  "matched": "23 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "19 River St": {
+  "lon": -73.193415,
+  "lat": 44.493009,
+  "matched": "19 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "13 River St": {
+  "lon": -73.193284,
+  "lat": 44.493089,
+  "matched": "13 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "15 River St": {
+  "lon": -73.193425,
+  "lat": 44.492942,
+  "matched": "15 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "11 River St": {
+  "lon": -73.19314,
+  "lat": 44.493147,
+  "matched": "11 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "16 River St": {
+  "lon": -73.193016,
+  "lat": 44.492862,
+  "matched": "16 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "16 1/2 River St": {
+  "lon": -73.193016,
+  "lat": 44.492862,
+  "matched": "16 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact",
+  "note": "placed at 16"
+ },
+ "20 River St": {
+  "lon": -73.193156,
+  "lat": 44.492758,
+  "matched": "20 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "28 River St": {
+  "lon": -73.19349,
+  "lat": 44.49264,
+  "matched": "28 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "46 River St": {
+  "lon": -73.19409,
+  "lat": 44.49235,
+  "matched": "46 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "44 1/2 River St": {
+  "lon": -73.194017,
+  "lat": 44.492525,
+  "matched": "44 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 44"
+ },
+ "54 River St": {
+  "lon": -73.19426,
+  "lat": 44.49224,
+  "matched": "54 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "58 River St": {
+  "lon": -73.19444,
+  "lat": 44.49217,
+  "matched": "58 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "72 River St": {
+  "lon": -73.19471,
+  "lat": 44.49198,
+  "matched": "72 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "74 River St": {
+  "lon": -73.19484,
+  "lat": 44.491894,
+  "matched": "74 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "80 River St": {
+  "lon": -73.19507,
+  "lat": 44.49184,
+  "matched": "80 River Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "83 Weaver St": {
+  "lon": -73.188023,
+  "lat": 44.492405,
+  "matched": "83 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "77 Weaver St": {
+  "lon": -73.186597,
+  "lat": 44.497076,
+  "matched": "77 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "69 Weaver St": {
+  "lon": -73.186601,
+  "lat": 44.497068,
+  "matched": "69 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "59 Weaver St": {
+  "lon": -73.186606,
+  "lat": 44.497058,
+  "matched": "59 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "51 Weaver St": {
+  "lon": -73.186611,
+  "lat": 44.49705,
+  "matched": "51 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "8½ Weaver St": {
+  "lon": -73.186615,
+  "lat": 44.497042,
+  "matched": "8 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium",
+  "note": "placed at 8"
+ },
+ "8 Weaver St": {
+  "lon": -73.186615,
+  "lat": 44.497042,
+  "matched": "8 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "93 Weaver St": {
+  "lon": -73.187805,
+  "lat": 44.492643,
+  "matched": "93 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "21 Clifford St": {
+  "lon": -73.19614,
+  "lat": 44.49225,
+  "matched": "21 Clifford Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "26 Clifford St": {
+  "lon": -73.19649,
+  "lat": 44.49221,
+  "matched": "26 Clifford Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "16 Clifford St": {
+  "lon": -73.19631,
+  "lat": 44.492,
+  "matched": "16 Clifford Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "106 Clifford St": null,
+ "15 Forest St": {
+  "lon": -73.19516,
+  "lat": 44.492525,
+  "matched": "15 Forest Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "30 Forest St": {
+  "lon": -73.195927,
+  "lat": 44.492688,
+  "matched": "30 Forest Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ },
+ "104 Spring St": {
+  "lon": -73.19052,
+  "lat": 44.49498,
+  "matched": "104 West Spring Street, Winooski, Vermont 05404, United States",
+  "confidence": "high"
+ },
+ "16 East St": {
+  "lon": -73.182091,
+  "lat": 44.491967,
+  "matched": "16 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "10 East St": {
+  "lon": -73.182486,
+  "lat": 44.492122,
+  "matched": "10 East Street, Winooski, Vermont 05404, United States",
+  "confidence": "exact"
+ }
+}

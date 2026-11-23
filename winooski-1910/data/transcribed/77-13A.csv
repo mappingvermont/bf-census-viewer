@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-13A.jpg,77,13A,1,Spring,79,212,212,Fortin,Joseph,Head,M,W,24,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,English,Engineer,Screw Works,W,No,0,Yes,Yes,,R,,H,,,,,1,naturalization entry struck out (possibly Al); street may be read as Spring Street
+77-13A.jpg,77,13A,2,Spring,,,,,Cecilia,Wife,F,W,25,M1,3,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Ceilia
+77-13A.jpg,77,13A,3,Spring,,,,,Blanzelle,Daughter,F,W,1/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,given reading uncertain; age may be 1 2/12
+77-13A.jpg,77,13A,4,Spring,,,,Couillard,Ester,Head,F,W,60,Wd,,9,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,None,,,,,No,No,,R,,H,,,,,1,no dwelling/family number written; surname may be Conillard
+77-13A.jpg,77,13A,5,Spring,,,,,Adele,Daughter,F,W,26,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,Weaver,Woolen mills,W,No,2,Yes,Yes,,,,,,,,,1,given may be Adelle
+77-13A.jpg,77,13A,6,Spring,,,,,Albert,Son,M,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,English,Weaver,Woolen mills,W,No,4,Yes,Yes,Yes,,,,,,,,1,school Yes appears written; literacy entries overwritten
+77-13A.jpg,77,13A,7,Spring,,,,,Mary,Daughter,F,W,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,8,Spring,,,,,John,Son,M,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-13A.jpg,77,13A,9,Spring,78,213,213,Lavalley,Joseph,Head,M,W,49,M1,25,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,Na,English,Mason,House,W,No,12,Yes,Yes,,O,F,H,,,,,1,surname may be Lavally
+77-13A.jpg,77,13A,10,Spring,,,,,Anna,Wife,F,W,49,M1,25,3,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,11,Spring,,,,,Magaritte,Daughter,F,W,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Margaritte
+77-13A.jpg,77,13A,12,Spring,,,,,Joseph,Adopted son,M,W,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-13A.jpg,77,13A,13,Spring,63,214,214,Giffen,Mary Mrs,Head,F,W,74,Wd,,11,4,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname may be Gifford or Giffin
+77-13A.jpg,77,13A,14,Spring,,,,,Irene,Grandchild,F,W,20,S,,,,Massachusetts,Vermont,New York,,,,,,English,Sales lady,Dry goods store,W,No,12,Yes,Yes,Yes,,,,,,,,1,school Yes as written; given may be Irene or Irchie
+77-13A.jpg,77,13A,15,Spring,56 1/2,215,215,Couillard,Maurice,Head,M,W,28,M1,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,Al,French,Weaver,Woolen mill,W,No,4,Yes,Yes,,R,,H,,,,,1,surname may be Crullard; years married blank
+77-13A.jpg,77,13A,16,Spring,,,,,Lea,Wife,F,W,25,M1,2,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1900,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,17,Spring,,,,,Armand,Son,M,W,2/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,age fraction unclear (may be 1 2/12)
+77-13A.jpg,77,13A,18,Spring,77,216,216,Demarais,Theophile,Head,M,W,67,M1,48,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,English,Laborer,Woolen mills,W,No,2,No,No,,R,,H,,,,,1,surname may be Desmarais
+77-13A.jpg,77,13A,19,Spring,,,,,Mary,Wife,F,W,62,M1,48,12,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,,,,,,,,,1,age may be 65
+77-13A.jpg,77,13A,20,Spring,,,,,Peter,Son,M,W,23,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,French,Laborer,Screw shop,W,No,6,Yes,Yes,,,,,,,,,1,industry may be Saw shop
+77-13A.jpg,77,13A,21,Spring,,,,,Delia,Daughter,F,W,25,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Spooler,Woolen mills,W,No,4,Yes,Yes,,,,,,,,,1,given may be Aelia
+77-13A.jpg,77,13A,22,Spring,,,,,Emma,Daughter-in-law,F,W,22,M1,3,2,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,23,Spring,,,,,Ida,Granddaughter,M,W,1/2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,,,,,,,,,,,1,sex written M for granddaughter; age may be 1 1/2 or 1/12
+77-13A.jpg,77,13A,24,Spring,89,217,217,Boucher,Ernest,Head,M,W,22,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,Al,French,Laborer,Screw Works,W,No,2,Yes,Yes,,R,,H,,,,,0,
+77-13A.jpg,77,13A,25,Spring,,,,,Angelina,Wife,F,W,30,M1,3,1,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,26,Spring,95,218,218,Freeman,Edward,Head,M,W,45,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Wood yard,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+77-13A.jpg,77,13A,27,Spring,,,,,Joseph,Brother,M,W,41,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,28,Spring,,,,,Margarette,Sister,F,W,61,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Marguerite; age may be 65
+77-13A.jpg,77,13A,29,Spring,107,219,219,Babeau,Frank,Head,M,W,57,M1,33,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1857,Na,English,Laborer,Screw Works,W,No,2,Yes,Yes,,O,F,H,,,,,0,
+77-13A.jpg,77,13A,30,Spring,,,,,Meranda,Wife,F,W,57,M1,33,8,7,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Miranda
+77-13A.jpg,77,13A,31,Spring,,,,,Napoleon,Son,M,W,22,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Tucker,Screw Works,W,No,2,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,32,Spring,,,,,Arthur,Son,M,W,16,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Tucker,Screw Works,W,No,2,Yes,Yes,Yes,,,,,,,,0,
+77-13A.jpg,77,13A,33,Spring,,,,,Blanche,Daughter,F,W,13,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-13A.jpg,77,13A,34,Spring,10,220,220,Babeau,Louis,Head,M,W,63,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1851,Na,French,Foreman,Lumber yard,W,No,0,Yes,Yes,,O,F,H,,,,,1,house number may be 110 (out of sequence); surname may be Bobeau
+77-13A.jpg,77,13A,35,Spring,115,221,221,Currier,Liza,Head,F,W,54,Wd,,8,8,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,R,,H,,,,,0,
+77-13A.jpg,77,13A,36,Spring,,,,,Josephine,Daughter,F,W,30,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Weaver,Woolen mills,W,No,3,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,37,Spring,,,,,Frank,Son,M,W,28,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Proprietor,Pool room,Emp,,,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,38,Spring,,,,,Stella,Daughter,F,W,26,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Weaver,Woolen mills,W,No,3,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,39,Spring,,,,,Arthur,Son,M,W,24,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Weaver,Woolen mills,W,No,1,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,40,Spring,,,,,George,Son,M,W,22,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Painter,House,W,No,9,Yes,Yes,,,,,,,,,0,
+77-13A.jpg,77,13A,41,Spring,,,,,Georgianna,Daughter,F,W,22,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Spooler,Woolen mill,W,No,0,Yes,Yes,,,,,,,,,1,age may be 21
+77-13A.jpg,77,13A,42,Spring,,,,,Louis,Son,M,W,20,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Mill hand,Woolen mills,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-13A.jpg,77,13A,43,Spring,,,,,Agnes,Daughter,F,W,18,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-13A.jpg,77,13A,44,Spring,121,222,222,Fortin,Allard,Head,M,W,34,M1,10,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Na,English,Carpenter,House,W,No,4,Yes,Yes,,R,,H,,,,,1,given may be Alfred
+77-13A.jpg,77,13A,45,Spring,,,,,Madeline,Wife,F,W,29,M1,10,3,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Fredeline
+77-13A.jpg,77,13A,46,Spring,,,,,Frederick,Son,M,W,7,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-13A.jpg,77,13A,47,Spring,,,,,Exilda,Daughter,F,W,5,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,Yes,,,,,,,,1,given may be Eilda
+77-13A.jpg,77,13A,48,Spring,,,,,Edwina,Daughter,F,W,7/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,French,None,,,,,,,,,,,,,,,1,given unclear (Edwin?); age fraction unclear
+77-13A.jpg,77,13A,49,Spring,,,,,Joseph,Father,M,W,67,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1891,Na,French,Laborer,Screw Works,W,No,6,Yes,Yes,,,,,,,,,0,

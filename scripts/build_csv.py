@@ -78,6 +78,13 @@ COUNTRIES = {
     "England (Scotland)": ("Scotland", "🏴󠁧󠁢󠁳󠁣󠁴󠁿"),
     "Bermuda (Eng)": ("Bermuda", "🇧🇲"),
     "India": ("India", "🇮🇳"),
+    # 1910 forms. "Turkey in Asia" is how the 1910 census recorded Syrians and Lebanese.
+    "Turkey in Asia": ("Syria", "🇸🇾"),
+    "Turkey in Europe": ("Turkey", "🇹🇷"),
+    "Philippine Islands": ("Philippines", "🇵🇭"),
+    "Porto Rico": ("Puerto Rico", "🇵🇷"),
+    "West Indies": ("West Indies", ""),
+    "Pittsfield": ("United States", "🇺🇸"),  # town written without a state (Vermont or Massachusetts)
     "America": ("United States", "🇺🇸"),
     "Washington D.C.": ("United States", "🇺🇸"),
     "At sea (Am. Cit.)": ("United States", "🇺🇸"),

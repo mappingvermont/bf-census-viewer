@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-11A.jpg,76,11A,1,East Allen,34,157,182,Dubuc,Cecile,Daughter,F,W,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,No,,,,,,,,1,marked continued from p. 10; dwelling/family numbers overwritten with check marks (157/182 read); street read as East Allen from vertical column; given may be Cecil; school may be blank
+76-11A.jpg,76,11A,2,East Allen,41,158,183,Pariseau,Thomas,Head,M,W,51,M1,32,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Butcher,Slaughter house,Emp,No,0,No,No,,O,F,H,,,,,1,surname corrected and unclear (Parizo?); employer class Emp written over OA
+76-11A.jpg,76,11A,3,East Allen,,,,,Anna,Wife,F,W,46,M1,32,7,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1885,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,4,East Allen,,,,,Aughtung,Son,M,W,25,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Butcher,Slaughter house,W,No,0,No,No,,,,,,,,,1,given name unclear
+76-11A.jpg,76,11A,5,East Allen,,,,,Arthur,Son,M,W,24,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Butcher,Slaughter house,W,No,0,No,No,,,,,,,,,0,
+76-11A.jpg,76,11A,6,East Allen,,,,,Georgina,Daughter,F,W,23,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,7,East Allen,,,,,Harry,Son,M,W,20,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Harvey
+76-11A.jpg,76,11A,8,East Allen,,,,,Ernest,Son,M,W,14,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-11A.jpg,76,11A,9,East Allen,41,158,184,Davis,Albert,Lodger,M,W,64,M1,41,,,New Hampshire,New Hampshire,New Hampshire,,,,,,English,Mason,Brick,W,No,0,Yes,Yes,,,,,,,,,1,house/dwelling/family numbers appear struck through; relation has added marks (may be Head)
+76-11A.jpg,76,11A,10,East Allen,,,,,Ella F.,Lodger,F,W,60,M1,41,4,4,New Hampshire,New Hampshire,New Hampshire,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,11,East Allen,33,159,185,Hill,Agmon S.,Head,M,W,34,M1,11,,,Vermont,Vermont,Vermont,,,,,,English,Doctor,Medical,OA,No,0,Yes,Yes,,O,F,H,,,,,1,given may be Aymer
+76-11A.jpg,76,11A,12,East Allen,,,,,Adeline,Wife,F,W,36,M1,11,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,13,East Allen,,,,,Agmon Jr.,Son,M,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Aymer Jr.
+76-11A.jpg,76,11A,14,East Allen,,,,Cronin,Joseph,Lodger,M,W,31,S,,,,Massachusetts,Maryland,Massachusetts,,,,,,English,Overseer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,15,East Allen,,,,,John,Lodger,M,W,29,S,,,,Massachusetts,Maryland,Massachusetts,,,,,,English,Overseer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,16,East Allen,,,,Hatch,William,Lodger,M,W,28,M1,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,English,Clerk,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,17,East Allen,,,,McKenney,Guy,Lodger,M,W,25,S,,,,Vermont,Vermont,Vermont,,,,,,English,Clerk,Screen shop,W,No,0,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,18,East Allen,,,,Moriarity,John,Lodger,M,W,26,S,,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,19,East Allen,,,,Mossey,James,Lodger,M,W,26,S,,,,Vermont,Vermont,Vermont,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Morey; age overwritten (26 or 28)
+76-11A.jpg,76,11A,20,East Allen,,,,Bracovinie,Willie,Lodger,M,W,21,S,,,,Vermont,New York,New York,,,,,,English,Laborer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname unclear
+76-11A.jpg,76,11A,21,East Allen,,,,Best,Albert,Lodger,M,W,20,S,,,,Canada (Fr),England,Canada (Fr),French,English,French,1896,,English,Driver,For doctor,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-11A.jpg,76,11A,22,East Allen,,,,Morgan,Julia,Mother-in-law,F,W,65,Wd,,4,4,Vermont,Canada (Fr),Vermont,,French,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,23,East Allen,37,160,186,Sheehan,Jeremiah,Head,M,W,43,S,,,,New York,Ireland,Ireland,,Irish,Irish,,,English,Physician,Medical,OA,No,0,Yes,Yes,,R,,H,,,,,1,house number may be 77
+76-11A.jpg,76,11A,24,East Allen,37,160,187,Countermarsh,Francis,Head,M,W,34,M1,14,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Mail carrier,U.S. Government,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten (160 or 166); house number faint; surname unclear
+76-11A.jpg,76,11A,25,East Allen,,,,,Cecilia,Wife,F,W,38,M1,14,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,26,East Allen,,,,,Wilhelmina,Daughter,F,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-11A.jpg,76,11A,27,East Allen,,,,,Gertrude,Daughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+76-11A.jpg,76,11A,28,East Allen,37,161,188,Finsenmeir,F. Louis,Head,M,W,37,M1,6,,,Germany,Germany,Germany,German,German,German,1897,Na,English,Saloonkeeper,Saloon,Emp,No,0,Yes,Yes,,O,F,H,,,,,1,surname unclear; house number may be 32
+76-11A.jpg,76,11A,29,East Allen,,,,,Louise,Wife,F,W,29,M1,6,2,2,Vermont,Vermont,Ireland,,,Irish,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,30,East Allen,,,,,Smith,Son,M,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,mother birthplace corrected from Ireland to Vermont; bracketed with line 31 (twins)
+76-11A.jpg,76,11A,31,East Allen,,,,,Reginald,Son,M,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,mother birthplace corrected from Ireland to Vermont
+76-11A.jpg,76,11A,32,East Allen,,,,Smith,Daniel,Father-in-law,M,W,60,M1,32,,,Vermont,Vermont,Vermont,,,,,,English,Bartender,Saloon,W,No,0,Yes,Yes,Yes,,,,,,,,1,given name unclear
+76-11A.jpg,76,11A,33,East Allen,,,,,Mary,Mother-in-law,F,W,57,M1,32,4,2,Ireland,Ireland,Ireland,Irish,Irish,Irish,1870,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,34,East Allen,36,162,189,Bailey,Henry A.,Head,M,W,57,M2,25,,,Vermont,Vermont,Vermont,,,,,,English,Ice dealer,Outside,OA,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-11A.jpg,76,11A,35,East Allen,,,,,Emma,Wife,F,W,52,M1,25,2,2,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,36,East Allen,,,,,Harry,Son,M,W,22,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-11A.jpg,76,11A,37,East Allen,,,,,H. Albon,Son,M,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+76-11A.jpg,76,11A,38,East Allen,,,,Muzzy,Mary,Lodger,F,W,70,Wd,,,,Vermont,Ireland,Canada (Fr),,Irish,French,,,English,Nurse,Outside,OA,No,0,Yes,Yes,,,,,,,,,1,father birthplace written only as Irish
+76-11A.jpg,76,11A,39,East Allen,36,163,190,Lafountain,Celia,Lodger,F,W,50,D,,,,New York,Canada (Fr),Canada (Fr),,French,French,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,dwelling and family numbers overwritten/scribbled; relation may be Head
+76-11A.jpg,76,11A,40,East Allen,,,,,Irene,Lodger,F,W,21,S,,,,New York,New York,New York,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,41,East Allen,,,,,Albert,Lodger,M,W,10,S,,,,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-11A.jpg,76,11A,42,East Allen,36,164,191,Sprout,Frank,Head,M,W,25,M1,1,,,West Virginia,Ohio,West Virginia,,,,,,English,Teamster,Fort Ethan Allen,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number unclear (164?); surname unclear
+76-11A.jpg,76,11A,43,East Allen,,,,,Hattie,Wife,F,W,18,M1,1,1,1,Vermont,Massachusetts,Maine,,,,,,English,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-11A.jpg,76,11A,44,East Allen,,,,,Annie,Daughter,F,W,7/12,S,,,,Vermont,West Virginia,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+76-11A.jpg,76,11A,45,East Allen,36,165,192,Allaire,Celia,Head,F,W,38,Wd,,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,French,Sewing,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten (165?)
+76-11A.jpg,76,11A,46,East Allen,36,166,193,Sylvestre,Alfred,Head,M,W,33,M1,11,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,Al,French,Picker,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten (166?); surname unclear
+76-11A.jpg,76,11A,47,East Allen,,,,,Julia,Wife,F,W,28,M1,11,4,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1870,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-11A.jpg,76,11A,48,East Allen,,,,,Laura,Daughter,F,W,7,S,,,,Minnesota,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-11A.jpg,76,11A,49,East Allen,,,,,Arthur,Son,M,W,5,S,,,,Minnesota,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,No,No,No,,,,,,,,0,
+76-11A.jpg,76,11A,50,East Allen,,,,,Thelma,Daughter,F,W,3,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,,,,,,,,,,,1,immigration year 1907 written over 1896

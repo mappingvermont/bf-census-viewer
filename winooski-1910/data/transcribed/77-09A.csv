@@ -1,0 +1,47 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-09A.jpg,77,09A,1,Hall,10,152,152,Hall,Frank,Head,M,W,43,M1,15,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Mason,Job,W,No,6,Yes,Yes,,,,,,,,,1,street written once (Hall St) alongside lines 5-11 and applied to whole page; ownership columns hold only office code marks
+77-09A.jpg,77,09A,2,Hall,,,,,Emma,Wife,F,W,34,M1,15,9,8,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-09A.jpg,77,09A,3,Hall,,,,,Oswald,Son,M,W,13,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name faint; age unclear
+77-09A.jpg,77,09A,4,Hall,,,,,Olive,Daughter,F,W,11,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,5,Hall,,,,,Joseph,Son,M,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,6,Hall,,,,,Herman,Son,M,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,7,Hall,,,,,Constance,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,8,Hall,,,,,Vital,Son,M,W,5,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-09A.jpg,77,09A,9,Hall,,,,,Gracy,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,given name unclear (Grace? Ignacy?)
+77-09A.jpg,77,09A,10,Hall,,,,,Leopold,Son,M,W,7/12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-09A.jpg,77,09A,11,Hall,,,,Hall,Julie,Mother,F,W,63,Wd,,10,7,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1872,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Julia; age may be 65
+77-09A.jpg,77,09A,12,Hall,18,153,153,Sweeney,Dennis,Head,M,W,50,M2,,,,Ireland,Ireland,Ireland,English,English,English,1883,,English,Laborer,Odd jobs,W,No,0,Yes,Yes,,R,,,,,,,1,surname and given unclear; birthplace written Ire English; age/marital unclear
+77-09A.jpg,77,09A,13,Hall,,,,,Emma,Wife,F,W,29,M2,10,1,1,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,age may be 39; years married unclear
+77-09A.jpg,77,09A,14,Hall,,,,Ladd,Oliver,Stepson,M,W,18,S,,,,New York,New York,New York,,,,,,English,Blacksmith,Shop,W,Yes,20,Yes,Yes,No,,,,,,,,0,
+77-09A.jpg,77,09A,15,Hall,17,154,154,Carriveau,Isadore,Head,M,W,43,M1,23,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,English,Laborer,Woolen mills,W,No,16,Yes,Yes,,R,,,,,,,0,
+77-09A.jpg,77,09A,16,Hall,,,,,Aldina,Wife,F,W,41,M1,23,13,11,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Adinas
+77-09A.jpg,77,09A,17,Hall,,,,,Delphine,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Spooler,Woolen mills,W,No,2,Yes,Yes,No,,,,,,,,1,extra word (Beatr...?) written before given name
+77-09A.jpg,77,09A,18,Hall,,,,,Joseph,Son,M,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Laborer,Woolen mills,W,No,16,Yes,Yes,No,,,,,,,,1,age unclear; weeks unemployed unclear
+77-09A.jpg,77,09A,19,Hall,,,,,Claude,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,Laborer,Screen shop,W,No,2,Yes,Yes,No,,,,,,,,1,given name unclear
+77-09A.jpg,77,09A,20,Hall,,,,,Olivina,Son,M,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear (Olivier?)
+77-09A.jpg,77,09A,21,Hall,,,,,Delore,Son,M,W,10,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1904,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear; immigration year may be 1906; age unclear
+77-09A.jpg,77,09A,22,Hall,,,,,René,Son,M,W,8,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,23,Hall,,,,,Sibina,Daughter,F,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear; age overwritten
+77-09A.jpg,77,09A,24,Hall,,,,,Cecile,Daughter,F,W,4,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,None,,,,,,,,,,,,,,,1,given name unclear; immigration year may be 1904
+77-09A.jpg,77,09A,25,Hall,,,,,Leo,Son,M,W,7/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+77-09A.jpg,77,09A,26,Hall,2,155,155,Clavell,Alfred,Head,M,W,39,M1,13,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,English,Crater,Screen shop,W,No,6,Yes,Yes,,R,,,,,,,1,surname may be Flavell
+77-09A.jpg,77,09A,27,Hall,,,,,Ordelia,Wife,F,W,39,M1,13,5,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+77-09A.jpg,77,09A,28,Hall,,,,,Adelard,Son,M,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Abelard
+77-09A.jpg,77,09A,29,Hall,,,,,Arthur,Son,M,W,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,30,Hall,,,,,Alfred,Son,M,W,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,31,Hall,2,156,156,André,Marguerite Mrs,Head,F,W,38,Wd,,2,2,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,R,,,,,,,1,given name unclear; dwelling number unclear
+77-09A.jpg,77,09A,32,Hall,,,,,Rita,Daughter,F,W,5,S,,,,Connecticut,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,33,Hall,,,,,Arthur,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,
+77-09A.jpg,77,09A,34,Hall,,,,Dennis,Frank,Head,M,W,33,M1,8,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Carpenter,House,W,No,2,Yes,Yes,,R,,,,,,,1,dwelling and family columns hold check marks instead of numbers
+77-09A.jpg,77,09A,35,Hall,,,,,Matilda,Daughter,F,W,30,M1,8,3,3,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,relation looks like Daughter though probably wife
+77-09A.jpg,77,09A,36,Hall,,,,,Minnie,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,1,given may be Mimi
+77-09A.jpg,77,09A,37,Hall,,,,,Clara,Daughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-09A.jpg,77,09A,38,Hall,,,,,Anna,Daughter,F,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,,,,,,,,,0,
+77-09A.jpg,77,09A,39,Hall,18,158,158,Stuart,Joseph,Head,M,W,47,M1,27,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1865,,English,Laborer,Village,W,Yes,30,Yes,Yes,,R,,,,,,,1,house number may be 28; dwelling/family may be 157; surname unclear; age unclear
+77-09A.jpg,77,09A,40,Hall,,,,,Melia,Wife,F,W,47,M1,27,12,5,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Malia
+77-09A.jpg,77,09A,41,Hall,,,,,Arthur,Son,M,W,19,S,,,,Massachusetts,Canada (Fr),New York,,French,,,,English,Laborer,Odd jobs,W,Yes,30,Yes,Yes,,,,,,,,,0,
+77-09A.jpg,77,09A,42,Hall,,,,,Liza,Daughter,F,W,18,S,,,,Massachusetts,Canada (Fr),New York,,French,,,,English,Weaver,Woolen mills,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+77-09A.jpg,77,09A,43,Hall,,,,,Alfred,Son,M,W,14,S,,,,Massachusetts,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,44,Hall,,,,,Mary,Daughter,F,W,12,S,,,,Massachusetts,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-09A.jpg,77,09A,45,Hall,,,,,Ethel,Daughter,M,W,10,S,,,,Vermont,Canada (Fr),New York,,French,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,sex written M for a daughter; relation overwritten; age unclear
+77-09A.jpg,77,09A,46,Hall,209,159,159,Slopard,Mary,Head,F,W,45,S,,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Woolen mills,W,No,6,Yes,Yes,,,,,,,,,1,surname may be Shepard; dwelling/family may be 164; ownership columns hold only code marks; weeks unemployed unclear

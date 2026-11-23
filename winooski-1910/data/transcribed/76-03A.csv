@@ -1,0 +1,50 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-03A.jpg,76,03A,1,East,11,38,41,Markham,Michael,Head,M,W,38,M1,8,,,Massachusetts,England,England,,English,English,,,English,Engineer,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,1,street name in vertical column read as East Street (could be another name); surname may be Marksham; father birthplace has a letter before England (possibly New England)
+76-03A.jpg,76,03A,2,East,,,,,Elizabeth,Wife,F,W,35,M1,8,1,1,Massachusetts,Massachusetts,Massachusetts,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,3,East,,,,,Francis,Son,M,W,1 4/12,S,,,,Vermont,Massachusetts,Massachusetts,,,,,,,None,,,,,,,,,,,,,,,1,age written like 1 4/12 (could be 1 1/2)
+76-03A.jpg,76,03A,4,East,19,39,42,Chavey,Charles H.,Head,M,W,43,M1,20,,,Michigan,Michigan,Michigan,,,,,,English,Superintendent,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-03A.jpg,76,03A,5,East,,,,,Minnie,Wife,F,W,41,M1,20,1,1,Michigan,Ohio,Ohio,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,6,East,,,,,Iva,Daughter,F,W,11,S,,,,Arkansas,Michigan,Michigan,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Iova or Isoa
+76-03A.jpg,76,03A,8,East,25,40,43,Southworth,Eugene,Head,M,W,58,M1,39,,,New York,New York,New York,,,,,,English,Superintendent,Screen shop,W,No,0,Yes,Yes,,R,,H,,,,,0,line 7 left blank
+76-03A.jpg,76,03A,9,East,,,,,Cornelia,Wife,F,W,58,M1,39,1,1,Michigan,Michigan,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,10,East,,,,Durand,Minnie,Lodger,F,W,49,Wd,,,,Pennsylvania,New York,Pennsylvania,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,11,East,,,,Shipman,Charles,Lodger,M,W,57,Wd,,,,Vermont,Illinois,Vermont,,,,,,English,Clerk,Hardware store,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Shifman
+76-03A.jpg,76,03A,12,East,33,41,44,Wardwell,Charles,Head,M,W,45,S,,,,New York,Vermont,New York,,,,,,English,Policeman,Village,W,No,0,Yes,Yes,,O,M,H,,,,,0,
+76-03A.jpg,76,03A,13,East,35,42,45,Mead,Alfred,Head,M,W,38,M1,14,,,Vermont,Vermont,New York,,,,,,English,Machinist,Machine shop,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-03A.jpg,76,03A,14,East,,,,,Nellie,Wife,F,W,37,M1,14,2,1,New York,Michigan,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,15,East,,,,,Doris,Daughter,F,W,9,,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,,,,,,,,,,,1,marital status not written
+76-03A.jpg,76,03A,16,East,,,,Perkins,Bryan,Lodger,M,W,54,M1,27,4,4,Rhode Island,Rhode Island,Rhode Island,,,,,,English,Loomfixer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,children born/living 4 4 written on male lodger's row
+76-03A.jpg,76,03A,17,East,,,,Mead,Oscar,Lodger,M,W,18,S,,,,New York,Vermont,New York,,,,,,English,Laborer,Outside,W,,,Yes,Yes,No,,,,,,,,0,
+76-03A.jpg,76,03A,18,East,37,43,46,Rennie,Octavius,Head,M,W,57,M1,34,,,Vermont,Vermont,Vermont,,,,,,English,Overseer,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-03A.jpg,76,03A,19,East,,,,,Emily,Wife,F,W,55,M1,34,4,2,New York,New York,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,20,East,41,44,47,Homeister,Samuel,Head,M,W,65,M1,33,,,Hungary,Hungary,Hungary,German,German,German,1883,Na,German,None,,,,,Yes,Yes,,O,M,H,,,,,1,surname reading uncertain (Hornister?); birthplace Germany struck and Hungary written
+76-03A.jpg,76,03A,21,East,,,,,Emilia,Wife,F,W,54,M1,33,8,7,Hungary,Hungary,Hungary,German,German,German,1883,,German,None,,,,,Yes,Yes,,,,,,,,,1,birthplace Germany struck and Hungary written
+76-03A.jpg,76,03A,22,East,,,,,Henry,Son,M,W,24,S,,,,Vermont,Hungary,Hungary,,German,German,,,English,Loomfixer,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,23,East,,,,,Ella,Daughter,F,W,20,S,,,,Vermont,Hungary,Hungary,,German,German,,,English,Sewing,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-03A.jpg,76,03A,24,East,,,,,Emilia,Daughter,F,W,18,S,,,,Vermont,Hungary,Hungary,,German,German,,,English,Sewing,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-03A.jpg,76,03A,25,East,,,,,Harry,Son,M,W,11,S,,,,Vermont,Hungary,Hungary,,German,German,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-03A.jpg,76,03A,26,East,51,45,48,Pollinger,Mary,Head,F,W,50,S,,,,Vermont,Germany,Germany,,German,German,,,English,Weaver,Mill,W,No,10,Yes,Yes,,O,M,H,,,,,0,
+76-03A.jpg,76,03A,27,East,,,,Gunther,Paul,Brother-in-law,M,W,32,M1,8,,,Germany,Germany,Germany,German,German,German,1890,Na,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Guniter
+76-03A.jpg,76,03A,28,East,,,,,Minnie,Sister,F,W,32,M1,8,1,1,Vermont,Germany,Germany,,German,German,,,English,None,,,,,Yes,Yes,,,,,,,,,1,relation Sister struck/overwritten
+76-03A.jpg,76,03A,29,East,,,,,Paul Jr.,Nephew,M,W,2,S,,,,Vermont,Germany,Vermont,,German,,,,English,None,,,,,,,,,,,,,,,1,relation overwritten
+76-03A.jpg,76,03A,30,East,59,46,49,Valmaire,George,Head,M,W,57,M1,31,,,Vermont,Canada (Fr),New York,,French,,,,English,Mason,Bricks,W,No,20,Yes,Yes,,O,M,H,,,,,1,surname may be Velmaire; house number may be 54
+76-03A.jpg,76,03A,31,East,,,,,Edwidge,Wife,F,W,54,M1,31,10,3,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,32,East,,,,,Wilfrid,Son,M,W,21,S,,,,Vermont,Vermont,New York,,,,,,English,Clerk,Drug store,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-03A.jpg,76,03A,33,East,,,,,Charles,Son,M,W,15,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-03A.jpg,76,03A,34,East,,,,,Isabelle,Daughter,M,W,10,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,sex written M for a daughter (likely error for F)
+76-03A.jpg,76,03A,35,East,22,47,50,Pollinger,George,Head,M,W,34,M1,12,,,Vermont,Germany,Germany,,German,German,,,English,Machinist,Machine shop,W,No,0,Yes,Yes,,R,,H,,,,,1,house number 22 has a mark above (could be another number)
+76-03A.jpg,76,03A,36,East,,,,,Lydia,Wife,F,W,32,M1,12,4,4,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,37,East,,,,,Charles,Son,M,W,9,S,,,,Massachusetts,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-03A.jpg,76,03A,38,East,,,,,Robert,Son,M,W,7,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-03A.jpg,76,03A,39,East,,,,,Gladys,Daughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+76-03A.jpg,76,03A,40,East,,,,,George Jr.,Son,M,W,3,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,,,,,,,,,,,0,
+76-03A.jpg,76,03A,41,East,,,,Brooks,Delia,Lodger,F,W,28,S,,,,Vermont,Vermont,Vermont,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-03A.jpg,76,03A,42,Spring,24,48,51,Chambers,William,Head,M,W,48,M1,19,,,Canada (Eng),Scotland,England,English,Scotch,English,1891,Na,English,Own income,,,,,Yes,Yes,,O,M,H,,,,,1,immigration year may be 1881
+76-03A.jpg,76,03A,43,Spring,,,,,Elizabeth,Wife,F,W,39,M1,19,2,2,Canada (Eng),Vermont,Canada,English,,Scotch,1890,,English,None,,,,,Yes,Yes,,,,,,,,,1,mother tongue small writing may be Scotch or French
+76-03A.jpg,76,03A,44,Spring,,,,,Harriet,Daughter,F,W,18,S,,,,Vermont,Canada (Eng),Canada (Eng),,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,parents' birthplace entries overwritten (French struck)
+76-03A.jpg,76,03A,45,Spring,,,,,Robert,Son,M,W,16,S,,,,Vermont,Canada (Eng),Canada (Eng),,English,English,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,parents' birthplace entries overwritten (French struck)
+76-03A.jpg,76,03A,46,Spring,,,,Wardwell,Lorenzo,Father-in-law,M,W,68,M1,50,,,Vermont,Massachusetts,Massachusetts,,,,,,English,Machinist,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given may be Lorenz
+76-03A.jpg,76,03A,47,Spring,,,,,Marcella,Mother-in-law,F,W,64,M1,50,5,2,Canada,Scotland,Scotland,Scotch,Scotch,Scotch,1885,,English,None,,,,,Yes,Yes,,,,,,,,,1,birthplace tongue French struck and Scotch written
+76-03A.jpg,76,03A,48,Spring,,,,,Jennie,Daughter,F,W,32,S,,,,Vermont,Vermont,Canada,,,Scotch,,,English,Bookkeeper,Mill,W,No,0,Yes,Yes,,,,,,,,,1,mother tongue French struck and Scotch written
+76-03A.jpg,76,03A,49,Spring,16,49,52,Buckley,Thomas,Head,M,W,33,M1,7,,,Vermont,Ireland,Ireland,,Irish,Irish,,,English,Foreman,Mill,W,No,0,Yes,Yes,,R,,H,,,,,0,
+76-03A.jpg,76,03A,50,Spring,,,,,Anna,Wife,F,W,33,M1,7,0,0,England,Ireland,Ireland,English,Irish,Irish,1897,,English,None,,,,,Yes,Yes,,,,,,,,,1,birthplace Irish struck and England English written; immigration year may be 1892

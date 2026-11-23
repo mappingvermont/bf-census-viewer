@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-20A.jpg,77,20A,1,Hickok,68,326,326,Langlais,Ferdinand,Head,M,W,42,M1,20,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,French,Laborer,Woolen mill,W,No,24,Yes,Yes,,R,,H,,,,,0,
+77-20A.jpg,77,20A,2,Hickok,,,,,Philomene,Wife,F,W,39,M1,20,11,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Philomen
+77-20A.jpg,77,20A,3,Hickok,,,,,George,Son,M,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,English,Weaver,Woolen mill,W,No,24,Yes,Yes,No,,,,,,,,0,
+77-20A.jpg,77,20A,4,Hickok,,,,,Eva,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,Spooler,Woolen mill,W,No,12,Yes,Yes,No,,,,,,,,1,weeks unemployed may be 10
+77-20A.jpg,77,20A,5,Hickok,,,,,Levere,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,Laborer,Screen shop,W,No,,Yes,Yes,Yes,,,,,,,,1,given may be Severe
+77-20A.jpg,77,20A,6,Hickok,,,,,Frederick,Son,M,W,11,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20A.jpg,77,20A,7,Hickok,,,,,Rochile,Son,M,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Achille
+77-20A.jpg,77,20A,8,Hickok,,,,,Jeanne,Daughter,F,W,7,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20A.jpg,77,20A,9,Hickok,,,,,Maurice,Son,M,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,French,None,,,,,,,Yes,,,,,,,,0,
+77-20A.jpg,77,20A,10,Hickok,,,,,Juliette,Daughter,F,W,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,0,
+77-20A.jpg,77,20A,11,Hickok,,,,,Alma,Daughter,F,W,1/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,age unclear (may be 1 4/12); given may be Alice
+77-20A.jpg,77,20A,12,Hickok,,327,327,Couture,Joseph,Head,M,W,56,M1,25,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,Al,English,Watchman,Woolen mill,W,No,0,No,No,,R,,H,,,,,0,
+77-20A.jpg,77,20A,13,Hickok,,,,,Mary,Wife,F,W,49,M1,25,9,6,Vermont,Canada (Fr),Canada (Fr),,French,French,1903,,English,None,,,,,Yes,Yes,,,,,,,,,0,immigration year written though born Vermont
+77-20A.jpg,77,20A,14,Hickok,,,,,Edmond,Son,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,English,Weaver,Woolen mill,W,No,20,Yes,Yes,,,,,,,,,1,mother's birthplace overwritten (Vermont/Can French)
+77-20A.jpg,77,20A,15,Hickok,,,,,Ophelon,Daughter,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,English,Painter,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,1,given unclear (Ophelia?); sex written M with relation Daughter; mother's birthplace overwritten
+77-20A.jpg,77,20A,16,Hickok,,,,,Edward,Son,M,W,15,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,English,Laborer,Screen shop,W,Yes,30,Yes,Yes,No,,,,,,,,1,mother's birthplace overwritten
+77-20A.jpg,77,20A,17,Hickok,72,328,328,Daigle,Lucien,Head,M,W,66,M1,38,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,Al,English,None,,,,,Yes,Yes,,R,,H,,,,,0,
+77-20A.jpg,77,20A,18,Hickok,,,,,Lucy,Wife,F,W,59,M1,38,9,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-20A.jpg,77,20A,19,Hickok,,,,,Lucien Jr.,Son,M,W,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,English,Weaver,Woolen mill,W,No,4,Yes,Yes,,,,,,,,,0,
+77-20A.jpg,77,20A,20,Hickok,,,,,Lucy,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1905,,English,Weaver,Woolen mill,W,No,0,Yes,Yes,No,,,,,,,,1,weeks unemployed may be 2
+77-20A.jpg,77,20A,21,Hickok,,,,Lavoie,Mary,Boarder,F,W,25,Wd,,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,English,Weaver,Woolen mill,W,No,10,Yes,Yes,,,,,,,,,0,
+77-20A.jpg,77,20A,22,Hickok,78,329,329,Munier,John,Head,M,W,55,M1,33,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,Al,French,Laborer,Woolen mill,W,No,3,Yes,Yes,,R,,H,,,,,1,surname may be Meunier
+77-20A.jpg,77,20A,23,Hickok,,,,,Mary,Wife,F,W,56,M1,33,13,9,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,French,None,,,,,No,No,,,,,,,,,0,
+77-20A.jpg,77,20A,24,Hickok,,,,,Fred,Son,M,W,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,English,Weaver,Woolen mill,W,No,2,Yes,Yes,,,,,,,,,0,
+77-20A.jpg,77,20A,25,Hickok,,,,,Oliva,Son,M,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1894,,English,Laborer,Woolen mill,W,No,9,Yes,Yes,No,,,,,,,,1,weeks unemployed unclear
+77-20A.jpg,77,20A,26,Hickok,,,,,Delors,Son,M,W,15,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Farm,W,No,46,Yes,Yes,Yes,,,,,,,,1,given may be Delore
+77-20A.jpg,77,20A,27,Hickok,,,,,Henry,Son,M,W,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20A.jpg,77,20A,28,Hickok,82,330,330,Charity,Albina,Head,M,W,28,M1,8,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,French,Teamster,Kiln lime,W,No,0,Yes,Yes,,R,,H,,,,,1,given unclear (Albuta/Albert?); industry unclear
+77-20A.jpg,77,20A,29,Hickok,,,,,Armanda,Wife,F,W,33,M1,8,6,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-20A.jpg,77,20A,30,Hickok,,,,,Florida,Daughter,F,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1917,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,immigration year written 1917 (probably 1907)
+77-20A.jpg,77,20A,31,Hickok,,,,,Euclide,Son,M,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20A.jpg,77,20A,32,Hickok,,,,,Armeline,Daughter,F,W,4,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,,,Yes,,,,,,,,1,given may be Armelina
+77-20A.jpg,77,20A,33,Hickok,,,,,Arbertine,Daughter,F,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,,,,,,,,,,,1,given may be Albertine
+77-20A.jpg,77,20A,34,Hickok,,,,,Dona,Son,M,W,7/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,0,
+77-20A.jpg,77,20A,35,Hickok,84,331,331,LaCharity,Manuel,Head,M,W,47,M1,27,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,Al,French,Laborer,Screen shop,W,No,6,No,No,,R,,H,,,,,0,
+77-20A.jpg,77,20A,36,Hickok,,,,,Phemela,Wife,F,W,44,M1,27,20,12,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Phemelia
+77-20A.jpg,77,20A,37,Hickok,,,,,Arbini,Son,M,W,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Laborer,Screen shop,W,No,0,Yes,Yes,No,,,,,,,,1,given unclear (Arbuni?)
+77-20A.jpg,77,20A,38,Hickok,,,,,Fredie,Son,M,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Laborer,Woolen mill,W,No,2,Yes,Yes,No,,,,,,,,1,given unclear
+77-20A.jpg,77,20A,39,Hickok,,,,,Adea,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Burler,Woolen mill,W,No,10,Yes,Yes,No,,,,,,,,1,given may be Adela; occupation may be Boiler
+77-20A.jpg,77,20A,40,Hickok,,,,,Ernest,Son,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Laborer,Woolen mill,W,No,6,Yes,Yes,No,,,,,,,,0,
+77-20A.jpg,77,20A,41,Hickok,,,,,Alma,Daughter,F,W,15,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,Spooler,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,1,given may be Alina
+77-20A.jpg,77,20A,42,Hickok,,,,,Rosida,Daughter,F,W,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,age overwritten (14 or 17)
+77-20A.jpg,77,20A,43,Hickok,,,,,Walter,Son,M,W,11,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20A.jpg,77,20A,44,Hickok,,,,,Aralie,Son,M,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given unclear (Arcile?)
+77-20A.jpg,77,20A,45,Hickok,,,,,Evelyn,Daughter,F,W,8,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-20A.jpg,77,20A,46,Hickok,,,,,Ovila,Son,M,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,,,Yes,,,,,,,,1,given unclear
+77-20A.jpg,77,20A,47,Hickok,,,,,Wilfred,Son,M,W,3,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1907,,French,None,,,,,,,,,,,,,,,0,
+77-20A.jpg,77,20A,48,Hickok,,,,,Phileas,Son,M,W,11/12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,None,,,,,,,,,,,,,,,1,age unclear (may be 1 1/12)
+77-20A.jpg,77,20A,49,Hickok,94,333,333,Grenmore,James,Head,M,W,64,M1,39,,,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname unclear (Truemore/Guemore?); dwelling/family written 333 (332 skipped)
+77-20A.jpg,77,20A,50,Hickok,,,,,Caroline,Wife,F,W,59,M1,39,0,0,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,

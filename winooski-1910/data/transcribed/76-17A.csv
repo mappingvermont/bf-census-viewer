@@ -1,0 +1,40 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-17A.jpg,76,17A,1,Canal,198,285,282,Otto,Hete,Head,F,W,46,Wd,,3,3,Finland,Finland,Finland,Finnish,Finnish,Finnish,1909,Al,Finnish,Weaver,,W,No,0,Yes,Yes,,R,,H,,,,,1,street read as Canal Street (may be East or West Canal); surname struck through and unclear; given may be Hilta; dwelling may be 283; family may be 287; marital overwritten; out of work unclear
+76-17A.jpg,76,17A,2,Canal,,,,,Mary,Daughter,F,W,14,S,,,,New Hampshire,Finland,Finland,,Finnish,Finnish,,,Finnish,None,,,,,Yes,Yes,No,,,,,,,,1,immigration year written and struck out
+76-17A.jpg,76,17A,3,Canal,,,,Sorts,John,Lodger,M,W,38,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,Al,Finnish,Weaver,Mill,W,Yes,0,Yes,Yes,,,,,,,,,1,surname may be Saris
+76-17A.jpg,76,17A,4,Canal,,,,Rastio,Otto,Lodger,M,W,40,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,Al,Finnish,Weaver,Mill,W,Yes,0,Yes,Yes,,,,,,,,,1,surname and given unclear
+76-17A.jpg,76,17A,5,Canal,,,,Ermes,William,Lodger,M,W,36,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,Al,Finnish,Weaver,Mill,W,Yes,0,Yes,Yes,,,,,,,,,1,surname may be Ermer
+76-17A.jpg,76,17A,6,Canal,,,,Pokis,James,Lodger,M,W,50,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,Al,Finnish,Weaver,Mill,W,Yes,0,Yes,Yes,,,,,,,,,1,surname may be Pakis
+76-17A.jpg,76,17A,7,Canal,,,,Honis,John,Lodger,M,W,32,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,Al,Finnish,Weaver,Mill,W,Yes,0,Yes,Yes,,,,,,,,,1,surname unclear
+76-17A.jpg,76,17A,8,Canal,,,,Nevala,Bertha,Lodger,F,W,19,S,,,,Finland,Finland,Finland,Finnish,Finnish,Finnish,1910,Al,Finnish,Weaver,Mill,W,Yes,0,Yes,Yes,,,,,,,,,1,surname unclear (Moreala?); age may be 17
+76-17A.jpg,76,17A,9,,75,286,283,Noel,E. Lizzie,Head,F,W,45,S,,,,Vermont,Vermont,Massachusetts,,,,,,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,street name in bracket for lines 9-12 illegible; initial may be L.; ownership marks overwritten
+76-17A.jpg,76,17A,10,,75,,284,Atwood,William,Head,M,W,47,M1,24,,,Vermont,Vermont,Vermont,,,,,,English,Grocer,Store,OA,No,0,Yes,Yes,,R,,H,,,,,1,dwelling number crossed out; surname overwritten
+76-17A.jpg,76,17A,11,,,,,,Winnie,Wife,F,W,43,M1,24,1,1,Vermont,Vermont,New York,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-17A.jpg,76,17A,12,,,,,,Hugh,Son,M,W,8,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-17A.jpg,76,17A,13,Union,76,287,285,Devins,Mary,Head,F,W,52,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,R,,H,,,,,1,street read as Union (vertical text unclear); surname faint (Devino?); ownership marks unclear
+76-17A.jpg,76,17A,14,Union,,,,,Lucy,Sister,F,W,48,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-17A.jpg,76,17A,15,Union,,,,,Rose J.,Sister,F,W,42,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-17A.jpg,76,17A,16,Union,70,288,286,Carpenter,George,Head,M,W,70,D,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Traveling,Salesman,W,No,0,Yes,Yes,,O,F,H,,,,,0,
+76-17A.jpg,76,17A,17,Union,,,,,Camille,Daughter,F,W,19,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,No,,,,,,,,1,given name unclear
+76-17A.jpg,76,17A,18,Union,,,,,Ozella,Daughter,F,W,16,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,No,,,,,,,,1,given may be Azilda
+76-17A.jpg,76,17A,19,Union,,,,,George,Son,M,W,8,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,No,,,,,,,,0,
+76-17A.jpg,76,17A,20,Union,,,,,Harriet,Aunt,F,W,82,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1872,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-17A.jpg,76,17A,21,Union,26,289,287,Deavitt,Henry,Head,M,W,68,M3,14,,,Vermont,Vermont,Vermont,,,,,,English,Attorney,Law,OA,No,0,Yes,Yes,,O,,H,,,,,1,house/dwelling/family numbers written on line 20 but belong to this family; dwelling number overwritten; ownership mark unclear
+76-17A.jpg,76,17A,22,Union,,,,,Nettie,Wife,F,W,42,M1,14,1,1,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given may be Mattie
+76-17A.jpg,76,17A,23,Union,,,,,Beulah,Daughter,F,W,12,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-17A.jpg,76,17A,24,Union,rear,290,288,Bruyer,Charles,Head,M,W,46,M2,13,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1881,Na,French,None,,,,,No,No,,R,,H,,,,,1,house number marked rear; surname may be Boyer; immigration year may be 1831 as written; dwelling number overwritten
+76-17A.jpg,76,17A,25,Union,,,,,Annie,Wife,F,W,42,M2,13,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1881,,French,Weaver,Mill,W,No,0,No,No,,,,,,,,,0,
+76-17A.jpg,76,17A,26,Union,rear,,289,Brunell,Charles,Head,M,W,33,M1,7,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Laborer,Outside,W,No,0,Yes,Yes,,R,,H,,,,,1,house number marked rear; dwelling number crossed out
+76-17A.jpg,76,17A,27,Union,,,,,Julietta,Wife,F,W,25,M1,7,3,3,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-17A.jpg,76,17A,28,Union,,,,,Georgiana,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,No,No,No,,,,,,,,0,
+76-17A.jpg,76,17A,29,Union,,,,,Ruth,Daughter,F,W,4,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-17A.jpg,76,17A,30,Union,,,,,Clifford,Son,M,W,2,S,,,,Vermont,Vermont,Vermont,,,,,,,None,,,,,,,,,,,,,,,0,
+76-17A.jpg,76,17A,31,Union,rear,,290,Driscoll,Bridget,Head,F,W,65,Wd,,,,Ireland,Ireland,Ireland,Irish,Irish,Irish,1880,,,None,,,,,No,No,,O,M,H,,,,,1,house number marked rear; dwelling number crossed out; surname faint; immigration year may be 1886; ownership marks unclear
+76-17A.jpg,76,17A,32,Union,46,291,291,Metivier,Euclide,Head,M,W,29,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,English,Weaver,Mill,W,No,0,Yes,Yes,,R,,H,,,,,1,surname unclear; dwelling number unclear (211?)
+76-17A.jpg,76,17A,33,Union,,,,,Mary L.,Wife,F,W,21,M1,3,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-17A.jpg,76,17A,34,Union,46,,292,Hanson,Morris,Head,M,W,36,M1,11,,,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1900,,English,Shoe dealer,Store,OA,No,0,Yes,Yes,,R,,H,,,,,1,surname unclear; dwelling number crossed out
+76-17A.jpg,76,17A,35,Union,,,,,Rebecca,Wife,F,W,34,M1,11,4,4,Russia,Russia,Russia,Yiddish,Yiddish,Yiddish,1900,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+76-17A.jpg,76,17A,36,Union,,,,,Anna,Daughter,F,W,10,S,,,,Vermont,Russia,Russia,,Yiddish,Yiddish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-17A.jpg,76,17A,37,Union,,,,,Max,Son,M,W,8,S,,,,Vermont,Russia,Russia,,Yiddish,Yiddish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-17A.jpg,76,17A,38,Union,,,,,Mich,Son,M,W,5,S,,,,Vermont,Russia,Russia,,Yiddish,Yiddish,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given unclear (Mick?)
+76-17A.jpg,76,17A,39,Union,,,,,Samuel,Son,M,W,1,S,,,,Vermont,Russia,Russia,,Yiddish,Yiddish,,,,None,,,,,,,,,,,,,,,0,

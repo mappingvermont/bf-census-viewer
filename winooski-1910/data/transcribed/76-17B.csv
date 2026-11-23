@@ -1,0 +1,48 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+76-17B.jpg,76,17B,51,,37 1/2,212,293,Dion,Sophie,Head,F,W,56,Wd,,3,3,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,Boardinghouse keeper,,OA,No,0,Yes,Yes,,R,,H,,,,,1,street name for lines 51-56 illegible (vertical cursive); ownership mark unclear
+76-17B.jpg,76,17B,52,,,,,Mattie,Emerant,Mother,F,W,76,Wd,,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,None,,,,,Yes,Yes,,,,,,,,,1,surname and given name reading uncertain; relation may be Mother-in-law
+76-17B.jpg,76,17B,53,,,,,Dion,Florentine,Daughter,F,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,Servant,Home,W,No,0,Yes,Yes,No,,,,,,,,1,given may be Lorentine; employer class struck over
+76-17B.jpg,76,17B,54,,,,,,Albert,Son,M,W,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,,French,Carding,Mill,W,No,0,Yes,Yes,,,,,,,,,1,occupation reading uncertain
+76-17B.jpg,76,17B,55,,,,,Desfosses,George,Son-in-law,M,W,21,M1,1,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain; immigration year may be 1908
+76-17B.jpg,76,17B,56,,,,,,Angelina,Daughter,F,W,22,M1,1,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,,French,Servant,Home,W,No,0,Yes,Yes,,,,,,,,,1,age may be 18; industry and employer class struck over
+76-17B.jpg,76,17B,57,West Canal,1,213,294,Poirier,Amand,Head,F,W,75,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,,,French,None,,,,,Yes,Yes,,O,M,H,,,,,1,surname may be Poirin; given name unclear (Armand/Amanda?) with sex F
+76-17B.jpg,76,17B,58,West Canal,,,,,Cornelia,Daughter,F,W,40,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-17B.jpg,76,17B,59,West Canal,,,,Graney,Lione,Niece,F,W,18,S,,,,Pennsylvania,Vermont,Vermont,,,,,,English,Stenographer,Office,W,No,0,Yes,Yes,No,,,,,,,,1,age may be 12; given may be Leona; surname may be Gravey
+76-17B.jpg,76,17B,60,West Canal,9,214,295,Delorge,William,Head,M,W,21,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1890,Al,French,Laborer,Lumber yard,W,No,0,Yes,Yes,,R,,H,,,,,1,surname may be Delarge; industry reading uncertain
+76-17B.jpg,76,17B,61,West Canal,,,,,Iva,Wife,F,W,19,M1,3,1,1,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,1,given may be Ida
+76-17B.jpg,76,17B,62,West Canal,,,,,Florence,Daughter,F,W,11/12,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+76-17B.jpg,76,17B,63,West Canal,12,215,296,Cormier,Adolphe,Head,M,W,55,M1,29,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Filler,Mill,W,No,10,Yes,Yes,,R,,H,,,,,1,surname reading uncertain; dwelling number partly illegible
+76-17B.jpg,76,17B,64,West Canal,,,,,Mary,Wife,F,W,48,M1,29,7,6,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,French,None,,,,,Yes,Yes,,,,,,,,,1,immigration year unclear
+76-17B.jpg,76,17B,65,West Canal,,,,,Joseph,Son,M,W,27,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Restaurant,Keeper,Emp,No,0,Yes,Yes,,,,,,,,,0,
+76-17B.jpg,76,17B,66,West Canal,,,,,Eugenie,Daughter,F,W,22,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,Spooler,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+76-17B.jpg,76,17B,67,West Canal,,,,,Edward,Son,M,W,19,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Stableman,Livery stable,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-17B.jpg,76,17B,68,West Canal,,,,,Josephine,Daughter,F,W,18,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Housekeeper,Home,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-17B.jpg,76,17B,69,West Canal,,,,,Frank,Son,M,W,14,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+76-17B.jpg,76,17B,70,West Canal,,,,,Clara,Daughter,F,W,7,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,French,None,,,,,No,No,No,,,,,,,,1,literacy and school entries faint
+76-17B.jpg,76,17B,71,West Canal,17,216,297,Maillot,Henry,Head,M,W,38,M1,17,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,Al,French,Weaver,Mill,W,No,8,Yes,Yes,,R,,H,,,,,1,dwelling number overwritten; surname may be Maillet
+76-17B.jpg,76,17B,72,West Canal,,,,,Zilda,Wife,F,W,39,M1,17,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given may be Gilda
+76-17B.jpg,76,17B,73,West Canal,,,,,Yvonne,Daughter,F,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1903,,French,None,,,,,No,No,No,,,,,,,,0,
+76-17B.jpg,76,17B,74,Main,22,216,298,Seymour,Theodule,Head,M,W,37,M1,3,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1883,Na,English,Keeper,Restaurant,Emp,No,0,Yes,Yes,,O,M,H,,,,,1,given name unclear
+76-17B.jpg,76,17B,75,Main,,,,,Albina,Wife,F,W,23,M1,3,2,2,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1893,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+76-17B.jpg,76,17B,76,Main,,,,,Gerard,Son,M,W,2,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,given may be Girard
+76-17B.jpg,76,17B,77,Main,,,,,Gertrude,Daughter,F,W,4/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,,None,,,,,,,,,,,,,,,1,age fraction unclear
+76-17B.jpg,76,17B,78,Main,18,217,299,Bergeron,Joseph,Head,M,W,49,M1,26,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,Na,French,Keeper,Boardinghouse,OA,No,0,Yes,Yes,,R,,H,,,,,0,
+76-17B.jpg,76,17B,79,Main,,,,,Virginia,Wife,F,W,44,M1,26,6,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,Keeper,Boardinghouse,OA,No,0,Yes,Yes,,,,,,,,,1,given name unclear
+76-17B.jpg,76,17B,80,Main,,,,,Rosa,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,Spooler,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-17B.jpg,76,17B,81,Main,,,,,Joseph,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,French,Spinner,Mill,W,No,0,Yes,Yes,No,,,,,,,,0,
+76-17B.jpg,76,17B,82,Main,,,,,Angelina,Daughter,F,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1899,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name and age unclear
+76-17B.jpg,76,17B,83,Main,,,,,Delphine,Daughter,F,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1901,,,None,,,,,No,No,,,,,,,,,1,given name unclear; literacy entries faint
+76-17B.jpg,76,17B,84,Main,,,,Ferguson,John,Lodger,M,W,41,M1,4,,,Pennsylvania,Pennsylvania,Pennsylvania,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,sex column appears written F
+76-17B.jpg,76,17B,85,Main,,,,,Alice,Wife,F,W,34,M1,4,0,0,Pennsylvania,Pennsylvania,Pennsylvania,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-17B.jpg,76,17B,86,Main,,,,Lambert,Clemence,Lodger,M,W,41,M1,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1906,Al,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname and given name unclear
+76-17B.jpg,76,17B,87,Main,,,,Gagnon,Edmond,Lodger,M,W,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,mark 0 in dwelling column ignored
+76-17B.jpg,76,17B,88,Main,,,,Gillam,Charles,Lodger,M,W,49,S,,,,Massachusetts,Ireland,Ireland,,Irish,Irish,,,English,Loom fixer,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname may be Gillan
+76-17B.jpg,76,17B,89,Main,,,,Bassette,George,Lodger,M,W,29,S,,,,New York,Pennsylvania,Pennsylvania,,,,,,English,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,0,
+76-17B.jpg,76,17B,90,Main,,,,Gauyette,Alis,Lodger,M,W,30,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname and given name unclear
+76-17B.jpg,76,17B,91,Main,,,,Bertrand,Frank,Lodger,M,W,31,S,,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Barber,Shop,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain
+76-17B.jpg,76,17B,92,Main,,,,Pirent,William,Lodger,M,W,24,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,Al,French,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,surname reading uncertain (Pinard?)
+76-17B.jpg,76,17B,93,Main,24,218,300,Hubbard,Charles,Head,M,W,37,M1,9,,,Syria,Syria,Syria,Syrian,Syrian,Syrian,1890,Pa,English,Keeper,Store,OA,No,0,Yes,Yes,,R,,H,,,,,1,birthplaces overwritten with correction above (possibly Turkey); marital may be M2
+76-17B.jpg,76,17B,94,Main,,,,,Uma,Wife,F,W,27,M1,9,3,2,Syria,Syria,Syria,Syrian,Syrian,Syrian,1890,,Syrian,Weaver,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given may be Unna; birthplaces overwritten (possibly Turkey)
+76-17B.jpg,76,17B,95,Main,,,,,Anna,Daughter,F,W,8,S,,,,Rhode Island,Syria,Syria,,Syrian,Syrian,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,parents' birthplaces overwritten (possibly Turkey)
+76-17B.jpg,76,17B,96,Main,,,,,Philip,Son,M,W,5,S,,,,Vermont,Syria,Syria,,Syrian,Syrian,,,,None,,,,,No,No,No,,,,,,,,1,given name unclear (Phelis?); parents' birthplaces overwritten
+76-17B.jpg,76,17B,97,Main,,,,,Amiena,Sister,F,W,21,S,,,,Syria,Syria,Syria,Syrian,Syrian,Syrian,1900,,Syrian,Carder,Mill,W,No,0,Yes,Yes,,,,,,,,,1,given may be Amina; birthplaces overwritten (possibly Turkey)

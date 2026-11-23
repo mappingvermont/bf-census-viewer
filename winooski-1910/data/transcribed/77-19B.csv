@@ -1,0 +1,49 @@
+image,ed,sheet,line,street,house_num,dwelling,family,surname,given,relation,sex,race,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,tongue,father_tongue,mother_tongue,immig_year,naturalization,language,occupation,industry,employer_class,out_of_work,weeks_unemployed,can_read,can_write,in_school,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,veteran,blind,deaf_dumb,uncertain,notes
+77-19B.jpg,77,19B,51,West Lane,25,316,316,Beaudreau,Napoleon,Head,M,W,43,M1,20,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,Al,English,Laborer,Screw shops,W,No,0,Yes,Yes,,R,,H,,,,,0,
+77-19B.jpg,77,19B,52,West Lane,,,,,Mathilde,Wife,F,W,40,M1,20,10,5,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,,,,,,No,No,,,,,,,,,1,children living may be 8; read/write entries faint
+77-19B.jpg,77,19B,53,West Lane,,,,,Josephat,Son,M,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,Laborer,Screw shop,W,No,0,No,No,Yes,,,,,,,,1,given name unclear (Josephia?)
+77-19B.jpg,77,19B,54,West Lane,,,,,Clovis,Son,M,W,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-19B.jpg,77,19B,55,West Lane,,,,,Eva,Daughter,F,W,10,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-19B.jpg,77,19B,56,West Lane,,,,,Eudoilda,Daughter,F,W,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,,,Yes,,,,,,,,1,given name unclear
+77-19B.jpg,77,19B,57,West Lane,,,,,Emilina,Daughter,F,W,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1910,,French,None,,,,,,,Yes,,,,,,,,0,
+77-19B.jpg,77,19B,58,West Lane,,,,Bordo,Zefire,Son-in-law,M,W,24,M1,2,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,English,Mason,House,W,No,16,Yes,Yes,,,,,,,,,1,given name unclear (Joffre?); naturalization entry struck out (Al?)
+77-19B.jpg,77,19B,59,West Lane,,,,,Rosanna,Daughter,F,W,19,M1,2,0,0,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1909,,French,Spooler,Woolen mill,W,No,4,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-19B.jpg,77,19B,60,Hickok,25,317,317,Desautels,Christopher,Head,M,W,72,M1,49,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1863,Na,English,None,,,,,Yes,No,,O,F,H,,,,,1,house number overwritten (25 or 25½?)
+77-19B.jpg,77,19B,61,Hickok,,,,,Olivine,Wife,F,W,72,M1,49,13,10,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1864,,French,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear (Elvina?)
+77-19B.jpg,77,19B,62,Hickok,21,318,318,Marcotte,John,Head,M,W,51,M1,22,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1868,Na,English,Proprietor,Wood yard,Emp,No,0,Yes,Yes,,O,F,H,,,,,0,
+77-19B.jpg,77,19B,63,Hickok,,,,,Victoria,Wife,F,W,46,M1,22,4,4,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,64,Hickok,,,,,Eugene,Son,M,W,18,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Laborer,Wood yard,W,No,0,Yes,Yes,Yes,,,,,,,,0,
+77-19B.jpg,77,19B,65,Hickok,,,,,Alma,Daughter,F,W,15,S,,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Sewer,Tailor shop,W,No,20,Yes,Yes,Yes,,,,,,,,1,given may be Anna; industry unclear (Sales shop?)
+77-19B.jpg,77,19B,66,Hickok,21½,319,319,Marcotte,Frederick,Head,M,W,22,M1,1,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Salesman,Insurance,W,No,2,Yes,Yes,,R,,H,,,,,0,
+77-19B.jpg,77,19B,67,Hickok,,,,,Mary,Wife,F,W,20,M1,1,1,1,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1892,,French,None,,,,,Yes,Yes,,,,,,,,,1,unclear mark in school column
+77-19B.jpg,77,19B,68,Hickok,,,,,Edna,Daughter,F,W,3/12,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,,None,,,,,,,,,,,,,,,1,age written 3/2 (likely 3/12)
+77-19B.jpg,77,19B,69,Hickok,18,320,320,Hanlin,Edward,Head,M,W,63,M2,30,,,Ireland,Ireland,Ireland,English,English,English,1865,Na,English,None,,,,,Yes,Yes,,O,F,H,,,,,1,surname may be Houlin
+77-19B.jpg,77,19B,70,Hickok,,,,,Julia,Wife,F,W,67,M1,30,0,0,Ireland,Ireland,Ireland,English,English,English,1863,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,71,Hickok,,,,Gurney,Mary,Step-daughter,F,W,25,S,,,,Vermont,Ireland,Vermont,,English,,,,English,Sewer,Woolen mill,W,No,1,Yes,Yes,,,,,,,,,1,surname may be Gunney
+77-19B.jpg,77,19B,72,Hickok,12,321,321,Forget,Joseph,Head,M,W,62,M1,34,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,Al,French,None,,,,,No,No,,R,,H,,,,,0,
+77-19B.jpg,77,19B,73,Hickok,,,,,Josephine,Wife,F,W,63,M1,34,17,11,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,No,No,,,,,,,,,1,age may be 62
+77-19B.jpg,77,19B,74,Hickok,,,,,Dolphis,Son,M,W,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,Laborer,Cotton mill,W,No,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-19B.jpg,77,19B,75,Hickok,,,,,Mary,Daughter,F,W,23,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,Sewer,Woolen mill,W,,,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,76,Hickok,,,,,Emma,Daughter,F,W,19,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,Sewer,Woolen mill,W,,,Yes,Yes,,,,,,,,,1,school entry struck out
+77-19B.jpg,77,19B,77,Hickok,,,,,Oliva,Daughter,F,W,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,Sewer,Woolen mill,W,,,Yes,Yes,,,,,,,,,1,school entry unclear/possibly struck
+77-19B.jpg,77,19B,78,Hickok,,,,,Florina,Daughter,F,W,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,Sewer,Woolen mill,W,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-19B.jpg,77,19B,79,Hickok,,,,,Alfa,Son,M,W,13,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given name unclear
+77-19B.jpg,77,19B,80,Hickok,,,,,Angelina,Daughter,F,W,11,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-19B.jpg,77,19B,81,Hickok,,,,,Rock,Son,M,W,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1908,,French,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Roch
+77-19B.jpg,77,19B,82,Hickok,32,322,322,Sullivan,Michael,Head,M,W,75,M1,52,,,Ireland,Ireland,Ireland,English,English,English,1864,Na,English,None,,,,,Yes,Yes,,O,F,H,,,,,0,
+77-19B.jpg,77,19B,83,Hickok,,,,,Sarah,Wife,F,W,70,M1,52,8,3,Canada (Eng),Ireland,Ireland,English,English,English,1863,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,84,Hickok,,,,,Mary Ann,Daughter,F,W,44,S,,,,Vermont,Ireland,Canada (Eng),,English,English,,,English,Clerk,Post office,W,No,2,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,85,Hickok,36,323,323,Leclair,Paul,Head,M,W,69,M1,46,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Mason,Stone,W,No,6,Yes,Yes,,O,F,H,,,,,1,ownership marks faint
+77-19B.jpg,77,19B,86,Hickok,,,,,Mary,Wife,F,W,63,M1,46,6,4,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1865,,English,None,,,,,No,No,,,,,,,,,0,
+77-19B.jpg,77,19B,87,Hickok,,,,,Alice,Daughter,F,W,26,S,,,,Vermont,Vermont,Canada (Fr),,,French,,,English,Sewer,Woolen mill,W,No,2,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,88,Hickok,46,324,324,Mongeon,Alfred J.,Head,M,W,32,M1,7,,,Vermont,Canada (Fr),Canada (Fr),,French,French,,,English,Laborer,Woolen mill,W,No,2,Yes,Yes,,O,F,H,,,,,0,
+77-19B.jpg,77,19B,89,Hickok,,,,,Emelia,Wife,F,W,32,M1,7,1,1,New York,Canada (Fr),Canada (Fr),,French,French,,,English,None,,,,,Yes,Yes,,,,,,,,,1,given name unclear
+77-19B.jpg,77,19B,90,Hickok,,,,,Loretta,Daughter,M,W,5,S,,,,Vermont,Vermont,New York,,,,,,English,None,,,,,,,Yes,,,,,,,,1,sex written M for daughter
+77-19B.jpg,77,19B,91,Hickok,,,,,Joseph,Father,M,W,76,M1,51,,,Canada (Fr),Canada (Fr),Canada (Fr),French,French,French,1863,Na,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,92,Hickok,,,,,Lucy,Mother,F,W,71,M1,51,11,7,Vermont,Canada (Fr),Canada (Fr),,French,French,,,French,None,,,,,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,93,Hickok,52,325,326,Mongeon,Jules,Head,M,W,44,M1,19,,,Vermont,Canada (Fr),Vermont,,French,,,,English,Proprietor,Meat market,Emp,,,Yes,Yes,,O,F,H,,,,,1,given name unclear; family number 326 vs dwelling 325
+77-19B.jpg,77,19B,94,Hickok,,,,,Elizabette,Wife,F,W,44,M1,19,6,4,Vermont,Vermont,Canada (Fr),,,French,,,English,None,,,,,Yes,Yes,,,,,,,,,0,
+77-19B.jpg,77,19B,95,Hickok,,,,,Rena,Daughter,F,W,17,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,1,given may be Reina
+77-19B.jpg,77,19B,96,Hickok,,,,,Edna,Daughter,F,W,16,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-19B.jpg,77,19B,97,Hickok,,,,,Lawrence,Son,M,W,10,S,,,,Vermont,Vermont,Vermont,,,,,,English,None,,,,,Yes,Yes,Yes,,,,,,,,0,
+77-19B.jpg,77,19B,98,Hickok,,,,,Vivian,Daughter,F,W,6,S,,,,Vermont,Vermont,Vermont,,,,,,French,None,,,,,,,Yes,,,,,,,,1,language written French
