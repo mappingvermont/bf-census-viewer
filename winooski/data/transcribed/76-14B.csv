@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+76-14B.jpg,76,14B,51,Lafontain,,255,,273,,Leclair,Zoe,Wife,W,F,Mar,1843,67,M,33,4,2,Canada (Fr),Canada (Fr),Canada (Fr),1865,35,,,,,No,No,No,,,,,1,"relation Wife but dwelling 255 and family 273 written on this line, so head probably on sheet 14A; no renumber visible; age reads 67 but Mar 1843 gives 57"
+76-14B.jpg,76,14B,52,Lafontain,,,,,,,Melenda,Daughter,W,F,June,1875,24,S,,,,Vermont,Vermont,Canada (Fr),,,,Woolen mill laborer,4,,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,53,Lafontain,,,,,,Ducharme,Attie,Mother-in-law,W,F,May,1809,91,Wd,,14,4,Canada (Fr),Canada (Fr),Canada (Fr),1865,35,,,,,No,No,No,,,,,1,given name Attie uncertain; relation written M-in-law
+76-14B.jpg,76,14B,54,Lafontain,,256,,274,275,Dufrasne,Merile,Head,W,M,Apr,1856,44,M,22,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,Al,Day laborer,0,,Yes,Yes,No,R,,H,,1,given name partly covered by tally mark (Merile?)
+76-14B.jpg,76,14B,55,Lafontain,,,,,,,Delmise,Wife,W,F,Feb,1849,51,M,22,3,0,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,,,,Yes,Yes,No,,,,,1,given name Delmise or Palmire/Delmire
+76-14B.jpg,76,14B,56,Lafontain,,,,275,276,Desautels,Felix,Head,W,M,Oct,1864,35,M,11,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,Al,Day laborer,0,,Yes,Yes,No,R,,H,,1,surname Desautels/Desautells; given name covered by tally mark; same dwelling as Dufrasne
+76-14B.jpg,76,14B,57,Lafontain,,,,,,,Mary L.,Wife,W,F,Nov,1869,30,M,11,1,1,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,,,,Yes,Yes,No,,,,,0,
+76-14B.jpg,76,14B,58,Lafontain,,,,,,,Henry,Son,W,M,Oct,1888,11,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,At school,,10,Yes,Yes,No,,,,,0,
+76-14B.jpg,76,14B,59,Lafontain,,,,276,277,Hatin,Frank,Head,W,M,Mar,1877,23,M,4,,,Vermont,Canada (Fr),Canada (Fr),,,,Day laborer,2,,Yes,Yes,Yes,R,,H,,1,age 23 or 22; given name covered by tally mark; same dwelling as Dufrasne
+76-14B.jpg,76,14B,60,Lafontain,,,,,,,Mary,Wife,W,F,Nov,1875,24,M,4,2,2,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,61,Lafontain,,,,,,,Joseph,Son,W,M,Feb,1897,3,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,62,Lafontain,,,,,,,John,Son,W,M,June,1899,4/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,age reads 4/12 but June 1899 birth gives about 11/12
+76-14B.jpg,76,14B,63,Lafontain,,257,,277,278,Lavalle,Isaac,Head,W,M,Feb,1838,62,M,42,,,Canada (Fr),Canada (Fr),Canada (Fr),1851,49,,Day laborer,3,,No,No,Yes,O,F,H,,1,given name partly covered by tally mark (Isaac?)
+76-14B.jpg,76,14B,64,Lafontain,,,,,,,Catrine,Wife,W,F,Apr,1834,61,M,42,10,8,Canada (Fr),Canada (Fr),Canada (Fr),1857,43,,,,,Yes,Yes,Yes,,,,,1,birth year reads 1834 (or 1839); age 61 fits 1839
+76-14B.jpg,76,14B,65,Lafontain,,,,,,,Henry,Son,W,M,June,1884,15,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Butcher,0,,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,66,Lafontain,,258,,278,279,Pauquette,Wilfred,Head,W,M,Mar,1867,33,M,9,,,Vermont,Canada (Fr),Canada (Fr),,,,Worsted mill laborer,0,,Yes,Yes,Yes,O,F,H,,1,dwelling number reads like 268 (sequence suggests 258); given name covered by tally mark
+76-14B.jpg,76,14B,67,Lafontain,,,,,,,Lizzie,Wife,W,F,Dec,1871,28,M,9,2,2,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,68,Lafontain,,,,,,,Stella,Daughter,W,F,Nov,1893,6,S,,,,Vermont,Vermont,Vermont,,,,At school,,10,,,,,,,,0,
+76-14B.jpg,76,14B,69,Lafontain,,,,,,,Leo,Son,W,M,Aug,1896,3,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,70,East Allen,,259,,279,280,Morrill,Emma,Head,W,F,Oct,1861,38,Wd,,6,6,Vermont,Vermont,Vermont,,,,Shirt factory sewer,2,,Yes,Yes,Yes,R,,H,,1,surname partly covered by tally mark
+76-14B.jpg,76,14B,71,East Allen,,,,,,,Willie,Son,W,M,Feb,1884,16,S,,,,Vermont,Vermont,Vermont,,,,Drug Co. laborer,0,,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,72,East Allen,,,,,,,Kate,Daughter,W,F,Mar,1886,14,S,,,,Vermont,Vermont,Vermont,,,,,,0,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,73,East Allen,,,,,,,Anna,Daughter,W,F,Feb,1888,12,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,74,East Allen,,,,,,,Dan,Son,W,M,July,1890,9,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,,,,,,,,0,
+76-14B.jpg,76,14B,75,East Allen,,,,,,,Cristy,Son,W,M,Dec,1893,6,S,,,,Vermont,Vermont,Vermont,,,,,,0,,,,,,,,0,
+76-14B.jpg,76,14B,76,East Allen,,,,,,,Fred,Son,W,M,Jan,1896,4,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,77,East Allen,,,,280,281,Brunell,Edward,Head,W,M,May,1871,29,M,8,,,Vermont,Canada (Fr),Canada (Fr),,,,Day laborer,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Morrill
+76-14B.jpg,76,14B,78,East Allen,,,,,,,Emma,Wife,W,F,Oct,1871,28,M,8,5,3,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,79,East Allen,,,,,,,Albert,Son,W,M,July,1892,7,S,,,,Vermont,Vermont,Vermont,,,,At school,,10,,,,,,,,0,
+76-14B.jpg,76,14B,80,East Allen,,,,,,,Bertha,Daughter,W,F,Nov,1896,3,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,81,East Allen,,,,,,,Margret,Daughter,W,F,Apr,1900,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,82,East Allen,,,,281,282,Gammi,Firmen,Head,W,M,Jan,1879,21,M,2,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,Al,Day laborer,4,,No,No,No,R,,H,,1,surname Gammi/Jammi/Janny; given name Firmen/Firmin partly covered by tally mark; same dwelling as Morrill
+76-14B.jpg,76,14B,83,East Allen,,,,,,,Rosellma,Wife,W,F,Aug,1880,19,M,2,1,1,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,No,No,Yes,,,,,1,given name Rosellma/Hosellma
+76-14B.jpg,76,14B,84,East Allen,,,,,,,Rosellma,Daughter,W,F,Dec,1899,5/12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,85,East Allen,,,,282,283,Le Fevre,John,Head,W,M,June,1872,27,M,3,,,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,Day laborer,3,,No,No,No,R,,H,,0,same dwelling as Morrill
+76-14B.jpg,76,14B,86,East Allen,,,,,,,Eva,Wife,W,F,Oct,1879,20,M,3,1,1,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,,,,Yes,Yes,Yes,,,,,1,given name Eva or Ova
+76-14B.jpg,76,14B,87,East Allen,,,,,,,Entoinnette,Daughter,W,F,July,1899,10/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,88,East Allen,,,,,,,Harry,Brother,W,M,Sept,1881,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,Al,Day laborer,0,,No,No,Yes,,,,,0,
+76-14B.jpg,76,14B,89,East Allen,,,,283,284,Le Fevre,Francis,Head,W,M,Oct,1851,48,M,20,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,Al,Day laborer,6,,No,No,Yes,R,,H,,0,same dwelling as Morrill
+76-14B.jpg,76,14B,90,East Allen,,,,,,,Mary,Wife,W,F,Sept,1853,46,M,20,9,8,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,No,No,No,,,,,0,
+76-14B.jpg,76,14B,91,East Allen,,,,,,,Josephine,Daughter,W,F,Mar,1882,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,Woolen mill spooler,6,,Yes,Yes,Yes,,,,,0,
+76-14B.jpg,76,14B,92,East Allen,,,,,,,Napoleon,Son,W,M,Feb,1888,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,Day laborer,0,,Yes,No,Yes,,,,,0,
+76-14B.jpg,76,14B,93,East Allen,,,,,,,Ermenegil,Daughter,W,F,July,1890,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,0,,,,,,,,1,given name Ermenegil(d) uncertain
+76-14B.jpg,76,14B,94,East Allen,,,,,,,Frank,Son,W,M,June,1895,4,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,95,East Allen,,,,,,,Embrois,Son,W,M,Sept,1896,3,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,96,East Allen,,,,,,,Arman,Son,W,M,Feb,1900,3/12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,,,,,,,,0,
+76-14B.jpg,76,14B,97,East Allen,,,,,,,Adline,Mother,W,F,May,1822,78,Wd,,6,4,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,No,No,No,,,,,0,
+76-14B.jpg,76,14B,98,East Allen,,260,,284,285,Shangraw,Joseph,Head,W,M,Oct,1859,40,M,15,,,Canada (Fr),Canada (Fr),Canada (Fr),1878,22,Na,Butcher,0,,Yes,Yes,Yes,R,,H,,1,surname partly covered by tally mark (Shangraw?); birth year 1859 or 1839
+76-14B.jpg,76,14B,99,East Allen,,,,,,,Mary,Wife,W,F,Aug,1861,38,M,15,1,1,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,No,Yes,,,,,0,
+76-14B.jpg,76,14B,100,East Allen,,,,,,Martin,Emma,Step daughter,W,F,Apr,1881,19,S,,,,Vermont,Vermont,Vermont,,,,Woolen mill weaver,0,,Yes,Yes,Yes,,,,,0,

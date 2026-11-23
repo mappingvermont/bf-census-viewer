@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+75-15B.jpg,75,15B,51,West,,^,,277,,Quirk,Hannah,Head,W,F,Dec,1835,64,Wd,,6,4,Ireland,Ireland,Ireland,1860,40,,,,,Yes,No,Yes,R,,H,,1,new family but no dwelling no. written: same dwelling as last household on sheet 15A; given name partly covered by tally mark; faint illegible marks in occupation column
+75-15B.jpg,75,15B,52,West,,,,,,,Sarah,Daughter,W,F,July,1863,36,S,,,,Massachusetts,Ireland,Ireland,,,,Cotton mill speeder,0,,No,No,Yes,,,,,0,
+75-15B.jpg,75,15B,53,West,,,,,,,Mary,Daughter,W,F,Nov,1872,27,S,,,,Vermont,Ireland,Ireland,,,,Cotton mill rover,0,,Yes,Yes,Yes,,,,,1,occupation reads sorver/rover
+75-15B.jpg,75,15B,54,West,,,,278,,Barré,Henry,Head,W,M,May,1877,23,M,5,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,Cotton mill laborer,0,,Yes,Yes,Yes,R,,H,,1,immigration year overwritten (1900); naturalization mark unclear (Un?) left blank; given name partly covered by tally mark
+75-15B.jpg,75,15B,55,West,,,,,,,Alphonsine,Wife,W,F,July,1878,21,M,5,2,2,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,Yes,Yes,No,,,,,1,immigration year overwritten (1900)
+75-15B.jpg,75,15B,56,West,,,,,,,Henry,Son,W,M,Mar,1898,2,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,0,,,,,,,,,,,,1,immigration year overwritten (1900)
+75-15B.jpg,75,15B,57,West,,,,,,,Réa,Daughter,W,F,Feb,1900,3/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,age 3 months
+75-15B.jpg,75,15B,58,West,,,,279,,Joubert,Olivas,Head,W,M,Sept,1864,35,M,11,,,Canada (Fr),Canada (Fr),Canada (Fr),1895,5,Al,Mill yard laborer,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark (Olivaz/Olivas)
+75-15B.jpg,75,15B,59,West,,,,,,,Auzilla,Wife,W,F,June,1868,31,M,11,4,1,Canada (Fr),Canada (Fr),Canada (Fr),1895,5,,,,,No,No,No,,,,,1,given name Auzilla or Aurilla
+75-15B.jpg,75,15B,60,West,,,,,,,Leopold,Son,W,M,May,1896,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-15B.jpg,75,15B,61,West,,,,280,,Joubert,Israel,Head,W,M,Aug,1864,35,M,14,,,Canada (Fr),Canada (Fr),Canada (Fr),1896,4,Al,Cotton mill laborer,0,,No,No,Yes,,,H,,1,given name partly covered by tally mark; owned/rented blank on page; same dwelling as above
+75-15B.jpg,75,15B,62,West,,,,,,,Marie L.,Wife,W,F,May,1870,30,M,14,0,0,Canada (Fr),Canada (Fr),Canada (Fr),1896,4,,,,,No,No,No,,,,,0,
+75-15B.jpg,75,15B,63,West,,,,281,,Palnande,Leon,Head,W,M,Oct,1835,64,M,32,,,Canada (Fr),Canada (Fr),Canada (Fr),1867,33,Na,Machinist,0,,No,No,Yes,O,M,H,,1,surname Palnande/Palriande uncertain; given name covered by tally mark; marital overwritten; speaks English overwritten (No/Yes)
+75-15B.jpg,75,15B,64,West,,,,,,,Eugenie,Wife,W,F,Aug,1856,43,M,32,0,0,Canada (Fr),Canada (Fr),Canada (Fr),1866,34,,,,,Yes,Yes,Yes,,,,,0,years married 32 as written
+75-15B.jpg,75,15B,65,West,,,,,,,Anna,Daughter,W,F,Mar,1883,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill laborer,0,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,66,West,,236,,282,,Viens,William,Head,W,M,Feb,1876,24,M,3,,,Vermont,Canada (Fr),Canada (Fr),,,,Tinsmith,0,,Yes,Yes,Yes,,,H,,1,owned/rented blank on page; given name partly covered by tally mark
+75-15B.jpg,75,15B,67,West,,,,,,,Lena,Wife,W,F,Mar,1876,24,M,3,3,3,Vermont,Canada (Fr),Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,68,West,,,,,,,Aurore,Daughter,W,F,July,1897,2,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-15B.jpg,75,15B,69,West,,,,,,,Edilbert,Son,W,M,Nov,1898,1,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-15B.jpg,75,15B,70,West,,,,,,,Edna,Daughter,W,F,Apr,1900,1/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,age 1 month
+75-15B.jpg,75,15B,71,West,,,,283,,Bourdeau,Narcisse,Head,W,M,Apr,1868,32,M,10,,,New York,New York,New York,,,,Cotton mill spinner,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Viens (dots in dwelling column)
+75-15B.jpg,75,15B,72,West,,,,,,,Auguste,Wife,W,F,Nov,1871,28,M,10,3,3,Canada (Fr),Canada (Fr),Canada (Fr),1886,14,,,,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,73,West,,,,,,,Dora,Daughter,W,F,Feb,1891,9,S,,,,Vermont,New York,Canada (Fr),,,,,,,,,,,,,,0,
+75-15B.jpg,75,15B,74,West,,,,,,,Homer,Son,W,M,Aug,1896,3,S,,,,Vermont,New York,Canada (Fr),,,,,,,,,,,,,,0,
+75-15B.jpg,75,15B,75,West,,,,,,,William,Son,W,M,Nov,1899,6/12,S,,,,Vermont,New York,Canada (Fr),,,,,,,,,,,,,,0,age 6 months
+75-15B.jpg,75,15B,76,West,,,,284,,Meunier,John,Head,W,M,Sept,1877,22,M,2,,,Massachusetts,Canada (Fr),Canada (Fr),,,,Cotton mill laborer,2,,No,No,No,R,,H,,1,given name partly covered by tally mark
+75-15B.jpg,75,15B,77,West,,,,,,,Anna,Wife,W,F,Feb,1878,22,M,2,1,1,Canada (Fr),Canada (Fr),Canada (Fr),1879,21,,,,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,78,West,,,,,,,Priscille,Daughter,W,F,Sept,1899,8/12,S,,,,Vermont,Massachusetts,Canada (Fr),,,,,,,,,,,,,,0,age 8 months
+75-15B.jpg,75,15B,79,West,,236,,285,,Lavallée,Gustave,Head,W,M,May,1875,25,M,0,,,Canada (Fr),Canada (Fr),Canada (Fr),1896,4,Al,Day laborer,2,,Yes,Yes,No,R,,H,,1,dwelling number last digit overwritten (236/230/237); given name partly covered by tally mark
+75-15B.jpg,75,15B,80,West,,,,,,,Claudia,Wife,W,F,Oct,1873,26,M,0,0,0,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,,,,Yes,Yes,No,,,,,0,
+75-15B.jpg,75,15B,81,West,,237,,286,,Cusson,Annastasie,Head,W,F,Mar,1875,25,M,5,2,1,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,O,M,H,,1,dwelling number last digit overwritten (237); given name partly covered by tally mark
+75-15B.jpg,75,15B,82,West,,,,,,,Marie,Daughter,W,F,Apr,1899,1,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-15B.jpg,75,15B,83,West,,,,,,Gagné,Flora,Niece,W,F,Feb,1892,8,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,1,birth year 1892 or 1842 (age 8 fits 1892)
+75-15B.jpg,75,15B,84,West,,238,,287,,Gagnon,Josephine,Head,W,F,Feb,1851,49,Wd,,8,7,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,No,Yes,O,F,H,,1,dwelling number last digit overwritten (238); given name partly covered by tally mark
+75-15B.jpg,75,15B,85,West,,,,,,,Ida J.,Daughter,W,F,Mar,1869,31,S,,,,Vermont,Vermont,Vermont,,,,Cotton mill weaver,1,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,86,West,,,,,,,Etta,Daughter,W,F,Feb,1872,28,S,,,,Vermont,Vermont,Vermont,,,,Cotton mill rover,0,,Yes,Yes,Yes,,,,,1,occupation reads sorver/rover
+75-15B.jpg,75,15B,87,West,,,,,,,Alma R.,Daughter,W,F,Sept,1873,26,S,,,,Vermont,Vermont,Vermont,,,,Cotton mill weaver,0,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,88,West,,,,,,,Edward D.,Son,W,M,Feb,1876,24,S,,,,Vermont,Vermont,Vermont,,,,Cotton mill weaver,0,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,89,West,,,,,,,Eugene W.,Son,W,M,June,1878,21,S,,,,Vermont,Vermont,Vermont,,,,Cotton mill weaver,0,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,90,West,,,,,,,Jessie L.,Daughter,W,F,Aug,1881,18,S,,,,Vermont,Vermont,Vermont,,,,Cotton mill weaver,0,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,91,West,,,,,,,Mary L.,Daughter,W,F,May,1887,13,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,92,West,,,,,,Bashaw,Edward,Boarder,W,M,June,1874,25,S,,,,Vermont,Vermont,Vermont,,,,Day laborer,0,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,93,West,,239,,288,,Marcotte,Louis,Head,W,M,Feb,1853,47,M,21,,,Canada (Fr),Canada (Fr),Canada (Fr),1868,32,Na,Pharmacist,0,,Yes,Yes,Yes,O,M,H,,1,dwelling number last digit overwritten (239); given name partly covered by tally mark; occupation written Pharmacists
+75-15B.jpg,75,15B,94,West,,,,,,,Celina,Wife,W,F,Dec,1863,36,M,21,9,5,Canada (Fr),Canada (Fr),Canada (Fr),1877,23,,,,,Yes,No,Yes,,,,,0,
+75-15B.jpg,75,15B,95,West,,,,,,,Anna,Daughter,W,F,Nov,1880,19,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,96,West,,,,,,,Albert,Son,W,M,Feb,1883,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Screen shop laborer,0,,Yes,Yes,Yes,,,,,1,occupation reads Screenshop laborer (uncertain)
+75-15B.jpg,75,15B,97,West,,,,,,,George,Son,W,M,Nov,1886,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,98,West,,,,,,,Henry,Son,W,M,Feb,1889,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-15B.jpg,75,15B,99,West,,,,,,,Eugene,Son,W,M,Oct,1893,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-15B.jpg,75,15B,100,West,,240,,289,,Germain,Esdras J.,Head,W,M,July,1865,34,M,10,,,Canada (Fr),Canada (Fr),Canada (Fr),1872,28,Na,Foundry pattern,0,,Yes,Yes,Yes,O,M,H,,1,dwelling number last digit overwritten (240); given name partly covered by tally mark (Esdras?); occupation written Foundery Pattern; household may continue on next sheet

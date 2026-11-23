@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+75-19A.jpg,75,19A,1,St. Peter,,281,,338,,Dubrule,Alphonse,Head,W,M,Aug,1851,48,M,17,,,Canada (Fr),Canada (Fr),Canada (Fr),1869,31,Na,Carpenter,1,,Yes,Yes,Yes,O,M,H,,1,dwelling number overwritten (280/281); birth year last digit 1 or 7 (1851 fits age 48); given name partly covered by tally mark
+75-19A.jpg,75,19A,2,St. Peter,,,,,,,Marie,Wife,W,F,Feb,1856,44,M,17,12,4,Canada (Fr),Canada (Fr),Canada (Fr),1883,17,,,,,Yes,Yes,No,,,,,0,
+75-19A.jpg,75,19A,3,St. Peter,,,,,,,Dolora,Daughter,W,F,Dec,1885,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,4,St. Peter,,,,,,,Oria,Daughter,W,F,Nov,1891,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-19A.jpg,75,19A,5,St. Peter,,,,,,,Annette,Daughter,W,F,Dec,1892,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,1,birth year third digit overwritten (1892)
+75-19A.jpg,75,19A,6,St. Peter,,,,,,,Leopold,Son,W,M,Jan,1894,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-19A.jpg,75,19A,7,St. Peter,,282,,339,,Lavallée,Isidore,Head,W,M,Jan,1841,59,M,41,,,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,Al,Day labourer,2,,No,No,No,R,,H,,1,dwelling number last digit overwritten (282/281); given name partly covered by tally mark
+75-19A.jpg,75,19A,8,St. Peter,,,,,,,Marie,Wife,W,F,Mar,1841,59,M,41,13,12,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,,,,,No,No,No,,,,,0,
+75-19A.jpg,75,19A,9,St. Peter,,,,,,,Ulric,Son,W,M,May,1868,32,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,,Carpenter,1,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,10,St. Peter,,,,,,,George,Son,W,M,Mar,1886,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,1,age overwritten (14)
+75-19A.jpg,75,19A,11,St. Peter,,,,,,,Roseanna,Daughter,W,F,Apr,1887,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,12,St. Peter,,283,,340,,Houle,Narcisse,Head,W,M,Aug,1846,53,M,21,,,Canada (Fr),Canada (Fr),Canada (Fr),1849,51,Na,Cobbler,0,,Yes,Yes,Yes,R,,H,,0,
+75-19A.jpg,75,19A,13,St. Peter,,,,,,,Matilde,Wife,W,F,Mar,1848,52,M,21,9,5,Canada (Fr),Canada (Fr),Canada (Fr),1849,51,,,,,No,No,Yes,,,,,0,
+75-19A.jpg,75,19A,14,St. Peter,,,,,,,Lucy,Daughter,W,F,Sept,1879,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Woollen mill laborer,0,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,15,St. Peter,,,,,,,Mary,Daughter,W,F,Nov,1880,19,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Woollen mill labourer,0,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,16,St. Peter,,,,,,,Delima,Daughter,W,F,Jan,1888,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,,,,,,,,0,literacy columns blank
+75-19A.jpg,75,19A,17,St. Peter,,,,,,,Dora,Daughter,W,F,Aug,1883,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,18,St. Peter,,,,341,,Mead,Edward,Head,W,M,Mar,1828,72,Wd,,,,Ireland,Ireland,Ireland,1855,45,Na,,,,No,No,Yes,O,M,H,,0,no dwelling number: same dwelling as Houle
+75-19A.jpg,75,19A,19,St. Peter,,284,,342,,Collet,Adelard,Head,W,M,Sept,1846,53,M,32,,,Canada (Fr),Canada (Fr),Canada (Fr),1864,36,Al,Day laborer,3,,Yes,No,Yes,R,,H,,1,given name partly covered by tally mark
+75-19A.jpg,75,19A,20,St. Peter,,,,,,,Sarah,Wife,W,F,June,1849,50,M,32,10,5,Canada (Fr),Canada (Fr),Canada (Fr),1865,35,,,,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,21,St. Peter,,,,,,,William,Son,W,M,Dec,1876,23,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1878,22,Al,,,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,22,St. Peter,,,,,,,Ferdinand,Son,W,M,Mar,1881,19,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,,,Screen shop labourer,4,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,23,St. Peter,,,,,,,Laura,Daughter,W,F,Dec,1883,16,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,24,St. Peter,,,,,,,Bertie,Daughter,W,F,July,1886,13,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,,,At school,,7,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,25,St. Peter,,,,,,,Aurore,Daughter,W,F,Sept,1888,11,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,,,At school,,6,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,26,St. Peter,,,,,,Blanchette,John,Nephew,W,M,Jan,1880,20,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,27,St. Peter,,,,343,,Bonneau,Joseph,Head,W,M,May,1844,56,M,33,,,Canada (Fr),Canada (Fr),Canada (Fr),1895,5,Al,Day laborer,0,,No,No,No,R,,H,,1,no dwelling number: same dwelling as Collet; given name partly covered by tally mark
+75-19A.jpg,75,19A,28,St. Peter,,,,,,,Flavie,Wife,W,F,July,1835,64,M,33,8,4,Canada (Fr),Canada (Fr),Canada (Fr),1895,5,,,,,No,No,No,,,,,1,given name Flavie or Flavis
+75-19A.jpg,75,19A,29,St. Peter,,,,,,,Adelard,Son,W,M,Oct,1878,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1895,5,,Day laborer,0,,No,No,No,,,,,0,
+75-19A.jpg,75,19A,30,St. Peter,,,,,,,Orilas,Son,W,M,Oct,1882,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1895,5,,Screen shop laborer,0,,Yes,Yes,Yes,,,,,1,given name Orilas or Orilaz
+75-19A.jpg,75,19A,31,West Lane,,285,,344,,Greno,Edward,Head,W,M,Feb,1872,28,M,7,,,Vermont,Canada (Fr),Canada (Fr),,,,Farm laborer,0,,Yes,Yes,Yes,R,,H,,1,surname Greno or Grenon; given name partly covered by tally mark
+75-19A.jpg,75,19A,32,West Lane,,,,,,,Leontine,Wife,W,F,June,1860,39,M,7,4,3,Canada (Fr),Canada (Fr),Canada (Fr),1875,25,,,,,No,No,Yes,,,,,0,
+75-19A.jpg,75,19A,33,West Lane,,,,,,,Edward Jr.,Son,W,M,July,1896,3,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-19A.jpg,75,19A,34,West Lane,,,,,,,Frank,Son,W,M,Dec,1896,3,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,birth Dec 1896 as written; only 5 months after brother Edward (July 1896)
+75-19A.jpg,75,19A,35,West Lane,,,,,,,Bertha,Daughter,W,F,Aug,1898,1,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-19A.jpg,75,19A,36,West Lane,,,,345,,Barney,Alfred,Head,W,M,Oct,1846,53,M,32,,,Canada (Fr),Canada (Fr),Canada (Fr),1863,37,Na,Carpenter,0,,No,No,Yes,O,M,H,,0,no dwelling number: same dwelling as Greno
+75-19A.jpg,75,19A,37,West Lane,,,,,,,Alice,Wife,W,F,Aug,1852,47,M,32,7,7,Canada (Fr),Canada (Fr),Canada (Fr),1863,37,,Cotton mill spinner,0,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,38,West Lane,,,,,,,Eva,Daughter,W,F,May,1880,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill spinner,0,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,39,West Lane,,,,,,,Albina,Daughter,W,F,June,1882,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill spinner,0,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,40,West Lane,,,,,,,Eli,Son,W,M,June,1886,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,41,West Lane,,,,,,,Henry,Son,W,M,May,1890,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,No,No,Yes,,,,,0,
+75-19A.jpg,75,19A,42,West Lane,,,,346,,Jette,Lester,Head,W,M,Sept,1831,68,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),1876,24,Na,Day laborer,6,,No,No,No,R,,H,,1,given name partly covered by tally mark (Lester/Lestor); no dwelling number: same dwelling as Greno
+75-19A.jpg,75,19A,43,West Lane,,,,,,,Louis,Son,W,M,Dec,1877,22,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Screen shop labourer,4,,No,No,Yes,,,,,0,
+75-19A.jpg,75,19A,44,West Lane,,,,,,,Agnes,Daughter,W,F,May,1880,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill laborer,8,,Yes,Yes,Yes,,,,,0,
+75-19A.jpg,75,19A,45,West Lane,,286,,347,,Chevrier,J. B. E.,Head,W,M,June,1871,28,M,3,,,Canada (Fr),Canada (Fr),Canada (Fr),1897,3,Al,Salesman groceries,0,,Yes,Yes,Yes,R,,H,,1,given name abbreviated and partly covered by tally mark (Je Bte E.?)
+75-19A.jpg,75,19A,46,West Lane,,,,,,,Leonie,Wife,W,F,Aug,1872,27,M,3,0,0,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,1,given name Leonie or Leonil
+75-19A.jpg,75,19A,47,West Lane,,,,348,,Laramée,Narcisse,Head,W,M,Aug,1847,52,M,28,,,New York,Canada (Fr),Canada (Fr),,,,Day labourer,9,,Yes,Yes,Yes,R,,H,,0,no dwelling number: same dwelling as Chevrier
+75-19A.jpg,75,19A,48,West Lane,,,,,,,Hilda,Wife,W,F,May,1849,51,M,28,7,4,Canada (Fr),Canada (Fr),Canada (Fr),1865,35,,Worsted mill spinner,0,,No,No,No,,,,,1,occupation partly lost to page damage (Worsted mill spinner)
+75-19A.jpg,75,19A,49,West Lane,,,,,,,Marie E.,Daughter,W,F,Aug,1889,10,S,,,,New Hampshire,New York,Canada (Fr),,,,At school,,9,No,No,Yes,,,,,1,row darkened and torn; occupation partly lost (At school)
+75-19A.jpg,75,19A,50,West Lane,,,,,,,Arthur,Son,W,M,Feb,1892,8,S,,,,Vermont,New York,Canada (Fr),,,,,,,,,,,,,,1,row darkened and torn; birth year faint (1892); right-hand columns lost to damage

@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+75-04A.jpg,75,04A,1,Hall,,^,,^,,Manville,Marcelle,Granddaughter,W,F,June,1899,11/12,S,,,,Vermont,France,France,,,,,,,,,,,,,,0,household continues from previous sheet; age 11 months
+75-04A.jpg,75,04A,2,Hall,,55,,63,,Delhaye,Louis,Head,W,M,Feb,1859,41,M,20,,,France,France,France,1893,7,Pa,cotton mill weaver,0,,Yes,Yes,Yes,R,,H,,0,
+75-04A.jpg,75,04A,3,Hall,,,,,,,Marie,Wife,W,F,Mar,1859,41,M,20,3,3,France,France,France,1894,6,,cotton mill weaver,0,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,4,Hall,,56,,64,,Grandbois,Claphore,Head,W,M,July,1855,44,M,19,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,Al,cotton mill laborer,8,,No,No,No,R,,H,,1,given name partly covered by tally mark (Claphore?)
+75-04A.jpg,75,04A,5,Hall,,,,,,,Elise,Wife,W,F,Mar,1852,48,M,19,4,4,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,,,,No,No,No,,,,,0,
+75-04A.jpg,75,04A,6,Hall,,,,,,,William,Son,W,M,May,1882,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,cotton mill carder,1,,No,No,Yes,,,,,0,
+75-04A.jpg,75,04A,7,Hall,,,,,,,Freddie,Son,W,M,May,1884,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,cotton mill carder,1,,No,No,Yes,,,,,0,
+75-04A.jpg,75,04A,8,Hall,,,,,,,Philias,Son,W,M,June,1885,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,cotton mill carder,1,,No,No,Yes,,,,,0,
+75-04A.jpg,75,04A,9,Hall,,,,,,,Elzear,Son,W,M,July,1893,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,10,Hall,,57,,65,,Shepard,Thomas,Head,W,M,June,1819,80,M,50,,,England,England,England,1844,56,Al,,,,Yes,Yes,Yes,O,F,H,,0,
+75-04A.jpg,75,04A,11,Hall,,,,,,,Ann,Wife,W,F,June,1821,78,M,50,5,2,Ireland,Ireland,Ireland,1845,55,,,,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,12,Hall,,,,,,Drinkwater,Margaret,Daughter,W,F,July,1859,40,M,6,0,0,Vermont,England,Ireland,,,,cotton mill carder,0,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,13,Hall,,58,,66,,Mahaiere,George,Head,W,M,May,1847,53,M,14,,,Vermont,Canada (Fr),Canada (Fr),,,,Day laborer,3,,No,No,Yes,O,F,H,,1,given name partly covered by tally mark (George/Georges); surname Mahaiere or Mahaiers
+75-04A.jpg,75,04A,14,Hall,,,,,,,Jenny,Wife,W,F,Mar,1857,43,M,14,0,0,Canada (Fr),Canada (Fr),Canada (Fr),1874,26,,,,,No,No,Yes,,,,,0,
+75-04A.jpg,75,04A,15,Shephard,,59,,67,,Winderl,Anton,Head,W,M,Apr,1856,44,M,18,,,Germany,Germany,Germany,1882,18,Al,Day laborer,0,,Yes,Yes,Yes,,,H,,1,given name partly covered by tally mark; owned/rented column blank
+75-04A.jpg,75,04A,16,Shephard,,,,,,,Elizabeth,Wife,W,F,Nov,1857,42,M,18,9,8,Germany,Germany,Germany,1882,18,,,,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,17,Shephard,,,,,,,Henry,Son,W,M,June,1883,16,S,,,,Vermont,Germany,Germany,,,,Day laborer,2,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,18,Shephard,,,,,,,Willie,Son,W,M,Feb,1885,15,S,,,,Vermont,Germany,Germany,,,,Day laborer,2,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,19,Shephard,,,,,,,Danny,Son,W,M,June,1887,12,S,,,,Vermont,Germany,Germany,,,,At school,,7,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,20,Shephard,,,,,,,Joseph,Son,W,M,Apr,1889,11,S,,,,Vermont,Germany,Germany,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,21,Shephard,,,,,,,Theresa,Daughter,W,F,Nov,1890,9,S,,,,Vermont,Germany,Germany,,,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,22,Shephard,,,,,,,Meddy,Son,W,M,Oct,1882,7,S,,,,Vermont,Germany,Germany,,,,,,,,,,,,,,0,birth year written 1882 but age 7 implies 1892; kept as written
+75-04A.jpg,75,04A,23,Shephard,,,,,,,Georgie,Son,W,M,Dec,1895,4,S,,,,Vermont,Germany,Germany,,,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,24,Shephard,,,,,,,Alex,Son,W,M,May,1897,3,S,,,,Vermont,Germany,Germany,,,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,25,Shephard,,60,,68,,Landry,David,Head,W,M,May,1850,50,M,22,,,Canada (Fr),Canada (Fr),Canada (Fr),1885,15,Al,Farm laborer,2,,Yes,Yes,Yes,O,F,H,,1,birth year overwritten (1860/1850); 1850 agrees with age 50
+75-04A.jpg,75,04A,26,Shephard,,,,,,,Josephine,Wife,W,F,Aug,1850,49,M,22,9,9,Canada (Fr),Canada (Fr),Canada (Fr),1885,15,,,,,Yes,Yes,No,,,,,0,
+75-04A.jpg,75,04A,27,Shephard,,,,,,,Vitallien,Son,W,M,May,1882,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1885,15,,cotton mill carder,8,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,28,Shephard,,,,,,,Dora,Daughter,W,F,July,1883,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1885,15,,,,,Yes,Yes,No,,,,,0,
+75-04A.jpg,75,04A,29,Shephard,,,,,,,Edna,Daughter,W,F,July,1886,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,30,Shephard,,,,,,,Joseph A.,Son,W,M,Aug,1888,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,31,Shephard,,,,,,,Sideusse,Son,W,M,Nov,1890,9,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1896,4,,,,,,,,,,,,1,given name hard to read (Sideusse/Sidense)
+75-04A.jpg,75,04A,32,Shephard,,,,,,,Maria J.,Daughter,W,F,Apr,1892,8,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1896,4,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,33,Shephard,,,,,,,Adelard,Son,W,M,Sept,1893,6,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1896,4,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,34,Shephard,,61,,69,,Hall,Napoleon,Head,W,M,Dec,1863,36,M,3,,,New York,France,Canada (Fr),,,,Mason,11,,Yes,Yes,Yes,R,,H,,0,
+75-04A.jpg,75,04A,35,Shephard,,,,,,,Emma,Wife,W,F,Aug,1876,23,M,3,1,1,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,36,Shephard,,,,,,,Irene,Daughter,W,F,June,1897,2,S,,,,Massachusetts,New York,New York,,,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,37,North,,62,,70,,Frenette,Phoebe,Head,W,F,Apr,1853,47,Wd,,6,6,Canada,Canada (Fr),Ireland,1890,10,,,,,No,No,No,O,M,H,,1,given name partly covered by tally mark (Phoebe?)
+75-04A.jpg,75,04A,38,North,,,,,,,Georgiana,Daughter,W,F,Mar,1875,25,S,,,,Canada,Canada (Fr),Canada,1890,10,,,,,No,No,No,,,,,0,
+75-04A.jpg,75,04A,39,North,,,,,,,Blanche,Daughter,W,F,July,1876,23,S,,,,Canada,Canada (Fr),Canada,1890,10,,cotton mill rover,0,,Yes,Yes,Yes,,,,,1,occupation rover or sower
+75-04A.jpg,75,04A,40,North,,,,,,,Delia,Daughter,W,F,May,1878,22,S,,,,Canada,Canada (Fr),Canada,1890,10,,cotton mill rover,0,,Yes,Yes,Yes,,,,,1,occupation rover or sower
+75-04A.jpg,75,04A,41,North,,,,,,,Louise,Daughter,W,F,May,1880,20,S,,,,Canada,Canada (Fr),Canada,1890,10,,cotton mill rover,0,,Yes,Yes,Yes,,,,,1,occupation rover or sower
+75-04A.jpg,75,04A,42,North,,,,,,,Adjutor,Son,W,M,Feb,1881,19,S,,,,Canada (Eng),Canada (Fr),Canada (Eng),1890,10,,screen shop laborer,5,,Yes,Yes,Yes,,,,,1,"""Eng"" added after Canada for own and mother's birthplace"
+75-04A.jpg,75,04A,43,North,,,,,,,Napoleon,Son,W,M,Oct,1882,17,S,,,,Canada,Canada (Fr),Canada,1890,10,,cotton mill laborer,4,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,44,North,,63,,71,,Brasard,Peter,Head,W,M,Apr,1871,29,M,2,,,Vermont,Vermont,Vermont,,,,cotton mill overseer,0,,Yes,Yes,Yes,R,,H,,1,surname Brasard or Brassard; given name partly covered by tally mark
+75-04A.jpg,75,04A,45,North,,,,,,,Lizzie A.,Wife,W,F,Aug,1870,29,M,2,2,2,Vermont,Vermont,Canada (Irish),,,,,,,Yes,Yes,Yes,,,,,0,"mother's birthplace written ""Canada-Irish"""
+75-04A.jpg,75,04A,46,North,,,,,,,Isabel,Daughter,W,F,July,1898,1,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-04A.jpg,75,04A,47,North,,,,,,,Francis,Son,W,M,Dec,1899,5/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,age 5 months
+75-04A.jpg,75,04A,48,North,,64,,72,,Huard,Hector,Head,W,M,Mar,1863,37,M,15,,,Canada (Fr),Canada (Fr),Canada (Fr),1865,35,Na,Photographer,0,,Yes,Yes,Yes,O,F,H,,0,
+75-04A.jpg,75,04A,49,North,,,,,,,Carrie,Wife,W,F,Feb,1863,37,M,15,5,4,Vermont,Vermont,Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-04A.jpg,75,04A,50,North,,,,,,,Priscilla,Daughter,W,F,Sept,1885,14,S,,,,Vermont,Canada (Fr),Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,household may continue on 04B

@@ -24,7 +24,7 @@ import town  # noqa: E402
 def geocode(house_num, street, token, g):
     params = {
         "address_number": house_num,
-        "street": f"{street} Street",
+        "street": street,
         "place": g["place"],
         "region": "Vermont",
         "country": "us",
@@ -52,7 +52,7 @@ def main(people_csv, dst, g):
     addresses = {}
     for p in csv.DictReader(open(people_csv)):
         if p["house_num"]:
-            addresses.setdefault(p["address"], (p["house_num"], p["street"]))
+            addresses.setdefault(p["address"], (p["house_num"], p["street_name"]))
     for addr, (num, street) in addresses.items():
         if addr not in cache:
             cache[addr] = geocode(num, street, token, g)

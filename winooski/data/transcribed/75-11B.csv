@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+75-11B.jpg,75,11B,51,Root Lane,^,^,,^,,Decarreau,Flora,Daughter,W,F,Dec,1893,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,1,household continues from 11A; street name read Root Lane (uncertain); surname Decarreau or Dicarreau
+75-11B.jpg,75,11B,52,Root Lane,,,,,,,Francois,Son,W,M,Apr,1895,5,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-11B.jpg,75,11B,53,Root Lane,,,,,,,Alida,Daughter,W,F,Apr,1897,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-11B.jpg,75,11B,54,Root Lane,,,,,,,Albina,Daughter,W,F,Apr,1899,1,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,1,birth year overwritten (1899)
+75-11B.jpg,75,11B,55,Root Lane,,176,175,207,,Provost,Flavie,Head,W,F,Oct,1829,70,Wd,,8,4,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,,,,,No,No,No,O,F,H,,1,dwelling number overwritten (176/175); given name Flavie or Flanie partly covered by tally mark
+75-11B.jpg,75,11B,56,Root Lane,,,,,,Mongeon,Thomas,Son-in-law,W,M,July,1837,62,M,15,,,Canada (Fr),Canada (Fr),Canada (Fr),1851,49,Na,Grocer,0,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,57,Root Lane,,,,,,,Delima,Daughter,W,F,Sept,1849,50,M,15,5,3,Canada (Fr),Canada (Fr),Canada (Fr),1869,31,,,,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,58,Root Lane,,,,,,,Philip,Grandson,W,M,Feb,1887,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,59,Root Lane,,,,,,,Auguste,Grandson,W,M,Apr,1888,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,60,Root Lane,,,,,,,Graziala,Granddaughter,W,F,Dec,1894,5,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-11B.jpg,75,11B,61,Hickok,,177,176,208,,Issautel,Christophe,Head,W,M,Jan,1838,62,M,39,,,Canada (Fr),Canada (Fr),Canada (Fr),1864,36,Na,,,,No,No,Yes,O,F,H,,1,street name read Hickok (uncertain); dwelling number overwritten (177/176); end of given name covered by tally mark (Christoph...); surname initial I or D
+75-11B.jpg,75,11B,62,Hickok,,,,,,,Flavie,Wife,W,F,Feb,1838,62,M,39,13,11,Canada (Fr),Canada (Fr),Canada (Fr),1864,36,,,,,Yes,Yes,Yes,,,,,1,given name Flavie or Flanie
+75-11B.jpg,75,11B,63,Hickok,,,,,,,Henry,Son,W,M,Sept,1876,23,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Woodyard laborer,0,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,64,Hickok,,,,,,,Corinne,Daughter,W,F,June,1877,22,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill weaver,4,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,65,Hickok,,178,177,209,,Marcotte,Jte. B.,Head,W,M,Aug,1859,40,M,13,,,Canada (Fr),Canada (Fr),Canada (Fr),1869,31,Na,Wood dealer,0,,Yes,Yes,Yes,,,H,,1,dwelling number overwritten (178/177); owned/rented column blank
+75-11B.jpg,75,11B,66,Hickok,,,,,,,Victoria,Wife,W,F,Apr,1864,36,M,13,4,4,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,67,Hickok,,,,,,,Frederick,Son,W,M,Dec,1887,12,S,,,,Vermont,Canada (Fr),Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,68,Hickok,,,,,,,Esderas,Son,W,M,Oct,1889,10,S,,,,Vermont,Canada (Fr),Vermont,,,,At school,,9,Yes,Yes,No,,,,,1,given name Esderas or Esdras
+75-11B.jpg,75,11B,69,Hickok,,,,,,,Eugene,Son,W,M,Dec,1891,8,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-11B.jpg,75,11B,70,Hickok,,,,,,,Alma,Daughter,W,F,Sept,1894,5,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-11B.jpg,75,11B,71,Hickok,,179,178,210,,Hanlon,Edward,Head,W,M,Feb,1848,52,M,20,,,Ireland,Ireland,Ireland,1854,46,Na,Garden laborer,4,,Yes,Yes,Yes,O,F,H,,1,dwelling number overwritten (179/178)
+75-11B.jpg,75,11B,72,Hickok,,,,,,,Julia,Wife,W,F,Mar,1844,56,M,20,0,0,Ireland,Ireland,Ireland,1845,55,,,,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,73,Hickok,,,,,,Ganey,Mary E.,Boarder,W,F,July,1884,15,S,,,,Vermont,Ireland,Vermont,,,,Cotton mill finisher,4,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,74,Hickok,,180,179,211,,Gannon,John,Head,W,M,Mar,1837,63,M,37,,,Ireland,Ireland,Ireland,1850,50,Na,Day laborer,6,,Yes,Yes,Yes,O,F,H,,1,dwelling number heavily overwritten (reads 178/179/180)
+75-11B.jpg,75,11B,75,Hickok,,,,,,,Mary,Wife,W,F,Mar,1835,65,M,37,8,4,Ireland,Ireland,Ireland,1839,41,,,,,Yes,No,Yes,,,,,1,birth year overwritten (1835/1836)
+75-11B.jpg,75,11B,76,Hickok,,,,,,,Mary,Daughter,W,F,July,1873,26,S,,,,Vermont,Ireland,Ireland,,,,Bookkeeper grocery,0,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,77,Hickok,,,,,,,Steve J.,Son,W,M,Mar,1876,24,S,,,,Vermont,Ireland,Ireland,,,,Freight house laborer,0,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,78,Hickok,,180,,212,,Gadue,George,Head,W,M,Jan,1863,37,M,15,,,Canada (Fr),Canada (Fr),Canada (Fr),1864,36,Na,Electrician,0,,No,No,Yes,R,,H,,1,dwelling reads 180 with no visible renumbering (sequence suggests original 181); family number 212 written oddly (272?)
+75-11B.jpg,75,11B,79,Hickok,,,,,,,Josephine,Wife,W,F,Jan,1867,33,M,15,5,4,Wisconsin,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,80,Hickok,,,,,,,Helen,Daughter,W,F,Nov,1885,14,S,,,,Vermont,Canada (Fr),Wisconsin,,,,Gaiter shop laborer,3,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,81,Hickok,,,,,,,Ernest,Son,W,M,Oct,1887,12,S,,,,Vermont,Canada (Fr),Wisconsin,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,82,Hickok,,,,,,,Albert,Son,W,M,Sept,1890,9,S,,,,Vermont,Canada (Fr),Wisconsin,,,,,,,,,,,,,,0,
+75-11B.jpg,75,11B,83,Hickok,,,,,,,Beatrice,Daughter,W,F,Aug,1892,7,S,,,,Vermont,Canada (Fr),Wisconsin,,,,,,,,,,,,,,0,
+75-11B.jpg,75,11B,84,Hickok,,182,181,213,,Mongeon,Joseph,Head,W,M,Aug,1833,66,M,41,,,Canada (Fr),Canada (Fr),Canada (Fr),1853,47,Na,Blacksmith,0,,Yes,Yes,Yes,O,F,H,,1,dwelling number overwritten (182/181)
+75-11B.jpg,75,11B,85,Hickok,,,,,,,Lucie,Wife,W,F,Aug,1838,61,M,41,11,7,Vermont,Canada (Fr),Canada (Fr),,,,,,,No,No,Yes,,,,,0,
+75-11B.jpg,75,11B,86,Hickok,,,,,,,Alfred,Son,W,M,July,1878,21,S,,,,Vermont,Canada (Fr),Vermont,,,,Cotton mill weaver,2,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,87,Hickok,,,,214,,Mongeon,William E.,Head,W,M,Sept,1875,24,M,4,,,Vermont,Canada (Fr),Vermont,,,,Cotton mill weaver,0,,Yes,Yes,Yes,,,H,,1,new family in same dwelling as Joseph Mongeon; relation Head written over; given name partly covered by tally mark
+75-11B.jpg,75,11B,88,Hickok,,,,,,,Flora,Wife,W,F,May,1876,24,M,4,0,0,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill sorter,0,,Yes,Yes,Yes,,,,,1,"relation ""Wife"" written over ""Daughter""; occupation sorter or sewer"
+75-11B.jpg,75,11B,89,Hickok,,,,,,Deroche,Lizzie,Boarder,W,F,Feb,1884,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,90,Hickok,,183,182,215,,Mongeon,Jules,Head,W,M,July,1865,34,M,8,,,Vermont,Canada (Fr),Vermont,,,,Butcher,0,,Yes,Yes,Yes,O,F,H,,1,dwelling number overwritten (183/182)
+75-11B.jpg,75,11B,91,Hickok,,,,,,,Elizabeth,Wife,W,F,Aug,1865,34,M,8,5,3,Vermont,Vermont,Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,92,Hickok,,,,,,,Raina,Daughter,W,F,July,1892,7,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,given name Raina or Kaina
+75-11B.jpg,75,11B,93,Hickok,,,,,,,Edna,Daughter,W,F,Jan,1894,6,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-11B.jpg,75,11B,94,Hickok,,,,,,,Laurent,Son,W,M,July,1899,10/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,given name Laurent or Laurenty; age 10 months
+75-11B.jpg,75,11B,95,Hickok,,184,183,216,,Issautel,Pierre,Head,W,M,Sept,1835,64,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),1865,35,Na,Grocer,0,,Yes,Yes,Yes,O,F,H,,1,dwelling number overwritten (184/183); surname initial I or D
+75-11B.jpg,75,11B,96,Hickok,,,,,,Simays,Edward,Son-in-law,W,M,Feb,1860,40,M,8,,,Canada,Belgium,Belgium,1884,16,Na,Venetian blind labourer,0,,Yes,Yes,Yes,,,,,1,surname Simays or Sinays
+75-11B.jpg,75,11B,97,Hickok,,,,,,,Clara,Daughter,W,F,Sept,1864,35,M,8,3,2,Massachusetts,Canada (Fr),Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+75-11B.jpg,75,11B,98,Hickok,,,,,,,Adrien,Grandson,W,M,July,1892,7,S,,,,Vermont,Belgium,Massachusetts,,,,,,,,,,,,,,0,"relation ""G. Son"""
+75-11B.jpg,75,11B,99,Hickok,,,,,,,Irene,Granddaughter,W,F,Aug,1897,2,S,,,,Vermont,Belgium,Massachusetts,,,,,,,,,,,,,,0,"relation ""G. Daughter"""
+75-11B.jpg,75,11B,100,Hickok,,185,184,217,,Issautel,Arthur,Head,W,M,June,1869,30,M,9,,,Vermont,Canada (Fr),Canada (Fr),,,,Salesman groceries,0,,Yes,Yes,Yes,R,,H,,1,dwelling number overwritten (185/184); surname written Dssautel/Issautel; age scribbled over (3_); years married 9 uncertain

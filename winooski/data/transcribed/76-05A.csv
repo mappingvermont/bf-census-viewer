@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+76-05A.jpg,76,05A,1,West Canal,,74,,80,,Young,Henry,Head,W,M,May,1874,26,M,0,,,New Hampshire,Canada (Fr),Canada (Fr),,,,Barber,0,,Yes,Yes,Yes,R,,H,,0,
+76-05A.jpg,76,05A,2,West Canal,,,,,,,Kate,Wife,W,F,July,1875,24,M,0,0,,Vermont,Scotland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,3,West Canal,,,,,,Alexander,James,Father-in-law,W,M,May,1828,72,M,47,,,Scotland,Scotland,Scotland,1865,35,Na,Day laborer,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,4,West Canal,,,,,,,Jane,Mother-in-law,W,F,May,1833,67,M,47,12,5,Ireland,Ireland,Ireland,1860,40,,,,,No,No,Yes,,,,,1,children living read as 5 (could be 15 or 6)
+76-05A.jpg,76,05A,5,West Canal,,75,,81,,Stapleton,James,Head,W,M,Jan,1853,47,M,18,,,Ireland,Ireland,Ireland,1855,45,Na,Woolen mill laborer,0,,Yes,Yes,Yes,O,F,H,,0,
+76-05A.jpg,76,05A,6,West Canal,,,,,,,Kate,Wife,W,F,July,1852,47,M,18,2,1,Ireland,Ireland,Ireland,1873,27,,,,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,7,West Canal,,,,82,,Killin,Eliza,Head,W,F,Feb,1825,75,Wd,,0,,Ireland,Ireland,Ireland,1840,60,,,,,Yes,No,Yes,R,,H,,1,surname Killin or Hillin; new family in same dwelling as Stapleton
+76-05A.jpg,76,05A,8,West Canal,,76,,83,,McKnight,Edward,Head,W,M,Sept,1853,46,Wd,,,,Michigan,Scotland,Ireland,,,,Steam fitter,0,,Yes,Yes,Yes,R,,H,,1,surname McKnight or McBight; occupation unclear (Steam fitter/Steam shiller)
+76-05A.jpg,76,05A,9,West Canal,,,,,,,Kittie,Daughter,W,F,Dec,1877,22,S,,,,New York,Michigan,New York,,,,Woolen mill sewer,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,10,West Canal,,,,,,,Bessie,Daughter,W,F,Feb,1879,21,S,,,,New York,Michigan,New York,,,,Woolen mill sewer,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,11,West Canal,,,,,,,Anna,Daughter,W,F,Aug,1880,19,S,,,,New York,Michigan,New York,,,,Cotton mill spinner,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,12,West Canal,,,,,,,Alice,Daughter,W,F,Mar,1882,18,S,,,,New York,Michigan,New York,,,,Woolen mill sewer,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,13,West Canal,,,,,,,Nellie,Daughter,W,F,June,1883,16,S,,,,New York,Michigan,New York,,,,,,,Yes,Yes,Yes,,,,,1,given name Nellie or Bellie
+76-05A.jpg,76,05A,14,West Canal,,,,,,,Teressa,Daughter,W,F,July,1888,11,S,,,,New York,Michigan,New York,,,,At school,,10,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,15,West Canal,,,,,,,Henry,Son,W,M,May,1890,10,S,,,,New York,Michigan,New York,,,,At school,,10,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,16,West Canal,,,,,,Stapleton,Mamy A.,Boarder,W,F,July,1885,14,S,,,,Vermont,Ireland,Ireland,,,,At school,,10,Yes,Yes,Yes,,,,,1,given name Mamy or Mary
+76-05A.jpg,76,05A,17,West Canal,,77,,84,,Quinlan,Jane,Head,W,F,May,1840,60,Wd,,5,1,Ireland,Ireland,Ireland,1866,35,,Woolen mill laborer,0,,No,No,Yes,R,,H,,0,years in US 35 written (1866 implies 34)
+76-05A.jpg,76,05A,18,West Canal,25,78,,85,,Myles,Bridget,Head,W,F,Mar,1837,63,D,,10,8,Ireland,Ireland,Ireland,1843,57,,,,,No,No,Yes,R,,H,,1,marital D (could be Wd); children living 8 unclear
+76-05A.jpg,76,05A,19,West Canal,,,,,,,Bridget,Daughter,W,F,Apr,1873,27,S,,,,Vermont,Vermont,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,20,West Canal,,,,,,,Martha,Daughter,W,F,May,1879,21,S,,,,Vermont,Vermont,Ireland,,,,Cotton mill carder,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,21,West Canal,,79,,86,,Bulger,Bridget,Head,W,F,Apr,1855,45,Wd,,12,10,New York,Ireland,Ireland,,,,,,,Yes,Yes,Yes,R,,H,,0,
+76-05A.jpg,76,05A,22,West Canal,,,,,,,Winnifred,Daughter,W,F,May,1877,23,S,,,,New York,Canada (Eng),New York,,,,Woolen mill sewer,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,23,West Canal,,,,,,,Bridget,Daughter,W,F,Sept,1880,19,S,,,,New York,Canada (Eng),New York,,,,Woolen mill sewer,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,24,West Canal,,,,,,,John,Son,W,M,Feb,1882,18,S,,,,New York,Canada (Eng),New York,,,,Woolen mill weaver,2,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,25,West Canal,,,,,,,Thomas,Son,W,M,July,1883,16,S,,,,New York,Canada (Eng),New York,,,,Woolen mill laborer,3,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,26,West Canal,,,,,,,May,Daughter,W,F,Nov,1884,15,S,,,,New York,Canada (Eng),New York,,,,Woolen mill laborer,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,27,West Canal,,,,,,,Margaret,Daughter,W,F,Oct,1886,13,S,,,,New York,Canada (Eng),New York,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,28,West Canal,,,,,,,James,Son,W,M,May,1888,12,S,,,,New York,Canada (Eng),New York,,,,At school,,6,No,No,No,,,,,0,"""Dumb"" written in margin"
+76-05A.jpg,76,05A,29,West Canal,,,,,,,Thresa,Daughter,W,F,Mar,1890,10,S,,,,New York,Canada (Eng),New York,,,,At school,,5,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,30,West Canal,,,,,,,Agnes,Daughter,W,F,Apr,1894,6,S,,,,New York,Canada (Eng),New York,,,,,,0,,,,,,,,0,
+76-05A.jpg,76,05A,31,West Canal,,,,,,,Mable,Daughter,W,F,May,1895,5,S,,,,New York,Canada (Eng),New York,,,,,,0,,,,,,,,0,
+76-05A.jpg,76,05A,32,West Canal,,80,,87,,Thin,Duncan,Head,W,M,Oct,1873,26,M,2,,,Scotland,Scotland,Scotland,1896,4,Al,Cotton mill spinner,0,,Yes,Yes,Yes,R,,H,,1,given name hard to read and covered by tally mark (Duncan?)
+76-05A.jpg,76,05A,33,West Canal,,,,,,,Mary A.,Wife,W,F,Apr,1871,29,M,2,1,1,Scotland,Scotland,Scotland,1896,4,,Woolen mill weaver,0,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,34,West Canal,,,,,,,Agnes W.,Daughter,W,F,Feb,1900,3/12,S,,,,Vermont,Scotland,Scotland,,,,,,,,,,,,,,0,
+76-05A.jpg,76,05A,35,West Canal,,,,,,Borthwick,Agnes,Mother-in-law,W,F,Aug,1843,56,Wd,,1,1,Scotland,Scotland,Scotland,1896,4,,,,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,36,West Canal,,81,,88,,Nixon,John J.,Head,W,M,Sept,1823,76,M,44,,,England,England,England,1867,32,Na,,12,,Yes,Yes,Yes,O,M,H,,1,"middle initial unclear; ""D"" written in margin"
+76-05A.jpg,76,05A,37,West Canal,,,,,,,Sarah A.,Wife,W,F,Sept,1840,59,M,44,0,,Canada (Eng),Canada (Eng),Ireland,1867,32,,Hospital nurse,0,,No,No,Yes,,,,,0,
+76-05A.jpg,76,05A,38,Weaver,16,82,,89,,Griswold,Sarah J.,Head,W,F,Dec,1822,77,Wd,,4,3,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,O,F,H,,0,"street written ""Weaver Street, South"""
+76-05A.jpg,76,05A,39,Weaver,,,,,,,Maria G.,Daughter,W,F,Feb,1853,47,S,,,,New York,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,middle initial G or J
+76-05A.jpg,76,05A,40,Weaver,,,,,,,Charlotte E.,Daughter,W,F,June,1858,41,S,,,,New York,Vermont,Vermont,,,,Dressmaker,6,,Yes,Yes,Yes,,,,,0,
+76-05A.jpg,76,05A,41,Weaver,,83,,90,,Granger,John Jr.,Head,W,M,May,1869,31,M,12,,,Vermont,Canada (Fr),Canada (Fr),,,,Woolen mill laborer,6,,No,No,Yes,R,,H,,0,
+76-05A.jpg,76,05A,42,Weaver,,,,,,,Emma,Wife,W,F,Feb,1868,32,M,12,7,6,Canada (Fr),Canada (Fr),Canada (Fr),1878,22,,,,,No,No,Yes,,,,,0,
+76-05A.jpg,76,05A,43,Weaver,,,,,,,Cloreda,Daughter,W,F,June,1889,10,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,10,Yes,Yes,Yes,,,,,1,given name Cloreda or Floreda
+76-05A.jpg,76,05A,44,Weaver,,,,,,,Delora,Daughter,W,F,May,1891,9,S,,,,Vermont,Vermont,Canada (Fr),,,,,,0,,,,,,,,0,
+76-05A.jpg,76,05A,45,Weaver,,,,,,,Jean,Son,W,M,Aug,1892,7,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,10,,,,,,,,0,
+76-05A.jpg,76,05A,46,Weaver,,,,,,,Permelia,Daughter,W,F,Dec,1893,6,S,,,,Vermont,Vermont,Canada (Fr),,,,,,0,,,,,,,,0,
+76-05A.jpg,76,05A,47,Weaver,,,,,,,Yrvin,Son,W,M,Aug,1898,1,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,1,given name Yrvin or Irvin
+76-05A.jpg,76,05A,48,Weaver,,,,,,,Ubal,Son,W,M,Nov,1899,6/12,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,1,given name Ubal unclear
+76-05A.jpg,76,05A,49,Weaver,,84,,91,,Bordo,Joseph,Head,W,M,Sept,1872,27,M,0,,,Canada (Fr),Canada (Fr),Canada (Fr),1897,3,Al,Day laborer,0,,No,No,No,R,,H,,0,
+76-05A.jpg,76,05A,50,Weaver,,,,,,,Josephine,Wife,W,F,Apr,1883,17,M,0,0,0,Canada (Fr),Canada (Fr),Canada (Fr),1887,13,,,,,Yes,Yes,Yes,,,,,1,children columns written as faint 0-0

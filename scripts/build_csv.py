@@ -36,6 +36,7 @@ US_STATES = {
 COUNTRIES = {
     "Canada (Fr)": ("French Canada", "🇨🇦"),
     "Canada (Eng)": ("English Canada", "🇨🇦"),
+    "Canada (Irish)": ("English Canada", "🇨🇦"),
     "Canada": ("Canada", "🇨🇦"),
     "Ireland": ("Ireland", "🇮🇪"),
     "England": ("England", "🏴󠁧󠁢󠁥󠁮󠁧󠁿"),
@@ -52,6 +53,7 @@ COUNTRIES = {
     "Switzerland": ("Switzerland", "🇨🇭"),
     "Austria": ("Austria", "🇦🇹"),
     "Hungary": ("Hungary", "🇭🇺"),
+    "Austria Hungary": ("Austria-Hungary", "🇦🇹"),
     "Poland": ("Poland", "🇵🇱"),
     "Russia": ("Russia", "🇷🇺"),
     "Finland": ("Finland", "🇫🇮"),
@@ -82,7 +84,7 @@ COUNTRIES = {
 }
 US = ("United States", "🇺🇸")
 UNKNOWN = ("Unknown", "")
-NAMED_SUFFIXES = {"Avenue", "Terrace", "Place", "Court", "Ct", "Park", "Island", "Hill"}
+NAMED_SUFFIXES = {"Avenue", "Terrace", "Place", "Court", "Ct", "Park", "Island", "Hill", "Lane"}
 
 FILL_DOWN = ["street", "surname", "family", "family_renum"]
 MONTHS = {m: i for i, m in enumerate(
@@ -127,7 +129,8 @@ def age_warning(r):
     return "" if ok else f"age {age} inconsistent with {r['birth_month']} {year}"
 
 
-def main(src, out):
+def main(src, out, aliases=None):
+    aliases = aliases or {}
     os.makedirs(out, exist_ok=True)
     files = sorted(glob.glob(os.path.join(src, "*.csv")), key=sheet_key)
     rows, prev = [], {}
@@ -140,6 +143,7 @@ def main(src, out):
                 for k in FILL_DOWN:
                     if r[k] in ("", "^"):
                         r[k] = prev.get(k, "")
+                r["street"] = aliases.get(r["street"], r["street"])
                 # house number / dwelling belong to the dwelling: carry them only while
                 # still in the same dwelling (a new dwelling with no number stays blank).
                 if new_dwelling:
@@ -175,6 +179,7 @@ def main(src, out):
             **r,
             "name": f"{r['given']} {r['surname']}".strip(),
             "address": addr,
+            "street_name": street,
             "birth_country": bc_label,
             "birth_flag": bc_flag,
             "check": warn,
@@ -198,4 +203,4 @@ def main(src, out):
 
 if __name__ == "__main__":
     t = town.load(sys.argv[1])
-    main(t.transcribed, t.output)
+    main(t.transcribed, t.output, getattr(t, "street_aliases", {}))

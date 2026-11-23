@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+75-01A.jpg,75,01A,1,Weaver,,1,,1,,Graves,Augustus A.,Head,W,M,Feb,1840,60,M,33,,,Vermont,Canada (Fr),Canada (Fr),,,,Merchant,0,,Yes,Yes,Yes,O,F,H,1,1,given name partly covered by tally mark; farm/house cell overwritten (H over another letter) while farm schedule no. 1 is written
+75-01A.jpg,75,01A,2,Weaver,,,,,,,Mary E.,Wife,W,F,Nov,1843,56,M,33,4,4,Vermont,Canada (Fr),Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,3,Weaver,,,,,,,Irene A.,Daughter,W,F,Apr,1878,22,S,,,,New York,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,4,Weaver,,,,,,,Harry C.,Son,W,M,Jan,1882,18,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,5,Weaver,,,,,,Leclaire,Joseph E.,Boarder,W,M,Nov,1852,47,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,6,Weaver,,,,,,,Augusta A.,Boarder,W,F,Aug,1853,36,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,Yes,Yes,Yes,,,,,0,age 36 written but Aug 1853 gives 46; kept as written
+75-01A.jpg,75,01A,7,Weaver,,,,,,Carrière,Josephine A.,Servant,W,F,Feb,1880,20,S,,,,Vermont,Vermont,Vermont,,,,Servant,0,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,8,Weaver,,2,,2,,Campbell,Daniel,Head,W,M,Dec,1832,67,M,32,,,Ireland,Ireland,Ireland,1860,40,Na,,,,Yes,Yes,Yes,R,,H,,0,
+75-01A.jpg,75,01A,9,Weaver,,,,,,,Mary Ann,Wife,W,F,May,1842,58,M,32,8,8,Ireland,England,Ireland,1852,48,,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,10,Weaver,,,,,,,Joseph L.,Son,W,M,Aug,1874,25,S,,,,Massachusetts,Ireland,Ireland,,,,Machinist,10,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,11,Weaver,,,,,,,James H.,Son,W,M,Feb,1879,21,S,,,,Vermont,Ireland,Ireland,,,,Farm laborer,0,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,12,Weaver,,,,,,,Catherine A.,Daughter,W,F,Oct,1880,19,S,,,,Vermont,Ireland,Ireland,,,,Teacher (In school),3,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,13,Weaver,,,,,,,Edward J.,Son,W,M,Dec,1882,17,S,,,,Vermont,Ireland,Ireland,,,,Cotton mill laborer,4,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,14,Weaver,,3,,3,,Desautel,John,Head,W,M,Sept,1848,51,M,31,,,Canada (Fr),Canada (Fr),Canada (Fr),1863,37,Na,Carpenter,0,,Yes,Yes,Yes,O,M,H,,0,
+75-01A.jpg,75,01A,15,Weaver,,,,,,,Vitaline,Wife,W,F,Dec,1850,49,M,31,11,10,Canada (Fr),Canada (Fr),Canada (Fr),1867,33,,,,,Yes,No,Yes,,,,,0,
+75-01A.jpg,75,01A,16,Weaver,,,,,,,Rosaline E.,Daughter,W,F,Apr,1882,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill laborer,0,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,17,Weaver,,,,,,,Eugene A.,Son,W,M,Nov,1878,21,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill laborer,0,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,18,Weaver,,,,,,,Stella M.,Daughter,W,F,Apr,1887,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,6,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,19,Weaver,,,,,,,Beatrice,Daughter,W,F,Nov,1889,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,20,Weaver,,,,,,,Edna,Daughter,W,F,Apr,1894,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,21,Weaver,,4,,4,,Brunelle,Philomene,Head,W,F,Mar,1836,64,Wd,,12,7,Canada (Fr),Canada (Fr),Canada (Fr),1870,30,,,,,No,No,No,O,F,H,,0,given name partly covered by tally mark
+75-01A.jpg,75,01A,22,Weaver,,,,,,,Frank,Son,W,M,May,1870,30,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Salesman groceries,0,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,23,Weaver,,,,,,,Agnes,Daughter,W,F,Oct,1866,33,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1870,30,,Cotton mill weaver,0,,No,No,Yes,,,,,0,
+75-01A.jpg,75,01A,24,Weaver,,5,,5,,Burke,Helen,Head,W,F,Apr,1839,61,Wd,,10,7,Ireland,Ireland,Ireland,1855,45,,,,,Yes,Yes,Yes,,,H,,1,owned/rented blank; H written large in farm/house column; given name partly covered by tally mark
+75-01A.jpg,75,01A,25,Weaver,,6,,6,,Carpenter,Henry B.,Head,W,M,Oct,1849,50,M,25,,,Canada (Fr),Canada (Fr),Canada (Fr),1870,30,Na,Grocer,0,,Yes,Yes,Yes,O,F,H,,1,middle initial B partly covered by tally mark
+75-01A.jpg,75,01A,26,Weaver,,,,,,,Flora,Wife,W,F,Feb,1853,47,M,25,1,0,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,27,Weaver,,7,,7,,Vilmaire,George,Head,W,M,Sept,1852,47,M,21,,,Vermont,Canada (Fr),Canada (Fr),,,,Mason,2,,Yes,Yes,Yes,O,M,H,,0,
+75-01A.jpg,75,01A,28,Weaver,,,,,,,Edwidge,Wife,W,F,June,1855,44,M,21,10,5,New York,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,1,birth year last digit overwritten (1855/1856)
+75-01A.jpg,75,01A,29,Weaver,,,,,,,Cecile C.,Daughter,W,F,Dec,1884,15,S,,,,Vermont,Vermont,New York,,,,Cotton mill finisher,5,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,30,Weaver,,,,,,,Wilfred J.,Son,W,M,Mar,1889,11,S,,,,Vermont,Vermont,New York,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,31,Weaver,,,,,,,Charles N.,Son,W,M,Dec,1894,5,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,0,
+75-01A.jpg,75,01A,32,Weaver,,,,,,,Isabel M.,Daughter,W,F,May,1899,1,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,0,
+75-01A.jpg,75,01A,33,Weaver,,,,8,,Major,Frank,Head,W,M,June,1877,22,M,2,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill laborer,0,,Yes,Yes,Yes,R,,H,,1,new family but no dwelling no. written: same dwelling as Vilmaire (7); birth year last digit overwritten (1877/1879); 1877 consistent with age 22
+75-01A.jpg,75,01A,34,Weaver,,,,,,,Melvina,Wife,W,F,Oct,1877,22,M,2,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,35,Weaver,,8,,9,,Vilmaire,Peter,Head,W,M,June,1818,81,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),1837,63,Na,,,,No,No,Yes,O,F,H,,0,
+75-01A.jpg,75,01A,36,Weaver,,,,,,Beaulieu,Josephine,Daughter,W,F,June,1869,30,Wd,,4,4,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill laborer,0,,Yes,Yes,Yes,,,,,1,age overwritten (30/31)
+75-01A.jpg,75,01A,37,Weaver,,,,,,,Arthur,Grandson,W,M,May,1887,13,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,8,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,38,Weaver,,,,,,,Lawrence,Grandson,W,M,Jan,1889,11,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,39,Weaver,,,,,,,Matilda,Granddaughter,W,F,Oct,1890,9,S,,,,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,40,Weaver,,,,,,,Henry,Grandson,W,M,Mar,1896,4,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,0,
+75-01A.jpg,75,01A,41,Weaver,,9,,10,,Farrell,James,Head,W,M,Oct,1835,64,Wd,,,,Ireland,Ireland,Ireland,1848,52,Na,Dyer,0,,Yes,Yes,Yes,O,M,H,,0,
+75-01A.jpg,75,01A,42,Weaver,,,,,,,Thomas,Brother,W,M,June,1824,75,S,,,,Ireland,Ireland,Ireland,1849,51,Na,,,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,43,Weaver,,,,,,,Mary,Daughter,W,F,Feb,1868,32,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,No,Yes,,,,,0,relation corrected from Son to Daughter
+75-01A.jpg,75,01A,44,Weaver,,,,,,,James,Son,W,M,Feb,1872,28,S,,,,Vermont,Ireland,Ireland,,,,Day laborer,0,,Yes,Yes,Yes,,,,,0,relation corrected from Daughter to Son
+75-01A.jpg,75,01A,45,Weaver,,,,,,,Katherine,Daughter,W,F,Feb,1874,26,S,,,,Vermont,Ireland,Ireland,,,,Teacher (In school),3,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,46,Weaver,,,,,,,Thomas,Son,W,M,Feb,1875,25,S,,,,Vermont,Ireland,Ireland,,,,Cotton mill spinner,0,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,47,Weaver,,10,,11,,Rogers,Joseph,Head,W,M,July,1852,47,M,17,,,Canada (Fr),Canada (Fr),Canada (Fr),1860,40,Na,Shop wood finisher,0,,Yes,Yes,Yes,O,F,H,,1,occupation first word abbreviated (Stp./Shop?); given name partly covered by tally mark
+75-01A.jpg,75,01A,48,Weaver,,,,,,,Helen,Wife,W,F,Mar,1857,43,M,17,11,8,Vermont,Canada (Fr),Canada (Fr),,,,,,,No,No,Yes,,,,,0,
+75-01A.jpg,75,01A,49,Weaver,,,,,,,Lydia,Daughter,W,F,Oct,1878,21,S,,,,Vermont,Canada (Fr),Vermont,,,,Cotton mill laborer,0,,Yes,Yes,Yes,,,,,0,
+75-01A.jpg,75,01A,50,Weaver,,,,,,,Edward,Son,W,M,Apr,1882,18,S,,,,Vermont,Canada (Fr),Vermont,,,,Day laborer,3,,Yes,Yes,Yes,,,,,0,household may continue on 01B

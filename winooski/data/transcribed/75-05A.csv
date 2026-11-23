@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+75-05A.jpg,75,05A,1,Spring,,^,,^,,Mohr,Sarah,Boarder,W,F,Sept,1866,33,M,2,2,2,New York,Vermont,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,household continues from previous sheet; no house numbers on this page
+75-05A.jpg,75,05A,2,Spring,,,,,,,Marie E.,Boarder,W,F,Dec,1899,5/12,S,,,,Washington D.C.,Germany,New York,,,,,,,,,,,,,,0,age 5 months
+75-05A.jpg,75,05A,3,Spring,,72,,80,,Carrier,John,Head,W,M,July,1860,39,M,21,,,Canada (Fr),Canada (Fr),Canada (Fr),1871,29,Na,House painter,4,,No,No,Yes,R,,H,,0,
+75-05A.jpg,75,05A,4,Spring,,,,,,,Eliza,Wife,W,F,Aug,1855,44,M,21,8,8,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,5,Spring,,,,,,,Josephine A.,Daughter,W,F,Feb,1880,20,S,,,,Vermont,Canada (Fr),Vermont,,,,Cotton mill finisher,4,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,6,Spring,,,,,,,Frank H.,Son,W,M,Aug,1881,18,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,7,Spring,,,,,,,Mary S.,Daughter,W,F,Oct,1883,16,S,,,,Vermont,Canada (Fr),Vermont,,,,Cotton mill laborer,0,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,8,Spring,,,,,,,John A.,Son,W,M,May,1885,15,S,,,,Vermont,Canada (Fr),Vermont,,,,Screen shop laborer,1,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,9,Spring,,,,,,,Joseph G.,Son,W,M,July,1887,12,S,,,,Vermont,Canada (Fr),Vermont,,,,Screen shop laborer,6,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,10,Spring,,,,,,,Anna G.,Daughter,W,F,July,1887,12,S,,,,Vermont,Canada (Fr),Vermont,,,,At school,,4,Yes,Yes,Yes,,,,,0,same birth month and year as Joseph G. (line 9) as written
+75-05A.jpg,75,05A,11,Spring,,,,,,,Louis N.,Son,W,M,June,1888,11,S,,,,Vermont,Canada (Fr),Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,12,Spring,,,,,,,Mary A.,Daughter,W,F,June,1890,9,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,13,Spring,,,,,,Oclair,Stephen,Father-in-law,W,M,Mar,1809,91,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),1830,70,Na,,,,No,No,Yes,,,,,1,birth year overwritten (1808/1809)
+75-05A.jpg,75,05A,14,Spring,,73,,81,,Gangnier,Nelson,Head,W,M,Nov,1865,34,M,8,,,Canada (Fr),Canada (Fr),Canada (Fr),1891,9,Al,Mason,3,,Yes,Yes,Yes,O,F,H,,1,given name partly covered by tally mark (Nelson?)
+75-05A.jpg,75,05A,15,Spring,,,,,,,Lea,Wife,W,F,July,1867,32,M,8,4,4,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,16,Spring,,,,,,,Agnes,Daughter,W,F,Apr,1893,7,S,,,,Vermont,Canada (Fr),Vermont,,,,At school,,,,,,,,,,0,school months blank
+75-05A.jpg,75,05A,17,Spring,,,,,,,Louis,Son,W,M,Jan,1895,5,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,18,Spring,,,,,,,Albert,Son,W,M,Jan,1897,3,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,19,Spring,,,,,,,Emile,Son,W,M,May,1899,1,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,20,Spring,,,,,,Cormier,Julia,Mother-in-law,W,F,Sept,1830,69,Wd,,4,3,Canada (Fr),Canada (Fr),Canada (Fr),1842,58,,,,,Yes,Yes,No,,,,,1,given name Julia written over struck name (Delia?)
+75-05A.jpg,75,05A,21,Spring,,74,,82,,Cormier,Octave,Head,W,M,Oct,1863,36,M,15,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill spinner,0,,Yes,Yes,Yes,R,,H,,1,given name written above struck 'Head' and partly covered by tally mark (Octave?)
+75-05A.jpg,75,05A,22,Spring,,,,,,,Delia,Wife,W,F,Mar,1866,34,M,15,6,4,Vermont,Canada (Fr),Canada (Fr),,,,,,,No,No,No,,,,,0,"""D."" written in right margin"
+75-05A.jpg,75,05A,23,Spring,,,,,,,Louis,Son,W,M,Apr,1888,12,S,,,,Vermont,Vermont,Vermont,,,,At school,,8,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,24,Spring,,,,,,,Emma,Daughter,W,F,June,1889,10,S,,,,Vermont,Vermont,Vermont,,,,At school,,7,Yes,Yes,No,,,,,0,
+75-05A.jpg,75,05A,25,Spring,,,,,,,Rosanna,Daughter,W,F,Feb,1894,6,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,26,Spring,,,,,,,Virginie,Daughter,W,F,June,1897,2,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,27,Spring,,75,,83,,Piché,Roger,Head,W,M,Oct,1861,38,M,15,,,Canada (Fr),Canada (Fr),Canada (Fr),1882,18,Na,Carpenter,0,,Yes,Yes,Yes,O,F,H,,1,given name partly covered by tally mark (Roger/Rosier)
+75-05A.jpg,75,05A,28,Spring,,,,,,,Victoria,Wife,W,F,Oct,1863,36,M,15,2,2,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,,,,,Yes,Yes,No,,,,,0,
+75-05A.jpg,75,05A,29,Spring,,,,,,,Aurore,Daughter,W,F,Nov,1887,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,No,,,,,0,
+75-05A.jpg,75,05A,30,Spring,,,,,,,Rosa,Daughter,W,F,June,1895,4,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,31,Spring,,76,,84,,Gaudette,Maxime,Head,W,M,June,1851,48,Wd,,,,Vermont,Canada (Fr),Canada (Fr),,,,Teamster,5,,Yes,Yes,Yes,O,F,H,,1,given name partly covered by tally mark (Maxime/Mazime)
+75-05A.jpg,75,05A,32,Spring,,,,,,Banby,Marie,Mother,W,F,Nov,1825,74,Wd,,11,5,Canada (Fr),Canada (Fr),Canada (Fr),1828,72,,,,,No,No,Yes,,,,,1,surname Banby or Barnby
+75-05A.jpg,75,05A,33,Spring,,77,,85,,Babeuf,Theodule,Head,W,M,July,1853,46,M,23,,,Canada (Fr),Canada (Fr),Canada (Fr),1860,40,Na,Box factory,0,,No,No,Yes,O,F,H,,1,given name partly covered by tally mark (Theodule?)
+75-05A.jpg,75,05A,34,Spring,,,,,,,Melina,Wife,W,F,Oct,1853,46,M,23,8,7,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,1,given name partly covered by tally mark (Melina/Melvina)
+75-05A.jpg,75,05A,35,Spring,,,,,,,Alfred,Son,W,M,Oct,1878,21,S,,,,Vermont,Canada (Fr),Vermont,,,,Box factory,0,,Yes,No,Yes,,,,,0,
+75-05A.jpg,75,05A,36,Spring,,,,,,,Maria S.,Daughter,W,F,Apr,1880,20,S,,,,Vermont,Canada (Fr),Vermont,,,,Cotton mill labourer,0,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,37,Spring,,,,,,,George,Son,W,M,July,1883,16,S,,,,Vermont,Canada (Fr),Vermont,,,,Box factory,0,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,38,Spring,,,,,,,Napoleon,Son,W,M,Jan,1888,12,S,,,,Vermont,Canada (Fr),Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,39,Spring,,,,,,,Albert,Son,W,M,Dec,1890,9,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,40,Spring,,,,,,,Arthur,Son,W,M,June,1894,5,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,41,Spring,,,,,,,Blanche,Daughter,W,F,May,1897,3,S,,,,Vermont,Canada (Fr),Vermont,,,,,,,,,,,,,,0,
+75-05A.jpg,75,05A,42,Spring,,78,,86,,Babeuf,Louis,Head,W,M,Dec,1847,52,M,27,,,Canada (Fr),Canada (Fr),Canada,1865,35,Na,Mill yard 3rd boss,0,,No,No,Yes,O,F,H,,1,given name partly covered by tally mark (Louis; possible middle initial)
+75-05A.jpg,75,05A,43,Spring,,,,,,,Delima,Wife,W,F,Dec,1851,48,M,27,6,5,Canada (Fr),Canada (Fr),Canada (Fr),1867,33,,,,,Yes,Yes,No,,,,,0,
+75-05A.jpg,75,05A,44,Spring,,,,,,,Hilda,Daughter,W,F,Apr,1883,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,45,Spring,,,,,,,Rose D.,Daughter,W,F,Aug,1885,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Servant,0,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,46,Spring,,,,,,,Josephine,Daughter,W,F,Dec,1888,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,47,Spring,,79,,87,,Foisy,Margaret,Head,W,F,Jan,1831,69,Wd,,9,6,Canada (Fr),Canada (Fr),Canada (Fr),1838,62,,,,,No,No,No,O,F,H,,0,
+75-05A.jpg,75,05A,48,Spring,,,,,,,Margaret Jr.,Daughter,W,F,Sept,1849,50,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,49,Spring,,,,,,,Edward C.,Son,W,M,Mar,1866,34,S,,,,Vermont,Vermont,Canada (Fr),,,,Cotton mill laborer,0,,Yes,Yes,Yes,,,,,0,
+75-05A.jpg,75,05A,50,Spring,,,,,,,Joseph A.,Son,W,M,Apr,1869,31,S,,,,Vermont,Vermont,Canada (Fr),,,,Day laborer,2,,Yes,Yes,Yes,,,,,0,

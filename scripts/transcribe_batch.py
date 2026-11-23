@@ -135,7 +135,7 @@ def page_content(page, t):
                         "source": {"type": "base64", "media_type": "image/jpeg", "data": b64(im)}})
     ed, sheet = page.split("-")
     content.append({"type": "text", "text": f"Transcribe page {page} (image {page}.jpg, ED {ed}, sheet "
-                    f"{sheet.lstrip('0')}). Return only the <csv> block."})
+                    f"{sheet}). Return only the <csv> block."})
     return content
 
 

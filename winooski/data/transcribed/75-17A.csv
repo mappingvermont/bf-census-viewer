@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+75-17A.jpg,75,17A,1,Elm,,255,,308,,Savard,Camille,Head,W,M,Sept,1857,42,M,18,,,Canada (Fr),Canada (Fr),Canada (Fr),1864,36,Na,Cotton mill spinner,0,,No,No,Yes,O,F,H,,1,"dwelling no. overwritten (last digit 5/6/8, read 255 from sequence); renumbering unreadable; surname Savard or Sarard; given name partly covered by tally mark"
+75-17A.jpg,75,17A,2,Elm,,,,,,,Estelle,Wife,W,F,June,1865,34,M,18,7,4,Canada (Fr),Canada (Fr),Canada (Fr),1882,18,,,,,Yes,Yes,No,,,,,0,
+75-17A.jpg,75,17A,3,Elm,,,,,,,Napoleon,Son,W,M,May,1886,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill laborer,3,,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,4,Elm,,,,,,,Flora,Daughter,W,F,May,1888,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,No,,,,,0,
+75-17A.jpg,75,17A,5,Elm,,,,,,,Alfred,Son,W,M,May,1890,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,6,Elm,,,,,,,Hermine,Daughter,W,F,Apr,1892,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,1,given name Hermine or Herminie
+75-17A.jpg,75,17A,7,Elm,,,,,,Lefebre,Anna,Boarder,W,F,Apr,1834,66,Wd,,11,6,Canada (Fr),Canada (Fr),Canada (Fr),1882,18,,Cotton mill laborer,0,,Yes,Yes,No,,,,,0,
+75-17A.jpg,75,17A,8,Elm,,256,,309,,Lamontagne,Edward,Head,W,M,Jan,1874,26,M,0,,,Vermont,Canada (Fr),Canada (Fr),,,,House painter,4,,Yes,Yes,Yes,R,,H,,1,dwelling no. overwritten (last digit unclear; read 256 from sequence); renumbering unreadable
+75-17A.jpg,75,17A,9,Elm,,,,,,,Marie L.,Wife,W,F,Mar,1880,20,M,0,0,0,Canada (Fr),Canada (Fr),Canada (Fr),1895,5,,,,,Yes,Yes,No,,,,,1,middle initial L. unclear
+75-17A.jpg,75,17A,10,Elm,,257,,310,,O'Sullivan,Jeremiah,Head,W,M,Feb,1830,70,M,42,,,Ireland,Ireland,Canada,1853,47,Na,Day laborer,0,,Yes,Yes,Yes,O,F,H,,0,
+75-17A.jpg,75,17A,11,Elm,,,,,,,Sarah,Wife,W,F,May,1840,60,M,42,8,4,Canada (Eng),Ireland,Canada (Eng),1853,47,,,,,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,12,Elm,,,,,,,Mary,Daughter,W,F,June,1870,29,S,,,,Vermont,Ireland,Canada,,,,Milliner,2,,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,13,Elm,,,,,,,Libbey,Daughter,W,F,Nov,1874,25,S,,,,Vermont,Ireland,Canada,,,,Saleslady clothing,0,,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,14,Elm,,258,,311,,Campbell,Daniel,Head,W,M,Mar,1877,23,M,2,,,Vermont,Ireland,Canada,,,,Day laborer,0,,Yes,Yes,Yes,O,M,H,,0,
+75-17A.jpg,75,17A,15,Elm,,,,,,,Sarah,Wife,W,F,June,1877,22,M,2,2,2,Canada (Fr),Canada (Fr),Canada (Fr),1884,16,,,,,Yes,Yes,No,,,,,0,
+75-17A.jpg,75,17A,16,Elm,,,,,,,Ferdinand,Son,W,M,Jan,1899,1,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-17A.jpg,75,17A,17,Elm,,,,,,,Charles,Son,W,M,Feb,1900,3/12,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-17A.jpg,75,17A,18,Elm,,259,,312,,Begue,Cyril,Head,W,M,Dec,1874,25,M,2,,,Canada (Fr),Canada (Fr),Canada (Fr),1888,12,Al,Cotton mill spinner,0,,No,No,Yes,O,M,H,,1,given name Cyril/Cyrit partly covered by tally mark; immigration year last digit overwritten (1888)
+75-17A.jpg,75,17A,19,Elm,,,,,,,Frederine,Wife,W,F,Nov,1874,25,M,2,2,2,Canada (Fr),Canada (Fr),Canada (Fr),1885,15,,,,,Yes,Yes,Yes,,,,,1,given name Frederine or Frederime
+75-17A.jpg,75,17A,20,Elm,,,,,,,Albert,Son,W,M,July,1898,1,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-17A.jpg,75,17A,21,Elm,,,,,,,Elzear,Son,W,M,June,1899,11/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-17A.jpg,75,17A,22,West,,260,,313,,Lasalle,Ernest,Head,W,M,Nov,1858,41,M,19,,,Canada (Fr),Canada (Fr),Canada (Fr),1881,19,Al,Screen shop laborer,0,,No,No,Yes,O,F,H,,1,street change from Elm to West assumed at this line (mark in street column); dwelling no. overwritten (259/260); family no. last digit overwritten (313)
+75-17A.jpg,75,17A,23,West,,,,,,,Clara,Wife,W,F,May,1858,42,M,19,12,10,Canada (Fr),Canada (Fr),Canada (Fr),1881,19,,,,,Yes,Yes,No,,,,,0,
+75-17A.jpg,75,17A,24,West,,,,,,,Delia,Daughter,W,F,Aug,1882,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill labourer,8,,Yes,Yes,No,,,,,1,given name Delia or Jelia
+75-17A.jpg,75,17A,25,West,,,,,,,Aurore,Daughter,W,F,Feb,1884,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Cotton mill labourer,0,,Yes,Yes,No,,,,,0,
+75-17A.jpg,75,17A,26,West,,,,,,,Georgiana,Daughter,W,F,Aug,1885,14,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,No,,,,,0,
+75-17A.jpg,75,17A,27,West,,,,,,,Josephina,Daughter,W,F,June,1887,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,No,,,,,1,given name Josephina or Jopherina
+75-17A.jpg,75,17A,28,West,,,,,,,Arthur,Son,W,M,Dec,1888,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,No,,,,,0,
+75-17A.jpg,75,17A,29,West,,,,,,,George A.,Son,W,M,Sept,1890,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-17A.jpg,75,17A,30,West,,,,,,,Alfred,Son,W,M,Aug,1892,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-17A.jpg,75,17A,31,West,,,,,,,Audiana,Daughter,W,F,Feb,1894,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,1,given name Audiana or Andiana
+75-17A.jpg,75,17A,32,West,,,,,,,Armand,Son,W,M,July,1898,1,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,1,birth year last digit overwritten (1898/1895)
+75-17A.jpg,75,17A,33,West,,,,,,,Marion,Daughter,W,F,May,1900,0/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+75-17A.jpg,75,17A,34,West,,261,,314,,O'Brien,William,Head,W,M,Jan,1844,56,M,37,,,Vermont,Ireland,Ireland,,,,Carter,0,,Yes,Yes,Yes,O,F,H,,1,dwelling no. last digit unclear (looks like 268; 261 by sequence)
+75-17A.jpg,75,17A,35,West,,,,,,,Helen,Wife,W,F,Feb,1843,57,M,37,10,7,Ireland,Ireland,Ireland,1858,42,,,,,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,36,West,,,,,,,James,Son,W,M,Sept,1872,27,S,,,,Vermont,Vermont,Ireland,,,,Barber,0,,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,37,West,,,,,,,Mamie,Daughter,W,F,Sept,1875,24,S,,,,Vermont,Vermont,Ireland,,,,Cotton mill weaver,0,,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,38,West,,,,,,,Jerry,Son,W,M,June,1876,23,S,,,,Vermont,Vermont,Ireland,,,,Barber,0,,Yes,Yes,Yes,,,,,0,
+75-17A.jpg,75,17A,39,West,,,,,,O'Brien,Lena,Daughter,W,F,Apr,1871,29,S,,,,Vermont,Vermont,Ireland,,,,Cotton mill weaver,0,,Yes,Yes,Yes,,,,,1,given name unclear (Lena/Lesia/Leda); surname rewritten in full
+75-17A.jpg,75,17A,40,West,,262,,315,,Dupra,Flavie,Head,W,F,July,1842,57,Wd,,13,7,Canada (Fr),Canada (Fr),Canada (Fr),1863,37,,,,,Yes,Yes,Yes,O,M,H,,1,given name Flavie/Plavie partly covered by tally mark; sex overwritten (F/M) - read F since children born/living given; family no. overwritten (315/316)
+75-17A.jpg,75,17A,41,West,,,,,,,Clara,Daughter,W,F,May,1877,23,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Overgaiter laborer,0,,Yes,Yes,Yes,,,,,1,occupation reading uncertain (Overgaiter laborer)
+75-17A.jpg,75,17A,42,West,,263,,316,,Laferriere,Arthur,Head,W,M,Feb,1874,26,M,3,,,Vermont,Canada (Fr),Canada (Fr),,,,Plumber,4,,Yes,Yes,Yes,R,,H,,0,
+75-17A.jpg,75,17A,43,West,,,,,,,Elizabeth,Wife,W,F,July,1876,23,M,3,2,2,Canada (Fr),Canada (Fr),Canada (Fr),188_,20,,,,,Yes,Yes,Yes,,,,,1,immigration year only '188' written
+75-17A.jpg,75,17A,44,West,,,,,,,Roland,Son,W,M,Jan,1898,2,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,1,birth year last digit overwritten; father's birthplace overwritten (Vermont)
+75-17A.jpg,75,17A,45,West,,,,,,,Irene,Daughter,W,F,Sept,1899,8/12,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,1,birth year overwritten (1899)
+75-17A.jpg,75,17A,46,West,,,,317,,St. Mar,Louis,Head,W,M,Jan,1868,32,M,9,,,Vermont,Vermont,Vermont,,,,Saw mill saw,0,,No,No,Yes,R,,H,,1,dwelling no. faint/unreadable; family no. overwritten (317); occupation possibly Saw mill sawer
+75-17A.jpg,75,17A,47,West,,,,,,,Agnes,Wife,W,F,Jan,1866,34,M,9,2,1,Canada (Fr),Canada (Fr),Canada (Fr),1868,32,,,,,Yes,Yes,Yes,,,,,1,"relation written Daughter with ""wife"" written above as correction"
+75-17A.jpg,75,17A,48,West,,,,,,,Eva,Daughter,W,F,May,1892,8,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-17A.jpg,75,17A,49,West,,264,,318,,Laferriere,Honore,Head,W,M,May,1830,70,M,48,,,Canada (Fr),Canada (Fr),Canada (Fr),1869,31,Na,Carpenter,1,,No,No,Yes,O,M,H,,1,dwelling and family nos. overwritten; birth year overwritten (1830)
+75-17A.jpg,75,17A,50,West,,,,,,,Domecile,Wife,W,F,May,1833,67,M,48,13,10,Canada (Fr),Canada (Fr),Canada (Fr),1869,31,,,,,Yes,Yes,No,,,,,0,

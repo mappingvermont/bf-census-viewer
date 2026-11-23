@@ -55,6 +55,9 @@ The scripts run with plain `python3`. They need `pillow`; `transcribe_batch.py` 
 - `layout` (optional): where lines 1 and 50 sit on the page (`line1`, `line50`, as fractions of page
   height), and how many extra lines each tile band includes above and below (`overlap`). Defaults are in
   `scripts/town.py`. Check a few pages' tiles with `fs_tiles.py PAGE.jpg OUT_DIR TOWN` before a batch run.
+- `street_aliases` (optional): maps a street as transcribed to the name to use for addresses and geocoding,
+  for spelling variants (`"Leclare": "Leclair"`). Without a suffix, " St" is added; a name ending in a
+  suffix such as Avenue is kept as is.
 - `geocode`: the place name, proximity point and bounding box sent to the geocoder.
 
 The census page images come from FamilySearch and aren't included in this repo. Each town's

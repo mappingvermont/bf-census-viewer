@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+76-09A.jpg,76,09A,1,Main,,^,,^,^,Blanchett,Napoleon,Son,W,M,May,1887,13,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,10,Yes,Yes,Yes,,,,,1,household continues from previous sheet; dwelling 152 and family 161 written on this line but crossed out; last digit of birth year unclear (1887 fits age 13)
+76-09A.jpg,76,09A,2,Main,,,,,,,Fred,Son,W,M,Jan,1889,11,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,10,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,3,Main,,,,,,,Lodel,Daughter,W,F,June,1891,8,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,10,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,4,Main,,,,,,,Mabel,Daughter,W,F,Oct,1893,6,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,10,,,,,,,,0,
+76-09A.jpg,76,09A,5,Main,,,,,,,Eviline,Daughter,W,F,Mar,1896,4,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+76-09A.jpg,76,09A,6,Main,,,,,,,George H.,Son,W,M,Sept,1898,1,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+76-09A.jpg,76,09A,7,Main,,,,,,,Willie,Son,W,M,Nov,1899,6/12,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,age 6 months
+76-09A.jpg,76,09A,8,Main,,153,,162,163,Ignaszewski,William,Head,W,M,Jan,1855,45,M,23,,,Germany,Germany,Germany,1890,10,Na,Woolen mill laborer,0,,No,No,Yes,O,F,H,,1,surname partly covered by tally mark (Ignaszewski/Ignaszewoki)
+76-09A.jpg,76,09A,9,Main,,,,,,,Mary,Wife,W,F,Nov,1859,40,M,23,10,8,Germany,Germany,Germany,1890,10,,,,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,10,Main,,,,,,,Joseph,Son,W,M,Mar,1880,20,S,,,,Germany,Germany,Germany,1890,10,,Overgaiter cutter,0,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,11,Main,,,,,,,Fanny,Daughter,W,F,Mar,1883,17,S,,,,Germany,Germany,Germany,1890,10,,Woolen mill weaver,0,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,12,Main,,,,,,,Mary,Daughter,W,F,Aug,1885,14,S,,,,Germany,Germany,Germany,1890,10,,At school,,6,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,13,Main,,,,,,,Victoria,Daughter,W,F,Nov,1887,12,S,,,,Germany,Germany,Germany,1890,10,,Woolen mill laborer,2,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,14,Main,,,,,,,Frank,Son,W,M,Jan,1890,10,S,,,,Germany,Germany,Germany,1890,10,,At school,,9,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,15,Main,,,,,,,Josephine,Daughter,W,F,Feb,1893,7,S,,,,New York,Germany,Germany,,,,At school,,9,,,,,,,,0,
+76-09A.jpg,76,09A,16,Main,,,,,,,Leo,Son,W,M,July,1894,5,S,,,,New York,Germany,Germany,,,,,,0,,,,,,,,0,
+76-09A.jpg,76,09A,17,Main,,,,,,,Peter,Son,W,M,Apr,1897,3,S,,,,Vermont,Germany,Germany,,,,,,,,,,,,,,0,
+76-09A.jpg,76,09A,18,Main,,154,,163,164,Deforge,Zeb,Head,W,M,Oct,1854,45,M,22,,,Canada (Fr),Canada (Fr),Canada (Fr),1864,35,Na,Farmer,6,,No,No,Yes,O,M,F,5,0,
+76-09A.jpg,76,09A,19,Main,,,,,,,Emily,Wife,W,F,June,1852,47,M,22,6,5,Canada (Fr),Canada (Fr),Canada (Fr),1864,35,,,,,Yes,Yes,No,,,,,0,
+76-09A.jpg,76,09A,20,Main,,,,,,,Joseph,Son,W,M,Feb,1882,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Farm laborer,0,,Yes,Yes,No,,,,,0,
+76-09A.jpg,76,09A,21,Main,,,,,,,Louis,Son,W,M,Jan,1884,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,6,Yes,Yes,No,,,,,0,
+76-09A.jpg,76,09A,22,Main,,,,,,,Zeb,Son,W,M,Aug,1886,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,23,Main,,,,,,,Willie,Son,W,M,Apr,1890,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,24,Main,,,,,,,Nellie,Daughter,W,F,Feb,1880,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Woolen mill spooler,0,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,25,Main,,155,,164,165,Gill,John,Head,W,M,Feb,1865,35,M,3,,,Belgium,England,England,1881,19,Na,Worsted mill supt.,0,,Yes,Yes,Yes,R,,H,,0,
+76-09A.jpg,76,09A,26,Main,,,,,,,Cora E.,Wife,W,F,Oct,1865,34,M,3,2,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,given name partly covered by tally mark (Cora/Ora)
+76-09A.jpg,76,09A,27,Main,,,,,,,Margret J.,Daughter,W,F,May,1899,1,S,,,,Vermont,Belgium,Vermont,,,,,,,,,,,,,,0,
+76-09A.jpg,76,09A,28,Main,,,,,,Gaunt,Mary,Servant,W,F,Dec,1874,25,S,,,,England,England,England,1900,0,,Servant,0,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,29,Main,,156,,165,166,Smith,Samuel D.,Head,W,M,Apr,1861,39,M,12,,,Ireland,Ireland,Ireland,1867,33,Na,Woolen mill clerk,0,,Yes,Yes,Yes,R,,H,,1,given name struck through by tally mark (Samuel)
+76-09A.jpg,76,09A,30,Main,,,,,,,Matilda,Wife,W,F,Jan,1865,35,M,12,4,3,New York,Germany,Germany,,,,,,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,31,Main,,,,,,,Ina,Daughter,W,F,June,1890,9,S,,,,Vermont,Ireland,New York,,,,At school,,9,,,,,,,,0,
+76-09A.jpg,76,09A,32,Main,,,,,,,Gladys,Daughter,W,F,Apr,1892,8,S,,,,Vermont,Ireland,New York,,,,At school,,9,,,,,,,,0,
+76-09A.jpg,76,09A,33,Main,,,,,,,Donald,Son,W,M,Mar,1900,2/12,S,,,,Vermont,Ireland,New York,,,,,,,,,,,,,,0,age 2 months
+76-09A.jpg,76,09A,34,Main,,,,,,,Agnes,Sister,W,F,July,1875,24,S,,,,New York,Ireland,Ireland,,,,Book keeper,0,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,35,Main,,157,,166,167,Little,George W.,Head,W,M,July,1848,51,M,31,,,Maine,Maine,Maine,,,,Woolen mill book keeper,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark; middle initial W or B
+76-09A.jpg,76,09A,36,Main,,,,,,,Ellen,Wife,W,F,June,1850,49,M,31,4,3,Massachusetts,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,1,given name partly covered by tally mark (Ellen/Ellen G.)
+76-09A.jpg,76,09A,37,Main,,,,,,,Frances L.,Daughter,W,F,Apr,1883,17,S,,,,Massachusetts,Maine,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,38,Main,,,,,,,George E.,Son,W,M,Mar,1880,20,M,1,,,Massachusetts,Maine,Massachusetts,,,,Worsted mill shipping clerk,0,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,39,Main,,,,,,,Susie A.,Daughter-in-law,W,F,Oct,1877,22,M,1,1,1,Vermont,Vermont,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,40,Main,,,,,,,Bertha,Granddaughter,W,F,Mar,1900,2/12,S,,,,Vermont,Massachusetts,Vermont,,,,,,,,,,,,,,0,age 2 months
+76-09A.jpg,76,09A,41,Main,,158,,167,168,Reynolds,Seymour L.,Head,W,M,Aug,1837,62,M,15,,,Vermont,Vermont,Vermont,,,,Traveling salesman,0,,Yes,Yes,Yes,O,M,H,,1,given name struck through by tally mark (Seymour); birth year looks like 1887 but age 62 implies 1837
+76-09A.jpg,76,09A,42,Main,,,,,,,Ida C.,Wife,W,F,Sept,1855,44,M,15,3,3,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,1,middle initial partly covered by tally mark (C or W)
+76-09A.jpg,76,09A,43,Main,,,,,,,Ruth W.,Daughter,W,F,May,1886,14,S,,,,Vermont,Vermont,New York,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,44,Main,,,,,,,Mildred J.,Daughter,W,F,Nov,1887,12,S,,,,Vermont,Vermont,New York,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,45,Main,,,,,,Conlin,Henry,Roomer,W,M,Jan,1865,35,S,,,,Vermont,Ireland,Ireland,,,,Lawyer,0,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,46,Main,,159,,168,169,Horton,Harvey V.,Head,W,M,June,1839,60,M,42,,,Vermont,New York,New York,,,,Coal dealer,0,,Yes,Yes,Yes,O,F,H,,1,given name struck through by tally mark (Harvey)
+76-09A.jpg,76,09A,47,Main,,,,,,,Emily A.,Wife,W,F,Mar,1840,60,M,42,2,2,Vermont,Massachusetts,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+76-09A.jpg,76,09A,48,Main,,160,,169,170,Niquette,Joseph,Head,W,M,Sept,1817,82,M,56,,,Canada (Fr),Canada (Fr),Canada (Fr),1841,59,Na,Butcher,12,,Yes,No,Yes,O,F,H,,1,surname partly covered by tally mark (Niquette/Riquette)
+76-09A.jpg,76,09A,49,Main,,,,,,,Delia,Wife,W,F,Jan,1822,78,M,56,10,6,Canada (Fr),Canada (Fr),Canada (Fr),1844,56,,,,,Yes,Yes,No,,,,,1,years married overwritten (56)
+76-09A.jpg,76,09A,50,Main,,,,,,,Denise,Daughter,W,F,Dec,1859,40,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Dress maker,4,,Yes,Yes,Yes,,,,,0,

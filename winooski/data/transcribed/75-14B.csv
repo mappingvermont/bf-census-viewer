@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+75-14B.jpg,75,14B,51,River,,221,220,261,,McGraw,Martin,Head,W,M,Sept,1873,26,M,7,,,Vermont,Ireland,Ireland,,,,Cotton mill weaver,0,,Yes,Yes,Yes,R,,H,,1,dwelling number overwritten in place (reads 220 over 221); original/renumber split is a guess
+75-14B.jpg,75,14B,52,River,,,,,,,Emma,Wife,W,F,Apr,1873,27,M,7,4,4,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,53,River,,,,,,,John S.,Son,W,M,Dec,1893,6,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,54,River,,,,,,,Theresa,Daughter,W,F,Aug,1895,4,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,55,River,,,,,,,Florence,Daughter,W,F,Apr,1897,3,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,56,River,,,,,,,Lawrence,Son,W,M,Aug,1898,1,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,57,River,,222,221,262,,Lercillé,Alfred,Head,W,M,May,1865,35,M,8,,,Vermont,Canada (Fr),Canada (Fr),,,,Salesman ice,0,,Yes,Yes,Yes,O,M,H,,1,surname Lercillé or Sercillé; dwelling number overwritten in place (221 over 222)
+75-14B.jpg,75,14B,58,River,,,,,,,Southranie,Wife,W,F,Oct,1865,34,M,8,4,4,New York,Canada (Fr),Canada (Fr),,,,,,,No,No,Yes,,,,,1,given name hard to read (Southranie/Euphranie)
+75-14B.jpg,75,14B,59,River,,,,,,,Alfrida,Daughter,W,F,Oct,1891,8,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,60,River,,,,,,,Edward C.,Son,W,M,Dec,1892,7,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,61,River,,,,,,,Laurent W.,Son,W,M,Aug,1896,3,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,62,River,,,,,,,Veronique,Daughter,W,F,Aug,1897,2,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,63,River,,223,222,263,,Grival,Pierre,Head,W,M,Dec,1843,56,M,19,,,France,France,France,1880,20,Al,House painter,3,,Yes,Yes,Yes,R,,H,,1,dwelling number overwritten in place (222/223)
+75-14B.jpg,75,14B,64,River,,,,,,,Elizabeth,Wife,W,F,Mar,1854,46,M,19,3,1,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,,,,,Yes,Yes,No,,,,,0,
+75-14B.jpg,75,14B,65,River,,,,,,,Joseph,Son,W,M,Aug,1884,15,S,,,,Canada,France,Canada (Fr),1889,11,,Screen shop laborer,9,,Yes,Yes,Yes,,,,,0,"birthplace written ""Canada"" without Fr"
+75-14B.jpg,75,14B,66,River,,224,223,264,,Laroix,Felix,Head,W,M,Apr,1850,50,M,29,,,Vermont,Canada (Fr),Canada (Fr),,,,Day laborer,8,,No,No,Yes,O,F,H,,1,surname Laroix or Lacroix; dwelling number overwritten in place (223/224)
+75-14B.jpg,75,14B,67,River,,,,,,,Delima,Wife,W,F,Oct,1854,45,M,29,13,10,Canada (Fr),Canada (Fr),Canada (Fr),1855,45,,,,,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,68,River,,,,,,,John B.,Son,W,M,July,1879,20,S,,,,Vermont,Vermont,Canada (Fr),,,,Cotton mill weaver,4,,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,69,River,,,,,,,William J.,Son,W,M,Apr,1882,18,S,,,,Vermont,Vermont,Canada (Fr),,,,Screen shop laborer,8,,No,No,Yes,,,,,0,
+75-14B.jpg,75,14B,70,River,,,,,,,Alfred,Son,W,M,Apr,1885,15,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,71,River,,,,,,,Bertha A.,Daughter,W,F,July,1888,11,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,72,River,,,,,,,Emma,Daughter,W,F,Jan,1893,7,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,73,River,,,,,,,Ida,Daughter,W,F,Apr,1895,5,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,74,Clifford,,225,224,265,,Alapa,Louis,Head,W,M,Aug,1860,39,M,16,,,Vermont,Canada (Fr),Canada (Fr),,,,Shipping clerk,0,,Yes,Yes,Yes,O,F,H,,1,surname Alapa or Alafa; dwelling 225 with 4 written above
+75-14B.jpg,75,14B,75,Clifford,,,,,,,Mary,Wife,W,F,Nov,1863,36,M,16,2,2,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,76,Clifford,,,,,,,Mary E.,Daughter,W,F,Oct,1884,15,S,,,,Vermont,Vermont,Vermont,,,,Gaiter shop laborer,1,,Yes,Yes,Yes,,,,,1,occupation first word unclear (Gaiter/Laiter)
+75-14B.jpg,75,14B,77,Clifford,,,,,,,Grace R.,Daughter,W,F,June,1887,12,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,78,Clifford,,,,,,Graham,Barney,Boarder,W,M,July,1833,66,Wd,,,,Ireland,Ireland,Ireland,1855,45,Na,,,,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,79,Clifford,,226,225,266,,Mongeon,Joseph,Head,W,M,Aug,1861,38,M,18,,,Vermont,Canada (Fr),Canada (Fr),,,,Undertaker,0,,Yes,Yes,Yes,O,M,H,,1,dwelling 226 with 5 written above
+75-14B.jpg,75,14B,80,Clifford,,,,,,,Philomene,Wife,W,F,Mar,1862,38,M,18,13,9,Canada (Fr),Canada (Fr),Canada (Fr),1881,19,,,,,Yes,Yes,No,,,,,0,
+75-14B.jpg,75,14B,81,Clifford,,,,,,,David,Son,W,M,May,1882,18,S,,,,Vermont,Vermont,Canada (Fr),,,,Machinist,0,,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,82,Clifford,,,,,,,Roseadma,Daughter,W,F,July,1883,16,S,,,,Vermont,Vermont,Canada (Fr),,,,Cotton mill carder,0,,Yes,Yes,No,,,,,1,given name Roseadma or Rosealma
+75-14B.jpg,75,14B,83,Clifford,,,,,,,Victoria,Daughter,W,F,July,1886,13,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,6,Yes,Yes,No,,,,,0,
+75-14B.jpg,75,14B,84,Clifford,,,,,,,Laura,Daughter,W,F,Mar,1888,12,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,No,No,No,,,,,0,
+75-14B.jpg,75,14B,85,Clifford,,,,,,,Thomas J.,Son,W,M,July,1890,9,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,86,Clifford,,,,,,,Emma,Daughter,W,F,Nov,1893,6,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,87,Clifford,,,,,,,Eli,Son,W,M,Jan,1896,4,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,88,Clifford,,,,,,,Arthur,Son,W,M,Mar,1897,3,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,89,Clifford,,,,,,,Joseph,Son,W,M,Jan,1899,1,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,90,Clifford,,227,226,267,,Collins,Thomas,Head,W,M,May,1855,45,M,12,,,Ireland,Ireland,Ireland,1876,24,Na,Grader,5,,Yes,Yes,Yes,O,F,H,,1,dwelling number overwritten and unclear (reads 270/227); birth year overwritten (1855/1854)
+75-14B.jpg,75,14B,91,Clifford,,,,,,,Helen,Wife,W,F,Apr,1860,40,M,12,1,1,Ireland,Ireland,Ireland,1877,23,,,,,No,No,Yes,,,,,0,
+75-14B.jpg,75,14B,92,Clifford,,,,,,,May E.,Daughter,W,F,May,1891,9,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+75-14B.jpg,75,14B,93,Clifford,,228,227,268,,Vilmaire,Mitchell,Head,W,M,Sept,1848,51,M,27,,,Vermont,Canada (Fr),Canada (Fr),,,,Machinist,0,,Yes,Yes,Yes,O,F,H,,1,dwelling number overwritten in place (227 over 228)
+75-14B.jpg,75,14B,94,Clifford,,,,,,,Delia,Wife,W,F,June,1856,43,M,27,10,8,Canada (Fr),Canada (Fr),Canada (Fr),1873,27,,,,,Yes,Yes,No,,,,,0,
+75-14B.jpg,75,14B,95,Clifford,,,,,,,Clara,Daughter,W,F,May,1874,26,S,,,,Vermont,Vermont,Canada (Fr),,,,Cotton mill sewer,0,,Yes,Yes,Yes,,,,,1,occupation last word sewer or sower
+75-14B.jpg,75,14B,96,Clifford,,,,,,,Emile,Son,W,M,Aug,1875,24,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,Yes,Yes,No,,,,,0,
+75-14B.jpg,75,14B,97,Clifford,,,,,,,Joseph,Son,W,M,Mar,1876,24,S,,,,Canada (Fr),Vermont,Canada (Fr),1881,19,Al,Cotton mill packer,0,,Yes,Yes,Yes,,,,,0,born 7 months after brother Emile as written
+75-14B.jpg,75,14B,98,Clifford,,,,,,,William,Son,W,M,Nov,1877,22,S,,,,Canada (Fr),Vermont,Canada (Fr),1881,19,Al,Day laborer,0,,Yes,Yes,No,,,,,0,
+75-14B.jpg,75,14B,99,Clifford,,,,,,,Eddie,Son,W,M,Apr,1879,21,S,,,,Vermont,Vermont,Canada (Fr),,,,Refrigerator shop laborer,0,,Yes,Yes,Yes,,,,,0,
+75-14B.jpg,75,14B,100,Clifford,,,,,,,Eugene,Son,W,M,June,1881,18,S,,,,Vermont,Vermont,Canada (Fr),,,,Cotton mill weaver,2,,Yes,Yes,Yes,,,,,0,

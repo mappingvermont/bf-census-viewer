@@ -8,6 +8,18 @@
     "bellows-falls/data/transcribed/259-42B.csv"
   ],
   "layout": {"overlap": 1.5},
+  "street_aliases": {
+    "Malletts Bay": "Mallets Bay Avenue",
+    "Mallets Bay": "Mallets Bay Avenue",
+    "Mallette Bay": "Mallets Bay Avenue",
+    "Malletts Bay Ave": "Mallets Bay Avenue",
+    "Mallets Bay Ave": "Mallets Bay Avenue",
+    "Leclair Ave": "Leclair Avenue",
+    "Leclare": "Leclair",
+    "Lafontain": "Lafountain",
+    "Forrest": "Forest",
+    "Shephard": "Shepard"
+  },
   "geocode": {
     "place": "Winooski",
     "proximity": [-73.1857, 44.4914],
