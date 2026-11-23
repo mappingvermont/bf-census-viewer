@@ -56,8 +56,8 @@ def main(people_csv, dst, g):
     for addr, (num, street) in addresses.items():
         if addr not in cache:
             cache[addr] = geocode(num, street, token, g)
-        g = cache[addr] or {}
-        print(f"{addr:<25} -> {g.get('matched', 'NO MATCH')}  [{g.get('confidence', '')}]")
+        hit = cache[addr] or {}
+        print(f"{addr:<25} -> {hit.get('matched', 'NO MATCH')}  [{hit.get('confidence', '')}]")
     json.dump(cache, open(dst, "w"), ensure_ascii=False, indent=1)
 
 

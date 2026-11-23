@@ -1,0 +1,71 @@
+{
+ "85 West Allen St": {
+  "lon": -73.190226,
+  "lat": 44.491446,
+  "matched": "85 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "87 West Allen St": {
+  "lon": -73.190305,
+  "lat": 44.491441,
+  "matched": "87 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "86 West Allen St": {
+  "lon": -73.190119,
+  "lat": 44.491452,
+  "matched": "86 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "74 West Allen St": {
+  "lon": -73.189623,
+  "lat": 44.491482,
+  "matched": "74 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "72 West Allen St": {
+  "lon": -73.18954,
+  "lat": 44.491487,
+  "matched": "72 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "65 West Allen St": {
+  "lon": -73.189441,
+  "lat": 44.491493,
+  "matched": "65 West Allen Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "10 Follett St": {
+  "lon": -73.187303,
+  "lat": 44.490249,
+  "matched": "10 Follett Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "9 Follett St": null,
+ "5 Follett St": null,
+ "3 Follett St": null,
+ "5 West Canal St": {
+  "lon": -73.186689,
+  "lat": 44.490205,
+  "matched": "5 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "23 West Canal St": {
+  "lon": -73.187962,
+  "lat": 44.49038,
+  "matched": "23 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "25 West Canal St": {
+  "lon": -73.188148,
+  "lat": 44.490429,
+  "matched": "25 West Canal Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ },
+ "16 Weaver St": {
+  "lon": -73.186569,
+  "lat": 44.497127,
+  "matched": "16 Weaver Street, Winooski, Vermont 05404, United States",
+  "confidence": "medium"
+ }
+}
