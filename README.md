@@ -19,8 +19,18 @@ It's a static site with no build step. Serve `site/` with any web server and ope
 cd site && python3 -m http.server 8000
 ```
 
-The basemap is Protomaps (`vermont.pmtiles`) and the overlay is the 1896 Sanborn raster tileset, both from
-the `mapping-vt-tiles` S3 bucket used by mappingvermont.org. Each house's flag is the plurality birth
+The basemap is a Protomaps extract of just the village, `site/data/bellows_falls.pmtiles` (about 1 MB),
+served with the site. The overlay is the 1896 Sanborn raster tileset from the `mapping-vt-tiles` S3 bucket
+used by mappingvermont.org. The statewide `vermont.pmtiles` there stops at zoom 14, which has almost no
+building footprints; this extract goes to zoom 15. The page loads the whole file at once, so it works on servers
+without HTTP range requests. The map can't pan outside the extract (`MAX_BOUNDS` in `site/script.js`).
+Regenerate the extract from a recent daily build (dates are listed at
+https://build-metadata.protomaps.dev/builds.json):
+
+```
+pmtiles extract https://build.protomaps.com/<DATE>.pmtiles site/data/bellows_falls.pmtiles \
+  --bbox=-72.50,43.10,-72.40,43.17 --maxzoom=15
+``` Each house's flag is the plurality birth
 country among residents over 16. Ties show every tied flag.
 
 To refresh the map data after new pages are transcribed, see "Geocoding and the map data" in

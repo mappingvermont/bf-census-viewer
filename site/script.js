@@ -1,11 +1,31 @@
-const PMTILES_URL = "https://mapping-vt-tiles.s3.amazonaws.com/vermont.pmtiles";
+// Protomaps extract of the village only, to z15: the statewide vermont.pmtiles stops at z14, which has
+// almost no building footprints. Regenerate with the command in ../README.md.
+const PMTILES_URL = new URL("data/bellows_falls.pmtiles", window.location.href).href;
 const SANBORN_TILES = "https://mapping-vt-tiles.s3.amazonaws.com/sanborn/{z}/{x}/{y}.png";
 const SANBORN_BOUNDS = [-72.48, 43.115, -72.42, 43.16]; // Bellows Falls only; the tileset covers other towns too
+// The map can't pan or zoom out past this. It must stay inside the pmtiles extract (-72.50,43.10,-72.40,43.17).
+const MAX_BOUNDS = [-72.49, 43.105, -72.41, 43.165];
 const CENSUS_URL = "data/census_1900.geojson";
 const TOTAL_SHEETS = 87; // census page sides in ED 259
 const ADULT_OVER = 16; // must match build_site_data.py
 
+// The extract is small (~1 MB), so fetch it once and read tiles from memory. That works on any static
+// server, including ones without HTTP range requests (python -m http.server).
+class BufferSource {
+	constructor(url) {
+		this.url = url;
+		this.buffer = fetch(url).then((r) => r.arrayBuffer());
+	}
+	getKey() {
+		return this.url;
+	}
+	async getBytes(offset, length) {
+		return { data: (await this.buffer).slice(offset, offset + length) };
+	}
+}
+
 const protocol = new pmtiles.Protocol();
+protocol.add(new pmtiles.PMTiles(new BufferSource(PMTILES_URL)));
 maplibregl.addProtocol("pmtiles", protocol.tile);
 
 const hadHashOnLoad = Boolean(window.location.hash); // read before the map writes its own
@@ -49,7 +69,9 @@ const map = new maplibregl.Map({
 	},
 	center: [-72.4441, 43.1338],
 	zoom: 16.5,
+	minZoom: 13,
 	maxZoom: 21,
+	maxBounds: MAX_BOUNDS,
 	hash: true,
 	attributionControl: false,
 });
