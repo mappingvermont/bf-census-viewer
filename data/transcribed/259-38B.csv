@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-38B.jpg,259,38B,51,Hadley,^,^,^,^,^,Cashen,Edward,Lodger,W,M,Aug,1880,19,S,,,,Vermont,Vermont,Vermont,,,,Waiter in restaurant,0,,Yes,Yes,Yes,,,,,0,household continues from 38A
+259-38B.jpg,259,38B,52,Hadley,,,,,,Keane,Nicholas,Lodger,W,M,Sept,1877,22,S,,,,Ireland,Ireland,Ireland,1899,1,Al,Laborer sulphite pulp mill,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,53,Hadley,10,521,532,777,840,Hayes,John,Head,W,M,Unknown,1833,67,Wd,,,,Ireland,Ireland,Ireland,1849,51,Na,,,,Yes,Yes,Yes,R,,H,,0,
+259-38B.jpg,259,38B,54,Hadley,,,,,,,John,Son,W,M,June,1868,31,S,,,,Vermont,Ireland,Ireland,,,,Machine tender paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,55,Hadley,,,,,,,Tena,Daughter,W,F,June,1872,27,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,1,given name Tena or Lena; age 27 possibly overwritten (27/28)
+259-38B.jpg,259,38B,56,Hadley,12,522,533,778,841,Hogan,Edward,Head,W,M,July,1826,73,Wd,,,,Ireland,Ireland,Ireland,1850,50,Na,Laborer paper mill,0,,No,No,Yes,O,F,H,,1,family number reads 775/778; 778 by sequence
+259-38B.jpg,259,38B,57,Hadley,,,,,,,Kate M.,Daughter,W,F,Nov,1857,42,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,58,Hadley,,,,,,,Anna M.,Daughter,W,F,Apr,1868,32,S,,,,Vermont,Ireland,Ireland,,,,Seamstress dressmaker,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,59,Hadley,,,,779,842,Barrett,Edward,Head,W,M,Mar,1857,43,M,16,,,Massachusetts,Ireland,Ireland,,,,Paper maker,0,,Yes,Yes,Yes,R,,H,,1,marital status overwritten (M over Wd?); same dwelling as Hogan
+259-38B.jpg,259,38B,60,Hadley,,,,,,,Sarah F.,Wife,W,F,Oct,1849,40,M,16,6,4,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,1,age 40 disagrees with birth Oct 1849 (would be 50); as written
+259-38B.jpg,259,38B,61,Hadley,,,,,,,Mary F.,Daughter,W,F,Jan,1886,14,S,,,,Vermont,Massachusetts,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,62,Hadley,,,,,,,Catherine,Daughter,W,F,Sept,1890,9,S,,,,Vermont,Massachusetts,Vermont,,,,At school,,9,,,,,,,,0,
+259-38B.jpg,259,38B,63,Hadley,,,,,,,Margaret,Daughter,W,F,Dec,1893,6,S,,,,Vermont,Massachusetts,Vermont,,,,At school,,9,,,,,,,,0,
+259-38B.jpg,259,38B,64,Hadley,,,,,,,Edward M.,Son,W,M,Nov,1897,2,S,,,,Vermont,Massachusetts,Vermont,,,,,,,,,,,,,,0,
+259-38B.jpg,259,38B,65,Hadley,14,523,534,780,843,Ledger,Isaac,Head,W,M,May,1868,32,M,3,,,Massachusetts,Canada (Fr),Unknown,,,,Trav. salesman brewery,0,,Yes,Yes,Yes,R,,H,,0,
+259-38B.jpg,259,38B,66,Hadley,,,,,,,Rose,Wife,W,F,July,1874,25,M,3,2,2,Maine,Canada (Fr),Maine,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,67,Hadley,,,,,,,Olive A.,Daughter,W,F,Apr,1898,2,S,,,,New Hampshire,Massachusetts,Maine,,,,,,,,,,,,,,0,
+259-38B.jpg,259,38B,68,Hadley,,,,,,,Isaac R.,Son,W,M,Mar,1900,2/12,S,,,,Vermont,Massachusetts,Maine,,,,,,,,,,,,,,0,age 2 months
+259-38B.jpg,259,38B,69,Hadley,,,,,,Roland,Charles E.,Boarder,W,M,Aug,1879,20,S,,,,Maine,Canada (Fr),Maine,,,,R.R. freight brakeman,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,70,Hadley,,,,,,Chause,Henry,Lodger,W,M,Jan,1880,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1897,3,Al,Barber,0,,Yes,Yes,Yes,,,,,1,surname Chause or Chausse
+259-38B.jpg,259,38B,71,Hadley,,,,781,844,Sparrow,Henry,Head,W,M,Mar,1866,34,M,1,,,New Hampshire,Canada (Eng),Canada (Eng),,,,Salesman stove store,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Ledger
+259-38B.jpg,259,38B,72,Hadley,,,,,,,Lura A.,Wife,W,F,May,1871,29,M,1,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,73,Hadley,,,,,,Hathaway,Edgar,Lodger,W,M,Unknown,1872,28,S,,,,New Jersey,,,,,,Machinist,2,,Yes,Yes,Yes,,,,,0,"""Left town"" written in right margin; parents' birthplaces blank"
+259-38B.jpg,259,38B,74,Henry,15,524,535,782,845,Remington,Myron,Head,W,M,Nov,1865,34,M,8,,,Vermont,Vermont,Canada (Eng),,,,Trav. cream separator agent,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark (Myr...)
+259-38B.jpg,259,38B,75,Henry,,,,,,,Abogail S.,Wife,W,F,Aug,1864,35,M,8,1,1,New York,Vermont,Canada (Eng),,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,76,Henry,,,,,,,Hazel,Daughter,W,F,Oct,1893,6,S,,,,Vermont,Vermont,New York,,,,At school,,9,,,,,,,,0,
+259-38B.jpg,259,38B,77,Henry,,,,,,Evans,Lucinda,Mother in law,W,F,July,1820,79,Wd,,16,7,Canada (Eng),Massachusetts,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,78,Henry,,,,783,846,Bodger,Henry,Head,W,M,Sept,1864,35,M,10,,,Vermont,Vermont,Vermont,,,,Trav. salesman farm machinery,0,,Yes,Yes,Yes,R,,H,,1,surname Bodger or Badger; same dwelling as Remington
+259-38B.jpg,259,38B,79,Henry,,,,,,,Charlotte E.,Wife,W,F,Dec,1866,33,M,10,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,80,Henry,,,,,,Durivage,Ida M.,Boarder,W,F,Apr,1870,30,S,,,,Vermont,Vermont,Vermont,,,,Dressmaker,0,,Yes,Yes,Yes,,,,,1,surname reads Durivage/Ourivage
+259-38B.jpg,259,38B,81,Henry,11,525,536,784,847,Wilson,Fredrick,Head,W,M,Apr,1830,70,Wd,,,,Massachusetts,Massachusetts,Massachusetts,,,,Grain dealer,0,,Yes,Yes,Yes,O,F,H,,0,
+259-38B.jpg,259,38B,82,Henry,,,,,,,Fredrick A.,Son,W,M,June,1860,39,S,,,,Vermont,Massachusetts,Massachusetts,,,,Grain salesman,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,83,Henry,,,,,,,Louis B.,Son,W,M,Jan,1874,26,S,,,,Vermont,Massachusetts,Massachusetts,,,,Laborer paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,84,Henry,,,,,,,Sarah,Sister,W,F,Mar,1837,63,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,85,Henry,,,,,,Ryan,Mary K.,Servant,W,F,Apr,1878,22,S,,,,Ireland,Ireland,Ireland,,,,Housework private family,0,,Yes,Yes,Yes,,,,,0,immigration year blank
+259-38B.jpg,259,38B,86,Henry,9,526,537,785,848,Coy,Simon T.,Head,W,M,Apr,1833,67,M,42,,,Vermont,Vermont,Vermont,,,,Paper manufacturer,0,,Yes,Yes,Yes,O,F,H,,0,
+259-38B.jpg,259,38B,87,Henry,,,,,,,Mary A.,Wife,W,F,Feb,1835,65,M,42,2,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,88,Henry,,,,,,Williams,Anna B.,Granddaughter,W,F,Apr,1880,20,S,,,,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,89,Henry,,,,,,Keefe,Julia,Servant,W,F,Sept,1862,37,S,,,,Ireland,Ireland,Ireland,1884,16,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,90,Henry,7,527,538,786,849,Moore,Carrol,Head,W,M,Sept,1867,32,M,10,,,Vermont,Vermont,Vermont,,,,Paper manufacturer,0,,Yes,Yes,Yes,O,F,H,,0,
+259-38B.jpg,259,38B,91,Henry,,,,,,,Fannie C.,Wife,W,F,July,1865,34,M,10,1,0,Vermont,Massachusetts,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,1,middle initial C or E
+259-38B.jpg,259,38B,92,Henry,,,,,,Bowe,Molly,Servant,W,F,Aug,1875,24,S,,,,Ireland,Ireland,Ireland,1895,5,,Housework private work,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,93,Henry,5,528,539,787,850,Moore,John T.,Head,W,M,Nov,1838,61,M,40,,,Vermont,Vermont,Vermont,,,,Paper manufacturer,0,,Yes,Yes,Yes,O,F,H,,0,
+259-38B.jpg,259,38B,94,Henry,,,,,,,Lucy M.,Wife,W,F,May,1840,60,M,40,1,1,Vermont,Massachusetts,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,95,Henry,,,,,,Sullivan,Katharine J.,Servant,W,F,Aug,1876,23,S,,,,Ireland,Ireland,Ireland,1896,4,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,96,Westminster,,529,540,788,851,Williams,Kate E.,Head,W,F,Dec,1852,47,S,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,O,F,H,,1,no house number written; age overwritten (47/48)
+259-38B.jpg,259,38B,97,Westminster,,,,,,Wentworth,Caroline F.,Sister,W,F,Feb,1839,61,Wd,,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,98,Westminster,,,,,,Morse,Frances M.,Niece,W,F,May,1881,19,S,,,,Vermont,Vermont,New Hampshire,,,,At school,,8,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,99,Westminster,,,,,,Palmer,Harriet E.,Servant,W,F,Mar,1857,43,Wd,,1,1,Vermont,New Hampshire,Vermont,,,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-38B.jpg,259,38B,100,School,18,530,541,789,852,Day,James C.,Head,W,M,Mar,1847,52,M,5,,,Massachusetts,Massachusetts,Massachusetts,,,,Dry goods merchant,0,,Yes,Yes,Yes,R,,H,,1,age 52 disagrees with birth Mar 1847 (would be 53); as written; household may continue on next sheet

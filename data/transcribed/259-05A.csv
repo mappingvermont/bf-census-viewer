@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-05A.jpg,259,05A,1,Bridge,^,^,^,82,,Goodnow,Allen,Head,W,M,Oct,1865,34,M,3,,,Canada,Massachusetts,Canada (Eng),1870,30,Na,Locomotive fireman,0,,Yes,Yes,Yes,R,,H,,0,"birthplace ""Canada"" struck through and annotated ""Native Am. cit."""
+259-05A.jpg,259,05A,2,Bridge,,,,,,,Ada,Wife,W,F,Dec,1867,32,M,3,0,0,England,England,England,1894,6,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,3,Bridge,,,,,,,David A.,Father,W,M,Sept,1822,78,Wd,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,age written 78 but Sept 1822 gives 77 on census day
+259-05A.jpg,259,05A,4,Bridge,,,,83,,Blake,James,Head,W,M,Oct,1862,37,M,8,,,Vermont,Ireland,Ireland,,,,Paper maker,0,,Yes,Yes,Yes,R,,H,,0,no dwelling number written: same dwelling as Goodnow
+259-05A.jpg,259,05A,5,Bridge,,,,,,,Annie,Wife,W,F,Dec,1869,30,M,8,0,0,Ireland,Ireland,Ireland,1884,16,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,6,Bridge,,,,,,Gately,Thomas,Boarder,W,M,Feb,1879,21,S,,,,Massachusetts,Massachusetts,Ireland,,,,Machine tender paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,7,Bridge,50,60,59,84,,Kelley,Michael,Head,W,M,Aug,1859,40,M,17,,,Ireland,Ireland,Ireland,1882,18,Na,Cobbler,0,,Yes,Yes,Yes,R,,H,,0,
+259-05A.jpg,259,05A,8,Bridge,,,,,,,Nora,Wife,W,F,May,1860,40,M,17,9,7,Ireland,Ireland,Ireland,1882,18,,,,,No,No,Yes,,,,,0,
+259-05A.jpg,259,05A,9,Bridge,,,,,,,Elizabeth M.,Daughter,W,F,Sept,1886,13,S,,,,New Hampshire,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,1,last digit of birth year overwritten (1886)
+259-05A.jpg,259,05A,10,Bridge,,,,,,,James,Son,W,M,Nov,1887,12,S,,,,New Hampshire,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,11,Bridge,,,,,,,Mary,Daughter,W,F,July,1890,9,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-05A.jpg,259,05A,12,Bridge,,,,,,,Ellen,Daughter,W,F,July,1892,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-05A.jpg,259,05A,13,Bridge,,,,,,,Johanna,Daughter,W,F,Feb,1895,5,S,,,,Vermont,Ireland,Ireland,,,,,,0,,,,,,,,0,
+259-05A.jpg,259,05A,14,Bridge,,,,,,,Michael,Son,W,M,Nov,1897,2,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-05A.jpg,259,05A,15,Bridge,,,,,,,Nora,Daughter,W,F,Apr,1900,1/12,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,age 1 month
+259-05A.jpg,259,05A,16,Bridge,,,,,,Dillon,Thomas,Boarder,W,M,Dec,1870,29,S,,,,Ireland,Ireland,Ireland,1896,4,Al,Day laborer,6,,Yes,No,Yes,,,,,0,
+259-05A.jpg,259,05A,17,Bridge,52,61,60,85,,Ranville,Charles M.,Head,W,M,Sept,1850,49,M,,,,Vermont,Vermont,Vermont,,,,Toll gate keeper,0,,Yes,Yes,Yes,R,,H,,1,dwelling numbers overwritten (61 with 60 above); given name partly covered by tally mark; years married blank
+259-05A.jpg,259,05A,18,Bridge,,,,,,,Emma F.,Wife,W,F,Jan,1863,37,M,,2,0,Vermont,Vermont,Rhode Island,,,,,,,Yes,Yes,Yes,,,,,0,years married blank on page
+259-05A.jpg,259,05A,19,Bridge,,,,,,Sheldon,Esther R.,Mother in law,W,F,Oct,1842,57,Wd,,2,2,Rhode Island,Vermont,Rhode Island,,,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,20,Railroad,3,62,61,86,,Hewett,Henry B.,Head,W,M,Mar,1852,48,M,18,,,Canada (Eng),England,Canada (Eng),1875,25,Na,Canal gate tender,0,,Yes,Yes,Yes,O,M,H,,1,street change point between Bridge and Railroad assumed at house number break
+259-05A.jpg,259,05A,21,Railroad,,,,,,,Catherine,Wife,W,F,June,1853,46,M,18,8,3,Canada (Eng),Canada (Eng),Canada (Eng),1880,20,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,22,Railroad,,,,,,,Elizabeth M.,Daughter,W,F,July,1884,15,S,,,,Massachusetts,Canada (Eng),Canada (Eng),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,23,Railroad,,,,,,,Amelia F.,Daughter,W,F,July,1887,12,S,,,,Vermont,Canada (Eng),Canada (Eng),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,24,Railroad,,,,87,,Smyth,William F.,Head,W,M,Sept,1852,47,M,18,,,New York,Ireland,Ireland,,,,Night watchman,2,,Yes,Yes,Yes,R,,H,,0,no dwelling number written: same dwelling as Hewett
+259-05A.jpg,259,05A,25,Railroad,,,,,,,Mary A.,Wife,W,F,Apr,1852,48,M,18,5,0,Canada (Eng),England,Canada (Eng),1874,26,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,26,Railroad,,,,,,Randal,Oscar,Boarder,W,M,Unknown,1860,40,S,,,,Unknown,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,27,Railroad,,,,,,Cocchis,Joseph P.,Boarder,W,M,May,1879,21,S,,,,Italy,Italy,Italy,1897,3,Al,Laborer paper mill,0,,Yes,Yes,Yes,,,,,1,surname Cocchis or Cocchio
+259-05A.jpg,259,05A,28,Railroad,,,,88,,Alger,Salon B.,Head,W,M,June,1839,60,M,10,,,Rhode Island,Rhode Island,Rhode Island,,,,Mill wright,2,,Yes,Yes,Yes,R,,H,,1,given name Salon or Solon; age overwritten (60); no dwelling number written
+259-05A.jpg,259,05A,29,Railroad,,,,,,,Mary,Wife,W,F,Nov,1863,36,M,10,0,0,Connecticut,Connecticut,Connecticut,,,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,30,Railroad,,,,,,Campbell,Michael,Boarder,W,M,Feb,1880,20,S,,,,Canada (Eng),Scotland,Canada (Eng),1899,1,Al,Attend pulp press wood,2,0,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,31,Railroad,,,,,,McKinnon,Angus J.,Boarder,W,M,Aug,1869,30,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1898,2,Al,Attend wood pulp press,2,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,32,Railroad,5,63,62,89,,Hallahan,Nellie,Head,W,F,July,1860,39,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,O,F,H,,0,
+259-05A.jpg,259,05A,33,Railroad,,,,,,,Mary A.,Sister,W,F,Jan,1868,32,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,34,Railroad,,,,,,,Margaret,Sister,W,F,July,1871,28,S,,,,Vermont,Ireland,Ireland,,,,Attends cutter paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,35,Railroad,,,,,,Sullivan,Michael,Boarder,W,M,Oct,1871,28,S,,,,Ireland,Ireland,Ireland,1889,11,Pa,Engineer paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,36,Railroad,,,,,,Moore,Michael,Boarder,W,M,Sept,1879,20,S,,,,Ireland,Ireland,Ireland,1899,1,Al,Helper on paper machine,0,0,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,37,Railroad,,,,,,Connors,Thomas,Boarder,W,M,Dec,1875,24,S,,,,Ireland,Ireland,Ireland,1899,1,Al,Engineer paper machine,0,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,38,Railroad,,,,,,Finn,Thomas,Boarder,W,M,Unknown,1865,35,S,,,,Ireland,Ireland,Ireland,1896,4,Al,Iron worker,0,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,39,Railroad,7,64,63,90,,Holloran,John,Head,W,M,June,1840,59,Wd,,,,Ireland,Ireland,Ireland,1863,37,Na,Melter iron foundry,0,,Yes,Yes,Yes,O,F,H,,0,
+259-05A.jpg,259,05A,40,Railroad,,,,,,,Thomas,Son,W,M,July,1873,26,S,,,,Vermont,Ireland,Ireland,,,,Log piler,0,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,41,Railroad,,,,,,Calvey,Jennie,Housekeeper,W,F,June,1880,19,S,,,,Ireland,Ireland,Ireland,1893,7,,Housekeeper,0,0,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,42,Railroad,8,65,64,91,,Gorman,Edward,Head,W,M,Feb,1850,50,M,15,,,Ireland,Ireland,Ireland,1870,30,Na,Day laborer,0,,Yes,Yes,Yes,O,F,H,,0,
+259-05A.jpg,259,05A,43,Railroad,,,,,,,Mary,Wife,W,F,Mar,1860,40,M,15,7,7,Ireland,Ireland,Ireland,1880,20,,,,,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,44,Railroad,,,,,,,Ellen E.,Daughter,W,F,Nov,1885,14,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,1,age overwritten (14)
+259-05A.jpg,259,05A,45,Railroad,,,,,,,Mary A.,Daughter,W,F,June,1887,12,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,46,Railroad,,,,,,,Catharine,Daughter,W,F,Oct,1889,10,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-05A.jpg,259,05A,47,Railroad,,,,,,,Edward,Son,W,M,Oct,1890,9,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-05A.jpg,259,05A,48,Railroad,,,,,,,Nora,Daughter,W,F,Mar,1893,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-05A.jpg,259,05A,49,Railroad,,,,,,,John,Son,W,M,Nov,1896,3,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-05A.jpg,259,05A,50,Railroad,,,,,,,Margaret,Daughter,W,F,July,1898,1,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,

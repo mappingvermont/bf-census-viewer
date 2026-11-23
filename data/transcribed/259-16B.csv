@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-16B.jpg,259,16B,51,Prospect,^,^,^,^,^,,James T.,Son,W,M,June,1896,3,S,,,,New York,Ireland,Ireland,,,,,,,,,,,,,,1,household continues from 16A; street assumed Prospect (street name written lower in column)
+259-16B.jpg,259,16B,52,Prospect,,,,,,,John F.,Son,W,M,Dec,1898,1,S,,,,New Hampshire,Ireland,Ireland,,,,,,,,,,,,,,1,age overwritten (reads 1)
+259-16B.jpg,259,16B,53,Prospect,,,,,,,Thomas,Brother,W,M,Unknown,1865,35,M,10,,,Ireland,Ireland,Ireland,1888,12,Na,Loader log train,0,,Yes,Yes,Yes,,,,,0,married but no wife listed in household
+259-16B.jpg,259,16B,54,Prospect,,,,,,McInirney,John,Brother-in-law,W,M,Unknown,1864,36,S,,,,Ireland,Ireland,Ireland,1897,3,Al,Laborer farm machine factory,0,,No,No,Yes,,,,,1,surname McInirney or McInerney; birth month Un crossed out
+259-16B.jpg,259,16B,55,Prospect,,,,,,Condon,James F.,Boarder,W,M,June,1881,18,S,,,,Ireland,Ireland,Ireland,1899,0,,"Painter, house",0,0,Yes,Yes,Yes,,,,,1,birth year last digit overwritten (1881 fits age 18)
+259-16B.jpg,259,16B,56,Prospect,10,218,221,333,338,Vautrain,Arthur,Head,W,M,Jan,1869,31,M,8,,,Canada (Fr),Canada (Fr),Canada (Fr),1875,25,Na,Machine tender paper mill,5,,Yes,Yes,Yes,R,,H,,1,surname Vautrain or Vantrain
+259-16B.jpg,259,16B,57,Prospect,,,,,,,Celina,Wife,W,F,Oct,1872,27,M,8,5,4,Massachusetts,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,1,given name Celina uncertain; sex overwritten
+259-16B.jpg,259,16B,58,Prospect,,,,,,,William A.,Son,W,M,Aug,1893,6,S,,,,Indiana,Canada (Fr),Massachusetts,,,,At school,,8 1/2,,,,,,,,0,
+259-16B.jpg,259,16B,59,Prospect,,,,,,,Edgar,Son,W,M,June,1894,5,S,,,,Massachusetts,Canada (Fr),Massachusetts,,,,At school,,9,,,,,,,,0,
+259-16B.jpg,259,16B,60,Prospect,,,,,,,George H.,Son,W,M,Mar,1896,4,S,,,,Massachusetts,Canada (Fr),Massachusetts,,,,,,,,,,,,,,0,
+259-16B.jpg,259,16B,61,Prospect,,,,,,,Ona B.,Daughter,W,F,Sept,1897,2,S,,,,Vermont,Canada (Fr),Massachusetts,,,,,,,,,,,,,,1,given name Ona or Ora
+259-16B.jpg,259,16B,62,Prospect,,,,,,,Armidas,Brother,W,M,Mar,1876,24,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1876,24,Na,Laborer paper mill,7,,Yes,Yes,Yes,,,,,1,given name Armidas uncertain
+259-16B.jpg,259,16B,63,Prospect,,,,,,,George,Brother,W,M,Sept,1878,21,S,,,,Massachusetts,Canada (Fr),Canada (Fr),,,,Worker on calendars on paper machine,0,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,64,Prospect,4,219,222,334,339,Houlihan,John,Head,W,M,Aug,1862,37,M,9,,,Ireland,Ireland,Ireland,1889,11,Na,Laborer paper mill,0,,Yes,Yes,Yes,O,M,H,,0,
+259-16B.jpg,259,16B,65,Prospect,,,,,,,Hannah,Wife,W,F,Apr,1868,32,M,9,5,5,Ireland,Ireland,Ireland,1888,12,,,,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,66,Prospect,,,,,,,Mary T.,Daughter,W,F,June,1892,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-16B.jpg,259,16B,67,Prospect,,,,,,,Margaret,Daughter,W,F,Apr,1894,6,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-16B.jpg,259,16B,68,Prospect,,,,,,,Alice C.,Daughter,W,F,Nov,1896,3,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,1,middle initial C or E
+259-16B.jpg,259,16B,69,Prospect,,,,,,,Hannah,Daughter,W,F,June,1899,11/12,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,1,age written 11/12 (could read 1/2)
+259-16B.jpg,259,16B,70,Prospect,,,,,,,Julia,Daughter,W,F,June,1899,11/12,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,1,age written 11/12 (could read 1/2); twin of Hannah
+259-16B.jpg,259,16B,71,Prospect,,,,,,O'Brien,Bridget,Boarder,W,F,Dec,1875,24,S,,,,Ireland,Ireland,Ireland,1899,1,,Housework,2,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,72,Prospect,,,,,,Flavin,Michael,Boarder,W,M,Aug,1866,33,S,,,,Ireland,Ireland,Ireland,1896,4,Al,Laborer farm machine factory,5,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,73,Prospect,,,,,,Kirby,Jeremiah,Boarder,W,M,June,1874,25,S,,,,Ireland,Ireland,Ireland,1899,9/12,Al,Laborer paper mill,1,,No,No,Yes,,,,,0,
+259-16B.jpg,259,16B,74,Prospect,,,,,,Shehan,John,Boarder,W,M,Nov,1859,40,M,14,,,Ireland,Ireland,Ireland,1888,12,Al,Laborer paper mill,0,,No,No,Yes,,,,,1,age overwritten (40); married but no wife listed
+259-16B.jpg,259,16B,75,Prospect,,,,,,Moriarty,Michael,Boarder,W,M,Mar,1878,22,S,,,,Ireland,Ireland,Ireland,1896,4,Al,Laborer paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,76,Prospect,7,220,223,335,340,Houlehan,Patrick,Head,W,M,Mar,1872,28,M,3,,,Ireland,Ireland,Ireland,1895,5,Al,Laborer sulphite mill,0,,Yes,Yes,Yes,R,,H,,1,surname Houlehan or Houlihan
+259-16B.jpg,259,16B,77,Prospect,,,,,,,Margaret,Wife,W,F,June,1876,23,M,3,3,1,Ireland,Ireland,Ireland,1895,5,,,,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,78,Prospect,,,,,,,Patrick,Son,W,M,Apr,1899,1,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-16B.jpg,259,16B,79,Prospect,3,221,224,336,341,Leen,Patrick B.,Head,W,M,Mar,1860,40,M,15,,,Ireland,Ireland,Ireland,1883,17,Na,Coal & wood dealer,0,,Yes,Yes,Yes,O,M,H,,1,family number 336 partly obscured
+259-16B.jpg,259,16B,80,Prospect,,,,,,,Mary J.,Wife,W,F,Dec,1849,50,M,15,1,1,Ireland,Ireland,Ireland,1862,38,,,,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,81,Prospect,,,,,,,Mary C.,Daughter,W,F,Dec,1888,11,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,1,middle initial C or E; school months 9 or 2
+259-16B.jpg,259,16B,82,Prospect,2,222,225,337,342,Costin,Michael,Head,W,M,Unknown,1857,43,M,14,,,Ireland,Ireland,Ireland,1883,17,,Teamster,0,,Yes,Yes,Yes,O,M,H,,0,naturalization blank
+259-16B.jpg,259,16B,83,Prospect,,,,,,,Margaret,Wife,W,F,Feb,1859,41,M,14,10,6,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,84,Prospect,,,,,,,Ellen J.,Daughter,W,F,Aug,1886,13,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,85,Prospect,,,,,,,Margaret,Daughter,W,F,June,1889,10,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,86,Prospect,,,,,,,Anna,Daughter,W,F,Nov,1892,7,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,,,,,,,,0,
+259-16B.jpg,259,16B,87,Prospect,,,,,,,Maurice M.,Son,W,M,Oct,1894,5,S,,,,Vermont,Ireland,Vermont,,,,At school,,4,,,,,,,,0,
+259-16B.jpg,259,16B,88,Prospect,,,,,,,Grace A.,Daughter,W,F,July,1896,3,S,,,,Vermont,Ireland,Vermont,,,,,,,,,,,,,,0,
+259-16B.jpg,259,16B,89,Prospect,,,,,,,Alice E.,Daughter,W,F,June,1898,1,S,,,,Vermont,Ireland,Vermont,,,,,,,,,,,,,,1,middle initial E or G
+259-16B.jpg,259,16B,90,Brown,4,223,226,338,343,Scanlon,Edward J.,Head,W,M,Unknown,1865,36,M,13,,,Ireland,Ireland,Ireland,1883,17,Na,Laborer pulp mill,0,,Yes,Yes,Yes,R,,H,,1,occupation pulp mill or felt mill; street change to Brown assumed to start at line 90 (mark in street column)
+259-16B.jpg,259,16B,91,Brown,,,,,,,Bessie,Wife,W,F,Unknown,1867,33,M,13,8,3,Ireland,Ireland,Ireland,1882,18,,,,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,92,Brown,,,,,,,Thomas E.,Son,W,M,July,1889,10,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,93,Brown,,,,,,,John J.,Son,W,M,Aug,1893,6,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-16B.jpg,259,16B,94,Brown,,,,,,,Edward E.,Son,W,M,Jan,1900,4/12,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,1,middle initial E or C
+259-16B.jpg,259,16B,95,Brown,,,,,,Hayes,Josie,Lodger,W,F,Dec,1885,14,S,,,,Vermont,Ireland,Ireland,,,,Housework,2,1,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,96,Brown,5,224,227,339,344,Lawton,Fred S.,Head,W,M,June,1854,45,M,19,,,Vermont,Vermont,Vermont,,,,Carpenter,1,,Yes,Yes,Yes,O,M,H,,1,dwelling renumber partly overwritten (227)
+259-16B.jpg,259,16B,97,Brown,,,,,,,Marcia J.,Wife,W,F,Oct,1854,45,M,19,6,6,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,98,Brown,,,,,,,Janette G. L.,Daughter,W,F,Aug,1884,15,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,1,middle initial G or S
+259-16B.jpg,259,16B,99,Brown,,,,,,,Flint D.,Son,W,M,May,1887,13,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-16B.jpg,259,16B,100,Brown,,,,,,,Paul R.,Son,W,M,Mar,1890,10,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,

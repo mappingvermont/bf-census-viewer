@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-29A.jpg,259,29A,1,Atkinson,^,^,^,^,^,,Flora A.,Daughter,W,F,June,1888,11,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,0,household continues from sheet 28B
+259-29A.jpg,259,29A,2,Atkinson,,,,,,,Leverett C.,Son,W,M,Oct,1889,10,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,3,Atkinson,,,,,,,Lewis C.,Son,W,M,Jan,1891,9,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,,,,,,,,0,
+259-29A.jpg,259,29A,4,Atkinson,,,,,,,Mamie E.,Daughter,W,F,Mar,1892,8,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,,,,,,,,0,
+259-29A.jpg,259,29A,5,Atkinson,,,,,,,Marjorie L.,Daughter,W,F,May,1893,7,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,,,,,,,,0,
+259-29A.jpg,259,29A,6,Atkinson,,,,,,Taggart,Arthur C.,Boarder,W,M,Mar,1880,20,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,Hack driver,0,,Yes,Yes,Yes,,,,,1,middle initial C or G
+259-29A.jpg,259,29A,7,Atkinson,,,,554,617,Strong,Fred A.,Head,W,M,Sept,1869,30,M,1,,,Vermont,Vermont,Vermont,,,,Hack driver,,,Yes,Yes,Yes,R,,H,,1,new family but no dwelling no. written (same dwelling as above); family no. partly unclear (55?); renum 617 written at line 6
+259-29A.jpg,259,29A,8,Atkinson,,,,,,,Clara L.,Wife,W,F,Oct,1873,26,M,1,1,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,9,Atkinson,,,,,,,Ruth E.,Daughter,W,F,July,1899,10/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-29A.jpg,259,29A,10,Atkinson,,,,555,618,Burnham,Orestes E.,Head,W,M,July,1848,61,M,30,,,Vermont,Vermont,Vermont,,,,Carpet cleaner,9,,Yes,Yes,Yes,R,,H,,1,given name unclear under tally mark (Orestes/Oresta/Chester); age written 61 but birth July 1848 gives 51; same dwelling as above
+259-29A.jpg,259,29A,11,Atkinson,,,,,,,Mary E.,Wife,W,F,Dec,1848,51,M,30,0,0,New York,Maine,Maine,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,12,Atkinson,106,379,392,557,619,Whitney,Collis R.,Head,W,M,Sept,1827,72,M,48,,,Massachusetts,Massachusetts,Connecticut,,,,,,,Yes,Yes,Yes,R,,H,,1,given name obscured by tally mark (Collis/Colfax/Cephas)
+259-29A.jpg,259,29A,13,Atkinson,,,,,,,Hester R.,Wife,W,F,Aug,1832,67,M,48,2,1,Massachusetts,Vermont,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,14,Atkinson,,,,,,,Charles M.,Son,W,M,Sept,1860,39,M,16,,,Massachusetts,Massachusetts,Massachusetts,,,,Painter house,4,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,15,Atkinson,,,,558,620,Miller,George,Head,W,M,Mar,1870,30,M,8,,,Vermont,Vermont,New York,,,,Laborer scythe snath shop,1,,Yes,Yes,Yes,R,,H,,1,family no. last digit unclear (55?); same dwelling as Whitney
+259-29A.jpg,259,29A,16,Atkinson,,,,,,,Julia A.,Wife,W,F,Jan,1867,33,M,8,0,0,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,1,middle initial unclear under tally mark
+259-29A.jpg,259,29A,17,Atkinson,108,380,393,559,621,Wilson,Charles S.,Head,W,M,Jan,1856,44,M,21,,,Vermont,New York,Vermont,,,,Sawyer,3,,Yes,Yes,Yes,R,,H,,1,family no. looks like 557 but sequence gives 559
+259-29A.jpg,259,29A,18,Atkinson,,,,,,,Ella G.,Wife,W,F,Mar,1858,42,M,21,1,1,Massachusetts,Massachusetts,Canada (Eng),,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,19,Atkinson,,,,,,,George N.,Son,W,M,June,1884,15,S,,,,Vermont,Vermont,Massachusetts,,,,Laborer wood shop,4,,Yes,Yes,Yes,,,,,1,middle initial N or W
+259-29A.jpg,259,29A,20,Atkinson,,,,,,Hunt,Milford Abner,Lodger,W,M,Oct,1873,26,S,,,,Vermont,Vermont,Vermont,,,,Saw filer,0,,Yes,Yes,Yes,,,,,0,renum 622 written on this line belongs to Clark family below
+259-29A.jpg,259,29A,21,Atkinson,,,,560,622,Clark,Harvey A.,Head,W,M,May,1873,27,M,4,,,Vermont,Vermont,Vermont,,,,Meat cook hotel,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Wilson
+259-29A.jpg,259,29A,22,Atkinson,,,,,,,Alice M.,Wife,W,F,May,1877,23,M,4,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,23,Atkinson,,,,,,Farr,Nellie A.,Mother-in-law,W,F,Apr,1863,37,D,,1,1,Vermont,Vermont,Vermont,,,,Pastry cook hotel,0,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,24,Atkinson,110,381,394,561,623,Webb,Joshua H.,Head,W,M,Dec,1837,62,M,35,,,Vermont,Vermont,Vermont,,,,Teamster,0,,Yes,Yes,Yes,O,F,H,,0,
+259-29A.jpg,259,29A,25,Atkinson,,,,,,,Jane Adeline,Wife,W,F,May,1838,62,M,35,1,1,Pennsylvania,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,"""Jane"" inserted above Adeline"
+259-29A.jpg,259,29A,26,Atkinson,,,,,,,Blanche A.,Daughter,W,F,July,1878,21,S,,,,Vermont,Vermont,Pennsylvania,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,27,Atkinson,,,,562,624,Kingston,William A.,Head,W,M,Nov,1859,40,M,5,,,Vermont,Vermont,Vermont,,,,Stationary engineer,1,,Yes,Yes,Yes,R,,H,,0,same dwelling as Webb
+259-29A.jpg,259,29A,28,Atkinson,,,,,,,Della M.,Wife,W,F,Feb,1873,27,M,5,0,0,Vermont,New York,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,29,Atkinson,,,,,,,Hazel M.,Daughter,W,F,July,1894,5,S,,,,Vermont,Vermont,Vermont,,,,At school,,6,,,,,,,,0,
+259-29A.jpg,259,29A,30,Russell,6,382,395,563,625,Bryant,Daniel,Head,W,M,June,1871,28,M,1,,,New Hampshire,New Hampshire,New Hampshire,,,,Laborer scythe snath shop,1,,Yes,Yes,Yes,R,,H,,1,family no. last digit unclear (56?)
+259-29A.jpg,259,29A,31,Russell,,,,,,,Aggie M.,Wife,W,F,Aug,1878,21,M,1,1,1,Vermont,Massachusetts,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,32,Russell,,,,,,,Lydia M.,Daughter,W,F,Jan,1900,4/12,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,0,
+259-29A.jpg,259,29A,33,Russell,8,383,396,564,626,Armstrong,Robert,Head,W,M,Apr,1844,56,M,29,,,New York,Ireland,Ireland,,,,Milk dealer,,,Yes,Yes,Yes,R,,H,,1,given name obscured by tally mark (Ro...); family no. looks like 567 but sequence gives 564
+259-29A.jpg,259,29A,34,Russell,,,,,,,Margaret M.,Wife,W,F,Mar,1840,60,M,29,4,2,New York,Vermont,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,35,Russell,,,,,,,Fannie A.,Daughter,W,F,July,1876,23,S,,,,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,36,Russell,,,,,,,Elmore E.,Son,W,M,Nov,1878,21,S,,,,New York,New York,New York,,,,Driver milk team,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,37,Russell,,,,565,627,Edwards,George,Head,W,M,Apr,1863,37,M,10,,,Wales,England,England,1882,18,Al,Teamster,,,Yes,Yes,Yes,R,,H,,0,same dwelling as Armstrong
+259-29A.jpg,259,29A,38,Russell,,,,,,,Amanda,Wife,W,F,Mar,1873,27,M,10,0,0,Vermont,Ireland,Ireland,,,,Seamstress,6,,Yes,Yes,Yes,,,,,1,given name obscured by tally mark (Amanda?)
+259-29A.jpg,259,29A,39,Russell,24,384,397,566,628,O'Brien,John,Head,W,M,Unknown,1855,45,M,15,,,Ireland,Ireland,Ireland,1880,20,Na,,,,Yes,Yes,Yes,R,,H,,0,
+259-29A.jpg,259,29A,40,Russell,,,,,,,Arthur P.,Son,W,M,Unknown,1884,16,S,,,,Vermont,Ireland,Ireland,,,,Laborer paper mill,7,,Yes,Yes,Yes,,,,,1,middle initial unclear under tally mark
+259-29A.jpg,259,29A,41,Russell,,,,567,629,Vayo,George,Head,W,M,Feb,1875,25,M,4,,,Vermont,Canada (Fr),Canada (Fr),,,,Laborer wood room paper mill,,,Yes,Yes,Yes,R,,H,,1,family no. looks like 564 but sequence gives 567; renum 629 written at line 40; same dwelling as O'Brien
+259-29A.jpg,259,29A,42,Russell,,,,,,,Mary R.,Wife,W,F,Sept,1874,25,M,4,2,2,Canada (Fr),Canada (Fr),Canada (Fr),1881,19,,,,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,43,Russell,,,,,,,Irene B.,Daughter,W,F,Feb,1897,3,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+259-29A.jpg,259,29A,44,Russell,,,,,,,Edward G.,Son,W,M,Sept,1898,1,S,,,,Vermont,Vermont,Canada (Fr),,,,,,,,,,,,,,0,
+259-29A.jpg,259,29A,45,Russell,,,,,,Pingree,Silas,Boarder,W,M,Unknown,1882,18,S,,,,Vermont,Vermont,Vermont,,,,Mixer paint factory,0,,Yes,Yes,Yes,,,,,0,
+259-29A.jpg,259,29A,46,Russell,,,,,,Wentworth,Percy,Boarder,W,M,Unknown,1880,20,S,,,,Vermont,Vermont,Vermont,,,,Mixer paint factory,0,,Yes,Yes,Yes,,,,,0,renum 398/630 written on this line belong to Welch below
+259-29A.jpg,259,29A,47,Russell,22,385,398,568,630,Welch,Levi,Head,W,M,Unknown,1850,50,M,26,,,Canada (Fr),Canada (Fr),Canada (Fr),1866,34,Al,Day laborer,2,,No,No,Yes,O,M,H,,1,given name Levi or Louis; family no. looks like 561 but sequence gives 568
+259-29A.jpg,259,29A,48,Russell,,,,,,,Annie S.,Wife,W,F,Unknown,1854,46,M,26,7,6,Ireland,Ireland,Ireland,1872,28,,,,,No,No,Yes,,,,,1,middle initial S or J
+259-29A.jpg,259,29A,49,Russell,,,,,,,Daniel J.,Son,W,M,Feb,1882,18,S,,,,New Hampshire,Canada (Fr),Ireland,,,,Laborer scythe snath shop,5,0,Yes,Yes,Yes,,,,,1,birth year could be read 1842; 1882 fits age 18
+259-29A.jpg,259,29A,50,Russell,,,,,,,Elizabeth M.,Daughter,W,F,Sept,1884,15,S,,,,Vermont,Canada (Fr),Ireland,,,,,,0,Yes,Yes,Yes,,,,,0,age overwritten/boxed (15)

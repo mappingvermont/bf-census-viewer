@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-21A.jpg,259,21A,1,Church Place,,,,,,,Mary E.,Daughter,W,F,Dec,1888,11,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,household continues from sheet 20B; no numbers written on this line
+259-21A.jpg,259,21A,2,Church Place,,,,417,422,Joy,John J.,Head,W,M,Apr,1873,27,M,2,,,Ireland,Ireland,Ireland,1897,3,Pa,Laborer sulphite pulp mill,0,,Yes,Yes,Yes,R,,H,,1,naturalization written Pa above na (Pa/Na); new family with no dwelling number: same dwelling as preceding household
+259-21A.jpg,259,21A,3,Church Place,,,,,,,Nellie,Wife,W,F,Dec,1879,22,M,2,1,1,Ireland,Ireland,Ireland,1895,5,,,,,Yes,Yes,Yes,,,,,1,birth year looks overwritten (1879/1877); age 22 written disagrees with 1879
+259-21A.jpg,259,21A,4,Church Place,,,,,,,Mary C.,Daughter,W,F,Feb,1899,1,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,father's birthplace written Vermont though father born Ireland
+259-21A.jpg,259,21A,5,Church Place,4,277,280,418,423,Janotta,John,Head,W,M,Jan,1869,31,M,9,,,Germany,Germany,Germany,1889,11,Na,Laborer paper mill,0,,Yes,Yes,Yes,R,,H,,0,
+259-21A.jpg,259,21A,6,Church Place,,,,,,,Minnie,Wife,W,F,Sept,1870,29,M,9,3,3,Germany,Germany,Germany,1890,10,,,,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,7,Church Place,,,,,,,Fred,Son,W,M,Oct,1891,8,S,,,,Vermont,Germany,Germany,,,,At school,,9,,,,,,,,0,
+259-21A.jpg,259,21A,8,Church Place,,,,,,,George,Son,W,M,Sept,1892,7,S,,,,Vermont,Germany,Germany,,,,At school,,9,,,,,,,,0,
+259-21A.jpg,259,21A,9,Church Place,,,,,,,Elizabeth,Daughter,W,F,Nov,1895,4,S,,,,Vermont,Germany,Germany,,,,,,,,,,,,,,0,
+259-21A.jpg,259,21A,10,Church Place,,,,,,,Eva,Mother,W,F,Unknown,1825,75,Wd,,8,5,Germany,Germany,Germany,1885,15,,,,,No,No,No,,,,,0,
+259-21A.jpg,259,21A,11,Church Place,,,,419,424,Cray,Dennis E.,Head,W,M,Jan,1859,41,M,15,,,Ireland,Ireland,Ireland,1875,25,Na,Laborer paper mill,0,,Yes,Yes,Yes,R,,H,,1,immigration year overwritten (1875/1895); same dwelling as Janotta
+259-21A.jpg,259,21A,12,Church Place,,,,,,,Annie E.,Wife,W,F,Aug,1859,40,M,15,5,2,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,13,Church Place,,,,,,,Eugene J.,Son,W,M,Feb,1888,12,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,14,Church Place,,,,,,,Margaret G.,Daughter,W,F,Nov,1889,10,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,15,Church Place,6,278,281,420,425,,Eugene,Head,W,M,Unknown,1830,70,M,52,,,Ireland,Ireland,Ireland,1875,25,Na,,,,Yes,Yes,Yes,O,F,H,,0,surname dittoed (Cray) though new dwelling
+259-21A.jpg,259,21A,16,Church Place,,,,,,,Johanna,Wife,W,F,Unknown,1830,70,M,52,9,9,Ireland,Ireland,Ireland,1875,25,,,,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,17,Church Place,,,,421,426,Norman,William,Head,W,M,Mar,1875,25,M,2,,,Canada (Fr),Canada (Fr),Canada (Fr),1882,18,Al,Laborer farm machine machinery,0,,Yes,Yes,Yes,R,,H,,1,"occupation written on two lines ""Laborer farm / machine machinery""; given name partly covered by tally mark; same dwelling as Cray"
+259-21A.jpg,259,21A,18,Church Place,,,,,,,Della,Wife,W,F,July,1875,24,M,2,0,0,New Hampshire,Canada (Fr),Canada (Fr),,,,,,,Yes,No,Yes,,,,,0,
+259-21A.jpg,259,21A,19,Church Place,8,279,282,422,427,Blake,George,Head,W,M,June,1866,33,M,3,,,Vermont,Vermont,Vermont,,,,Machine tender paper mill,0,,Yes,Yes,Yes,R,,H,,0,
+259-21A.jpg,259,21A,20,Church Place,,,,,,,Mary A.,Wife,W,F,Aug,1878,21,M,3,1,1,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,21,Church Place,,,,,,,John P.,Son,W,M,July,1898,1,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-21A.jpg,259,21A,22,Church Place,,,,423,428,Cray,Patrick E.,Head,W,M,Mar,1852,48,M,15,,,Ireland,Ireland,Ireland,1870,30,Na,Papermaker,0,,Yes,Yes,Yes,R,,H,,1,years married overwritten (15); same dwelling as Blake
+259-21A.jpg,259,21A,23,Church Place,,,,,,,Bridget F.,Wife,W,F,Feb,1863,37,M,15,7,5,Ireland,Ireland,Ireland,1873,27,,,,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,24,Church Place,,,,,,,Mary F.,Daughter,W,F,Apr,1887,13,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,25,Church Place,,,,,,,Eugene J.,Son,W,M,Apr,1889,11,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,26,Church Place,,,,,,,Josephine E.,Daughter,W,F,Oct,1890,9,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-21A.jpg,259,21A,27,Church Place,,,,,,,Gerald A.,Son,W,M,May,1896,4,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-21A.jpg,259,21A,28,Church Place,,,,,,,Jane M.,Daughter,W,F,May,1898,2,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-21A.jpg,259,21A,29,Church Place,,,,424,429,Moriarty,Michael,Head,W,M,Unknown,1845,55,M,20,,,Ireland,Ireland,Ireland,1876,24,Na,Laborer paper mill,9,,No,No,Yes,R,,H,,0,
+259-21A.jpg,259,21A,30,Church Place,,,,,,,Katharine,Wife,W,F,Unknown,1865,35,M,20,0,0,Ireland,Ireland,Ireland,1870,30,,,,,No,No,Yes,,,,,1,birth year overwritten (1845 corrected to 1865); age overwritten
+259-21A.jpg,259,21A,31,Church Place,,,,425,430,Cray,Stephen F.,Head,W,M,June,1863,36,M,3,,,Vermont,Ireland,Ireland,,,,Salesman meat,0,,Yes,Yes,Yes,R,,H,,1,age overwritten (36/37)
+259-21A.jpg,259,21A,32,Church Place,,,,,,,Ella,Wife,W,F,Jan,1871,29,M,3,1,1,Ireland,Ireland,Ireland,1892,8,,,,,Yes,Yes,Yes,,,,,1,years married overwritten (3?)
+259-21A.jpg,259,21A,33,Church Place,,,,,,,Mary J.,Daughter,W,F,Dec,1899,5/12,S,,,,Vermont,Vermont,Ireland,,,,,,,,,,,,,,1,month written over/struck (Dec?); age 5 months
+259-21A.jpg,259,21A,34,Church Place,,,,,,Driscoll,Mary,Sister in law,W,F,Unknown,1869,31,S,,,,Ireland,Ireland,Ireland,1881,19,,,,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,35,Church Place,,,,426,431,Hale,George W.,Head,W,M,Oct,1853,46,M,,,,New Hampshire,Ohio,Vermont,,,,Meat salesman,0,,Yes,Yes,Yes,R,,H,,0,years married blank
+259-21A.jpg,259,21A,36,Church Place,,,,,,Perry,Alesta S.,Housekeeper,W,F,Sept,1859,40,D,,2,2,Vermont,Vermont,Vermont,,,,Housework,0,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,37,Church Place,,,,,,,Worden J.,Boarder,W,M,Nov,1883,16,S,,,,Massachusetts,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,1,birthplace Massachusetts written and struck through; no replacement visible
+259-21A.jpg,259,21A,38,Church Place,,,,,,,Grace H.,Boarder,W,F,Apr,1887,13,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,39,Church Place,,,,427,432,Delaney,Patrick,Head,W,M,Mar,1875,25,M,2,,,Ireland,Ireland,Ireland,1895,5,Al,Laborer paper mill,0,,Yes,Yes,Yes,R,,H,,0,
+259-21A.jpg,259,21A,40,Church Place,,,,,,,Johanna,Wife,W,F,Apr,1873,27,M,2,0,0,Ireland,Ireland,Ireland,1892,8,,,,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,41,Church Place,10,280,283,428,433,Landers,Ambrose,Head,W,M,Feb,1849,51,M,29,,,Vermont,Canada (Fr),Canada (Fr),,,,Laborer pulp mill,0,,Yes,Yes,Yes,R,,H,,0,
+259-21A.jpg,259,21A,42,Church Place,,,,,,,Salinda,Wife,W,F,May,1849,51,M,29,6,5,Canada (Fr),Canada (Fr),Canada (Fr),1849,51,,,,,No,No,Yes,,,,,0,
+259-21A.jpg,259,21A,43,Church Place,,,,,,,Louisa,Daughter,W,F,July,1879,20,S,,,,Vermont,Vermont,Canada (Fr),,,,,,0,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,44,Church Place,,,,,,,William H.,Son,W,M,Apr,1882,18,S,,,,Vermont,Vermont,Canada (Fr),,,,Apprentice undertaker,0,0,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,45,Church Place,,,,,,Bellows,Bernie,Grandson,W,M,July,1898,1,S,,,,Massachusetts,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-21A.jpg,259,21A,46,Church Place,,,,429,434,St Lawrence,Jeffry,Head,W,M,Oct,1850,49,M,28,,,Canada (Fr),Canada (Fr),Canada (Fr),1871,30,Na,Millwright,0,,Yes,Yes,Yes,R,,H,,1,relation Head struck through; years in US 30 written though 1871 gives 29
+259-21A.jpg,259,21A,47,Church Place,,,,,,,Ida M.,Wife,W,F,Jan,1857,43,M,28,10,4,Canada (Fr),Canada (Fr),Canada (Fr),1869,31,,,,,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,48,Church Place,,,,,,,Alfred E.,Son,W,M,May,1887,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-21A.jpg,259,21A,49,Church Place,,,,,,,George L.,Son,W,M,Sept,1892,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,,,,,,,,0,
+259-21A.jpg,259,21A,50,Church Place,,,,430,435,Orenson,David,Head,W,M,Aug,1856,43,M,11,,,Russia,Russia,Russia,1877,22,Na,Tailor,0,,No,No,Yes,R,,H,,1,surname Orenson or Arenson; years in US 22 written though 1877 gives 23; same dwelling as St Lawrence; household may continue on 21B

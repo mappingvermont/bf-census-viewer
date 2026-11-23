@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-42A.jpg,259,42A,1,Atkinson,^,^,^,^,^,Ladd,Lucy,Servant,W,F,Mar,1878,22,S,,,,Vermont,Massachusetts,Massachusetts,,,,Housework private family,0,,Yes,Yes,Yes,,,,,0,household continues from previous sheet
+259-42A.jpg,259,42A,2,Atkinson,,,,863,927,Dennison,John H.,Head,W,M,July,1873,26,M,0,,,New Hampshire,Vermont,New Hampshire,,,,Hardware merchant,0,,Yes,Yes,Yes,O,F,F,23,1,family no. dark ink reads 863/864 (sequence implies 863); middle initial partly covered by tally mark (H or A); no dwelling no. written: same dwelling as line 1
+259-42A.jpg,259,42A,3,Atkinson,,,,,,,Susie E.,Wife,W,F,Dec,1875,24,M,0,0,0,New Hampshire,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,4,Atkinson,,,,,,,Mary A.,Mother,W,F,Nov,1839,60,D,,1,1,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,23,1,marital status reads D (possibly Wd); farm schedule 23 also written on this line
+259-42A.jpg,259,42A,5,Atkinson,39,585,596,864,928,Walker,Edward,Head,W,M,Feb,1857,43,M,2,,,Vermont,Vermont,Vermont,,,,Insurance agent,0,,Yes,Yes,Yes,O,M,H,,0,
+259-42A.jpg,259,42A,6,Atkinson,,,,,,,Alice R.,Wife,W,F,Nov,1873,36,M,2,0,0,Vermont,Vermont,Maine,,,,,,,Yes,Yes,Yes,,,,,1,age 36 written but birth year 1873 implies 26
+259-42A.jpg,259,42A,7,Atkinson,,,,,,Bemis,Corinne E.,Lodger,W,F,July,1872,27,S,,,,Vermont,Vermont,Vermont,,,,Book keeper electric light office,0,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,8,Atkinson,,,,,,Sleeper,Harriette,Lodger,W,F,Nov,1871,28,S,,,,Canada (Eng),Canada (Eng),New Hampshire,1878,22,,Book keeper paint factory,0,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,9,Atkinson,33,586,597,865,929,Chase,Clarke,Head,W,M,Dec,1837,62,M,38,,,New Hampshire,New Hampshire,New Hampshire,,,,Landlord,0,,Yes,Yes,Yes,O,F,H,,0,
+259-42A.jpg,259,42A,10,Atkinson,,,,,,,Elen M.,Wife,W,F,Dec,1840,59,M,38,2,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,11,Atkinson,,,,,,Ball,Mary A.,Sister,W,F,Aug,1833,66,Wd,,1,1,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,12,Atkinson,,,,,,Hogan,Bridget,Servant,W,F,Feb,1867,23,S,,,,Ireland,Ireland,Ireland,1894,6,,Housework private family,0,,Yes,Yes,Yes,,,,,1,age 23 written but birth year 1867 implies 33 (year possibly 1877)
+259-42A.jpg,259,42A,13,Atkinson,,587,598,866,930,Page,George E.,Head,W,M,May,1856,44,M,13,,,Maine,Maine,Maine,,,,Trav. cigar salesman & manufacturer,0,,Yes,Yes,Yes,O,F,H,,0,no house number written
+259-42A.jpg,259,42A,14,Atkinson,,,,,,,Lilla A.,Wife,W,F,Oct,1866,33,M,13,3,2,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,15,Atkinson,,,,,,,Gerald E.,Son,W,M,Jan,1891,9,S,,,,Vermont,Maine,Vermont,,,,At school,,9,,,,,,,,1,middle initial E or B
+259-42A.jpg,259,42A,16,Atkinson,,,,,,,George D.,Son,W,M,Jan,1898,2,S,,,,Vermont,Maine,Vermont,,,,,,,,,,,,,,0,
+259-42A.jpg,259,42A,17,Atkinson,,,,,,Laughlin,Margaret,Servant,W,F,Apr,1872,28,S,,,,Ireland,Ireland,Ireland,1891,9,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,18,Hapgood,15,588,599,867,931,Robertson,Charles F.,Head,W,M,Sept,1850,49,M,24,,,Vermont,Canada (Eng),Vermont,,,,Paper manufacturer,0,,Yes,Yes,Yes,O,F,H,,1,middle initial partly covered by tally mark
+259-42A.jpg,259,42A,19,Hapgood,,,,,,,Flora W.,Wife,W,F,May,1851,49,M,24,1,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,20,Hapgood,,,,,,,Louis J.,Son,W,M,July,1877,22,S,,,,Vermont,Vermont,Vermont,,,,Paper manufacturer,0,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,21,Hapgood,,,,,,Ward,Mary,Sister in law,W,F,July,1834,65,S,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,22,Hapgood,,,,,,Carrol,Margaret A.,Servant,W,F,Feb,1880,20,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1882,18,,Housework private family,0,,Yes,Yes,Yes,,,,,1,middle initial unclear (& A.)
+259-42A.jpg,259,42A,23,Hapgood,9,589,600,868,932,Adams,Cushing,Head,W,M,July,1868,31,Wd,,,,Massachusetts,Massachusetts,Massachusetts,,,,General manager paint factory,0,,Yes,Yes,Yes,O,,H,,0,
+259-42A.jpg,259,42A,24,Hapgood,,,,,,Eastman,William W.,Step son,W,M,June,1886,13,S,,,,Minnesota,Minnesota,Minnesota,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,25,Hapgood,,,,,,Anson,Idianna,Sister in law,W,F,Sept,1861,38,Wd,,2,2,Massachusetts,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,surname overwritten (Anson/Andson)
+259-42A.jpg,259,42A,26,Hapgood,,,,,,,George H.,Nephew,W,M,June,1885,14,S,,,,Minnesota,Michigan,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,1,age overwritten (14/15)
+259-42A.jpg,259,42A,27,Hapgood,,,,,,,Frank H.,Nephew,W,M,Nov,1887,12,S,,,,Minnesota,Michigan,Massachusetts,,,,At school,,7,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,28,Hapgood,,,,,,Hale,Marietta,Sister in law,W,F,Oct,1863,36,S,,,,Massachusetts,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,29,Hapgood,,,,,,Condon,Catherine E.,Servant,W,F,July,1871,28,S,,,,New Hampshire,Ireland,New Hampshire,,,,Waitress private family,0,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,30,Hapgood,,,,,,McGowan,Hannah M.,Servant,W,F,Nov,1864,35,S,,,,Vermont,Ireland,Ireland,,,,Cook private family,0,,Yes,Yes,Yes,,,,,1,surname reading uncertain (McGowan/McGoway)
+259-42A.jpg,259,42A,31,Hapgood,7,590,601,869,933,Osgood,Edwin,Head,W,M,Aug,1865,34,M,9,,,Massachusetts,Massachusetts,New Hampshire,,,,Druggist,0,,Yes,Yes,Yes,R,,H,,0,
+259-42A.jpg,259,42A,32,Hapgood,,,,,,,Florence F.,Wife,W,F,Oct,1866,33,M,9,1,1,Vermont,Massachusetts,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,33,Hapgood,,,,,,,Florence E.,Daughter,W,F,Mar,1896,4,S,,,,Vermont,Massachusetts,Vermont,,,,,,,,,,,,,,0,
+259-42A.jpg,259,42A,34,Hapgood,,,,,,Lawson,Margaret,Servant,W,F,Aug,1855,44,Wd,,1,1,England,England,England,1898,2,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,35,Hapgood,,,,870,934,Hapgood,Jerusha L.,Head,W,F,May,1828,72,Wd,,1,1,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark; no dwelling no.: same dwelling as Osgood
+259-42A.jpg,259,42A,36,Hapgood,,,,,,,Emma K.,Step daughter,W,F,Aug,1850,49,S,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,37,Westminster,79,591,602,871,935,Hall,William A.,Head,W,M,Dec,1867,33,M,12,,,Massachusetts,Massachusetts,New Hampshire,,,,Manufacturer chemicals,0,,Yes,Yes,Yes,O,F,H,,1,birth year and age overwritten (1866/1867; 32/33); home free/mortgaged overwritten
+259-42A.jpg,259,42A,38,Westminster,,,,,,,Sarah J. A.,Wife,W,F,Feb,1867,33,M,12,1,1,New York,Massachusetts,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,39,Westminster,,,,,,,Melvin A.,Son,W,M,Apr,1889,11,S,,,,Vermont,Massachusetts,New York,,,,At school,,7,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,40,Westminster,,,,,,Adams,Sarah F.,Mother in law,W,F,Jan,1840,60,Wd,,6,5,Massachusetts,Massachusetts,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,41,Westminster,,,,,,Morrow,Delia M.,Servant,W,F,Oct,1872,27,S,,,,Ireland,Ireland,Ireland,1892,8,,Lady's maid,1,,Yes,Yes,Yes,,,,,1,surname Morrow or Morrison
+259-42A.jpg,259,42A,42,Westminster,75,592,603,872,936,Swain,Albert N.,Head,W,M,July,1828,71,M,43,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,O,F,H,,0,
+259-42A.jpg,259,42A,43,Westminster,,,,,,,Susan W.,Wife,W,F,May,1832,68,M,43,0,0,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,44,Westminster,,,,,,Goddard,Lorette L.,Sister,W,F,Oct,1834,65,Wd,,2,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,45,Westminster,71,593,604,873,937,Bancroft,Herbert,Head,W,M,Dec,1839,60,M,33,,,Connecticut,Massachusetts,Connecticut,,,,,,,Yes,Yes,Yes,O,F,H,,0,
+259-42A.jpg,259,42A,46,Westminster,,,,,,,Mary E.,Wife,W,F,Apr,1847,53,M,33,1,1,New York,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,middle initial E or C
+259-42A.jpg,259,42A,47,Westminster,,,,,,,Herbert G.,Son,W,M,Nov,1882,17,S,,,,New York,Connecticut,New York,,,,At school,,9,Yes,Yes,Yes,,,,,1,age overwritten (17/18)
+259-42A.jpg,259,42A,48,Westminster,,,,,,Goodridge,Caroline T.,Mother in law,W,F,Aug,1817,82,Wd,,2,1,Vermont,Connecticut,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,49,Westminster,,,,,,Tyther,Mary J.,Servant,W,F,Dec,1875,24,S,,,,Ireland,Ireland,Ireland,1896,4,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-42A.jpg,259,42A,50,Westminster,61,594,605,874,938,Flint,Wyman,Head,W,M,July,1824,75,Wd,,,,New Hampshire,Vermont,Vermont,,,,Paper manufacturer,0,,Yes,Yes,Yes,O,,H,,0,household may continue on 42B

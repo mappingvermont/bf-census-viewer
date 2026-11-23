@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-29B.jpg,259,29B,51,Russell,^,^,^,^,^,,Katharine M.,Daughter,W,F,Apr,1885,15,S,,,,Vermont,Canada (Fr),Ireland,,,,At school,,8,Yes,Yes,Yes,,,,,0,household continues from sheet 29A
+259-29B.jpg,259,29B,52,Russell,26,386,399,568,631,Mican,Thomas,Head,W,M,Aug,1834,65,M,9,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,No,No,Yes,O,F,H,,1,family number unclear (568 or 562); 568 fits sequence
+259-29B.jpg,259,29B,53,Russell,,,,,,,Mary,Wife,W,F,Dec,1851,48,M,9,8,5,Ireland,Ireland,Ireland,1872,28,,,,,No,No,Yes,,,,,0,
+259-29B.jpg,259,29B,54,Russell,,,,569,632,Wright,George,Head,W,M,Unknown,1871,29,M,7,,,New Hampshire,Canada (Fr),Canada (Fr),,,,Day laborer,6,,Yes,Yes,Yes,R,,H,,1,no dwelling number written: same dwelling as Mican; family number last digit unclear (569 fits sequence)
+259-29B.jpg,259,29B,55,Russell,,,,,,,Lizzie B.,Wife,W,F,Unknown,1879,21,M,7,3,3,Vermont,Unknown,Vermont,,,,,,,No,No,Yes,,,,,0,
+259-29B.jpg,259,29B,56,Russell,,,,,,,Eva,Daughter,W,F,Unknown,1894,6,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,9,,,,,,,,0,
+259-29B.jpg,259,29B,57,Russell,,,,,,,William,Son,W,M,Feb,1897,3,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,0,
+259-29B.jpg,259,29B,58,Russell,,,,,,,George,Son,W,M,Mar,1899,1,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,0,
+259-29B.jpg,259,29B,59,Russell,,,,570,633,,Mitchell,Head,W,M,Mar,1856,44,M,17,,,Vermont,Canada (Fr),Canada (Fr),,,,Teamster,1,,No,No,Yes,R,,H,,0,surname dittoed (dash) from Wright above although new family; no dwelling number written: same dwelling
+259-29B.jpg,259,29B,60,Russell,,,,,,,Rosa M.,Wife,W,F,Jan,1861,39,M,17,5,5,Canada (Fr),Canada (Fr),Canada (Fr),Unknown,Unknown,,,,,Yes,No,Yes,,,,,0,
+259-29B.jpg,259,29B,61,Russell,,,,,,,Maude A.,Daughter,W,F,Apr,1884,16,S,,,,Vermont,Vermont,Canada (Fr),,,,Sample painter paint factory,,,Yes,Yes,Yes,,,,,1,occupation first word painter or pointer
+259-29B.jpg,259,29B,62,Russell,,,,,,,Delphine E.,Daughter,W,F,July,1885,14,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,8,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,63,Russell,,,,,,,Ernest G.,Son,W,M,Sept,1886,13,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,4 1/2,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,64,Russell,,,,,,,Mitchell L.,Son,W,M,Jan,1890,10,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,8,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,65,Russell,,,,,,,William J.,Son,W,M,Sept,1892,7,S,,,,Vermont,Vermont,Canada (Fr),,,,At school,,8,,,,,,,,0,
+259-29B.jpg,259,29B,66,Russell,,,,,,Penniman,Thomas,Boarder,W,M,May,1865,35,Wd,,,,Vermont,Vermont,Vermont,,,,Teamster,0,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,67,Russell,,,,,,Twine,Henry,Boarder,W,M,Sept,1879,20,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Teamster,0,,Yes,Yes,Yes,,,,,1,surname Twine or Twiss
+259-29B.jpg,259,29B,68,Russell,,,,571,634,Bailey,Charles F.,Head,W,M,Sept,1870,29,M,1,,,California,Scotland,Ireland,,,,Millwright,,,Yes,Yes,Yes,R,,H,,0,no dwelling number written: same dwelling
+259-29B.jpg,259,29B,69,Russell,,,,,,,Edith B.,Wife,W,F,Nov,1881,18,M,1,0,0,New Hampshire,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,70,Russell,,,,,,Shepard,Eliza A.,Mother in law,W,F,Nov,1842,57,Wd,,5,4,Vermont,Unknown,Unknown,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,71,Russell,29,387,400,572,635,Farrell,Patrick,Head,W,M,Sept,1841,58,M,30,,,Ireland,Ireland,Ireland,1890,30,Na,Day laborer,6,,Yes,Yes,Yes,O,F,H,,1,immigration year reads 1890 but years in US 30 (would be 1870)
+259-29B.jpg,259,29B,72,Russell,,,,,,,Mary,Wife,W,F,Jan,1836,64,M,30,8,6,Ireland,Ireland,Ireland,1858,42,,,,,No,No,Yes,,,,,0,
+259-29B.jpg,259,29B,73,Russell,,,,,,,Joseph,Son,W,M,Aug,1880,19,S,,,,Vermont,Ireland,Ireland,,,,Day laborer,6,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,74,Russell,17,388,401,573,636,Miller,William,Head,W,M,Unknown,1850,50,M,20,,,England,England,England,185_,,Na,Fireman stationary boiler,,,Yes,Yes,Yes,R,,H,,1,immigration year and years in US overwritten (185? / ?2); possibly 1858/42 or 1852/48
+259-29B.jpg,259,29B,75,Russell,,,,,,,Mary,Wife,W,F,Mar,1850,50,M,20,4,3,England,England,England,1852,48,,,,,No,No,Yes,,,,,0,
+259-29B.jpg,259,29B,76,Russell,,,,,,,William E.,Son,W,M,July,1882,17,S,,,,Vermont,England,England,,,,Laborer steam laundry,,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,77,Russell,,,,,,,Grace M.,Daughter,W,F,Feb,1888,12,S,,,,Vermont,England,England,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,78,Russell,,,,,,,George P.,Son,W,M,Jan,1893,7,S,,,,Vermont,England,England,,,,At school,,9,,,,,,,,0,
+259-29B.jpg,259,29B,79,Russell,15,389,402,574,637,Nadon,Emily,Head,W,F,May,1848,52,Wd,,13,6,Canada (Fr),Canada (Fr),Canada (Fr),1881,19,,,,,No,No,No,O,M,H,,0,
+259-29B.jpg,259,29B,80,Russell,,,,,,,Mary L.,Daughter,W,F,Feb,1878,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1881,19,,Sample painter paint factory,,,Yes,Yes,Yes,,,,,1,occupation first word painter or printer
+259-29B.jpg,259,29B,81,Russell,,,,,,,Lucy B.,Daughter,W,F,Apr,1880,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1881,19,,Attends cutter paper mill,,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,82,Russell,,,,,,,Napoleon,Son,W,M,Dec,1882,17,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Laborer paint factory grinder,,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,83,Russell,,,,,,,Anna M.,Daughter,W,F,Apr,1892,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,,,,,,,,0,
+259-29B.jpg,259,29B,84,Russell,13,390,403,575,638,Odette,George,Head,W,M,Nov,1851,48,M,27,,,Canada (Fr),Canada (Fr),Canada (Fr),1883,17,Na,Teamster,,,No,No,Yes,O,F,H,,1,naturalization may read no
+259-29B.jpg,259,29B,85,Russell,,,,,,,Angel,Wife,W,F,Feb,1852,48,M,27,11,8,Canada (Fr),Canada (Fr),Canada (Fr),1883,17,,,,,No,No,No,,,,,0,
+259-29B.jpg,259,29B,86,Russell,,,,,,,Joseph,Son,W,M,July,1882,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1883,17,,Drives job team,,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,87,Russell,,,,,,,Edmon,Son,W,M,Dec,1883,16,S,,,,New Hampshire,Canada (Fr),Canada (Fr),,,,Laborer scythe snath shop,4,,Yes,Yes,Yes,,,,,1,given name Edmon or Elmon; age overwritten (16)
+259-29B.jpg,259,29B,88,Russell,,,,,,,Mary A.,Daughter,W,F,Mar,1889,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,89,Russell,,,,,,,Louis,Son,W,M,Apr,1892,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,,,,,,,,0,
+259-29B.jpg,259,29B,90,Russell,,,,,,,Sarah,Daughter,W,F,Oct,1893,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,7,,,,,,,,0,
+259-29B.jpg,259,29B,91,Russell,,,,576,639,Smith,Alfred,Head,W,M,June,1845,54,M,30,,,Canada (Fr),Canada (Eng),Canada (Fr),1880,20,Na,Laborer paint factory,0,,No,No,Yes,R,,H,,1,birth month overwritten (June); no dwelling number written: same dwelling as Odette
+259-29B.jpg,259,29B,92,Russell,,,,,,,Margaret,Wife,W,F,Feb,1848,52,M,30,12,1,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,,,,,Yes,Yes,No,,,,,0,
+259-29B.jpg,259,29B,93,Russell,,,,,,,Louis H.,Son,W,M,Sept,1877,22,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,Na,At school,7,5,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,94,Russell,11,391,404,577,640,LaRose,Joseph,Head,W,M,Apr,1862,38,M,13,,,Vermont,Canada (Fr),Canada (Fr),,,,Laborer paper mill wood room,,,No,No,Yes,R,,H,,0,
+259-29B.jpg,259,29B,95,Russell,,,,,,,Nellie E.,Wife,W,F,Dec,1871,28,M,13,4,2,Vermont,Vermont,Unknown,,,,,,,Yes,Yes,Yes,,,,,0,
+259-29B.jpg,259,29B,96,Russell,,,,,,,Lena S.,Daughter,W,F,Apr,1893,7,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,,,,,,,,1,middle initial S or L
+259-29B.jpg,259,29B,97,Russell,,,,,,,Walter A.,Son,W,M,May,1898,2,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-29B.jpg,259,29B,98,Russell,9,392,405,578,641,White,George,Head,W,M,May,1857,43,M,17,,,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,Pa,Tender of beams paper mills,,,Yes,Yes,Yes,O,F,H,,1,occupation partly overwritten; reading uncertain
+259-29B.jpg,259,29B,99,Russell,,,,,,,Zoa,Wife,W,F,Oct,1855,44,M,17,4,2,Canada (Fr),Canada (Fr),Canada (Fr),1861,39,,,,,Yes,Yes,Yes,,,,,1,given name Zoa or Zoe
+259-29B.jpg,259,29B,100,Russell,,,,,,,Mary A.,Daughter,W,F,Feb,1888,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,

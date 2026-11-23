@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-04B.jpg,259,04B,51,Elm on Island,,53,51,73,72,Kane,Edward,Head,W,M,June,1860,39,M,18,,,Ireland,Ireland,Ireland,1885,15,Al,Fireman stationary boiler,3,,No,No,Yes,R,,H,,0,
+259-04B.jpg,259,04B,52,Elm on Island,,,,,,,Mary,Wife,W,F,Nov,1859,40,M,18,11,5,Ireland,Ireland,Ireland,1888,12,,,,,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,53,Elm on Island,,,,,,,James,Son,W,M,Feb,1883,17,S,,,,Ireland,Ireland,Ireland,1888,12,,,,0,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,54,Elm on Island,,,,,,,Mary A.,Daughter,W,F,Feb,1885,15,S,,,,Ireland,Ireland,Ireland,1888,12,,Servant private family,7,4,Yes,Yes,Yes,,,,,1,months unemployed 7 partly obscured
+259-04B.jpg,259,04B,55,Elm on Island,,,,,,,Michael,Son,W,M,Apr,1889,11,S,,,,New Hampshire,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,56,Elm on Island,,,,,,,Margaret,Daughter,W,F,July,1890,9,S,,,,New Hampshire,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-04B.jpg,259,04B,57,Elm on Island,,,,,,,Katherine,Daughter,W,F,Mar,1899,1,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-04B.jpg,259,04B,58,Elm on Island,,54,52,74,73,Lonegan,Thomas,Head,W,M,Dec,1830,69,M,40,,,Ireland,Ireland,Ireland,1850,50,Na,Locomotive cleaner,0,,Yes,Yes,Yes,O,,H,,1,surname Lonegan or Lonergan
+259-04B.jpg,259,04B,59,Elm on Island,,,,,,,Kate,Daughter,W,F,Dec,1863,36,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,60,Elm on Island,,,,,,,Annie,Daughter,W,F,Nov,1883,26,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,birth year 1883 and age 26 disagree as written (1873 would fit)
+259-04B.jpg,259,04B,61,Elm on Island,,,,,,Gallagher,John,Grandson,W,M,May,1894,6,S,,,,Massachusetts,Vermont,Vermont,,,,,,0,,,,,,,,0,"relation written ""G son""; numbers 53 74 on this line are renumbering for next household"
+259-04B.jpg,259,04B,62,Bridge,30,55,53,75,74,Willoughby,Charles,Head,W,M,May,1856,44,M,16,,,New Hampshire,New Hampshire,New Hampshire,,,,Teamster,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark (Charl...); street name Bridge written lower in column
+259-04B.jpg,259,04B,63,Bridge,,,,,,,Vinnie I.,Wife,W,F,Nov,1863,36,M,16,2,2,Vermont,Unknown,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,middle initial I or J
+259-04B.jpg,259,04B,64,Bridge,,,,,,,Maud V.,Daughter,W,F,July,1884,15,S,,,,Vermont,New Hampshire,Vermont,,,,,,0,Yes,Yes,Yes,,,,,1,given name unclear (Maud/Arand)
+259-04B.jpg,259,04B,65,Bridge,,,,,,,Charlie W.,Son,W,M,Sept,1886,13,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,66,Bridge,35,56,54,76,75,Morris,Thomas,Head,W,M,Oct,1863,36,M,15,,,Ireland,Ireland,Ireland,1880,20,Na,Papermaker,0,,Yes,Yes,Yes,R,,H,,0,
+259-04B.jpg,259,04B,67,Bridge,,,,,,,Katherine,Wife,W,F,Jan,1863,37,M,15,6,5,Ireland,Ireland,Ireland,1882,18,,,,,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,68,Bridge,,,,,,,Theresa,Daughter,W,F,May,1888,12,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,69,Bridge,,,,,,,Henry,Son,W,M,June,1890,9,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-04B.jpg,259,04B,70,Bridge,,,,,,,Catherine,Daughter,W,F,June,1892,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-04B.jpg,259,04B,71,Bridge,,,,,,,Alphoneus,Son,W,M,Feb,1895,5,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,1,given name Alphoneus or Alphonsus
+259-04B.jpg,259,04B,72,Bridge,,,,,,,Lillian,Daughter,W,F,Oct,1897,2,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-04B.jpg,259,04B,73,Bridge,,,,,,,Mary,Mother,W,F,May,1840,60,Wd,,1,1,Ireland,Ireland,Ireland,1875,25,,,,,No,No,Yes,,,,,0,
+259-04B.jpg,259,04B,74,Bridge,37,57,55,77,76,Mitchell,John,Head,W,M,Nov,1858,41,M,13,,,Switzerland,Switzerland,Switzerland,1884,16,Na,Wood carver,0,,Yes,Yes,Yes,R,,H,,0,
+259-04B.jpg,259,04B,75,Bridge,,,,,,,Frances L.,Wife,W,F,July,1863,36,M,13,6,3,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,76,Bridge,,,,,,,John A.,Son,W,M,Oct,1891,8,S,,,,New Hampshire,Switzerland,Vermont,,,,At school,,9,,,,,,,,0,
+259-04B.jpg,259,04B,77,Bridge,,,,,,,Frank E.,Son,W,M,Aug,1895,4,S,,,,New Hampshire,Switzerland,Vermont,,,,,,,,,,,,,,0,
+259-04B.jpg,259,04B,78,Bridge,,,,,,,Anna L.,Daughter,W,F,Jan,1899,1,S,,,,New Hampshire,Switzerland,Vermont,,,,,,,,,,,,,,0,
+259-04B.jpg,259,04B,79,Bridge,33,58,56,78,77,Fleming,Patrick H.,Head,W,M,Nov,1862,37,M,14,,,Ireland,Ireland,Ireland,1893,7,Na,U.S. Mail carrier,0,,Yes,Yes,Yes,R,,H,,0,
+259-04B.jpg,259,04B,80,Bridge,,,,,,,Ann J.,Wife,W,F,Aug,1865,34,M,14,5,4,Ireland,Ireland,Ireland,1894,5,,,,,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,81,Bridge,,,,,,,Aileen M.,Daughter,W,F,July,1891,8,S,,,,England,Ireland,Ireland,1894,5,,At school,,9,,,,,,,,0,
+259-04B.jpg,259,04B,82,Bridge,,,,,,,Kathleen M.,Daughter,W,F,Oct,1897,2,S,,,,Massachusetts,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-04B.jpg,259,04B,83,Bridge,,,,,,,Henry S.,Son,W,M,May,1899,1,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-04B.jpg,259,04B,84,Bridge,,,,,,,Geraldine T.,Daughter,W,F,May,1900,0,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,age written as 0 (under 1 month)
+259-04B.jpg,259,04B,85,Bridge,,,,79,78,Beasley,Nora,Head,W,F,Nov,1849,50,Wd,,7,5,Ireland,Ireland,Ireland,1862,38,,Boarding house keeper,0,,No,No,Yes,R,,H,,0,same dwelling as Fleming (only family no. written)
+259-04B.jpg,259,04B,86,Bridge,,,,,,Cantland,Patrick,Boarder,W,M,Mar,1880,20,S,,,,Ireland,Ireland,Ireland,1899,1,Al,Laborer paper mill,0,,Yes,Yes,Yes,,,,,1,surname Cantland or Cartland
+259-04B.jpg,259,04B,87,Bridge,,,,,,Carmody,Timothy,Boarder,W,M,Dec,1877,22,S,,,,Ireland,Ireland,Ireland,1899,1,Al,Laborer paper mill,0,,Yes,Yes,Yes,,,,,0,numbers 57 79 on this line are renumbering for next household
+259-04B.jpg,259,04B,88,Bridge,44,59,57,80,79,Kinory,Ellen,Head,W,F,July,1855,44,Wd,,5,3,Vermont,Ireland,Ireland,,,,Boarding house keeper,0,,Yes,Yes,Yes,O,M,H,,1,surname Kinory or Kinney; ownership code O possibly overwritten R
+259-04B.jpg,259,04B,89,Bridge,,,,,,,William J.,Son,W,M,May,1886,14,S,,,,Vermont,Ireland,Vermont,,,,At school,,8,Yes,Yes,Yes,,,,,1,middle initial J/I/F unclear
+259-04B.jpg,259,04B,90,Bridge,,,,,,,Mary E.,Daughter,W,F,Jan,1888,12,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,91,Bridge,,,,,,,Ellen A.,Daughter,W,F,May,1893,7,S,,,,Vermont,Ireland,Vermont,,,,At school,,7,,,,,,,,0,
+259-04B.jpg,259,04B,92,Bridge,,,,,,Williams,John,Boarder,W,M,Unknown,1850,50,S,,,,Ireland,Ireland,Ireland,1883,17,,Locomotive cleaner,2,,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,93,Bridge,,,,,,Kane,John,Boarder,W,M,June,1860,39,S,,,,Ireland,Ireland,Ireland,1895,4,Al,Laborer paper mill,2,,Yes,Yes,Yes,R,,H,,0,boarder but R and H written in ownership columns
+259-04B.jpg,259,04B,94,Bridge,,,,81,80,Hindes,George,Head,W,M,Jan,1874,26,M,7,,,New Hampshire,New Hampshire,New Hampshire,,,,Locomotive fireman,0,,Yes,Yes,Yes,R,,H,,1,possible middle initial R hidden by tally mark; same dwelling as Kinory (only family no. written)
+259-04B.jpg,259,04B,95,Bridge,,,,,,,Sarah H.,Wife,W,F,Feb,1876,24,M,7,1,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,96,Bridge,,,,,,,Albert H.,Son,W,M,May,1896,4,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,0,numbers 58 81 on this line are renumbering for next household
+259-04B.jpg,259,04B,97,Bridge,48,60,58,82,81,Connors,Nancy,Head,W,F,Unknown,1843,57,Wd,,7,6,Ireland,Ireland,Ireland,1874,26,,,,,No,No,Yes,R,,H,,0,
+259-04B.jpg,259,04B,98,Bridge,,,,,,,Lizzie,Daughter,W,F,Mar,1873,27,S,,,,Ireland,Ireland,Ireland,1874,26,,Finisher paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-04B.jpg,259,04B,99,Bridge,,,,,,,John E.,Son,W,M,June,1873,26,S,,,,Ireland,Ireland,Ireland,1874,26,Na,Back tender paper machine,0,,Yes,Yes,Yes,,,,,0,birth June 1873 only 3 months after sister Lizzie (Mar 1873) as written
+259-04B.jpg,259,04B,100,Bridge,,,,,,,Thomas,Son,W,M,Jan,1876,24,S,,,,Vermont,Ireland,Ireland,,,,Machine tender paper mill,0,,Yes,Yes,Yes,,,,,0,

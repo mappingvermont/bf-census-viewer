@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-19B.jpg,259,19B,51,Brosnahan,^,^,^,^,^,,Alfred E.,Son,W,M,Mar,1896,4,S,,,,Vermont,New Hampshire,Ireland,,,,,,,,,,,,,,0,household continues from 19A
+259-19B.jpg,259,19B,52,Brosnahan,,,,,,,Harold F.,Son,W,M,Mar,1900,2/12,S,,,,Vermont,New Hampshire,Ireland,,,,,,,,,,,,,,0,age 2 months
+259-19B.jpg,259,19B,53,Brosnahan,6,263,266,387,392,Clarey,Thomas,Head,W,M,Oct,1866,33,M,10,,,Canada (Eng),Ireland,Ireland,1888,12,Al,Steam fitter,0,,Yes,Yes,Yes,R,,H,,1,street name read as Brosnahan Ave (could be Bresnahan); surname Clarey or Clairey
+259-19B.jpg,259,19B,54,Brosnahan,,,,,,,Jennie A.,Wife,W,F,Oct,1862,27,M,10,4,4,Canada (Eng),Canada (Eng),Canada (Eng),1889,10,,,,,Yes,Yes,Yes,,,,,1,age 27 disagrees with birth year 1862 (would be 37) as written; years in US 10 vs 1889 (would be 11)
+259-19B.jpg,259,19B,55,Brosnahan,,,,,,,Carl E.,Son,W,M,July,1891,8,S,,,,Vermont,Canada (Eng),Canada (Eng),,,,At school,,9,,,,,,,,0,
+259-19B.jpg,259,19B,56,Brosnahan,,,,,,,William E.,Son,W,M,Dec,1892,7,S,,,,Vermont,Canada (Eng),Canada (Eng),,,,At school,,9,,,,,,,,0,
+259-19B.jpg,259,19B,57,Brosnahan,,,,,,,Thomas M.,Son,W,M,Dec,1893,6,S,,,,Vermont,Canada (Eng),Canada (Eng),,,,At school,,8 1/2,,,,,,,,0,school months 8 1/2
+259-19B.jpg,259,19B,58,Brosnahan,,,,,,,Lizzie M.,Daughter,W,F,May,1896,4,S,,,,Vermont,Canada (Eng),Canada (Eng),,,,,,,,,,,,,,0,
+259-19B.jpg,259,19B,59,Williams,36,264,267,388,393,Campbell,Lynus,Head,W,M,Sept,1871,28,M,8,,,Canada (Eng),Canada (Eng),Canada (Eng),1890,10,Al,Carpenter,0,,Yes,Yes,Yes,,,H,,1,given name Lynus or Cyrus; owned/rented blank on page
+259-19B.jpg,259,19B,60,Williams,,,,,,,Phebe,Wife,W,F,Mar,1871,29,M,8,2,2,Canada (Eng),Canada (Eng),Canada (Eng),1881,19,,,,,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,61,Williams,,,,,,,Hazel A.,Daughter,W,F,Aug,1893,6,S,,,,Vermont,Canada (Eng),Canada (Eng),,,,At school,,9,,,,,,,,0,
+259-19B.jpg,259,19B,62,Williams,,,,,,,Charles R.,Son,W,M,June,1897,2,S,,,,Vermont,Canada (Eng),Canada (Eng),,,,,,,,,,,,,,0,
+259-19B.jpg,259,19B,63,Williams,34,265,268,389,394,Valyea,Napoleon,Head,W,M,Unknown,1851,49,M,28,,,Canada (Fr),Canada (Fr),Canada (Fr),1887,13,Al,Laborer paint factory,0,,No,No,No,O,F,H,,0,
+259-19B.jpg,259,19B,64,Williams,,,,,,,Celina,Wife,W,F,Nov,1854,45,M,28,6,5,Canada (Fr),Canada (Fr),Canada (Fr),1889,10,,,,,No,No,No,,,,,0,
+259-19B.jpg,259,19B,65,Williams,,,,,,,Minnie M.,Daughter,W,F,Dec,1878,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1889,10,,Sample painter paint factory,0,,No,No,Yes,,,,,0,
+259-19B.jpg,259,19B,66,Williams,,,,,,,Jean J.,Son,W,M,July,1882,17,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1889,10,,Laborer farm machine factory,0,0,No,No,Yes,,,,,1,school months 0 or 3
+259-19B.jpg,259,19B,67,Williams,,,,,,,Laura M.,Daughter,W,F,Sept,1883,16,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1889,10,,,,0,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,68,Williams,,,,,,,Amade J.,Son,W,M,Sept,1885,14,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1889,10,,Laborer farm machine factory,0,0,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,69,Williams,,,,,,,Anna M.,Daughter,W,F,Aug,1894,5,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,0,,,,,,,,0,
+259-19B.jpg,259,19B,70,Williams,,,,390,395,Leahy,Louise,Head,W,F,Dec,1843,56,Wd,,5,5,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,,,,Yes,Yes,No,R,,H,,1,surname Leahy or Zeahy; same dwelling as Valyea
+259-19B.jpg,259,19B,71,Williams,,,,,,,Mary C.,Daughter,W,F,Aug,1876,23,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,Apprentice seamstress,10,,Yes,Yes,No,,,,,0,
+259-19B.jpg,259,19B,72,Williams,,,,,,,James W.,Son,W,M,Jan,1878,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,Laborer paint factory,0,,Yes,Yes,No,,,,,0,age 21 disagrees with Jan 1878 (would be 22) as written
+259-19B.jpg,259,19B,73,Williams,,,,,,,Joseph W.,Son,W,M,Jan,1880,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,Laborer paint factory,0,0,Yes,Yes,No,,,,,0,
+259-19B.jpg,259,19B,74,Williams,,,,,,,Frank A.,Son,W,M,May,1882,18,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,Laborer paint factory,0,0,Yes,Yes,No,,,,,1,age 18 or 15 (18 fits birth date)
+259-19B.jpg,259,19B,75,Williams,,,,,,,Wilfred A.,Son,W,M,June,1887,12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1898,2,,At school,,9,Yes,Yes,No,,,,,0,
+259-19B.jpg,259,19B,76,Williams,,,,391,396,McAuliffe,Ellen,Head,W,F,Unknown,1835,65,Wd,,7,6,Ireland,Ireland,Ireland,1866,34,,,,,Yes,No,Yes,R,,H,,1,given name partly covered by tally mark (Ell...); same dwelling as Valyea
+259-19B.jpg,259,19B,77,Williams,,,,,,,William,Son,W,M,Feb,1870,30,S,,,,Vermont,Ireland,Ireland,,,,Log driver,6,,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,78,Williams,,,,392,397,Flanders,William H.,Head,W,M,Jan,1875,25,M,5,,,Vermont,Vermont,Vermont,,,,Teamster,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Valyea
+259-19B.jpg,259,19B,79,Williams,,,,,,,Maggie S.,Wife,W,F,Sept,1874,25,M,5,2,2,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,80,Williams,,,,,,,Gladys M.,Daughter,W,F,May,1896,4,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,0,
+259-19B.jpg,259,19B,81,Williams,,,,,,,Villa E.,Daughter,W,F,Apr,1898,2,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,1,given name Villa or Vitta; initial E or C
+259-19B.jpg,259,19B,82,Williams,,,,393,398,Clarey,Peter E.,Head,W,M,Mar,1874,26,M,0,,,Canada (Eng),Canada (Eng),Canada (Eng),1896,4,Al,Paper finisher,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Valyea
+259-19B.jpg,259,19B,83,Williams,,,,,,,Alice E.,Wife,W,F,Apr,1880,20,M,0,1,1,Canada (Eng),Canada (Eng),Canada (Eng),1887,13,,,,0,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,84,Williams,,,,,,Smith,Freeman B.,Step son,W,M,Dec,1897,2,S,,,,New Hampshire,New Hampshire,Canada (Eng),,,,,,,,,,,,,,1,given name Freeman uncertain
+259-19B.jpg,259,19B,85,Williams,32,266,269,394,399,Talbot,Severus,Head,W,M,Nov,1858,41,M,16,,,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,Na,Carpenter,2,,Yes,Yes,Yes,R,,H,,1,given name Severus/Severe uncertain
+259-19B.jpg,259,19B,86,Williams,,,,,,,Harriet A.,Wife,W,F,Nov,1855,44,M,16,5,5,Canada (Fr),Canada (Fr),Canada (Fr),1884,16,,,,,Yes,Yes,No,,,,,1,middle initial A or L
+259-19B.jpg,259,19B,87,Williams,,,,,,,Eva A.,Daughter,W,F,Sept,1886,13,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1887,12,,At school,,1,Yes,Yes,Yes,,,,,1,school months 1 as written
+259-19B.jpg,259,19B,88,Williams,,,,,,,Malinda M.,Daughter,W,F,Aug,1887,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,89,Williams,,,,,,,Albertine M.,Daughter,W,F,Oct,1890,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,,,,,,,,0,
+259-19B.jpg,259,19B,90,Williams,,,,,,,Joseph S.,Son,W,M,Feb,1892,8,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,0,,,,,,,,0,
+259-19B.jpg,259,19B,91,Williams,,,,,,,Lydia M.,Daughter,W,F,Dec,1893,6,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,0,,,,,,,,0,age overwritten to 6
+259-19B.jpg,259,19B,92,Williams,,,,395,400,Beauchane,George,Head,W,M,June,1873,26,M,7,,,Massachusetts,Canada (Fr),Canada (Fr),,,,Laborer paper mill,2,,Yes,Yes,Yes,R,,H,,1,birth year looks like 1823 but 1873 fits age; same dwelling as Talbot
+259-19B.jpg,259,19B,93,Williams,,,,,,,Victoria,Wife,W,F,Jan,1875,25,M,7,6,1,Massachusetts,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,94,Williams,,,,,,,Aria M.,Daughter,W,F,Nov,1899,6/12,S,,,,Vermont,Massachusetts,Massachusetts,,,,,,,,,,,,,,1,given name Aria or Orsa; age 6 months
+259-19B.jpg,259,19B,95,Williams,,,,396,401,Flynn,William E.,Head,W,M,May,1875,25,M,0,,,Vermont,Ireland,Ireland,,,,R.R. brakeman,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Talbot
+259-19B.jpg,259,19B,96,Williams,,,,,,,Annie J.,Wife,W,F,Oct,1879,20,M,0,1,1,Vermont,Connecticut,England,,,,,,0,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,97,Williams,,,,,,,Ruth M.,Daughter,W,F,Mar,1900,2/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,age 2 months
+259-19B.jpg,259,19B,98,Myrtle,5,267,270,397,402,LeBlanc,Onesime,Head,W,M,Sept,1853,46,M,5,,,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,Pa,Laborer paper mill saw filer,1,,Yes,Yes,Yes,O,F,H,,1,given name overwritten and hard to read (Onesime?)
+259-19B.jpg,259,19B,99,Myrtle,,,,,,,Elodie,Wife,W,F,Nov,1853,46,M,5,6,3,Canada (Fr),Canada (Fr),Canada (Fr),1877,23,,,,,Yes,Yes,Yes,,,,,0,
+259-19B.jpg,259,19B,100,Myrtle,,,,,,,Henry J.,Step son,W,M,Nov,1872,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1877,23,Na,Machinist,0,,Yes,Yes,Yes,,,,,0,

@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-22A.jpg,259,22A,1,Church Place,^,^,^,^,^,,William C.,Brother-in-law,W,M,Apr,1887,13,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,"household continues from previous sheet; relation written ""B in law"""
+259-22A.jpg,259,22A,2,Church Place,,,,,,Finn,John,Boarder,W,M,June,1852,47,S,,,,Vermont,Ireland,Ireland,,,,Day laborer,0,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,3,Church Place,,,,,,,William,Boarder,W,M,Aug,1849,50,S,,,,Vermont,Ireland,Ireland,,,,Teamster,0,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,4,Church Place,17,287,290,440,445,Higgins,Mary,Head,W,F,Aug,1822,77,Wd,,11,3,Ireland,Ireland,Ireland,1848,52,,,,,No,No,Yes,O,F,H,,0,
+259-22A.jpg,259,22A,5,Church Place,,,,,,,Ellen A.,Daughter,W,F,Oct,1850,49,S,,,,Massachusetts,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,6,Church Place,,,,,,Hurly,John F.,Boarder,W,M,June,1855,54,M,20,,,Vermont,Ireland,Ireland,,,,Machinist,0,,Yes,Yes,Yes,,,,,1,birth year 1855 disagrees with age 54 as written; year could be 1845
+259-22A.jpg,259,22A,7,Church Place,,,,,,,Mary,Boarder,W,F,Unknown,1860,40,M,20,1,1,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,1,children born/living faint marks read as 1 and 1
+259-22A.jpg,259,22A,8,Church Place,,,,,,Burns,William J.,Boarder,W,M,June,1874,25,S,,,,Vermont,Ireland,Vermont,,,,Machinist,0,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,9,Church Place,,,,,,Lloyd,John B.,Boarder,W,M,Mar,1875,25,S,,,,Vermont,Ireland,Ireland,,,,Blacksmith,0,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,10,Church Place,,,,,,Wilkinson,William,Boarder,W,M,Unknown,1880,20,S,,,,Vermont,Ireland,Ireland,,,,Paper maker,0,,Yes,Yes,Yes,,,,,1,birth month read as Un; could be Mar
+259-22A.jpg,259,22A,11,Oak,29,288,291,441,446,Keefe,Jeremiah,Head,W,M,Jan,1858,42,M,11,,,Vermont,Ireland,Ireland,,,,Coal dealer,0,,Yes,Yes,Yes,O,M,H,,0,
+259-22A.jpg,259,22A,12,Oak,,,,,,,Jane,Wife,W,F,Aug,1860,39,M,11,5,3,New York,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,13,Oak,,,,,,,William J.,Son,W,M,Mar,1890,10,S,,,,Vermont,Vermont,New York,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,14,Oak,,,,,,,George F.,Son,W,M,Jan,1894,6,S,,,,Vermont,Vermont,New York,,,,At school,,9,,,,,,,,0,
+259-22A.jpg,259,22A,15,Oak,,,,,,,Marion B.,Daughter,W,F,July,1897,2,S,,,,Vermont,Vermont,New York,,,,,,,,,,,,,,0,
+259-22A.jpg,259,22A,16,Oak,27,289,292,442,447,Sullivan,James,Head,W,M,Apr,1863,37,M,9,,,Vermont,Ireland,Ireland,,,,Coachman,0,,Yes,Yes,Yes,R,,H,,0,
+259-22A.jpg,259,22A,17,Oak,,,,,,,Ellen,Wife,W,F,Oct,1868,31,M,9,2,2,Massachusetts,Ireland,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,18,Oak,,,,,,,Hugh W.,Son,W,M,Aug,1894,5,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,,,,,,,,0,
+259-22A.jpg,259,22A,19,Oak,,,,,,,Rosa E.,Daughter,W,F,Nov,1896,3,S,,,,Vermont,Vermont,Massachusetts,,,,,,,,,,,,,,0,
+259-22A.jpg,259,22A,20,Oak,,,,443,448,Moore,Thomas,Head,W,M,Dec,1868,31,M,8,,,Ireland,Ireland,Ireland,1888,12,Na,Labourer paper mill,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Sullivan
+259-22A.jpg,259,22A,21,Oak,,,,,,,Catherine,Wife,W,F,Feb,1869,31,M,8,3,2,Ireland,Ireland,Ireland,1888,12,,,,,Yes,Yes,Yes,,,,,1,birth year overwritten (1869/1868); children living overwritten (2)
+259-22A.jpg,259,22A,22,Oak,,,,,,,Catherine M.,Daughter,W,F,Apr,1893,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-22A.jpg,259,22A,23,Oak,,,,,,,John J.,Son,W,M,Dec,1894,5,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-22A.jpg,259,22A,24,Oak,,,,444,449,Roleau,Alfred,Head,W,M,Sept,1867,32,M,15,,,Canada (Fr),Canada (Fr),Canada (Fr),1888,12,Na,Carpenter,0,,Yes,Yes,Yes,R,,H,,1,surname Roleau or Roleon; same dwelling as Sullivan
+259-22A.jpg,259,22A,25,Oak,,,,,,,Amelia,Wife,W,F,May,1869,31,M,15,5,3,Canada (Fr),Canada (Fr),Canada (Fr),1880,20,,,,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,26,Oak,,,,,,,Rosa,Daughter,W,F,Mar,1889,11,S,,,,New Hampshire,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,27,Oak,,,,,,,Walter,Son,W,M,Apr,1895,5,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,0,,,,,,,,0,
+259-22A.jpg,259,22A,28,Oak,,,,,,,Leo,Son,W,M,Sept,1898,1,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+259-22A.jpg,259,22A,29,Oak,25,290,293,445,450,Driscoll,John,Head,W,M,Feb,1875,25,M,3,,,Vermont,Ireland,Ireland,,,,Paper maker,6,,Yes,Yes,Yes,R,,H,,0,birth year overwritten
+259-22A.jpg,259,22A,30,Oak,,,,,,,Mary A.,Wife,W,F,Dec,1868,31,M,3,0,0,Ireland,Ireland,Ireland,1885,15,,,,,Yes,Yes,Yes,,,,,1,immigration year overwritten (1885/1886)
+259-22A.jpg,259,22A,31,Oak,23,291,294,446,451,Pierce,Margaret,Head,W,F,May,1861,39,Wd,,8,5,Ireland,Ireland,Ireland,1876,24,,,,,Yes,Yes,Yes,O,M,H,,0,
+259-22A.jpg,259,22A,32,Oak,,,,,,,John J.,Son,W,M,Feb,1885,15,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,33,Oak,,,,,,,Catherine A.,Daughter,W,F,Nov,1887,12,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,34,Oak,,,,,,,Michael C.,Son,W,M,Apr,1889,11,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,35,Oak,,,,,,,William G.,Son,W,M,Feb,1891,9,S,,,,Vermont,Ireland,Ireland,,,,At school,,7,,,,,,,,1,school months written heavily as 7 (possibly over 9)
+259-22A.jpg,259,22A,36,Oak,,,,,,,Mary G.,Daughter,W,F,Dec,1893,6,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-22A.jpg,259,22A,37,Oak,,,,,,Brennan,Catherine,Sister,W,F,Apr,1870,30,S,,,,Ireland,Ireland,Ireland,1881,19,,,,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,38,Oak,,,,447,452,Relihan,John,Head,W,M,Mar,1868,32,M,3,,,Ireland,Ireland,Ireland,1885,15,Na,Machine tender paper mill,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Pierce
+259-22A.jpg,259,22A,39,Oak,,,,,,,Johanna,Wife,W,F,Mar,1865,35,M,3,1,1,Ireland,Ireland,Ireland,1880,15,,,,,Yes,Yes,Yes,,,,,1,immigration year 1880 and 15 years in US disagree as written (could be 1885)
+259-22A.jpg,259,22A,40,Oak,,,,,,,John J.,Son,W,M,Feb,1899,1,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-22A.jpg,259,22A,41,Oak,21,292,295,448,453,Supple,Bartholomew,Head,W,M,Unknown,1850,49,M,22,,,Ireland,Ireland,Ireland,1861,39,Na,Labourer wood room paper mill,0,,No,No,Yes,R,,H,,1,birth year overwritten (1850/1856); immigration year could read 1869; can read overwritten (Yes/No)
+259-22A.jpg,259,22A,42,Oak,,,,,,,Mary,Wife,W,F,Sept,1852,47,M,22,2,2,Ireland,Ireland,Ireland,1864,36,,,,,No,No,Yes,,,,,0,
+259-22A.jpg,259,22A,43,Oak,,,,,,,Catherine A.,Daughter,W,F,Sept,1878,21,S,,,,Vermont,Ireland,Ireland,,,,Sample painter paint factory,3,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,44,Oak,,,,,,,John G.,Son,W,M,Aug,1879,20,S,,,,New Hampshire,Ireland,Ireland,,,,Back tender paper machine,0,0,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,45,Blake,,293,296,449,454,Whitney,George S.,Head,W,M,Dec,1865,34,M,10,,,Vermont,Vermont,Maine,,,,Cashier R.R. office,0,,Yes,Yes,Yes,O,M,H,,1,no house number written; middle initial S. or I.
+259-22A.jpg,259,22A,46,Blake,,,,,,,Minnie E.,Wife,W,F,Feb,1870,30,M,10,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,children born/living blank
+259-22A.jpg,259,22A,47,Blake,,,,,,Bridge,Emoroy F.,Mother-in-law,W,F,Mar,1843,57,Wd,,2,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,given name Emoroy or Emorey
+259-22A.jpg,259,22A,48,Prospect,21,294,297,450,455,Damon,Dennis,Head,W,M,Sept,1858,41,M,15,,,Vermont,Vermont,Vermont,,,,Grocer,0,,Yes,Yes,Yes,O,M,H,,1,surname Damon or Dauson
+259-22A.jpg,259,22A,49,Prospect,,,,,,,Francis,Wife,W,F,Apr,1866,34,M,15,2,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-22A.jpg,259,22A,50,Prospect,,,,,,,Edith B.,Daughter,W,F,Nov,1885,14,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,

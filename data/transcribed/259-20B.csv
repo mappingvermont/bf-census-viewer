@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-20B.jpg,259,20B,51,Myrtle,^,^,^,^,^,Flavin,Thomas,Brother in law,W,M,Nov,1876,23,S,,,,Ireland,Ireland,Ireland,1900,4/12,Al,Laborer farm machine factory,0,,Yes,Yes,Yes,,,,,1,household continues from 20A; years in US 4/12 or 1/12
+259-20B.jpg,259,20B,52,Myrtle,,,,,,,Mary,Sister in law,W,F,Apr,1880,20,S,,,,Ireland,Ireland,Ireland,1900,4/12,,,,0,Yes,Yes,Yes,,,,,1,immigration year written like 1800 (read as 1900); years in US 4/12 or 1/12
+259-20B.jpg,259,20B,53,Myrtle,17,272,275,405,413,Delaney,William,Head,W,M,Feb,1874,26,M,5,,,New Hampshire,Massachusetts,Massachusetts,,,,Machine tender paper mill,0,,Yes,Yes,Yes,R,,H,,1,family no. 405 or 408 (sequence suggests 408)
+259-20B.jpg,259,20B,54,Myrtle,,,,,,,Hannah M.,Wife,W,F,Dec,1875,24,M,5,3,3,New Hampshire,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,55,Myrtle,,,,,,,Katherine E.,Daughter,W,F,Apr,1896,4,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,,,,,,,,,,,0,
+259-20B.jpg,259,20B,56,Myrtle,,,,,,,Nora F.,Daughter,W,F,Nov,1897,2,S,,,,Vermont,New Hampshire,New Hampshire,,,,,,,,,,,,,,0,
+259-20B.jpg,259,20B,57,Myrtle,,,,,,,Dorothy M.,Daughter,W,F,May,1899,1,S,,,,Vermont,New Hampshire,New Hampshire,,,,,,,,,,,,,,0,
+259-20B.jpg,259,20B,58,Myrtle,,,,,,,Katherine F.,Sister,W,F,Nov,1899,20,S,,,,New Hampshire,Massachusetts,Massachusetts,,,,,,0,Yes,Yes,Yes,,,,,0,birth year written 1899 but age 20 (likely 1879); kept as written
+259-20B.jpg,259,20B,59,Myrtle,,,,409,414,Young,Matthew,Head,W,M,Jan,1855,45,M,9,,,Canada (Eng),Canada (Eng),Canada (Eng),1882,18,Na,Laborer paper mill,4,,Yes,Yes,Yes,R,,H,,0,new family but no dwelling no. written: same dwelling as Delaney
+259-20B.jpg,259,20B,60,Myrtle,,,,,,,Amanda E.,Wife,W,F,Aug,1855,44,M,9,5,3,New Jersey,Maine,Maine,,,,,,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,61,Myrtle,,,,,,Lord,Harry T.,Step son,W,M,Sept,1880,19,S,,,,Maine,Maine,New Jersey,,,,Day laborer,4,0,Yes,Yes,Yes,,,,,1,birth year overwritten (1880)
+259-20B.jpg,259,20B,62,Myrtle,,,,,,,Nettie M.,Step daughter,W,F,Jan,1882,18,S,,,,Maine,Maine,New Jersey,,,,,,0,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,63,Myrtle,,,,,,,Roland W.,Step son,W,M,Apr,1885,15,S,,,,Vermont,Maine,New Jersey,,,,At school,,9,Yes,Yes,Yes,,,,,1,middle initial W or L
+259-20B.jpg,259,20B,64,School,62,273,276,410,415,Ramsey,Ernest E.,Head,W,M,Mar,1858,42,M,19,,,Vermont,New Hampshire,Vermont,,,,Basket maker,0,,Yes,Yes,Yes,R,,H,,1,street name written lower in segment (lines 64-93 assumed School)
+259-20B.jpg,259,20B,65,School,,,,,,,Etta M.,Wife,W,F,Oct,1858,41,M,19,2,2,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,66,School,,,,,,,Mabel A.,Daughter,W,F,Dec,1881,18,S,,,,Vermont,Vermont,New Hampshire,,,,School teacher,9,6,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,67,School,,,,,,,Ralph E.,Son,W,M,May,1890,10,S,,,,Vermont,Vermont,New Hampshire,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,68,School,,,,,,Fifield,Benjamin,Father in law,W,M,June,1820,79,Wd,,,,New Hampshire,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,69,School,,,,411,416,Wheeler,Almina,Head,W,F,Oct,1846,53,Wd,,4,1,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,R,,H,,1,possible middle initial P. obscured by tally mark; same dwelling as Ramsey
+259-20B.jpg,259,20B,70,School,,,,,,,William F.,Son,W,M,Sept,1876,23,S,,,,New Hampshire,Maine,New Hampshire,,,,Machine tender paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,71,School,57,274,277,412,417,Bailey,George W.,Head,W,M,Nov,1867,32,M,13,,,Vermont,France,Canada (Eng),,,,Laborer farm machine factory,6,,No,No,Yes,R,,H,,0,
+259-20B.jpg,259,20B,72,School,,,,,,,Delia M.,Wife,W,F,Apr,1870,30,M,13,5,4,Canada (Fr),Canada (Fr),Canada (Fr),1874,26,,,,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,73,School,,,,,,,Lilly M.,Daughter,W,F,Feb,1892,8,S,,,,Vermont,Vermont,Canada,,,,At school,,3,,,,,,,,0,
+259-20B.jpg,259,20B,74,School,,,,,,,Alfred C.,Son,W,M,Jan,1894,6,S,,,,Vermont,Vermont,Canada,,,,At school,,3,,,,,,,,0,
+259-20B.jpg,259,20B,75,School,,,,,,,Viola L.,Daughter,W,F,Apr,1896,4,S,,,,Vermont,Vermont,Canada,,,,,,,,,,,,,,0,
+259-20B.jpg,259,20B,76,School,,,,,,,Bertha M.,Daughter,W,F,Dec,1899,5/12,S,,,,Vermont,Vermont,Canada,,,,,,,,,,,,,,0,
+259-20B.jpg,259,20B,77,School,,,,,,Wincent,Tony,Boarder,W,M,June,1866,33,M,11,,,Poland (Aust),Poland (Aust),Poland (Aust),1888,12,Na,Laborer paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,78,School,,,,,,Emery,Albert J.,Boarder,W,M,Apr,1874,26,S,,,,France,France,France,1883,17,,Laborer paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,79,School,,,,,,Bennett,Thomas E.,Boarder,W,M,Dec,1878,21,S,,,,New York,New York,New York,,,,Day labor,6,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,80,School,,,,,,Horton,Thomas,Boarder,W,M,Jan,1881,19,S,,,,Vermont,Vermont,Vermont,,,,Laborer scythe snath shop,1,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,81,School,,,,413,418,Shackett,Alexander,Head,W,M,Sept,1875,24,M,1,,,Vermont,Vermont,Vermont,,,,Day laborer,0,,No,No,Yes,R,,H,,0,new family but no dwelling no. written: same dwelling as Bailey
+259-20B.jpg,259,20B,82,School,,,,,,,Lillian M.,Wife,W,F,May,1878,22,M,1,0,0,Vermont,Vermont,Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,83,School,55,275,278,414,419,Blake,Fred S.,Head,W,M,May,1871,29,M,11,,,New Hampshire,New Hampshire,New Hampshire,,,,R.R. freight brakeman,0,,Yes,Yes,Yes,R,,H,,1,birth year overwritten (1871); months unemployed 0 or 1
+259-20B.jpg,259,20B,84,School,,,,,,,Emma B.,Wife,W,F,Dec,1870,29,M,11,5,5,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,85,School,,,,,,,Wallace A.,Son,W,M,Aug,1890,9,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,At school,,9,,,,,,,,0,
+259-20B.jpg,259,20B,86,School,,,,,,,Ernest L.,Son,W,M,Nov,1892,7,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,At school,,9,,,,,,,,0,
+259-20B.jpg,259,20B,87,School,,,,,,,Ethel J.,Daughter,W,F,May,1895,5,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,,,0,,,,,,,,0,
+259-20B.jpg,259,20B,88,School,,,,,,,Helen F.,Daughter,W,F,Dec,1896,3,S,,,,Vermont,New Hampshire,New Hampshire,,,,,,,,,,,,,,0,
+259-20B.jpg,259,20B,89,School,,,,,,,Bertha M.,Daughter,W,F,Sept,1899,8/12,S,,,,Vermont,New Hampshire,New Hampshire,,,,,,,,,,,,,,0,age 8 months
+259-20B.jpg,259,20B,90,School,,,,415,420,Ackerman,John,Head,W,M,July,1867,32,M,7,,,New York,Canada (Eng),Canada (Eng),,,,Laborer farm machine factory,3,,Yes,Yes,Yes,R,,H,,1,possible middle initial W. mixed with tally mark; same dwelling as Blake
+259-20B.jpg,259,20B,91,School,,,,,,,Lillian,Wife,W,F,Sept,1868,31,M,7,2,2,Canada (Eng),England,Canada (Eng),1890,10,,,,,Yes,Yes,Yes,,,,,0,"father's birthplace written ""Engl (Eng)"""
+259-20B.jpg,259,20B,92,School,,,,,,,Frank W.,Son,W,M,Dec,1893,6,S,,,,Massachusetts,New York,Canada (Eng),,,,At school,,3,,,,,,,,0,
+259-20B.jpg,259,20B,93,School,,,,,,,Beatrice M.,Daughter,W,F,Mar,1896,4,S,,,,Massachusetts,New York,Canada (Eng),,,,,,,,,,,,,,0,
+259-20B.jpg,259,20B,94,Atkinson,,,279,,421,Mains,Edyth,Lodger,W,F,July,1879,20,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,Stenographer,4,0,Yes,Yes,Yes,,,,,1,"dwelling and family columns marked ""x"" with lighter numbers 279 and 4?? (family renum read as 421, uncertain); surname Mains uncertain"
+259-20B.jpg,259,20B,95,Church Place,2,276,,416,,Cray,John H.,Head,W,M,Oct,1851,58,M,25,,,Ireland,Ireland,Ireland,1868,32,Na,Salesman meat,0,,Yes,Yes,Yes,O,F,H,,1,age 58 disagrees with birth Oct 1851 (would be 48); kept as written; surname Cray or Gray
+259-20B.jpg,259,20B,96,Church Place,,,,,,,Margaret,Wife,W,F,May,1854,46,M,25,6,6,Ireland,Ireland,Ireland,1872,28,,,,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,97,Church Place,,,,,,,Hannah A.,Daughter,W,F,Nov,1875,24,S,,,,Vermont,Ireland,Ireland,,,,Accountant,0,,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,98,Church Place,,,,,,,Eugene F.,Son,W,M,Jan,1877,23,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,99,Church Place,,,,,,,Dennis A.,Son,W,M,Feb,1880,20,S,,,,Vermont,Ireland,Ireland,,,,Asst. bookkeeper paper mill,0,0,Yes,Yes,Yes,,,,,0,
+259-20B.jpg,259,20B,100,Church Place,,,,,,,John C.,Son,W,M,Nov,1881,18,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,household may continue on next sheet

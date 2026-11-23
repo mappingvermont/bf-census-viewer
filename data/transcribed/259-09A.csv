@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-09A.jpg,259,09A,1,Westminster,^,^,,^,^,Richardson,Samuel A.,Brother,W,M,Jan,1829,71,S,,,,Vermont,Vermont,Vermont,,,,Carpenter,0,,Yes,Yes,Yes,,,,,1,household continues from previous sheet; street name written only once on page (lines 21-28)
+259-09A.jpg,259,09A,2,Westminster,,,,159,161,Cleary,William J.,Head,W,M,Aug,1863,36,M,14,,,Massachusetts,Ireland,Ireland,,,,Color mixer paper mill,0,,Yes,Yes,Yes,R,,H,,0,new family but no dwelling no. written: same dwelling as household above
+259-09A.jpg,259,09A,3,Westminster,,,,,,,,Wife,W,F,May,1865,35,M,14,9,4,Connecticut,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,1,given name not written on page
+259-09A.jpg,259,09A,4,Westminster,,,,,,,William J.,Son,W,M,Oct,1890,9,S,,,,Massachusetts,Massachusetts,Connecticut,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,5,Westminster,,,,,,,Catherine,Daughter,W,F,Dec,1894,5,S,,,,Massachusetts,Massachusetts,Connecticut,,,,At school,,9,,,,,,,,1,age overwritten (5)
+259-09A.jpg,259,09A,6,Westminster,,,,,,,Frank T.,Son,W,M,Apr,1896,4,S,,,,Connecticut,Massachusetts,Connecticut,,,,,,,,,,,,,,0,
+259-09A.jpg,259,09A,7,Westminster,,,,,,,Orrin,Son,W,M,Oct,1897,2,S,,,,Vermont,Massachusetts,Connecticut,,,,,,,,,,,,,,0,
+259-09A.jpg,259,09A,8,Westminster,,,,,,,Daniel,Father,W,M,Mar,1832,68,M,41,,,Ireland,Ireland,Ireland,1855,45,Na,Sweeper paint factory,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,9,Westminster,,,,,,,Catherine,Mother,W,F,Mar,1824,76,M,41,1,1,Ireland,Ireland,Ireland,1845,55,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,10,Westminster,156,111,,160,162,Gammon,Clara,Head,W,F,May,1852,48,Wd,,8,7,Canada (Eng),Canada (Eng),Canada (Eng),1892,8,,,,,No,No,Yes,R,,H,,1,given name partly covered by tally mark (Clara?)
+259-09A.jpg,259,09A,11,Westminster,,,,,,,Archie L.,Son,W,M,May,1874,26,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1894,6,Al,Fireman stationary engine,0,,Yes,Yes,Yes,,,,,1,middle initial L or J
+259-09A.jpg,259,09A,12,Westminster,,,,,,Bussey,Lena,Daughter,W,F,Sept,1871,28,M,11,4,1,Canada (Eng),Canada (Eng),Canada (Eng),1888,12,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,13,Westminster,,,,,,,Henry,Son-in-law,W,M,Feb,1868,32,M,11,,,Massachusetts,Vermont,Vermont,,,,R.R. fireman,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,14,Westminster,,,,,,Tobin,Lizzie M.,Daughter,W,F,Sept,1880,19,M,0,0,0,Canada (Eng),Canada (Eng),Canada (Eng),,,,,,0,Yes,Yes,Yes,,,,,0,immigration year blank on page
+259-09A.jpg,259,09A,15,Westminster,,,,,,,Edward,Son-in-law,W,M,Sept,1874,25,M,0,,,Vermont,Vermont,Vermont,,,,Tinsmith,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,16,Westminster,,,,,,Gammon,Effie,Daughter,W,F,June,1883,16,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),,,,,,0,Yes,Yes,Yes,,,,,0,immigration year blank on page
+259-09A.jpg,259,09A,17,Westminster,,,,,,King,Henry H.,Boarder,W,M,,1872,28,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Fireman stationary engine,0,,Yes,Yes,Yes,,,,,1,birth month unreadable (written like 'm'; Mar or May); race partly covered by tally mark
+259-09A.jpg,259,09A,18,Westminster,,,,161,163,Nutting,Frank,Head,W,M,Oct,1872,27,M,3,,,Vermont,Vermont,Vermont,,,,Steam fitter,0,,Yes,Yes,Yes,R,,H,,0,new family but no dwelling no. written: same dwelling as Gammon
+259-09A.jpg,259,09A,19,Westminster,,,,,,,Mary B.,Wife,W,F,May,1878,22,M,3,1,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,20,Westminster,,,,,,,Harold F.,Son,W,M,Mar,1898,2,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-09A.jpg,259,09A,21,Westminster,,,,,,,Walter J.,Father,W,M,Dec,1842,57,M,28,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,22,Westminster,,,,,,,Daniel W.,Brother,W,M,Aug,1880,19,S,,,,Vermont,Vermont,Vermont,,,,Laborer paint factory,0,0,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,23,Westminster,,,,,,Adams,George,Boarder,W,M,Apr,1882,18,S,,,,Vermont,Vermont,Vermont,,,,Laborer paint factory,0,0,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,24,Westminster,88,112,,162,164,Hapgood,,Head,W,F,Sept,1835,64,S,,,,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,O,F,H,,1,given name unreadable under tally mark (possibly Ruby)
+259-09A.jpg,259,09A,25,Westminster,96,113,,163,165,Allbee,George B.,Head,W,M,Jan,1860,40,M,18,,,Vermont,Vermont,Pennsylvania,,,,Plumber,0,,Yes,Yes,Yes,O,,H,,1,given name partly covered by tally mark; free/mortgaged blank
+259-09A.jpg,259,09A,26,Westminster,,,,,,,Martha A. L.,Wife,W,F,Sept,1857,42,M,18,3,3,Canada (Eng),Canada (Eng),Canada (Eng),1861,39,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,27,Westminster,,,,,,,Russell L.,Son,W,M,Oct,1883,16,S,,,,Vermont,Vermont,Canada (Eng),,,,Apprentice U.S. Navy,0,0,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,28,Westminster,,,,,,,Georgiana J.,Daughter,W,F,Jan,1888,12,S,,,,Vermont,Vermont,Canada (Eng),,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,29,Westminster,,,,,,,Robert B.,Son,W,M,May,1891,9,S,,,,Vermont,Vermont,Canada (Eng),,,,At school,,9,,,,,,,,0,
+259-09A.jpg,259,09A,30,Westminster,102,114,,164,166,Church,Emily,Head,W,F,Jan,1844,56,S,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,O,F,H,,0,
+259-09A.jpg,259,09A,31,Westminster,,,,,,,Rebecca H.,Sister,W,F,Mar,1848,52,S,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,middle initial H or A
+259-09A.jpg,259,09A,32,Westminster,,,,,,,Jennie H.,Sister,W,F,Sept,1851,48,S,,,,Vermont,Vermont,Vermont,,,,Bookkeeper telephone office,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,33,Westminster,,,,,,,John C.,Brother,W,M,Nov,1858,41,M,22,,,Vermont,Vermont,Vermont,,,,Paper maker,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,34,Westminster,,,,,,,Sarah G.,Sister-in-law,W,F,Sept,1852,47,M,22,1,1,Massachusetts,Connecticut,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,35,Westminster,,,,,,,John W.,Nephew,W,M,Jan,1881,19,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,36,Westminster,,,,,,,Solon P.,Brother,W,M,July,1867,32,S,,,,Vermont,Vermont,Vermont,,,,Winder or cutter in paper mill,0,,Yes,Yes,Yes,,,,,1,occupation first word faint (Winder?)
+259-09A.jpg,259,09A,37,Westminster,,,,,,Burt,Lyndon,Boarder,W,M,Sept,1831,68,S,,,,Vermont,Vermont,Vermont,,,,Day laborer,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,38,Westminster,110,115,,165,167,Howard,Charles,Head,W,M,Sept,1852,47,M,6,,,Massachusetts,Massachusetts,Massachusetts,,,,Hardware merchant,0,,Yes,Yes,Yes,O,F,H,,1,middle initial possibly hidden by tally mark; family renum faint (167)
+259-09A.jpg,259,09A,39,Westminster,,,,,,,Bertha M.,Wife,W,F,May,1872,28,M,6,0,0,New Hampshire,New Hampshire,Ohio,,,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,40,Westminster,,,,,,,L. Fanny,Sister,W,F,Mar,1848,52,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,41,Westminster,,,,,,Griffiths,Eugene E.,Brother-in-law,W,M,Oct,1881,18,S,,,,New Hampshire,New Hampshire,Ohio,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,42,Westminster,,,,,,Parker,Gustavus D.,Boarder,W,M,Aug,1866,33,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,Hardware merchant,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,43,Westminster,,,,,,Winch,Elton W.,Boarder,W,M,Jan,1877,23,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,Hardware salesman,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,44,Westminster,,,,,,Powers,Annie,Servant,W,F,May,1881,19,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),,,,Housework,0,0,Yes,Yes,Yes,,,,,0,immigration year blank on page
+259-09A.jpg,259,09A,45,Westminster,112,116,,166,168,Bresnahan,Ellen,Head,W,F,Feb,1831,69,Wd,,7,6,Ireland,Ireland,Ireland,1850,50,,,,,Yes,Yes,Yes,O,F,H,,1,surname ending unclear (Bresnahan/Bresnahay)
+259-09A.jpg,259,09A,46,Westminster,,,,,,,Thomas,Son,W,M,Mar,1860,40,S,,,,Vermont,Ireland,Ireland,,,,Laborer paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,47,Westminster,116,117,,167,169,Bresnahan,Michael J.,Head,W,M,Aug,1855,44,M,18,,,Vermont,Ireland,Ireland,,,,Locomotive engineer,0,,Yes,Yes,Yes,O,M,H,,1,given name partly covered by tally mark (Michael?); surname ending unclear (Bresnahan/Bresnahay)
+259-09A.jpg,259,09A,48,Westminster,,,,,,,Hannah,Wife,W,F,Sept,1854,45,M,18,3,3,Ireland,Ireland,Ireland,1871,29,,,,,Yes,Yes,Yes,,,,,0,
+259-09A.jpg,259,09A,49,Westminster,,,,,,,Mary M.,Daughter,W,F,Apr,1884,16,S,,,,Vermont,Vermont,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,1,middle initial M or W
+259-09A.jpg,259,09A,50,Westminster,,,,,,,John J.,Son,W,M,Nov,1885,14,S,,,,Vermont,Vermont,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,household may continue on 9B

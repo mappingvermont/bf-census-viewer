@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-38A.jpg,259,38A,1,School,^,^,^,^,^,Fisher,Helen M.,Housekeeper,W,F,Mar,1831,69,S,,,,Vermont,Vermont,Vermont,,,,Housekeeper,9,,Yes,Yes,Yes,,,,,1,household continues from previous sheet; months unemployed 9 or 0
+259-38A.jpg,259,38A,2,School,,,,,,Ray,Ned C.,Lodger,W,M,Oct,1876,23,S,,,,Vermont,New Hampshire,Vermont,,,,Drug clerk,0,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,3,School,,,,,,Wright,Charles F.,Lodger,W,M,Sept,1876,23,S,,,,Vermont,England,England,,,,Baker,0,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,4,School,,,,,,,Frank J.,Lodger,W,M,Oct,1877,22,S,,,,Vermont,England,England,,,,Night waiter restaurant,0,,Yes,Yes,Yes,,,,,1,birth year overwritten (1877)
+259-38A.jpg,259,38A,5,School,,,,,,Hutchings,Eugene E.,Lodger,W,M,May,1874,26,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,Machinist,0,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,6,School,,,,,,Quinn,John T.,Lodger,W,M,June,1854,45,S,,,,Massachusetts,Ireland,Ireland,,,,Machinist,0,,Yes,Yes,Yes,,,,,1,age overwritten (45/46)
+259-38A.jpg,259,38A,7,School,,,,,,Johnson,Alfred A.,Lodger,W,M,Aug,1867,32,S,,,,England,England,Scotland,1875,25,Al,Baker,,,Yes,Yes,Yes,,,,,0,"margin note ""See sheet 44 line 35"" with line drawn to this row; no dwelling/family number"
+259-38A.jpg,259,38A,8,School,10,514,525,769,832,Phelps,Frank B.,Head,W,M,Dec,1852,47,M,28,,,Vermont,Vermont,Vermont,,,,Boarding house keeper,0,,Yes,Yes,Yes,R,,H,,0,renumbers 525/832 written in cell above (line 7)
+259-38A.jpg,259,38A,9,School,,,,,,,Hattie G. J.,Wife,W,F,Sept,1853,46,M,28,1,1,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,second middle initial unclear
+259-38A.jpg,259,38A,10,School,,,,,,,Annie J.,Daughter,W,F,Oct,1882,17,S,,,,Vermont,Vermont,Vermont,,,,Music teacher,8,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,11,School,,,,,,Ormsbee,Floyd M.,Lodger,W,M,Feb,1882,18,S,,,,New York,New York,Connecticut,,,,Clerk boarding house,0,,Yes,Yes,Yes,,,,,1,surname Ormsbee or Ormsbye
+259-38A.jpg,259,38A,12,School,,,,,,Hall,George L.,Boarder,W,M,Sept,1864,35,D,,,,Massachusetts,Vermont,Vermont,,,,Laborer farm machine factory,0,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,13,School,,,,,,Williams,Charles H.,Boarder,W,M,Feb,1849,51,Wd,,,,New Hampshire,New Hampshire,New Hampshire,,,,Agent Union Tea Co,0,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,14,School,,,,,,Ballou,Leslie E.,Boarder,W,M,Mar,1869,31,D,,,,Vermont,Vermont,Vermont,,,,Machinist,0,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,15,School,12,515,526,770,833,Boyle,John,Head,W,M,Dec,1845,54,M,26,,,Canada (Eng),Ireland,Ireland,1895,5,Al,Machine tender paper mill,0,,Yes,Yes,Yes,R,,H,,0,
+259-38A.jpg,259,38A,16,School,,,,,,,Mary,Wife,W,F,Apr,1851,49,M,26,1,0,Ireland,Ireland,Ireland,1885,5,,,,,Yes,Yes,Yes,,,,,1,immigration year reads 1885 (or 1895) but years in US 5
+259-38A.jpg,259,38A,17,School,,,,,,Dunnelly,Nellie,Boarder,W,F,May,1866,34,S,,,,Vermont,Ireland,Ireland,,,,Saleswoman dry goods,0,,Yes,Yes,Yes,,,,,1,surname Dunnelly or Donnelly
+259-38A.jpg,259,38A,18,School,,,,,,Lane,Walter J.,Boarder,W,M,Mar,1875,25,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1895,5,Al,Paper finisher in paper mill,0,,Yes,Yes,Yes,,,,,1,surname Lane or Zane; immigration year 1895 or 1845
+259-38A.jpg,259,38A,19,School,,,,,,Lane,Robert K.,Boarder,W,M,Mar,1879,21,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,5/12,,Laborer farm machine factory,4,,Yes,Yes,Yes,,,,,1,middle initial unclear
+259-38A.jpg,259,38A,20,School,,,,,,Lane,Charles C.,Boarder,W,M,Mar,1881,19,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1888,9,,Laborer farm machine factory,0,,Yes,Yes,Yes,,,,,1,immigration year 1888 (or 1898?) inconsistent with years in US 9
+259-38A.jpg,259,38A,21,School,,,,,,Hakey,Luther W.,Lodger,W,M,Oct,1859,40,S,,,,Vermont,Canada (Fr),Vermont,,,,Machinist farm machine factory,0,,Yes,Yes,Yes,,,,,1,surname Hakey or Haskey
+259-38A.jpg,259,38A,22,School,,,,771,834,Collins,John J.,Head,W,M,Oct,1861,38,M,11,,,Vermont,Ireland,Ireland,,,,Machine tender paper mill,0,,Yes,Yes,Yes,O,F,H,,0,same dwelling as Boyle (no dwelling number)
+259-38A.jpg,259,38A,23,School,,,,,,,Catharine T.,Wife,W,F,June,1864,35,M,11,3,2,Ireland,Ireland,Ireland,1883,17,,,,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,24,School,,,,,,,John,Son,W,M,May,1890,10,S,,,,Vermont,Vermont,Ireland,,,,At school,,9,,,,,,,,0,
+259-38A.jpg,259,38A,25,School,,,,,,,James J.,Son,W,M,May,1893,7,S,,,,New Hampshire,Vermont,Ireland,,,,At school,,9,,,,,,,,1,middle initial unclear
+259-38A.jpg,259,38A,26,School,16,516,527,772,835,Winnewisser,Fred,Head,W,M,Aug,1859,40,M,12,,,Connecticut,Germany,Germany,,,,News dealer,0,,Yes,Yes,Yes,O,M,H,,1,given name partly covered by tally mark (Fred...)
+259-38A.jpg,259,38A,27,School,,,,,,,Marie H.,Wife,W,F,June,1867,32,M,12,1,1,Connecticut,Germany,Connecticut,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,28,School,,,,,,,Marjorie C.,Daughter,W,F,May,1892,8,S,,,,Vermont,Connecticut,Connecticut,,,,At school,,9,,,,,,,,0,
+259-38A.jpg,259,38A,29,School,18,517,528,773,836,Andrews,George A.,Head,W,M,Dec,1874,25,M,1,,,Vermont,Massachusetts,Rhode Island,,,,Clerk R.R. office,0,,Yes,Yes,Yes,R,,H,,0,
+259-38A.jpg,259,38A,30,School,,,,,,,Adalaide,Wife,W,F,Dec,1878,21,M,1,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,31,School,,,,,,Brown,Nathan,Lodger,W,M,Dec,1851,48,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,Machinist,0,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,32,School,14,518,529,774,837,Butterfield,Charles W.,Head,W,M,Mar,1846,54,M,23,,,Vermont,New Hampshire,Vermont,,,,Florist & Gardener,0,,Yes,Yes,Yes,O,M,F,21,1,given name partly covered by tally mark
+259-38A.jpg,259,38A,33,School,,,,,,,Helen,Wife,W,F,Nov,1850,49,M,23,2,2,Vermont,England,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,34,School,,,,,,,Elizabeth,Daughter,W,F,Nov,1877,22,S,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,35,School,,,,,,,Gertrude M.,Daughter,W,F,May,1887,12,S,,,,Vermont,Vermont,Vermont,,,,At school,,,Yes,Yes,Yes,,,,,0,school months blank
+259-38A.jpg,259,38A,36,Hadley,6,519,530,775,838,Hughes,Patrick,Head,W,M,Feb,1849,51,Wd,,,,Ireland,Ireland,Ireland,1871,29,Na,Paper finisher,,,Yes,Yes,Yes,O,M,H,,0,
+259-38A.jpg,259,38A,37,Hadley,,,,,,,Mary C.,Daughter,W,F,July,1883,16,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,1,middle initial C or E
+259-38A.jpg,259,38A,38,Hadley,,,,,,,Margaret S.,Daughter,W,F,July,1885,14,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,1,middle initial S or L
+259-38A.jpg,259,38A,39,Hadley,,,,,,,John F.,Son,W,M,Aug,1887,12,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,40,Hadley,,,,,,,Annie B.,Daughter,W,F,Oct,1889,10,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,41,Hadley,,,,,,Murphy,Dora J.,Boarder,W,F,Feb,1874,26,S,,,,Vermont,Ireland,Ireland,,,,Book keeper shoe store,0,,Yes,Yes,Yes,,,,,1,given name Dora or Flora; age overwritten (26)
+259-38A.jpg,259,38A,42,Hadley,,,,,,Barrett,Michael J.,Boarder,W,M,Mar,1875,25,S,,,,Ireland,Ireland,Ireland,1890,10,Al,Asst. supt. Life Ins. Co.,0,,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,43,Hadley,8,520,531,776,839,Shea,Jeremiah,Head,W,M,June,1856,43,M,16,,,Ireland,Ireland,Ireland,1881,19,Na,Electrician,0,,Yes,Yes,Yes,O,F,H,,1,age overwritten (43 or 45); family number 776 partly unclear
+259-38A.jpg,259,38A,44,Hadley,,,,,,,Catharine,Wife,W,F,Jan,1856,44,M,16,5,5,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,1,"""Vt"" written before Ireland in mother's birthplace"
+259-38A.jpg,259,38A,45,Hadley,,,,,,,John P.,Son,W,M,Sept,1884,15,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,mother's birthplace Ireland struck out and Vt written
+259-38A.jpg,259,38A,46,Hadley,,,,,,,Timothy J.,Son,W,M,Nov,1886,13,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,mother's birthplace Ireland struck out and Vt written
+259-38A.jpg,259,38A,47,Hadley,,,,,,,Agnes C.,Daughter,W,F,Mar,1890,10,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-38A.jpg,259,38A,48,Hadley,,,,,,,Edward F.,Son,W,M,Apr,1893,7,S,,,,Vermont,Ireland,Vermont,,,,At school,,9,,,,,,,,0,
+259-38A.jpg,259,38A,49,Hadley,,,,,,,Daniel W.,Son,W,M,June,1896,3,S,,,,Vermont,Ireland,Vermont,,,,,,,,,,,,,,0,
+259-38A.jpg,259,38A,50,Hadley,,,,,,Keane,Patrick J.,Lodger,W,M,Mar,1872,28,S,,,,Ireland,Ireland,Ireland,1893,7,Pa,Restaurant keeper,0,,Yes,Yes,Yes,,,,,1,surname Keane or Keaner; immigration year overwritten (1893)

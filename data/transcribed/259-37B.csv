@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-37B.jpg,259,37B,51,Cherry,,,,,,,Wallace B.,Son,W,M,Feb,1893,7,S,,,,Vermont,Vermont,Vermont,,,,At school,,7,,,,,,,,0,household continues from 37A
+259-37B.jpg,259,37B,52,Cherry,,,,,,,Garey B.,Son,W,M,Oct,1895,4,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,given name Garey or Gary
+259-37B.jpg,259,37B,53,Cherry,,,,,,Bates,Lester G.,Boarder,W,M,May,1872,26,S,,,,Vermont,Vermont,Vermont,,,,Laborer farm machine factory,0,,Yes,Yes,Yes,,,,,1,age overwritten (26/28); birth date gives 28
+259-37B.jpg,259,37B,54,Cherry,27,505,518,759,822,Reynolds,Edward,Head,W,M,May,1852,48,S,,,,Ireland,Ireland,Ireland,1876,24,Al,Catholic Priest,0,,Yes,Yes,Yes,O,F,H,,1,naturalization reads Al (possibly Na)
+259-37B.jpg,259,37B,55,Cherry,,,,,,,Catharine,Cousin,W,F,May,1853,47,S,,,,Ireland,Ireland,Ireland,Unknown,Unknown,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,56,School,9,506,519,760,823,Tidd,Frank G.,Head,W,M,Sept,1858,41,M,18,,,Vermont,Vermont,Vermont,,,,Restaurant keeper,0,,Yes,Yes,Yes,R,,H,,0,
+259-37B.jpg,259,37B,57,School,,,,,,,Elizabeth A.,Wife,W,F,Dec,1863,36,M,18,4,4,England,England,England,Unknown,Unknown,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,58,School,,,,,,,Bessie S.,Daughter,W,F,Apr,1883,17,S,,,,New Hampshire,Vermont,England,,,,At school,,7,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,59,School,,,,,,,Elizabeth B.,Daughter,W,F,June,1885,14,S,,,,New Hampshire,Vermont,England,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,60,School,,,,,,,Edith W.,Daughter,W,F,Jan,1890,10,S,,,,New Hampshire,Vermont,England,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,61,School,,,,,,,Carrie S.,Daughter,W,F,Oct,1893,6,S,,,,New Hampshire,Vermont,England,,,,At school,,9,,,,,,,,0,
+259-37B.jpg,259,37B,62,School,,,,,,Conway,William E.,Boarder,W,M,Sept,1856,43,M,0,,,Vermont,New York,Vermont,,,,Merchant department store,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,63,School,,,,,,,Katharine,Boarder,W,F,May,1860,40,M,0,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,64,School,,,,761,824,Welch,George E.,Head,W,M,June,1850,49,M,15,,,Massachusetts,Vermont,New Hampshire,,,,Furniture dealer,0,,Yes,Yes,Yes,O,M,H,,1,age overwritten (49/50); same dwelling as Tidd
+259-37B.jpg,259,37B,65,School,,,,,,,Mary E.,Wife,W,F,Oct,1865,34,M,15,0,0,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,66,School,,,,,,,Gerald M.,Son,W,M,Oct,1878,21,S,,,,Vermont,Massachusetts,Vermont,,,,Furniture salesman,0,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,67,School,7,507,520,762,825,Amadon,Henry,Head,W,M,Unknown,1860,40,M,Unknown,,,Vermont,Vermont,Vermont,,,,Jeweler,0,,Yes,Yes,Yes,R,,H,,1,"family renumber partly faint (825); ""Out of town"" written in right margin"
+259-37B.jpg,259,37B,68,School,,,,,,,Elvira,Wife,W,F,July,1860,39,M,Unknown,3,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,69,School,,,,,,,Edith M.,Daughter,W,F,Apr,1884,16,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,70,School,,,,,,,Clara P.,Daughter,W,F,Sept,1885,14,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,71,School,5,508,521,763,826,Williams,Nathan,Head,W,M,Oct,1849,55,M,14,,,Connecticut,Connecticut,Connecticut,,,,Manufacturer farm machinery,0,,Yes,Yes,Yes,R,,H,,1,family number last digit cut off (76_; 763 by sequence); age 55 disagrees with birth year 1849 (would be 50) - kept as written
+259-37B.jpg,259,37B,72,School,,,,,,,Emily F.,Wife,W,F,Aug,1845,54,M,14,2,2,Rhode Island,Rhode Island,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,1,middle initial partly covered by tally mark (F)
+259-37B.jpg,259,37B,73,School,,,,,,,Elizabeth C.,Daughter,W,F,June,1876,23,S,,,,Iowa,Connecticut,Rhode Island,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,74,School,,,,,,,Genevieve,Daughter,W,F,May,1879,21,S,,,,Vermont,Connecticut,Rhode Island,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,75,School,,,,,,Sutherland,Maggie,Servant,W,F,Dec,1877,22,S,,,,Scotland,Scotland,Scotland,1899,1,Unknown,Housework private family,0,,Yes,Yes,Yes,,,,,1,naturalization written Un
+259-37B.jpg,259,37B,76,School,12,509,,764,827,King,Lizzie S.,Head,W,F,July,1852,47,Wd,,3,2,Vermont,Massachusetts,New Hampshire,,,,Land lady,,,Yes,Yes,Yes,O,,H,,1,family number last digit cut off (76_; 764 by sequence); owned code looks like 6/O; no dwelling renumber written
+259-37B.jpg,259,37B,77,School,,,,,,,Gertrude A.,Daughter,W,F,Oct,1876,23,S,,,,Vermont,Connecticut,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,78,School,,,,,,,Henry O.,Son,W,M,Aug,1878,21,S,,,,Vermont,Connecticut,Vermont,,,,At school,,8,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,79,School,,,,,,McGowan,Katharine,Servant,W,F,July,1877,22,S,,,,Vermont,Ireland,Ireland,,,,Housework private family,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,80,Church,14,510,,765,828,Sanford,David L.,Head,W,M,Sept,1857,42,M,19,,,New York,Connecticut,Massachusetts,,,,Episcopal Rector,0,,Yes,Yes,Yes,R,,H,,1,dwelling number 510 struck through; family number last digit cut off (76_; 765 by sequence)
+259-37B.jpg,259,37B,81,Church,,,,,,,Anna T.,Wife,W,F,Dec,1858,40,M,19,7,7,Connecticut,Connecticut,New Jersey,,,,,,,Yes,Yes,Yes,,,,,1,birth year overwritten (1858/1859); stray mark in months unemployed
+259-37B.jpg,259,37B,82,Church,,,,,,,Helen T.,Daughter,W,F,Mar,1883,17,S,,,,Connecticut,New York,Connecticut,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,83,Church,,,,,,,Alice A.,Daughter,W,F,Sept,1884,15,S,,,,Connecticut,New York,Connecticut,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,84,Church,,,,,,,Charles B.,Son,W,M,Jan,1887,13,S,,,,Connecticut,New York,Connecticut,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,85,Church,,,,,,,Edgar L.,Son,W,M,Oct,1889,10,S,,,,Vermont,New York,Connecticut,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,86,Church,,,,,,,John B.,Son,W,M,June,1891,8,S,,,,Vermont,New York,Connecticut,,,,At school,,,,,,,,,,0,
+259-37B.jpg,259,37B,87,Church,,,,,,,Arthur H.,Son,W,M,Mar,1895,5,S,,,,Vermont,New York,Connecticut,,,,,,,,,,,,,,0,
+259-37B.jpg,259,37B,88,Church,,,,,,,David P.,Son,W,M,Sept,1896,3,S,,,,Vermont,New York,Connecticut,,,,,,,,,,,,,,0,
+259-37B.jpg,259,37B,89,Church,20,511,522,766,829,Fleming,Helen,Head,W,F,Apr,1828,72,Wd,,4,4,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,O,F,H,,1,"""NH"" written above Vermont in both parents' birthplaces (possible correction to New Hampshire)"
+259-37B.jpg,259,37B,90,Church,,,,,,Barker,Alice F.,Daughter,W,F,Oct,1853,46,Wd,,1,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,91,Church,,,,,,,Richard F.,Grandson,W,M,Aug,1881,18,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,92,Church,,,,,,Burnside,Helen R.,Daughter,W,F,Dec,1855,44,M,20,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,93,Church,,,,,,,George L.,Son in law,W,M,Nov,1849,50,M,20,,,Vermont,New Hampshire,Massachusetts,,,,Trav. liquor salesman,0,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,94,Church,,,,,,Rice,Louisa,Sister,W,F,Apr,1825,75,S,,,,Vermont,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,95,Church,,,,,,Mahoney,Mary,Servant,W,F,Unknown,1877,23,S,,,,Ireland,Ireland,Ireland,1888,12,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,96,School,2,512,523,767,830,Arms,Josephine H.,Head,W,F,July,1848,51,Wd,,1,1,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,O,F,H,,0,
+259-37B.jpg,259,37B,97,School,,,,,,,Caroline H.,Daughter,W,F,Oct,1878,21,S,,,,Vermont,Vermont,New Hampshire,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,98,School,,,,,,Lynch,Nora,Servant,W,F,Oct,1871,28,S,,,,Ireland,Ireland,Ireland,1894,6,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-37B.jpg,259,37B,99,School,6,513,524,768,831,Morse,John B.,Head,W,M,Jan,1842,58,M,23,,,Vermont,Vermont,Vermont,,,,Farmer,0,,Yes,Yes,Yes,O,F,F,28,0,
+259-37B.jpg,259,37B,100,School,,,,,,,Mary E.,Wife,W,F,Feb,1847,53,M,23,0,0,Massachusetts,Massachusetts,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,household may continue on next sheet

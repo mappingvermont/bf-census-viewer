@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-34A.jpg,259,34A,1,Oak,^,^,^,^,^,,Charles D.,Son,W,M,Oct,1878,21,S,,,,Vermont,New Hampshire,New Hampshire,,,,"Salesman, clothing",0,,Yes,Yes,Yes,,,,,0,household continues from sheet 33B
+259-34A.jpg,259,34A,2,Oak,,,,,,,Henry C.,Son,W,M,Jan,1884,16,S,,,,Vermont,New Hampshire,New Hampshire,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,3,Oak,,,,,,Davis,Mary E.,Housekeeper,W,F,May,1837,63,Wd,,2,1,Vermont,Vermont,Vermont,,,,Housekeeper,0,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,4,Oak,,,,675,738,Howes,Samuel,Head,W,M,Sept,1841,58,M,17,,,Vermont,Vermont,Vermont,,,,Harnessmaker,4,,Yes,Yes,Yes,R,,H,,1,family no. hard to read (610/675); possible middle initial D. near tally mark; no dwelling no. written
+259-34A.jpg,259,34A,5,Oak,,,,,,,Lucia E.,Wife,W,F,Oct,1857,42,M,17,0,0,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,6,Oak,1,452,465,676,739,Wiley,John F.,Head,W,M,Oct,1851,49,M,16,,,Vermont,England,Vermont,,,,Coachman,0,,Yes,Yes,Yes,R,,H,,1,age overwritten (49); Oct 1851 would give 48
+259-34A.jpg,259,34A,7,Oak,,,,,,,Mary E.,Wife,W,F,June,1860,39,M,16,1,1,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,8,Oak,,,,,,,Ola M.,Daughter,W,F,Aug,1886,13,S,,,,New Hampshire,Vermont,Vermont,,,,At school,,2,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,9,Oak,,,,,,Kennedy,John,Brother-in-law,W,M,Mar,1856,44,S,,,,Vermont,Ireland,Ireland,,,,Teamster,3,,Yes,Yes,Yes,,,,,1,marital status overwritten (S)
+259-34A.jpg,259,34A,10,Oak,,,,,,,Timothy E.,Brother-in-law,W,M,June,1864,35,S,,,,Vermont,Ireland,Ireland,,,,Machine tender paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,11,Oak,,,,677,740,Friedlander,Philip,Head,W,M,Apr,1873,27,M,3,,,Russia,Russia,Russia,1893,7,Al,Cobbler,0,,Yes,Yes,Yes,R,,H,,0,no dwelling no. written: same dwelling as above
+259-34A.jpg,259,34A,12,Oak,,,,,,,Bertha R.,Wife,W,F,Apr,1877,23,M,3,2,2,Russia,Russia,Russia,1890,10,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,13,Oak,,,,,,,Samuel,Son,W,M,July,1897,2,S,,,,Vermont,Russia,Russia,,,,,,,,,,,,,,0,
+259-34A.jpg,259,34A,14,Oak,,,,,,,Annie,Daughter,W,F,Aug,1899,9/12,S,,,,Vermont,Russia,Russia,,,,,,,,,,,,,,0,
+259-34A.jpg,259,34A,15,Oak,,,,,,Towb,David,Uncle,W,M,Oct,1865,34,M,15,,,Russia,Russia,Russia,1900,0,Al,,,,Yes,Yes,Yes,,,,,1,surname Towb or Towt
+259-34A.jpg,259,34A,16,Oak,,,,,,Rubenstein,Emma,Niece,W,F,Apr,1891,9,S,,,,New York,Russia,Russia,,,,At school,,9,,,,,,,,0,
+259-34A.jpg,259,34A,17,Oak,,,,,,,Ida,Mother-in-law,W,F,May,1852,48,Wd,,,,Russia,Russia,Russia,1890,10,,,,,Yes,Yes,No,,,,,0,
+259-34A.jpg,259,34A,18,Oak,,,,,,,Paul,Boarder,W,M,May,1873,27,M,3,,,Russia,Russia,Russia,1899,5/12,Al,Cobbler,0,,Yes,Yes,No,,,,,1,surname dash faint/absent (presumably Rubenstein); years in US written 5/12
+259-34A.jpg,259,34A,19,Green,22,453,466,678,741,Clifford,Loren,Head,W,M,Mar,1862,38,M,10,,,Vermont,Vermont,Vermont,,,,Carpenter,0,,Yes,Yes,Yes,R,,H,,1,street change from Oak to Green assumed at line 19 (divider in street column)
+259-34A.jpg,259,34A,20,Green,,,,,,,Jane E.,Wife,W,F,July,1859,40,M,10,0,0,New Hampshire,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,1,birth year 1859 or 1854
+259-34A.jpg,259,34A,21,Green,,,,,,Morrison,Herbert R.,Boarder,W,M,Mar,1876,24,S,,,,New Hampshire,Canada (Eng),Maine,,,,Tinsmith,0,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,22,Green,24,454,467,679,742,Searle,Edward,Head,W,M,June,1854,45,M,18,,,Massachusetts,Massachusetts,Massachusetts,,,,Carpenter,0,,Yes,Yes,Yes,R,,H,,1,surname Searle or Searls; renumbers struck through
+259-34A.jpg,259,34A,23,Green,,,,,,,Emma R.,Wife,W,F,Oct,1851,48,M,18,2,2,Massachusetts,Massachusetts,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,middle initial unclear (R/A)
+259-34A.jpg,259,34A,24,Green,,,,,,,Stephen N.,Son,W,M,Oct,1882,17,S,,,,New Hampshire,Massachusetts,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,25,Green,,,,,,,Mary G.,Daughter,W,F,June,1887,12,S,,,,Vermont,Massachusetts,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,26,Green,,,,680,743,Deal,Ralph,Head,W,M,July,1848,51,M,16,,,Vermont,Canada (Eng),England,,,,Carpenter,0,,Yes,Yes,Yes,R,,H,,1,age 51 or 57; no dwelling no. written
+259-34A.jpg,259,34A,27,Green,,,,,,,Mary L.,Wife,W,F,June,1853,46,M,16,0,0,Massachusetts,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,1,middle initial L or S
+259-34A.jpg,259,34A,28,Green,26,455,468,681,744,Newcomb,Jarvis,Head,W,M,Mar,1850,50,M,22,,,Vermont,Massachusetts,Massachusetts,,,,Carpenter,2,,Yes,Yes,Yes,O,F,H,,0,
+259-34A.jpg,259,34A,29,Green,,,,,,,Clara A.,Wife,W,F,Apr,1853,47,M,22,2,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,30,Green,,,,,,,Frank A.,Son,W,M,Mar,1886,14,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,31,Green,28,456,469,682,745,Dowlin,Clarence E.,Head,W,M,Apr,1865,35,M,14,,,New Hampshire,New Hampshire,New Hampshire,,,,Painter farm machine factory,0,,Yes,Yes,Yes,O,F,H,,0,
+259-34A.jpg,259,34A,32,Green,,,,,,,Clara M.,Wife,W,F,Apr,1865,35,M,14,2,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,33,Green,,,,,,,Ethel C.,Daughter,W,F,Feb,1887,13,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,34,Green,,,,,,,Jessie M.,Daughter,W,F,July,1889,10,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,35,Green,,,,,,Eddy,Sarah M.,Mother-in-law,W,F,Mar,1829,71,Wd,,7,5,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,36,Green,,,,683,746,Halladay,Albert C.,Head,W,M,Oct,1872,27,M,1,,,Vermont,Vermont,Vermont,,,,Provision salesman,0,,Yes,Yes,Yes,R,,H,,0,no dwelling no. written
+259-34A.jpg,259,34A,37,Green,,,,,,,Isabell C.,Wife,W,F,May,1877,23,M,1,1,1,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,38,Green,,,,,,,May I.,Daughter,W,F,Jan,1900,4/12,S,,,,Vermont,Vermont,New Hampshire,,,,,,,,,,,,,,1,middle initial I or G
+259-34A.jpg,259,34A,39,Green,,,,,,Towns,Juliette,Wife's aunt,W,F,Apr,1851,49,Wd,,0,0,New Hampshire,New Hampshire,New Hampshire,,,,Laborer steam laundry,0,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,40,Green,30,457,470,684,747,Clifford,Ernest R.,Head,W,M,Nov,1850,49,M,26,,,Vermont,Vermont,Vermont,,,,Locomotive engineer,2,,Yes,Yes,Yes,O,F,H,,1,middle initial partly hidden by tally mark
+259-34A.jpg,259,34A,41,Green,,,,,,,Anna,Wife,W,F,Feb,1851,49,M,26,0,0,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,42,Green,,,,,,,Florence E.,Adopted daughter,W,F,Feb,1882,18,S,,,,Unknown,Unknown,Unknown,,,,At school,,8,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,43,Green,,,,685,748,Boynton,Allan M.,Head,W,M,Mar,1850,50,S,,,,Vermont,Vermont,Vermont,,,,Driver grain team,0,,Yes,Yes,Yes,R,,H,,1,middle initial partly hidden by tally mark; no dwelling no. written
+259-34A.jpg,259,34A,44,Green,,,,,,Linsley,Lydia R.,Sister,W,F,Mar,1840,60,Wd,,2,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,45,Green,32,458,471,686,749,Shaughnessy,Thomas,Head,W,M,Unknown,1844,56,M,26,,,Ireland,Ireland,Ireland,1866,34,Na,Laborer paint factory,0,,Yes,Yes,Yes,O,F,H,,0,
+259-34A.jpg,259,34A,46,Green,,,,,,,Catharine,Wife,W,F,Apr,1844,56,M,26,5,3,Ireland,Ireland,Ireland,1856,44,,,,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,47,Green,,,,,,,Thomas F.,Son,W,M,Mar,1878,22,S,,,,New Hampshire,Ireland,Ireland,,,,Shipping clerk paint factory,2,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,48,Green,,,,,,,William P.,Son,W,M,Feb,1880,20,S,,,,Vermont,Ireland,Ireland,,,,"Mixer, paint factory",0,,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,49,Green,,,,,,,Henry A.,Son,W,M,July,1883,16,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-34A.jpg,259,34A,50,Green,,,,687,750,Reynolds,Francis,Head,W,M,Dec,1864,35,M,5,,,Ireland,Ireland,Ireland,1883,17,Na,Grocer,,,Yes,Yes,Yes,R,,H,,0,no dwelling no. written; household continues on 34B

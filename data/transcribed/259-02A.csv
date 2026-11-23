@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-02A.jpg,259,02A,1,Rockingham,^,^,^,^,^,Ulitsck,Herman,Father,W,M,Apr,1835,65,M,40,,,Germany,Germany,Germany,1865,35,Na,Tinsmith,0,,Yes,Yes,Yes,,,,,1,surname Ulitsck or Ulitsch; street name Rockingham written once in street column (lines 20-24) and applied to all rows
+259-02A.jpg,259,02A,2,Rockingham,,,,,,Farnsworth,Harry W.,Lodger,W,M,Dec,1875,24,S,,,,Massachusetts,New Hampshire,Massachusetts,,,,R.R. brakeman,0,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,3,Rockingham,,,,,,Fifield,George,Lodger,W,M,Aug,1879,20,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,House painter,0,0,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,4,Rockingham,,,,,,Palmer,William B.,Lodger,W,M,Unknown,1858,42,S,,,,North Carolina,North Carolina,Unknown,,,,Electrician,0,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,5,Rockingham,56,20,,26,,Lamoureux,George,Head,W,M,Jan,1846,54,M,8/12,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,Al,Day laborer paper mill,4,,Yes,Yes,Yes,R,,H,,1,surname Lamoureux or Lamourex; years married appears as fraction 8/12
+259-02A.jpg,259,02A,6,Rockingham,,,,,,,Martha,Wife,W,F,Aug,1850,49,M,8/12,10,10,Canada (Fr),Canada (Fr),Canada (Fr),1863,37,,,,,No,No,Yes,,,,,1,years married appears as fraction 8/12
+259-02A.jpg,259,02A,7,Rockingham,,,,,,Beaudry,Nelson,Son-in-law,W,M,Apr,1874,26,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Day laborer,0,,Yes,Yes,Yes,,,,,0,"relation written ""S. in law"" (probably stepson)"
+259-02A.jpg,259,02A,8,Rockingham,,,,,,,George F.,Son-in-law,W,M,Mar,1882,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Day laborer,1,0,Yes,Yes,Yes,,,,,0,"relation written ""S. in law"""
+259-02A.jpg,259,02A,9,Rockingham,,,,,,,John P.,Son-in-law,W,M,Jan,1884,16,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Tinsmith,11,0,Yes,Yes,Yes,,,,,1,"relation written ""S. in law""; middle initial P uncertain"
+259-02A.jpg,259,02A,10,Rockingham,,,,,,,Charles,Son-in-law,W,M,July,1886,13,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Laborer scythe snath shop,10,7,Yes,Yes,Yes,,,,,0,"relation written ""S. in law"""
+259-02A.jpg,259,02A,11,Rockingham,,,,,,,Harriet,Daughter-in-law,W,F,June,1888,11,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,0,"relation written ""D. in law"""
+259-02A.jpg,259,02A,12,Rockingham,,,,,,,Mary A.,Daughter-in-law,W,F,July,1890,9,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,,,,,,,,0,"relation written ""D. in law"""
+259-02A.jpg,259,02A,13,Rockingham,,,,,,Keefe,John,Boarder,W,M,Unknown,1875,25,S,,,,Unknown,Ireland,Ireland,,,,Day laborer,0,,No,No,Yes,,,,,0,"""U.S."" written above Unknown birthplace"
+259-02A.jpg,259,02A,14,Rockingham,81,21,,27,,Doyle,Cornelius,Head,W,M,Dec,1859,40,M,13,,,Ireland,Ireland,Ireland,1880,20,Na,Laborer paper mill,0,,Yes,Yes,Yes,R,,H,,0,"""See sheet 44 line 15"" annotated in street column alongside this household"
+259-02A.jpg,259,02A,15,Rockingham,,,,,,,Kate,Wife,W,F,Apr,1860,40,M,13,6,4,Ireland,Ireland,Ireland,1882,18,,,,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,16,Rockingham,,,,,,,Patrick C.,Son,W,M,Sept,1889,10,S,,,,Vermont,Ireland,Ireland,,,,At school,,8,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,17,Rockingham,,,,,,,Hannah M.,Daughter,W,F,May,1893,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,7,,,,,,,,0,
+259-02A.jpg,259,02A,18,Rockingham,,,,,,,Thomas C.,Son,W,M,Oct,1895,4,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-02A.jpg,259,02A,19,Rockingham,,,,,,,Catharine E.,Daughter,W,F,July,1898,1,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,faint erased literacy entries on this line
+259-02A.jpg,259,02A,20,Rockingham,,,,,,O'Connor,Johanna,Mother-in-law,W,F,Nov,1825,74,Wd,,10,7,Ireland,Ireland,Ireland,1886,13,,,,,No,No,Yes,,,,,0,faint erased occupation entry
+259-02A.jpg,259,02A,21,Rockingham,,,,,,O'Neil,John,Boarder,W,M,Unknown,1872,28,S,,,,Ireland,Ireland,Ireland,1892,8,Al,Laborer paper mill engine room,3,,No,No,Yes,,,,,0,
+259-02A.jpg,259,02A,22,Rockingham,,,,,,,Daniel,Boarder,W,M,Unknown,1878,22,S,,,,Ireland,Ireland,Ireland,1893,7,Al,Paper mill laborer,3,,No,No,Yes,,,,,0,
+259-02A.jpg,259,02A,23,Rockingham,,,,,,Scanlon,Michael,Boarder,W,M,Unknown,1866,34,S,,,,Ireland,Ireland,Ireland,1889,11,Al,Day laborer,4,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,24,Rockingham,,,,,,,Jerry,Boarder,W,M,Unknown,1869,31,S,,,,Ireland,Ireland,Ireland,1889,11,Na,Laborer paper mill,1,,Yes,Yes,Yes,,,,,0,faint erased ownership entries (O F H) on this line
+259-02A.jpg,259,02A,25,Rockingham,45,22,,28,,Hodges,Herbert,Head,W,M,Oct,1878,21,S,,,,Vermont,Vermont,Vermont,,,,Hotel clerk,1,0,Yes,Yes,Yes,O,F,H,,0,
+259-02A.jpg,259,02A,26,Rockingham,,,,,,Welch,Felix,Servant,W,M,June,1881,18,S,,,,Vermont,Canada (Fr),Ireland,,,,Hotel porter,7,0,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,27,Rockingham,,,,,,Day,Harry C.,Servant,W,M,Nov,1880,19,S,,,,Vermont,Vermont,Vermont,,,,Hotel general work,3,0,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,28,Rockingham,,,,,,McLaughlin,May E.,Servant,W,F,Jan,1872,28,S,,,,New Hampshire,Unknown,Canada (Eng),,,,Hotel waitress,3,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,29,Rockingham,,,,,,Knapp,Minnie,Servant,W,F,Aug,1866,33,M,5,0,0,Massachusetts,Massachusetts,Canada (Fr),,,,Hotel waitress,1,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,30,Rockingham,,,,,,Smith,William A.,Servant,W,M,Dec,1869,30,S,,,,New York,England,Scotland,,,,Hotel chef,2,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,31,Rockingham,,,,,,Dinan,Mary,Servant,W,F,Aug,1881,18,S,,,,Ireland,Ireland,Ireland,1899,1,,Hotel kitchen,2,0,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,32,Rockingham,,,,,,Dillon,Mary,Servant,W,F,Apr,1878,22,S,,,,Ireland,Ireland,Ireland,1888,11,,Hotel waitress,0,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,33,Rockingham,,,,,,Howard,Nettie C.,Servant,W,F,Apr,1871,29,S,,,,Vermont,Vermont,Vermont,,,,Hotel pastry cook,6,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,34,Rockingham,,,,,,Borland,Mary,Servant,W,F,Unknown,1834,66,Wd,,7,6,Ireland,Ireland,Ireland,1892,8,,Hotel laundry woman,0,,No,No,Yes,,,,,1,immigration year 1892 or 1842; years in US 8 or 6
+259-02A.jpg,259,02A,35,Rockingham,,,,,,Bowe,Statia,Servant,W,F,July,1872,27,S,,,,Ireland,Ireland,Ireland,1889,11,,Hotel laundry woman,0,,No,No,Yes,,,,,0,
+259-02A.jpg,259,02A,36,Rockingham,,,,,,Blake,Emma E.,Boarder,W,F,June,1849,50,S,,,,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,37,Rockingham,,,,,,Kiniry,Annie M.,Boarder,W,F,Mar,1864,36,S,,,,New Hampshire,Ireland,Ireland,,,,Dressmaker,0,,Yes,Yes,Yes,,,,,1,surname Kiniry or Kinney
+259-02A.jpg,259,02A,38,Rockingham,,,,,,Wilkinson,Fredric C.,Boarder,W,M,June,1837,62,D,,,,England,England,England,1865,35,Na,Veterinary surgeon,0,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,39,Rockingham,,,,,,Purcell,John W.,Boarder,W,M,June,1878,21,S,,,,Vermont,Vermont,Vermont,,,,Barber,1,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,40,Rockingham,,,,,,White,Joseph L.,Boarder,W,M,Apr,1857,43,S,,,,New York,Canada (Fr),Vermont,,,,Barber,0,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,41,Rockingham,,,,,,Averill,Waldo B.,Boarder,W,M,Mar,1870,30,D,,,,Massachusetts,Connecticut,Massachusetts,,,,R.R. brakeman,0,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,42,Rockingham,25,23,,29,,Lovell,Leverett T.,Head,W,M,Oct,1841,58,M,39,,,Vermont,Vermont,Vermont,,,,Hotel proprietor owner,0,,Yes,Yes,Yes,O,F,F,3,1,"middle initial T uncertain; ""Dr"" possibly written after name"
+259-02A.jpg,259,02A,43,Rockingham,,,,,,,Amine P.,Wife,W,F,Dec,1839,60,M,39,3,2,Vermont,New Hampshire,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,1,given name Amine or Annie
+259-02A.jpg,259,02A,44,Rockingham,,,,,,Young,Jane,Servant,W,F,Apr,1867,33,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1884,15,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,45,Rockingham,,,,,,Duncan,Wendell P.,Lodger,W,M,Oct,1862,37,D,,,,Massachusetts,Massachusetts,Massachusetts,,,,Hostler,,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,46,Rockingham,40,24,,30,,Griswold,George S.,Head,W,M,Dec,1868,31,M,10,,,Vermont,New Hampshire,Vermont,,,,Provision dealer meat,0,,Yes,Yes,Yes,R,,H,,0,
+259-02A.jpg,259,02A,47,Rockingham,,,,,,,Katharine M.,Wife,W,F,Apr,1872,28,M,10,0,0,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,1,given name partly covered by tally mark (Katharine/Katherine M.)
+259-02A.jpg,259,02A,48,Rockingham,,,,31,,Jones,Thomas F.,Head,W,M,Apr,1850,50,M,8,,,New York,Canada (Eng),Canada (Eng),,,,Caterer,,,Yes,Yes,Yes,R,,H,,1,middle initial obscured by tally mark; new family in same dwelling as Griswold
+259-02A.jpg,259,02A,49,Rockingham,,,,,,,Eloise E.,Daughter,W,F,July,1876,23,S,,,,Wisconsin,New York,New York,,,,Nurse,8 1/2,,Yes,Yes,Yes,,,,,0,
+259-02A.jpg,259,02A,50,Rockingham,,,,,,,William E.,Son,W,M,Nov,1880,19,S,,,,North Dakota,New York,New York,,,,Back tender paper machine,2,0,Yes,Yes,Yes,,,,,1,months unemployed 2 written above line; 0 may be months unemployed instead of school months

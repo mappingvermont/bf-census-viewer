@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-17B.jpg,259,17B,51,,^,^,^,^,^,,Flora,Daughter,W,F,Mar,1894,6,S,,,,Maine,Canada (Fr),Canada (Fr),,,,,,0,,,,,,,,1,"street name for lines 51-52 partly cut off at top of column (reads like ""New T...""); household continues from 17A"
+259-17B.jpg,259,17B,52,,,,,,,,Ora,Daughter,W,F,June,1897,2,S,,,,Maine,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,1,street name partly cut off (New T...)
+259-17B.jpg,259,17B,53,Oak,9,233,236,351,356,Tehan,Patrick,Head,W,M,June,1857,42,M,16,,,Ireland,Ireland,Ireland,1874,26,Na,Electrician,6,,Yes,Yes,Yes,O,F,H,,0,
+259-17B.jpg,259,17B,54,Oak,,,,,,,Lizzie,Wife,W,F,Mar,1860,40,M,16,0,0,Ireland,Ireland,Ireland,1875,25,,,,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,55,Oak,,,,,,Carrigan,Thomas,Boarder,W,M,Aug,1864,35,S,,,,Ireland,Ireland,Ireland,1889,11,Al,Labour paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,56,Oak,,,,352,357,Page,Michael,Head,W,M,Aug,1874,25,M,0,,,Ireland,Ireland,Ireland,1884,16,Pa,Labour paper mill,0,,Yes,Yes,Yes,R,,H,,1,age overwritten (25/26); same dwelling as Tehan
+259-17B.jpg,259,17B,57,Oak,,,,,,,Margaret,Wife,W,F,Jan,1876,24,M,0,0,0,Ireland,Ireland,Ireland,1884,16,,,,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,58,Oak Hill,8,234,237,353,358,Patch,Edwin A.,Head,W,M,Nov,1869,30,M,9,,,New Hampshire,New Hampshire,New Hampshire,,,,Labour paper mill,0,,Yes,Yes,Yes,R,,H,,0,
+259-17B.jpg,259,17B,59,Oak Hill,,,,,,,Ethel F.,Wife,W,F,May,1874,25,M,9,5,4,Massachusetts,Rhode Island,Unknown,,,,,,,Yes,Yes,Yes,,,,,0,age 25 written though May 1874 birth gives 26
+259-17B.jpg,259,17B,60,Oak Hill,,,,,,,Walter E.,Son,W,M,July,1892,7,S,,,,New Hampshire,New Hampshire,Massachusetts,,,,At school,,2,,,,,,,,0,
+259-17B.jpg,259,17B,61,Oak Hill,,,,,,,Raymond T.,Son,W,M,Feb,1895,5,S,,,,New Hampshire,New Hampshire,Massachusetts,,,,,,0,,,,,,,,0,
+259-17B.jpg,259,17B,62,Oak Hill,,,,,,,John E.,Son,W,M,Mar,1897,3,S,,,,New Hampshire,New Hampshire,Massachusetts,,,,,,,,,,,,,,0,
+259-17B.jpg,259,17B,63,Oak Hill,,,,,,,Lillan J.,Daughter,W,F,Mar,1899,1,S,,,,New Hampshire,New Hampshire,Massachusetts,,,,,,,,,,,,,,1,given name Lillan or Lillar
+259-17B.jpg,259,17B,64,Hyde,,235,238,354,359,Bennware,Charles,Head,W,M,July,1859,40,M,3,,,New Hampshire,Canada (Fr),Canada (Fr),,,,Stone mason,0,,No,No,Yes,O,F,H,,1,surname Bennware or Benware; no house number written
+259-17B.jpg,259,17B,65,Hyde,,,,,,,Margaret,Wife,W,F,Aug,1874,25,M,3,1,0,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,66,Hyde,,,,,,Griffin,Mary,Mother in law,W,F,Unknown,1850,50,Wd,,3,1,Ireland,Ireland,Ireland,1870,30,,,,,No,No,Yes,,,,,0,
+259-17B.jpg,259,17B,67,Hyde,,236,239,355,360,Maley,Patrick,Head,W,M,Aug,1867,32,S,,,,Ireland,Ireland,Ireland,1882,18,Na,Day laborer,2,,Yes,Yes,Yes,R,,H,,0,
+259-17B.jpg,259,17B,68,Hyde,,,,,,,Mary,Sister,W,F,May,1878,22,S,,,,Ireland,Ireland,Ireland,1890,10,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,69,Hyde,,,,,,,Hannah,Mother,W,F,Unknown,1847,53,Wd,,2,2,Ireland,Ireland,Ireland,1880,10,,,,,No,No,Yes,,,,,1,immigration year reads 1880 but years in US 10 (1890?)
+259-17B.jpg,259,17B,70,Hyde,,,,356,361,Porter,Charles,Head,W,M,May,1870,30,M,7,,,New Hampshire,Canada (Fr),Canada (Fr),,,,R.R. brakeman,0,,Yes,Yes,Yes,O,M,H,,0,same dwelling as Maley
+259-17B.jpg,259,17B,71,Hyde,,,,,,,Helen,Wife,W,F,Unknown,1876,24,M,7,2,2,Canada (Fr),Canada (Fr),Canada (Fr),1890,10,,,,,No,No,Yes,,,,,0,
+259-17B.jpg,259,17B,72,Hyde,,,,,,,Lizzie A.,Daughter,W,F,Mar,1894,6,S,,,,New Hampshire,New Hampshire,Canada (Fr),,,,At school,,9,,,,,,,,0,
+259-17B.jpg,259,17B,73,Hyde,,,,,,,Collis C.,Son,W,M,June,1899,11/12,S,,,,Vermont,New Hampshire,Canada (Fr),,,,,,,,,,,,,,1,given name Collis or Callis
+259-17B.jpg,259,17B,74,Hyde,,,,,,,Napoleon E.,Brother,W,M,Mar,1875,25,S,,,,New Hampshire,Canada (Fr),Canada (Fr),,,,R.R. brakeman,7,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,75,Hyde,,237,240,357,362,Blodgett,Edward L.,Head,W,M,Mar,1874,26,M,4,,,Vermont,New Hampshire,Vermont,,,,Stone mason,5,,Yes,No,Yes,O,M,H,,0,
+259-17B.jpg,259,17B,76,Hyde,,,,,,,Annie L.,Wife,W,F,Nov,1877,22,M,4,2,2,Massachusetts,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,77,Hyde,,,,,,,Ida M.,Daughter,W,F,June,1897,2,S,,,,Vermont,Vermont,Massachusetts,,,,,,,,,,,,,,0,
+259-17B.jpg,259,17B,78,Hyde,,,,,,,Albert E.,Son,W,M,July,1899,10/12,S,,,,Vermont,Vermont,Massachusetts,,,,,,,,,,,,,,0,
+259-17B.jpg,259,17B,79,Hyde,,,,,,McLaughlin,Margaret,Sister in law,W,F,June,1874,25,S,,,,Massachusetts,Ireland,Ireland,,,,Saleswoman general store,0,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,80,Hyde,28,238,241,358,363,Fountain,Zebulon,Head,W,M,Jan,1842,58,M,36,,,Canada (Fr),Canada (Fr),Canada (Fr),1863,37,Pa,Stone mason,3,,No,No,Yes,O,M,H,,1,given name partly covered by tally mark (Zebul...)
+259-17B.jpg,259,17B,81,Hyde,,,,,,,Mary L.,Wife,W,F,Aug,1849,50,M,36,7,3,Vermont,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,82,Hyde,,,,,,,Herbert J.,Son,W,M,May,1869,31,S,,,,New Hampshire,Canada (Fr),Vermont,,,,Stone mason,3,,Yes,Yes,Yes,,,,,1,middle initial J or I unclear
+259-17B.jpg,259,17B,83,Hyde,35,239,242,359,364,Boucher,Evariste,Head,W,M,July,1866,33,M,13,,,Canada (Fr),Canada (Fr),Canada (Fr),1882,18,Na,Labour paper mill,0,,Yes,Yes,Yes,O,M,H,,1,given name end partly covered by tally mark
+259-17B.jpg,259,17B,84,Hyde,,,,,,,Eliza,Wife,W,F,Aug,1868,31,M,13,9,5,Canada (Fr),Canada (Fr),Canada (Fr),,,,,,,Yes,No,Yes,,,,,0,
+259-17B.jpg,259,17B,85,Hyde,,,,,,,Evariste,Son,W,M,Mar,1888,12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,9,Yes,Yes,Yes,,,,,1,marital written M with S written above (correction)
+259-17B.jpg,259,17B,86,Hyde,,,,,,,Albert,Son,W,M,Apr,1893,7,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,7,,,,,,,,0,
+259-17B.jpg,259,17B,87,Hyde,,,,,,,Andrea,Son,W,M,July,1894,5,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1895,5,,At school,,7,,,,,,,,0,
+259-17B.jpg,259,17B,88,Hyde,,,,,,,Anna,Daughter,W,F,Aug,1896,3,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,0,
+259-17B.jpg,259,17B,89,Hyde,,,,,,,Honoria,Daughter,W,F,Dec,1899,5/12,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,,,,,,,,,,,1,given name Honoria or Hanoria
+259-17B.jpg,259,17B,90,Hyde,37,240,243,360,365,Demers,Thlesphore,Head,W,M,Mar,1870,30,M,8,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,1/12,Al,Laborer paper mills,0,,No,No,Yes,R,,H,,1,surname Demers or Lemers
+259-17B.jpg,259,17B,91,Hyde,,,,,,,Delena,Wife,W,F,July,1871,28,M,8,6,3,Canada (Fr),Canada (Fr),Canada (Fr),1900,1/12,,,,,Yes,Yes,No,,,,,1,given name Delena or Delina
+259-17B.jpg,259,17B,92,Hyde,,,,,,,Joseph,Son,W,M,Mar,1897,3,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,1/12,,,,,,,,,,,,0,
+259-17B.jpg,259,17B,93,Hyde,,,,,,,Rosanna,Daughter,W,F,May,1898,2,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,1/12,,,,,,,,,,,,0,
+259-17B.jpg,259,17B,94,Hyde,,,,,,,Albert,Son,W,M,Feb,1900,3/12,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,1/12,,,,,,,,,,,,0,
+259-17B.jpg,259,17B,95,Hyde,33,241,244,361,366,Roy,Thlesphore,Head,W,M,July,1865,34,M,13,,,Canada (Fr),Canada (Fr),Canada (Fr),1893,7,Al,Laborer paper mill,0,,Yes,Yes,Yes,O,M,H,,0,
+259-17B.jpg,259,17B,96,Hyde,,,,,,,Sarah,Wife,W,F,July,1856,43,M,13,0,0,Canada (Fr),Canada (Fr),Canada (Fr),1893,7,,,,,Yes,Yes,No,,,,,0,
+259-17B.jpg,259,17B,97,Hyde,,,,,,Odette,George,Father in law,W,M,July,1825,74,Wd,,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,,,,,,,,,,,,0,
+259-17B.jpg,259,17B,98,Lovell,5,242,246,362,367,Bowe,Jane,Head,W,F,Aug,1863,36,Wd,,4,4,Ireland,Ireland,Ireland,1881,19,,,,,Yes,Yes,Yes,R,,H,,1,surname Bowe or Bone; dwelling renum reads 246 (245 expected); family renum partly hidden (36_)
+259-17B.jpg,259,17B,99,Lovell,,,,,,,Lizzie A.,Daughter,W,F,July,1888,11,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-17B.jpg,259,17B,100,Lovell,,,,,,,John P.,Son,W,M,May,1890,10,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,

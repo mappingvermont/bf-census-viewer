@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-43B.jpg,259,43B,51,Hapgood,,,,,,,Norah B.,Daughter,W,F,June,1895,4,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,given name hard to read (Nerah/Norah); household continued from 43A (Williams); no street written for lines 51-52
+259-43B.jpg,259,43B,52,Hapgood,,,,,,,John H.,Son,W,M,June,1897,2,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-43B.jpg,259,43B,53,South,10,613,624,897,963,Belknap,Willie C.,Head,W,M,Apr,1866,34,M,2,,,Vermont,Vermont,Illinois,,,,Newspaper editor,0,,Yes,Yes,Yes,R,,H,,1,dwelling no. reads 613/615 (sequence suggests 613); family no. 897 faint
+259-43B.jpg,259,43B,54,South,,,,,,,Katie M.,Wife,W,F,May,1876,24,M,2,1,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,55,South,,,,,,,Paul C.,Son,W,M,Feb,1899,1,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-43B.jpg,259,43B,56,South,,,,898,964,Bowers,Mary L.,Head,W,F,Mar,1831,69,Wd,,3,0,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,R,,H,,1,family no. 898 partly obscured; same dwelling as Belknap
+259-43B.jpg,259,43B,57,South,14,614,625,899,965,Leighton,Arthur H.,Head,W,M,June,1866,33,M,10,,,New Hampshire,Vermont,Massachusetts,,,,Foreman shipping department Vt. Farm Mch. Co.,0,,Yes,Yes,Yes,O,F,H,,1,given name partly covered by tally mark (Art... H.)
+259-43B.jpg,259,43B,58,South,,,,,,,Minnie M.,Wife,W,F,Oct,1868,31,M,10,1,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,59,South,,,,,,,Mildred E.,Daughter,W,F,Oct,1896,3,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,0,
+259-43B.jpg,259,43B,60,South,,,,,,Persons,John C.,Father-in-law,W,M,June,1828,71,Wd,,,,Vermont,Vermont,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,renumbered dwelling/family nos. 626/966 written in this row's cell but belong to Reid on line 61
+259-43B.jpg,259,43B,61,South,20,615,626,900,966,Reid,John H.,Head,W,M,Mar,1861,39,M,12,,,Vermont,New York,New York,,,,Congregational clergyman,0,,Yes,Yes,Yes,R,,H,,0,renumbered nos. written above in line 60 cell
+259-43B.jpg,259,43B,62,South,,,,,,,Adelaide S.,Wife,W,F,Apr,1859,41,M,12,2,2,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,63,South,,,,,,,Harold B.,Son,W,M,May,1889,11,S,,,,New York,Vermont,New York,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,64,South,,,,,,,Marian G.,Daughter,W,F,Mar,1892,8,S,,,,New York,Vermont,New York,,,,At school,,9,,,,,,,,0,
+259-43B.jpg,259,43B,65,School,31,616,627,901,967,Bidwell,Ranay,Head,W,M,June,1871,28,M,7,,,Vermont,Vermont,Vermont,,,,Cashier Vt. Farm Mch. Co.,0,,Yes,Yes,Yes,R,,H,,1,given name uncertain (Ranay/Ransey)
+259-43B.jpg,259,43B,66,School,,,,,,,Alice M.,Wife,W,F,May,1872,28,M,7,1,1,Vermont,Italy,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,"""31"" written and struck out in house number column"
+259-43B.jpg,259,43B,67,School,,,,,,,George C.,Son,W,M,Sept,1896,3,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-43B.jpg,259,43B,68,School,,,,902,968,Stilwell,E. Henry,Head,W,M,June,1845,54,M,26,,,Massachusetts,Massachusetts,New York,,,,Paper finisher,8,,Yes,Yes,Yes,O,F,H,,1,initial E inserted above after surname; months unemployed 8 or 9; same dwelling as Bidwell
+259-43B.jpg,259,43B,69,School,,,,,,,Flora D.,Wife,W,F,Apr,1854,46,M,26,1,1,Vermont,Vermont,Vermont,,,,Milliner,0,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,70,School,,,,,,,Harold T.,Son,W,M,Aug,1894,5,S,,,,Vermont,Massachusetts,Vermont,,,,,,,,,,,,,,0,
+259-43B.jpg,259,43B,71,School,,,,,,Davis,Simon L.,Lodger,W,M,Dec,1872,27,S,,,,Vermont,Vermont,Vermont,,,,Barber,0,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,72,School,,,,,,Dale,Alvah C.,Lodger,W,M,Feb,1880,20,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,Laborer pulp mill,0,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,73,School,,,,,,,Charlie E.,Lodger,W,M,Aug,1878,21,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,Laborer farm machine factory,2,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,74,School,30,617,628,903,969,George,Franklin,Head,W,M,Dec,1837,62,M,31,,,New Hampshire,New Hampshire,New Hampshire,,,,Day laborer,3,,Yes,Yes,Yes,O,M,H,,0,
+259-43B.jpg,259,43B,75,School,,,,,,,Mary E.,Wife,W,F,Mar,1845,55,M,31,3,2,New Hampshire,New Hampshire,New Hampshire,,,,Boarding house keeper,0,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,76,School,,,,,,,Clara L.,Daughter,W,F,Aug,1881,18,S,,,,Vermont,New Hampshire,New Hampshire,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,77,School,,,,,,Sherwin,Calvin T.,Boarder,W,M,Jan,1870,30,S,,,,Vermont,Vermont,Vermont,,,,Bicycle repairer,0,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,78,School,,,,904,970,Blossom,Guy C.,Head,W,M,Nov,1870,29,M,0,,,Illinois,Vermont,Vermont,,,,Machinist,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as George
+259-43B.jpg,259,43B,79,School,,,,,,,Jennie A.,Wife,W,F,Apr,1871,29,M,0,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,middle initial A uncertain
+259-43B.jpg,259,43B,80,School,,,,,,,Fred N. H.,Brother,W,M,Sept,1884,15,S,,,,California,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,81,School,64,618,629,905,971,Lockwood,Ernest,Head,W,M,Apr,1875,25,M,2,,,New Hampshire,Vermont,New Hampshire,,,,Carpenter house,3,,Yes,Yes,Yes,R,,H,,0,
+259-43B.jpg,259,43B,82,School,,,,,,,Effie J.,Wife,W,F,Feb,1877,23,M,2,0,0,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,1,birth year could read 1897; 1877 agrees with age 23
+259-43B.jpg,259,43B,83,School,,,,,,Rumrill,Oscar,Boarder,W,M,Mar,1873,27,S,,,,Vermont,Vermont,Vermont,,,,Carpenter shop,6,,Yes,Yes,Yes,,,,,1,surname Rumrill or Rumtill
+259-43B.jpg,259,43B,84,Grove,7,619,,906,972,McEvoy,Charles,Head,W,M,July,1862,37,S,,,,Massachusetts,Ireland,Ireland,,,,Paper finisher,,,Yes,Yes,Yes,R,,H,,1,street written like Gove (Grove?); house number 7 or 2; no renumbered dwelling no. on this row
+259-43B.jpg,259,43B,85,Grove,,,,,,Bohen,Mary J.,Housekeeper,W,F,Aug,1870,29,S,,,,New York,Ireland,Ireland,,,,Housework private family,0,,Yes,Yes,Yes,,,,,1,street written like Gove (Grove?); middle initial J or I
+259-43B.jpg,259,43B,86,Atkinson,,,630,907,973,Hazelton,William,Head,W,M,Jan,1860,40,M,8,,,Vermont,New Hampshire,Vermont,,,,Physician,0,,Yes,Yes,Yes,R,,H,,1,"house no. marked ditto; dwelling column shows 630 (overwritten, possibly renumber for McEvoy dwelling 619), no dark dwelling no."
+259-43B.jpg,259,43B,87,Atkinson,,,,,,,Gracie B.,Wife,W,F,Feb,1869,31,M,8,0,0,New Hampshire,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,middle initial B uncertain
+259-43B.jpg,259,43B,88,Centre,25,620,631,908,974,Brainard,Chauncey,Head,W,M,Unknown,1874,26,M,3,,,Vermont,Vermont,Vermont,,,,Laborer wax room paper mill,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark (Chaun...)
+259-43B.jpg,259,43B,89,Centre,,,,,,,Mary A.,Wife,W,F,Apr,1874,26,M,3,0,0,Connecticut,Connecticut,Vermont,,,,Milliner,11,,Yes,Yes,Yes,,,,,1,middle initial A uncertain
+259-43B.jpg,259,43B,90,Centre,,,,909,975,Copeley,Charles,Head,W,M,Apr,1875,25,M,5,,,Connecticut,Connecticut,Connecticut,,,,Electrician,0,,Yes,Yes,Yes,R,,H,,1,family no. looks like 907 (sequence implies 909); house and dwelling marked ditto (same as Brainard)
+259-43B.jpg,259,43B,91,Centre,,,,,,,Emma E.,Wife,W,F,Oct,1876,23,M,5,1,1,Connecticut,Germany,Germany,,,,,,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,92,Centre,,,,,,,Charles Jr.,Son,W,M,Dec,1897,2,S,,,,Connecticut,Connecticut,Connecticut,,,,,,,,,,,,,,0,
+259-43B.jpg,259,43B,93,Williams,24,621,632,910,976,Carter,William,Head,W,M,Aug,1866,33,M,9,,,Canada (Eng),Connecticut,Canada (Eng),1874,26,Na,Steam fitter,0,,Yes,Yes,Yes,R,,H,,0,
+259-43B.jpg,259,43B,94,Williams,,,,,,,Catherine A.,Wife,W,F,Sept,1868,31,M,9,2,2,New York,Ireland,Canada (Eng),,,,,,,Yes,Yes,Yes,,,,,0,"mother's birthplace ""Canada"" with ""Eng"" added"
+259-43B.jpg,259,43B,95,Williams,,,,,,,John C.,Son,W,M,Oct,1892,7,S,,,,New Hampshire,Canada (Eng),New York,,,,At school,,9,,,,,,,,0,
+259-43B.jpg,259,43B,96,Williams,,,,,,,Roland E.,Son,W,M,Jan,1899,1,S,,,,Vermont,Canada (Eng),New York,,,,,,,,,,,,,,0,
+259-43B.jpg,259,43B,97,Lovell,9,622,633,911,977,Kilburn,Nellie,Head,W,F,Feb,1847,53,Wd,,4,4,New Hampshire,Canada (Fr),England,,,,,,,Yes,No,Yes,R,,H,,0,
+259-43B.jpg,259,43B,98,Lovell,,,,,,Blaisdell,Charles,Boarder,W,M,Unknown,1847,53,Wd,,,,New Hampshire,New Hampshire,New Hampshire,,,,Painter,2,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,99,Lovell,,,,,,Pelkey,Joseph,Boarder,W,M,Unknown,1873,27,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1899,1,Al,Day laborer,,,Yes,Yes,Yes,,,,,0,
+259-43B.jpg,259,43B,100,Green,23,623,634,912,978,Farr,Arthur,Head,W,M,Dec,1871,28,M,3,,,New Hampshire,New Hampshire,New Hampshire,,,,Carpenter,0,,Yes,Yes,Yes,R,,H,,1,street name very small and hard to read (Green?)

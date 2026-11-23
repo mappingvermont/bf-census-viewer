@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-25B.jpg,259,25B,51,Atkinson,54,332,343,471,532,Williams,Henry C.,Head,W,M,Feb,1837,63,M,33,,,Vermont,,,,,,Carpenter,0,,Yes,Yes,Yes,R,,H,,1,father's and mother's birthplace blank (only a dash line drawn)
+259-25B.jpg,259,25B,52,Atkinson,,,,,,,Louise H.,Wife,W,F,Aug,1841,58,M,33,2,1,Vermont,Massachusetts,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,53,Atkinson,,,,,,,Ada L.,Daughter,W,F,July,1878,21,S,,,,Vermont,Vermont,Vermont,,,,Saleswoman music store & music teacher,0,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,54,Atkinson,,,,472,533,Whittemore,Byron G.,Head,W,M,Feb,1855,45,M,23,,,Michigan,New Hampshire,Michigan,,,,Lathe work farm machine factory,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Williams (no dwelling no. written)
+259-25B.jpg,259,25B,55,Atkinson,,,,,,,Helen L.,Wife,W,F,Sept,1859,40,M,23,2,1,Maine,Vermont,Maine,,,,Dressmaker,0,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,56,Atkinson,,,,,,,Lillian E.,Daughter,W,F,Sept,1878,21,S,,,,New Hampshire,Michigan,Maine,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,57,George,6,333,346,473,534,Barber,Julia A.,Head,W,F,Feb,1844,56,Wd,,2,1,Vermont,Massachusetts,Vermont,,,,Boarding house keeper,0,,Yes,Yes,Yes,O,M,H,,1,street: Atkinson section ends at line 56; George written lower in column (line 81) and assumed from here
+259-25B.jpg,259,25B,58,George,,,,,,,Carrol P.,Son,W,M,June,1873,26,M,4,,,Vermont,Massachusetts,Vermont,,,,Day laborer,2,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,59,George,,,,,,,Elsie C.,Daughter-in-law,W,F,July,1870,29,M,4,0,0,Maine,Maine,Maine,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,60,George,,,,,,Williams,Robert J.,Boarder,W,M,Aug,1874,25,M,0,,,Vermont,Wales,Ireland,,,,Machinist farm machine shop,0,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,61,George,,,,,,,Harriet A.,Boarder,W,F,Apr,1878,22,M,0,0,0,Vermont,New York,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,62,George,,,,,,Swan,Roswell F.,Boarder,W,M,Apr,1875,25,S,,,,Massachusetts,Massachusetts,Maine,,,,Laborer farm machine factory,0,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,63,George,,,,,,Moore,Arthur R.,Boarder,W,M,Oct,1875,24,S,,,,Vermont,Vermont,Canada (Eng),,,,Laborer farm machine factory,0,,Yes,Yes,Yes,,,,,1,surname scrawled; read as Moore
+259-25B.jpg,259,25B,64,George,,,,,,Moore,Charley W.,Boarder,W,M,Feb,1870,30,M,8,,,Vermont,England,England,,,,Laborer farm machine factory,0,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,65,George,,,,474,535,Newell,Fred E.,Head,W,M,Nov,1869,31,M,11,,,Vermont,Vermont,Vermont,,,,Machinist,0,,Yes,Yes,Yes,R,,H,,1,age written 31 but Nov 1869 gives 30; years married partly obscured (11)
+259-25B.jpg,259,25B,66,George,,,,,,,Ethel W.,Wife,W,F,Aug,1869,30,M,11,3,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,67,George,,,,,,,Lida M.,Daughter,W,F,Apr,1891,9,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,,,,,,,,0,
+259-25B.jpg,259,25B,68,George,,,,,,,Edna C.,Daughter,W,F,Nov,1894,5,S,,,,Vermont,Vermont,Vermont,,,,At school,,0,,,,,,,,0,school months written 0
+259-25B.jpg,259,25B,69,George,10,334,347,475,536,Gould,Elmer E.,Head,W,M,Apr,1861,39,M,18,,,Vermont,Vermont,Vermont,,,,Machinist,0,,Yes,Yes,Yes,R,,H,,1,dwelling renumber overwritten (347/344); family renumber overwritten
+259-25B.jpg,259,25B,70,George,,,,,,,Eleanor M.,Wife,W,F,July,1863,36,M,18,2,2,New York,New York,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,71,George,,,,,,,Ruby M.,Daughter,W,F,Oct,1883,16,S,,,,Vermont,Vermont,New York,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,72,George,,,,,,,Mildred A.,Daughter,W,F,Jan,1886,14,S,,,,Vermont,Vermont,New York,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,73,George,,,,476,537,Parker,Lucia H.,Head,W,F,Sept,1818,81,Wd,,3,3,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,R,,H,,0,same dwelling as Gould
+259-25B.jpg,259,25B,74,George,,,,,,,Eddie J.,Daughter,W,F,Jan,1855,45,S,,,,Vermont,Vermont,Vermont,,,,School teacher,0,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,75,George,12,335,348,477,538,Driscoll,Mary,Head,W,F,June,1846,53,Wd,,5,3,New Hampshire,Ireland,Ireland,,,,,,,Yes,Yes,Yes,R,,H,,0,
+259-25B.jpg,259,25B,76,George,,,,,,,Michael,Son,W,M,Aug,1881,18,S,,,,New Hampshire,Ireland,New Hampshire,,,,Laborer paper mill,1,0,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,77,George,,,,,,,John T.,Son,W,M,Jan,1883,17,S,,,,Vermont,Ireland,New Hampshire,,,,Laborer paper mill,1,0,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,78,George,,,,478,539,McElroy,Clifton J.,Head,W,M,Oct,1865,34,M,3,,,Canada (Eng),Ireland,Canada (Eng),1885,15,Pa,Machinist,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark (Clifton J.)
+259-25B.jpg,259,25B,79,George,,,,,,,Minnie G.,Wife,W,F,Feb,1867,33,M,3,4,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,80,George,,,,,,Frost,Elida G.,Step daughter,W,F,Oct,1894,5,S,,,,Vermont,Vermont,Vermont,,,,,,0,,,,,,,,0,
+259-25B.jpg,259,25B,81,George,14,336,349,479,540,Jackson,Everett,Head,W,M,May,1867,33,M,4,,,Vermont,Unknown,Unknown,,,,Laborer wood box mill,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark (Evrett/Everett)
+259-25B.jpg,259,25B,82,George,,,,,,,Mary E.,Wife,W,F,Mar,1880,20,M,4,3,3,New Hampshire,Unknown,Unknown,,,,,,0,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,83,George,,,,,,,Elenor,Daughter,W,F,Feb,1897,3,S,,,,Vermont,Vermont,New Hampshire,,,,,,,,,,,,,,0,
+259-25B.jpg,259,25B,84,George,,,,,,,Sadie M.,Daughter,W,F,Oct,1898,1,S,,,,New Hampshire,Vermont,New Hampshire,,,,,,,,,,,,,,1,age overwritten (1 over 2)
+259-25B.jpg,259,25B,85,George,,,,,,,Phoebe,Daughter,W,F,Nov,1899,6/12,S,,,,New Hampshire,Vermont,New Hampshire,,,,,,,,,,,,,,0,
+259-25B.jpg,259,25B,86,George,,,,480,541,Smith,George,Head,W,M,May,1877,23,M,5,,,New Hampshire,New Hampshire,New Hampshire,,,,Teamster,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Jackson
+259-25B.jpg,259,25B,87,George,,,,,,,Mabel G.,Wife,W,F,Jan,1877,23,M,5,2,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,88,George,,,,,,,Pearly,Son,W,M,May,1898,2,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,0,
+259-25B.jpg,259,25B,89,George,,,,,,Glynn,Fred H.,Brother-in-law,W,M,May,1874,26,S,,,,Vermont,Vermont,Vermont,,,,Carpenter,2,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,90,George,16,337,350,481,542,Porter,Elmer,Head,W,M,Mar,1875,25,M,8,,,New Hampshire,Canada (Fr),Canada (Fr),,,,Fireman stationary engine,0,,Yes,Yes,Yes,R,,H,,1,age overwritten (25)
+259-25B.jpg,259,25B,91,George,,,,,,,Mary J.,Wife,W,F,Feb,1873,27,M,8,3,2,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,92,George,,,,,,,Maria A.,Daughter,W,F,Apr,1893,7,S,,,,New Hampshire,New Hampshire,New Hampshire,,,,At school,,0,,,,,,,,1,given name Maria or Mavia
+259-25B.jpg,259,25B,93,George,,,,,,,Alonzo A.,Son,W,M,May,1899,1,S,,,,Vermont,New Hampshire,New Hampshire,,,,,,,,,,,,,,0,
+259-25B.jpg,259,25B,94,George,,,,,,Hall,Nettie E.,Servant,W,F,Aug,1871,28,M,8,4,3,New York,Ireland,New York,,,,Housework private family,0,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,95,George,,,,,,,William J.,Boarder,W,M,Apr,1895,5,S,,,,Massachusetts,Scotland,New York,,,,,,0,,,,,,,,1,age overwritten (5)
+259-25B.jpg,259,25B,96,George,,,,,,,Mabel L.,Boarder,W,F,Aug,1897,2,S,,,,Massachusetts,Scotland,New York,,,,,,,,,,,,,,0,
+259-25B.jpg,259,25B,97,George,,,,,,,Ellen H.,Boarder,W,F,Jan,1900,4/12,S,,,,Vermont,Scotland,New York,,,,,,,,,,,,,,0,
+259-25B.jpg,259,25B,98,George,18,338,351,482,543,Wiley,William,Head,W,M,Apr,1855,45,M,22,,,Vermont,New York,New York,,,,Teamster,1,,Yes,Yes,Yes,R,,H,,0,
+259-25B.jpg,259,25B,99,George,,,,,,,Maria E.,Wife,W,F,Mar,1858,42,M,22,4,3,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-25B.jpg,259,25B,100,George,,,,,,,Jennie I.,Daughter,W,F,Sept,1890,9,S,,,,Vermont,Vermont,Vermont,,,,At school,,7,,,,,,,,1,sex written like T (F); school months 7 or 9

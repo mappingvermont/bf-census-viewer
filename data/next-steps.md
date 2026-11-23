@@ -10,13 +10,13 @@ registration is incomplete or revoked", which is an AWS Marketplace problem.)
 
 ## Where things stand (2026-11-22)
 - Setup is done (step 1). A one-request smoke batch on the personal key succeeded.
-- **Step 3 is in progress.** The two-page test batch `msgbatch_0164wAHj6G8mjjyW2wvpR94G` was submitted at
-  22:59 UTC and is recorded in `test_batch/_batches.json`. To pick it up, run from `data/`:
-  `python3 -I scripts/transcribe_batch.py collect --out test_batch`. That's free and safe to repeat; it
-  writes nothing until the batch has ended. Then run the two `compare_csv.py` commands in step 3 and
-  report the match rate and the `_usage.jsonl` costs to the user.
-- Step 4 (the full run, about $15) hasn't started. **Don't submit it until the user has reviewed the test
-  results and said go.**
+- **Steps 3 and 4 are done.** All 87 pages are in `transcribed/`. The full run cost about $15.38 at batch
+  price, going by the token counts in `transcribed/_usage.jsonl`. `output/` and `../site/data/census_1900.geojson`
+  have been rebuilt and geocoded: 4,337 people at 646 addresses, 95 of them without a location.
+- **Still to review:** 66 `CHECK` lines from `build_csv.py` (ages that don't fit birth dates), 1,305 rows
+  marked uncertain, street-name variants (`Lowell`/`Lovell`, `Oak Hill`/`Oak Hill Terrace`,
+  `Butterfield avenue`/`Butterfield Avenue`, 9 rows with no street), and geocoder matches that are probably
+  wrong (`Grove` matched to `Gove`, `16 Rockingham St` matched to `16 The Square`).
 
 ## Notes for agents
 - **Ask before anything that spends money.** That means any `submit`. `collect`, `retrieve` and listing

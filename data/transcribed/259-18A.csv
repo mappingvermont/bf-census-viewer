@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-18A.jpg,259,18A,1,Lowell,^,^,^,^,^,,Ellen T.,Daughter,W,F,Oct,1892,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,household continues from previous sheet
+259-18A.jpg,259,18A,2,Lowell,,,,,,,Mary J.,Daughter,W,F,May,1893,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-18A.jpg,259,18A,3,Lowell,7,243,246,363,368,Noyes,Carlton,Head,W,M,Dec,1860,29,M,5,,,Vermont,Vermont,Vermont,,,,"Painter, house",3,,Yes,Yes,Yes,R,,H,,1,age written 29 but Dec 1860 gives 39
+259-18A.jpg,259,18A,4,Lowell,,,,,,,Hattie F.,Wife,W,F,Aug,1877,22,M,5,3,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,5,Lowell,,,,,,,Harry H.,Son,W,M,May,1897,3,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-18A.jpg,259,18A,6,Lowell,,,,,,,Gladys May,Daughter,W,F,July,1899,10/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,age 10 months
+259-18A.jpg,259,18A,7,Lowell,11,244,247,364,369,Cleary,Peter,Head,W,M,July,1878,21,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,Al,Laborer paper mill,0,,Yes,Yes,Yes,R,,H,,1,immigration year 1900 or 1902
+259-18A.jpg,259,18A,8,Lowell,,,,,,,Daniel,Brother,W,M,Mar,1880,20,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1898,2,,Laborer paper mill,0,0,Yes,Yes,Yes,,,,,1,given name written Dainel/Daniel
+259-18A.jpg,259,18A,9,Lowell,,,,,,,John,Brother,W,M,Feb,1882,18,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,,Laborer paper mill,0,0,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,10,Lowell,,,,,,,Jennie,Sister,W,F,July,1884,15,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,,,,0,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,11,Lowell,,,,,,,James,Brother,W,M,May,1886,14,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,,,,0,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,12,Lowell,,,,,,,Leo,Brother,W,M,July,1888,11,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,,,,0,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,13,Lowell,,,,,,,William,Brother,W,M,Apr,1891,9,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,,,,0,,,,,,,,0,
+259-18A.jpg,259,18A,14,Lowell,,,,,,,Annie,Sister,W,F,June,1893,6,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,,,,0,,,,,,,,0,
+259-18A.jpg,259,18A,15,Lowell,,,,,,,Theresa,Sister,W,F,Feb,1896,4,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,,,,,,,,,,,,1,given name Theresa or Thoresa
+259-18A.jpg,259,18A,16,Lowell,,,,,,,Mary,Mother,W,F,May,1858,42,Wd,,11,11,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,,,,,Yes,No,Yes,,,,,0,
+259-18A.jpg,259,18A,17,Lowell,,,,,,Clinton,Patrick,Boarder,W,M,Apr,1879,21,M,2,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,0,Al,Laborer paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,18,Lowell,,,,,,,Mary,Boarder,W,F,Dec,1875,24,M,2,1,1,Canada (Eng),Ireland,Ireland,1900,0,,,,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,19,Lowell,,,,,,McCarron,Joseph,Boarder,W,M,Jan,1879,21,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1900,2/12,Al,Laborer paper mill,0,,Yes,Yes,Yes,,,,,1,surname prefix unclear (Mc/McG...Carron)
+259-18A.jpg,259,18A,20,Lowell,2,245,248,365,370,Clarey,William,Head,W,M,Oct,1853,46,M,18,,,Canada (Eng),Ireland,Canada (Eng),1872,28,Al,River driver,1,,Yes,Yes,Yes,R,,H,,0,
+259-18A.jpg,259,18A,21,Lowell,,,,,,,Catherine,Wife,W,F,Unknown,1858,41,M,18,6,5,Canada (Eng),Scotland,Scotland,1885,15,,,,,Yes,Yes,Yes,,,,,1,"birth month written ""Un"""
+259-18A.jpg,259,18A,22,Poplar,16,246,249,366,371,Parsons,William E.,Head,W,M,Aug,1845,54,M,11,,,Connecticut,Massachusetts,Massachusetts,,,,Shipping clerk snath shop,0,,Yes,Yes,Yes,R,,H,,1,street change to Poplar assumed at line 22 (divider in street column); months unemployed unclear
+259-18A.jpg,259,18A,23,Poplar,,,,,,,May E.,Wife,W,F,Apr,1864,36,M,11,5,4,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,24,Poplar,,,,,,,Robert V.,Son,W,M,Mar,1889,11,S,,,,Vermont,Connecticut,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,25,Poplar,,,,,,,Rosamond,Daughter,W,F,Sept,1890,9,S,,,,Vermont,Connecticut,Vermont,,,,At school,,9,,,,,,,,0,
+259-18A.jpg,259,18A,26,Poplar,,,,,,,Ralph H.,Son,W,M,Mar,1892,8,S,,,,Vermont,Connecticut,Vermont,,,,At school,,9,,,,,,,,0,
+259-18A.jpg,259,18A,27,Poplar,,,,,,,Richard E.,Son,W,M,Oct,1896,3,S,,,,Vermont,Connecticut,Vermont,,,,,,,,,,,,,,0,
+259-18A.jpg,259,18A,28,Poplar,22,247,250,367,372,Avery,Andrew,Head,W,M,Mar,1830,70,M,45,,,Canada (Fr),Canada (Fr),Canada (Fr),1846,54,Na,Carpenter,12,,No,No,Yes,R,,H,,0,
+259-18A.jpg,259,18A,29,Poplar,,,,,,,Mary,Wife,W,F,Mar,1846,54,M,45,10,6,Canada (Fr),Canada (Fr),Canada (Fr),1859,41,,,,,No,No,Yes,,,,,0,sex overwritten M to F
+259-18A.jpg,259,18A,30,Poplar,,,,,,,Frank,Son,W,M,July,1873,26,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Hostler,0,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,31,Poplar,,,,,,,Albert,Son,W,M,Oct,1875,24,S,,,,Rhode Island,Canada (Fr),Canada (Fr),,,,Laborer farm machine factory,0,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,32,Poplar,,,,,,,Julius,Son,W,M,May,1879,21,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Laborer scythe snath shop,6,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,33,Poplar,,,,,,,Oliver,Son,W,M,Nov,1881,18,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,Roof painter,0,0,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,34,Poplar,,,,,,,Gerald,Son,W,M,July,1889,10,S,,,,Vermont,Canada (Fr),Canada (Fr),,,,At school,,8,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,35,Poplar,,,,,,Small,George R.,Boarder,W,M,Jan,1874,26,S,,,,Vermont,Canada (Fr),Vermont,,,,Roof painter,0,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,36,Poplar,18,248,251,368,373,Manning,Michael,Head,W,M,Aug,1875,24,M,6,,,Ireland,Ireland,Ireland,1894,6,Na,Laborer paper mills,0,,Yes,Yes,Yes,R,,H,,0,
+259-18A.jpg,259,18A,37,Poplar,,,,,,,Eliza,Wife,W,F,Mar,1870,30,M,6,4,4,Ireland,Ireland,Ireland,1893,7,,,,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,38,Poplar,,,,,,,Thomas,Son,W,M,Dec,1894,5,S,,,,Vermont,Ireland,Ireland,,,,,,0,,,,,,,,0,
+259-18A.jpg,259,18A,39,Poplar,,,,,,,Michael,Son,W,M,Dec,1895,4,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-18A.jpg,259,18A,40,Poplar,,,,,,,Mary,Daughter,W,F,Dec,1897,2,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,
+259-18A.jpg,259,18A,41,Poplar,,,,,,,James,Son,W,M,May,1900,0,S,,,,Vermont,Ireland,Ireland,,,,,,,,,,,,,,0,age written 0 (under 1 month)
+259-18A.jpg,259,18A,42,Poplar,14,249,252,369,374,Bowe,William,Head,W,M,Unknown,1865,35,M,8,,,Ireland,Ireland,Ireland,1885,15,Na,Laborer paper mill,1,,Yes,Yes,Yes,R,,H,,1,"surname Bowe or Bove; birth month written ""Un"""
+259-18A.jpg,259,18A,43,Poplar,,,,,,,Annie M.,Wife,W,F,June,1865,34,M,8,0,0,Ireland,Ireland,Ireland,1885,15,,,,,Yes,Yes,Yes,,,,,1,age overwritten (34/35)
+259-18A.jpg,259,18A,44,Poplar,20,250,253,370,375,Sweeney,William,Head,W,M,Apr,1863,27,M,7,,,Vermont,Ireland,Ireland,,,,Laborer scythe snath shop,1,,Yes,Yes,Yes,R,,H,,1,age written 27 but Apr 1863 gives 37 (year possibly 1873)
+259-18A.jpg,259,18A,45,Poplar,,,,,,,Theresa,Wife,W,F,Mar,1872,28,M,7,4,3,Ireland,Ireland,Ireland,1888,12,,,,,Yes,Yes,Yes,,,,,0,
+259-18A.jpg,259,18A,46,Poplar,,,,,,,Annie M.,Daughter,W,F,Dec,1893,6,S,,,,Vermont,Vermont,Ireland,,,,At school,,9,,,,,,,,0,
+259-18A.jpg,259,18A,47,Poplar,,,,,,,Catherine,Daughter,W,F,Nov,1897,2,S,,,,Vermont,Vermont,Ireland,,,,,,,,,,,,,,0,
+259-18A.jpg,259,18A,48,Poplar,,,,,,,Thomas W.,Son,W,M,Sept,1899,8/12,S,,,,Vermont,Vermont,Ireland,,,,,,,,,,,,,,0,age 8 months
+259-18A.jpg,259,18A,49,Poplar,,,,,,Sheridan,Ann,Mother in law,W,F,May,1837,63,Wd,,9,4,Ireland,Ireland,Ireland,1890,10,,,,,No,No,Yes,,,,,0,
+259-18A.jpg,259,18A,50,Poplar,,,,,,,Archie,Brother in law,W,M,Mar,1874,26,S,,,,Ireland,Ireland,Ireland,1891,9,Na,Private U.S. Army,0,,Yes,Yes,Yes,,,,,1,birth year overwritten (1874)

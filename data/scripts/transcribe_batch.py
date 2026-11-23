@@ -150,6 +150,10 @@ def parse_csv(text, page):
     rows = list(csv.reader(io.StringIO(m.group(1))))
     if rows[0] != HEADER:
         raise ValueError(f"header mismatch: {rows[0][:5]}...")
+    # notes is the last column and free text: an unquoted comma in it spills into extra cells
+    for r in rows[1:]:
+        if len(r) > len(HEADER):
+            r[len(HEADER) - 1:] = [",".join(r[len(HEADER) - 1:])]
     bad = [i for i, r in enumerate(rows[1:], 2) if len(r) != len(HEADER)]
     if bad:
         raise ValueError(f"wrong column count on CSV rows {bad[:10]}")

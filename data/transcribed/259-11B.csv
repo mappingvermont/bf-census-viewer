@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-11B.jpg,259,11B,51,Centre,^,^,^,^,^,,Clark R.,Son,W,M,Jan,1899,1,S,,,,Vermont,Massachusetts,New York,,,,,,,,,,,,,,1,household continues from sheet 11A; surname dashed; given name partly covered by tally mark (Clark/Clarp)
+259-11B.jpg,259,11B,52,Centre,28,152,154,219,221,Breen,John,Head,W,M,May,1866,34,M,13,,,Ireland,Ireland,Ireland,1886,14,Na,Laborer paper mill,0,,No,No,Yes,O,F,H,,0,
+259-11B.jpg,259,11B,53,Centre,,,,,,,Margaret,Wife,W,F,Jan,1864,36,M,13,6,4,Ireland,Ireland,Ireland,1882,18,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,54,Centre,,,,,,,John C.,Son,W,M,June,1888,11,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,1,age appears overwritten (11/12)
+259-11B.jpg,259,11B,55,Centre,,,,,,,Mary L.,Daughter,W,F,Feb,1890,10,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,56,Centre,,,,,,,Francis J.,Son,W,M,Aug,1892,7,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-11B.jpg,259,11B,57,Centre,,,,,,,Stephen J.,Son,W,M,May,1894,6,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,,,,,,,,0,
+259-11B.jpg,259,11B,58,Centre,,,,220,222,Shaw,William J.,Head,W,M,Jan,1873,27,M,6,,,Vermont,New York,New York,,,,Painter house,2,,Yes,Yes,Yes,R,,H,,0,no dwelling number: same dwelling as Breen
+259-11B.jpg,259,11B,59,Centre,,,,,,,Edith B.,Wife,W,F,Sept,1875,24,M,6,4,3,Bermuda (Eng),England,Bermuda (Eng),1885,15,,,,,Yes,Yes,Yes,,,,,1,"own birthplace has a line through it and an unclear mark written above (""Ad""?); kept Bermuda (Eng)"
+259-11B.jpg,259,11B,60,Centre,,,,,,,Frances M.,Daughter,W,F,Feb,1896,4,S,,,,Massachusetts,Vermont,Bermuda (Eng),,,,,,,,,,,,,,0,
+259-11B.jpg,259,11B,61,Centre,,,,,,,Clarence E.,Son,W,M,Feb,1898,2,S,,,,Massachusetts,Vermont,Bermuda (Eng),,,,,,,,,,,,,,0,
+259-11B.jpg,259,11B,62,Centre,,,,,,,Walter E.,Son,W,M,Jan,1900,5/12,S,,,,Massachusetts,Vermont,Bermuda (Eng),,,,,,,,,,,,,,0,age 5 months
+259-11B.jpg,259,11B,63,West,3,153,155,221,223,Hobson,William F.,Head,W,M,Mar,1867,33,M,4,,,New Hampshire,England,Vermont,,,,Paper finisher,0,,Yes,Yes,Yes,O,M,H,,1,middle initial partly covered by tally mark (F?)
+259-11B.jpg,259,11B,64,West,,,,,,,Lucy M.,Wife,W,F,July,1875,24,M,4,2,2,Vermont,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,65,West,,,,,,,Marion A.,Daughter,W,F,Apr,1896,4,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,0,
+259-11B.jpg,259,11B,66,West,,,,,,,George D.,Son,W,M,May,1900,1/12,S,,,,Vermont,New Hampshire,Vermont,,,,,,,,,,,,,,1,middle initial D or G; age 1 month
+259-11B.jpg,259,11B,67,West,,,,222,224,Winchester,Amy C.,Head,W,F,Apr,1835,65,Wd,,5,3,Vermont,Vermont,Vermont,,,,Housework private family,6,,Yes,Yes,Yes,R,,H,,1,given name Amy or Avey (partly covered by tally); months unemployed 6 uncertain (runs into occupation); no dwelling number: same dwelling as Hobson
+259-11B.jpg,259,11B,68,West,5,154,156,223,225,McDonald,James,Head,W,M,Feb,1867,33,M,9,,,Canada (Eng),Scotland,Scotland,1888,12,Na,Machinist,0,,Yes,Yes,Yes,R,,H,,0,
+259-11B.jpg,259,11B,69,West,,,,,,,Kate J.,Wife,W,F,Dec,1868,31,M,9,2,1,New Hampshire,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,70,West,,,,,,,Colin R.,Son,W,M,Dec,1896,3,S,,,,Vermont,Canada (Eng),New Hampshire,,,,,,,,,,,,,,1,middle initial R uncertain
+259-11B.jpg,259,11B,71,West,,,,224,226,Zwisler,Fred C.,Head,W,M,Sept,1866,33,M,2,,,Iowa,Germany,Germany,,,,Paper maker,2,,Yes,Yes,Yes,R,,H,,1,age blotted and rewritten as 33 above; no dwelling number: same dwelling as McDonald
+259-11B.jpg,259,11B,72,West,,,,,,,Elizabeth L.,Wife,W,F,Aug,1865,34,M,2,1,1,Massachusetts,Germany,Germany,,,,,,,Yes,Yes,Yes,,,,,1,middle initial L uncertain
+259-11B.jpg,259,11B,73,West,,,,,,,Irene,Daughter,W,F,Apr,1899,1,S,,,,Vermont,Iowa,Massachusetts,,,,,,,,,,,,,,0,
+259-11B.jpg,259,11B,74,West,,,,225,227,Hall,Charles W.,Head,W,M,Nov,1871,28,M,1,,,Vermont,Vermont,Vermont,,,,Carpenter,0,,Yes,Yes,Yes,O,M,H,,1,middle initial W or M (covered by tally); no dwelling number: same dwelling as McDonald
+259-11B.jpg,259,11B,75,West,,,,,,,Mary,Wife,W,F,Dec,1871,28,M,1,0,0,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,76,West,9,155,157,226,228,Lawrence,George E.,Head,W,M,Feb,1868,32,M,8,,,Vermont,Vermont,Vermont,,,,Garden laborer,0,,Yes,Yes,Yes,R,,H,,0,
+259-11B.jpg,259,11B,77,West,,,,,,,Bertha M.,Wife,W,F,Mar,1872,28,M,8,2,2,Vermont,Vermont,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,78,West,,,,,,,Dana G.,Son,W,M,Dec,1894,5,S,,,,Vermont,Vermont,Vermont,,,,,,0,,,,,,,,1,given name Dana uncertain
+259-11B.jpg,259,11B,79,West,,,,,,,Mamie I.,Daughter,W,F,May,1897,3,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,given name Mamie or Marie
+259-11B.jpg,259,11B,80,West,,,,227,229,Witherbee,Thomas E.,Head,W,M,Jan,1870,30,M,0,,,New York,New York,New York,,,,Carpenter,5,,Yes,Yes,Yes,R,,H,,0,no dwelling number: same dwelling as Lawrence
+259-11B.jpg,259,11B,81,West,,,,,,,Bernice A.,Wife,W,F,Oct,1880,19,M,0,0,0,Maine,Maine,Maine,,,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,82,West,,,,,,Norris,Grace E.,Sister in law,W,F,June,1882,17,S,,,,Maine,Maine,Maine,,,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,83,West,,,,228,230,Parker,Lula E.,Head,W,F,Nov,1867,32,Wd,,3,3,New Hampshire,Vermont,New Hampshire,,,,Music teacher,3,,Yes,Yes,Yes,O,M,H,,0,no dwelling number: same dwelling as Lawrence
+259-11B.jpg,259,11B,84,West,,,,,,,Emogene M. V.,Daughter,W,F,Feb,1894,6,S,,,,Vermont,Vermont,New Hampshire,,,,At school,,7,,,,,,,,0,
+259-11B.jpg,259,11B,85,West,,,,,,,Harlan D.,Son,W,M,July,1895,4,S,,,,Vermont,Vermont,New Hampshire,,,,,,,,,,,,,,0,
+259-11B.jpg,259,11B,86,West,,,,,,,Ruth M.,Daughter,W,F,Aug,1898,1,S,,,,Vermont,Vermont,New Hampshire,,,,,,,,,,,,,,0,
+259-11B.jpg,259,11B,87,West,,,,229,231,Gray,John C.,Head,W,M,Aug,1843,56,M,18,,,New York,Unknown,New York,,,,Day laborer,2,,Yes,Yes,Yes,R,,H,,1,middle initial covered by tally mark; no dwelling number: same dwelling as Lawrence
+259-11B.jpg,259,11B,88,West,,,,,,,Myrtilla A.,Wife,W,F,Aug,1845,54,M,18,5,1,New York,New York,New York,,,,Nurse,6,,Yes,Yes,Yes,,,,,1,middle initial covered by tally; children born 5 or 3
+259-11B.jpg,259,11B,89,West,15,156,158,230,232,Keefe,Eugene E.,Head,W,M,July,1855,44,M,19,,,Vermont,Ireland,Ireland,,,,Pulp maker,0,,Yes,Yes,Yes,O,F,H,,1,middle initial covered by tally mark
+259-11B.jpg,259,11B,90,West,,,,,,,Julia M.,Wife,W,F,May,1857,43,M,19,5,4,Massachusetts,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,91,West,,,,,,,William S.,Son,W,M,Mar,1882,18,S,,,,Vermont,Vermont,Massachusetts,,,,Apprentice drug store,10,6,Yes,Yes,Yes,,,,,1,middle initial S uncertain
+259-11B.jpg,259,11B,92,West,,,,,,,Mary J.,Daughter,W,F,Aug,1883,16,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,93,West,,,,,,,Margaret,Daughter,W,F,July,1890,9,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,,,,,,,,0,
+259-11B.jpg,259,11B,94,West,,,,,,,Ernest E.,Son,W,M,Mar,1893,7,S,,,,Vermont,Vermont,Massachusetts,,,,At school,,9,,,,,,,,0,
+259-11B.jpg,259,11B,95,West,,,,,,,Jane,Mother,W,F,May,1825,75,Wd,,9,4,Ireland,Ireland,Ireland,1847,53,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,96,West,17,157,159,231,233,Shackett,Edward,Head,W,M,Apr,1860,40,M,24,,,Vermont,Canada (Fr),Canada (Fr),,,,Day laborer,0,,No,No,Yes,R,,H,,0,
+259-11B.jpg,259,11B,97,West,,,,,,,Rose,Wife,W,F,Sept,1861,38,M,24,6,5,New Hampshire,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-11B.jpg,259,11B,98,West,,,,,,,William D.,Son,W,M,Apr,1885,15,S,,,,Vermont,Vermont,New Hampshire,,,,At school,,6,Yes,Yes,Yes,,,,,1,middle initial D or H
+259-11B.jpg,259,11B,99,West,,,,,,,George R.,Son,W,M,Mar,1886,14,S,,,,Vermont,Vermont,New Hampshire,,,,At school,,7,Yes,Yes,Yes,,,,,1,middle initial R or B
+259-11B.jpg,259,11B,100,West,14,158,160,232,234,Kilburn,Daniel F.,Head,W,M,July,1878,21,M,0,,,New York,Unknown,Unknown,,,,Locomotive fireman,0,,Yes,Yes,Yes,R,,H,,1,middle initial covered by tally mark; household may continue on next sheet

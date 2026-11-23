@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-28A.jpg,259,28A,1,Butterfield avenue,^,^,^,^,^,,Dean R.,Son,W,M,Dec,1896,3,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,household continues from previous sheet; given name Dean or Ilean
+259-28A.jpg,259,28A,2,Butterfield avenue,,,,,,,Vera B.,Daughter,W,F,Aug,1899,9/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,age fraction unclear (9/12 or 10/12)
+259-28A.jpg,259,28A,3,Butterfield avenue,9,366,379,531,593,Beyette,Joseph,Head,W,M,Nov,1872,27,M,2,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,2/12,Al,Machinist,,,Yes,Yes,Yes,R,,H,,1,years in US fraction unclear (2/12 or 1/2)
+259-28A.jpg,259,28A,4,Butterfield avenue,,,,,,,Nellie,Wife,W,F,June,1875,24,M,2,0,0,Canada (Eng),Canada (Eng),Ireland,1900,2/12,,,,,Yes,Yes,Yes,,,,,1,years in US fraction unclear (2/12)
+259-28A.jpg,259,28A,5,Butterfield avenue,,,,,,,Emily,Mother,W,F,Nov,1847,53,Wd,,10,7,Canada (Fr),Canada (Fr),Canada (Fr),1900,2/12,,,,,Yes,No,Yes,,,,,1,age 53 written but Nov 1847 gives 52; years in US fraction unclear (2/12)
+259-28A.jpg,259,28A,6,Butterfield avenue,,,,,,,Henry V.,Brother,W,M,Aug,1870,29,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,2/12,,Day laborer,1,,Yes,Yes,Yes,,,,,1,years in US fraction unclear (2/12)
+259-28A.jpg,259,28A,7,Butterfield avenue,,,,,,,Daniel,Brother,W,M,Nov,1874,25,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,3/12,,Laborer paintshop,0,,Yes,Yes,Yes,,,,,1,years in US fraction unclear (3/12)
+259-28A.jpg,259,28A,8,Butterfield avenue,,,,,,,Annie L.,Sister,W,F,Nov,1879,20,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1900,3/12,,Laborer paintshop,9,,Yes,Yes,Yes,,,,,1,years in US fraction unclear (3/12)
+259-28A.jpg,259,28A,9,Butterfield avenue,11,367,380,532,594,Sawyer,Albert E.,Head,W,M,Aug,1859,40,M,13,,,Vermont,Vermont,Vermont,,,,Carpenter,0,,Yes,Yes,Yes,R,,H,,0,
+259-28A.jpg,259,28A,10,Butterfield avenue,,,,,,,Lucia E.,Wife,W,F,Dec,1864,35,M,13,3,3,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,11,Butterfield avenue,,,,,,,Lena L.,Daughter,W,F,Feb,1888,12,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,12,Butterfield avenue,,,,,,,Thomas J.,Son,W,M,Jan,1892,8,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,,,,,,,,0,
+259-28A.jpg,259,28A,13,Butterfield avenue,,,,,,,Helen G.,Daughter,W,F,Dec,1894,5,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,1,middle initial obscured by tally mark
+259-28A.jpg,259,28A,14,Atkinson,96,368,381,533,595,Gately,John H.,Head,W,M,June,1865,34,M,11,,,Massachusetts,Ireland,Ireland,,,,Foreman paper mill,,,Yes,Yes,Yes,R,,H,,1,street for lines 14-26 not written in street column; assumed Atkinson; surname Gately or Gatety
+259-28A.jpg,259,28A,15,Atkinson,,,,,,,Nellie A.,Wife,W,F,May,1869,31,M,11,4,4,Massachusetts,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,16,Atkinson,,,,,,,John J.,Son,W,M,Mar,1890,10,S,,,,Massachusetts,Massachusetts,Massachusetts,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,17,Atkinson,,,,,,,Marguerite M.,Daughter,W,F,May,1893,7,S,,,,Vermont,Massachusetts,Massachusetts,,,,At school,,9,,,,,,,,0,
+259-28A.jpg,259,28A,18,Atkinson,,,,,,,Donald E.,Son,W,M,June,1896,3,S,,,,Vermont,Massachusetts,Massachusetts,,,,,,,,,,,,,,1,age overwritten (4/3)
+259-28A.jpg,259,28A,19,Atkinson,,,,,,,Jerome L.,Son,W,M,May,1899,1,S,,,,Vermont,Massachusetts,Massachusetts,,,,,,,,,,,,,,1,middle initial obscured by tally mark
+259-28A.jpg,259,28A,20,Atkinson,,,,534,596,McCarthy,John,Head,W,M,June,1852,49,M,5,,,Massachusetts,Ireland,Ireland,,,,Brickmason,2,,Yes,Yes,Yes,R,,H,,1,age 49 written but June 1852 gives 47; same dwelling as Gately; dark family number unclear (534 by sequence)
+259-28A.jpg,259,28A,21,Atkinson,,,,,,,Huldah M.,Wife,W,F,July,1851,48,M,5,1,1,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,1,middle initial obscured
+259-28A.jpg,259,28A,22,Atkinson,98,369,382,535,597,King,Emery,Head,W,M,Aug,1841,58,M,40,,,New York,Ireland,Ireland,,,,Day laborer,7,,No,No,Yes,R,,H,,1,dwelling renumber partly obscured (382 by sequence)
+259-28A.jpg,259,28A,23,Atkinson,,,,,,,Mary,Wife,W,F,Apr,1845,55,M,40,2,1,New York,Ireland,Ireland,,,,Housework private family,3,,No,No,Yes,,,,,0,
+259-28A.jpg,259,28A,24,Atkinson,,,,536,598,Veo,Frank G.,Head,W,M,Apr,1873,27,M,6,,,Vermont,Vermont,Vermont,,,,Teamster,,,Yes,Yes,Yes,R,,H,,1,occupation Teamster appears struck through; same dwelling as King
+259-28A.jpg,259,28A,25,Atkinson,,,,,,,Viola M.,Wife,W,F,May,1874,26,M,6,0,0,Pennsylvania,Pennsylvania,England,,,,,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,26,Atkinson,100,370,383,537,599,Fair,Fred,Head,W,M,Mar,1873,27,M,5,,,New York,Ireland,New York,,,,Painter house,5,,Yes,Yes,Yes,R,,H,,0,
+259-28A.jpg,259,28A,27,Atkinson,,,,,,,Minnie,Wife,W,F,May,1877,23,M,5,3,2,New York,New York,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,28,Atkinson,,,,,,,Clifford F.,Son,W,M,Nov,1896,3,S,,,,Vermont,New York,New York,,,,,,,,,,,,,,0,
+259-28A.jpg,259,28A,29,Atkinson,,,,,,,Emery V.,Son,W,M,Nov,1898,1,S,,,,Vermont,New York,New York,,,,,,,,,,,,,,0,
+259-28A.jpg,259,28A,30,Atkinson,,,,538,600,Moody,Edward G.,Head,W,M,Aug,1874,25,M,4,,,New Hampshire,New Hampshire,New Hampshire,,,,Teamster,1,,Yes,Yes,Yes,R,,H,,0,same dwelling as Fair
+259-28A.jpg,259,28A,31,Atkinson,,,,,,,Mary L.,Wife,W,F,Mar,1863,37,M,4,5,1,Pennsylvania,Massachusetts,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,32,Atkinson,,,,,,Buckley,Mary,Boarder,W,F,Unknown,1840,60,S,,,,Ireland,Ireland,Ireland,1870,30,,,,,No,No,Yes,,,,,0,
+259-28A.jpg,259,28A,33,Atkinson,,,,,,Largess,Louis,Stepson,W,M,Sept,1884,15,S,,,,Vermont,Massachusetts,Pennsylvania,,,,Apprenticed to blacksmith,0,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,34,Williams,20,371,384,539,601,Pickett,John,Head,W,M,Sept,1866,33,M,6,,,Vermont,Ireland,Ireland,,,,Paper finisher,0,,Yes,Yes,Yes,R,,H,,0,
+259-28A.jpg,259,28A,35,Williams,,,,,,,Bridget M.,Wife,W,F,Oct,1870,29,M,6,3,3,Ireland,Ireland,Ireland,1892,8,,,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,36,Williams,,,,,,,John T.,Son,W,M,July,1894,5,S,,,,Vermont,Vermont,Ireland,,,,At school,,8,,,,,,,,0,
+259-28A.jpg,259,28A,37,Williams,,,,,,,Anna E.,Daughter,W,F,June,1896,3,S,,,,Vermont,Vermont,Ireland,,,,,,,,,,,,,,0,
+259-28A.jpg,259,28A,38,Williams,,,,,,,Henry A.,Son,W,M,Jan,1898,2,S,,,,Vermont,Vermont,Ireland,,,,,,,,,,,,,,0,
+259-28A.jpg,259,28A,39,Williams,,,,,,Powers,Michael,Brother in law,W,M,Dec,1874,25,S,,,,Ireland,Ireland,Ireland,1895,5,Al,Laborer scythe snath shop,1,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,40,Williams,,,,,,Galway,Patrick,Boarder,W,M,Oct,1871,28,S,,,,Ireland,Ireland,Ireland,1895,5,Al,Laborer wood room of paper mill,0,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,41,Williams,,,,,,,Margaret M.,Boarder,W,F,Mar,1874,26,S,,,,Ireland,Ireland,Ireland,1893,7,,Cook restaurant,7,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,42,Williams,,,,540,602,Streeter,Fred F.,Head,W,M,Jan,1854,46,M,26,,,New Hampshire,New Hampshire,New Hampshire,,,,Hostler stable,,,Yes,Yes,Yes,R,,H,,1,same dwelling as Pickett; dark family number unclear (540 by sequence)
+259-28A.jpg,259,28A,43,Williams,,,,,,,Isie G.,Wife,W,F,Jan,1858,42,M,26,3,3,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,1,given name Isie or Lois
+259-28A.jpg,259,28A,44,Williams,,,,,,Cobb,Emily,Mother in law,W,F,Oct,1825,74,Wd,,1,1,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,45,Williams,,,,,,Streeter,May F.,Daughter,W,F,May,1882,18,S,,,,Vermont,New Hampshire,Vermont,,,,Laborer paint factory,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,46,Williams,,,,,,,Harry F.,Son,W,M,Jan,1887,13,S,,,,Vermont,New Hampshire,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,47,Williams,22,372,385,541,603,Devoll,Fred E.,Head,W,M,Aug,1872,27,M,6,,,Vermont,Vermont,Vermont,,,,House painter,0,,Yes,Yes,Yes,R,,H,,1,dark family number unclear (541 by sequence)
+259-28A.jpg,259,28A,48,Williams,,,,,,,Myra O.,Wife,W,F,Dec,1876,23,M,6,2,2,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-28A.jpg,259,28A,49,Williams,,,,,,,Beulah M.,Daughter,W,F,June,1895,4,S,,,,Vermont,Vermont,New Hampshire,,,,,,,,,,,,,,0,
+259-28A.jpg,259,28A,50,Williams,,,,,,,Winifred O.,Daughter,W,F,Feb,1898,2,S,,,,Vermont,Vermont,New Hampshire,,,,,,,,,,,,,,0,

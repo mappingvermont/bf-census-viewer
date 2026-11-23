@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-31B.jpg,259,31B,51,Atkinson,^,^,^,^,^,Brown,Willis A.,Boarder,W,M,Mar,1871,29,S,,,,Vermont,Vermont,Vermont,,,,U.S. mail carrier,0,,Yes,Yes,Yes,,,,,0,boarder in household continued from sheet 31A
+259-31B.jpg,259,31B,52,Atkinson,121,414,427,618,681,Evans,George F.,Head,W,M,May,1839,61,M,39,,,Vermont,Vermont,Vermont,,,,Ice dealer,0,,Yes,Yes,Yes,O,F,F,18,0,
+259-31B.jpg,259,31B,53,Atkinson,,,,,,,Mary J.,Wife,W,F,Dec,1839,60,M,39,2,2,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,54,Atkinson,,,,,,Dickenson,George H.,Son in law,W,M,June,1860,39,M,14,,,Maryland,Vermont,Maryland,,,,Journalist,0,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,55,Atkinson,,,,,,,Stella M.,Daughter,W,F,Oct,1862,37,M,,,,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,years married and children blank on page
+259-31B.jpg,259,31B,56,Atkinson,,,,,,,Elizabeth,Granddaughter,W,F,Nov,1886,13,S,,,,Massachusetts,Maryland,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,57,Atkinson,,,,,,,George H. Jr.,Grandson,W,M,Mar,1892,8,S,,,,New York,Maryland,Vermont,,,,At school,,9,,,,,,,,0,
+259-31B.jpg,259,31B,58,Atkinson,117,415,428,619,682,Sullivan,Owen,Head,W,M,Aug,1834,65,M,28,,,Ireland,Ireland,Ireland,1852,48,Na,,,,Yes,Yes,Yes,O,F,H,,0,occupation blank on page
+259-31B.jpg,259,31B,59,Atkinson,,,,,,,Mary,Wife,W,F,June,1841,58,M,28,5,3,Ireland,Ireland,Ireland,1842,58,,Boarding house keeper,0,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,60,Atkinson,,,,,,,Katharine M.,Daughter,W,F,Apr,1875,25,S,,,,Vermont,Ireland,Ireland,,,,Saleswoman general store,0,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,61,Atkinson,,,,,,,Margaret J.,Daughter,W,F,July,1877,22,S,,,,Vermont,Ireland,Ireland,,,,Bookkeeper meat market,0,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,62,Atkinson,,,,,,,Owen F.,Son,W,M,June,1881,18,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,63,Atkinson,,,,,,Dunham,Daniel,Boarder,W,M,Sept,1882,17,S,,,,Vermont,Vermont,Canada (Eng),,,,Provision salesman,0,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,64,Atkinson,,,,,,Rady,James S.,Boarder,W,M,Dec,1858,41,S,,,,Vermont,Ireland,Ireland,,,,Screen plate cutter,4,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,65,Atkinson,,,,,,Ingalls,James,Boarder,W,M,Apr,1849,51,S,,,,New York,New York,New York,,,,Laborer paint factory,0,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,66,Atkinson,,,,,,McKenna,Mary,Servant,W,F,June,1881,18,S,,,,Canada (Eng),Canada (Eng),Canada (Eng),1895,1,,Housework private family,0,,Yes,Yes,Yes,,,,,1,years in US reads 1 (immigration 1895 would imply 5); immigration year 1895 or 1898
+259-31B.jpg,259,31B,67,Atkinson,115,416,429,620,683,Nichols,Charles,Head,W,M,Aug,1857,42,M,15,,,Vermont,Vermont,Vermont,,,,Teamster,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark (Charl...)
+259-31B.jpg,259,31B,68,Atkinson,,,,,,,Ida L.,Wife,W,F,Oct,1867,32,M,15,2,1,Vermont,Vermont,New York,,,,,,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,69,Atkinson,,,,,,,Floyd S.,Daughter,W,F,Nov,1894,5,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,relation written Daughter and sex F despite name Floyd
+259-31B.jpg,259,31B,70,Atkinson,,,,,,Stearns,Loosa,Mother in law,W,F,Sept,1829,70,Wd,,6,3,New York,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,71,Atkinson,,,,,,Wright,James A.,Lodger,W,M,Unknown,1862,38,S,,,,Massachusetts,Unknown,Unknown,,,,Iron moulder,0,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,72,Atkinson,,,,,,Dunbar,Edwin A.,Lodger,W,M,Sept,1864,35,M,11,,,New Hampshire,New Hampshire,New York,,,,Iron moulder,0,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,73,Atkinson,113,417,430,621,684,Kimball,George,Head,W,M,Apr,1837,63,M,40,,,New Hampshire,Vermont,At sea (Am. Cit.),,,,,,,Yes,Yes,Yes,O,M,H,,1,given name partly covered by tally mark; birth year overwritten (1837/1836); mother's birthplace written At sea Am. Cit.
+259-31B.jpg,259,31B,74,Atkinson,,,,,,,Esther E.,Wife,W,F,Sept,1837,62,M,40,2,2,Vermont,New Hampshire,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,75,Atkinson,,,,,,,Henry M.,Brother,W,M,Mar,1845,55,S,,,,Vermont,Vermont,At sea (Am. Cit.),,,,,,,Yes,Yes,Yes,,,,,0,mother's birthplace written At sea Am. Cit.
+259-31B.jpg,259,31B,76,Atkinson,,,,,,LaBlanc,Onesique,Lodger,W,M,June,1878,21,S,,,,Canada (Fr),Canada (Fr),Canada (Fr),1880,19,Na,Laborer scythe snath shop,0,,Yes,Yes,Yes,,,,,1,given name unclear (Onesique/Onesime) and partly covered by tally mark
+259-31B.jpg,259,31B,77,Atkinson,111,418,431,622,685,Kimball,Frederick H.,Head,W,M,Jan,1863,37,M,14,,,Canada (Am. Cit.),New Hampshire,Vermont,,,,R.R. division clerk,0,,Yes,Yes,Yes,R,,H,,1,given name partly covered by tally mark; birthplace written Canada Am. Cit.
+259-31B.jpg,259,31B,78,Atkinson,,,,,,,Emily S.,Wife,W,F,Aug,1864,33,M,14,4,4,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,1,age reads 33 but Aug 1864 implies 35; could be 35
+259-31B.jpg,259,31B,79,Atkinson,,,,,,,Hugh S.,Son,W,M,June,1887,12,S,,,,Vermont,Canada (Am. Cit.),Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,1,age overwritten (12/13)
+259-31B.jpg,259,31B,80,Atkinson,,,,,,,Gladys E.,Daughter,W,F,June,1890,9,S,,,,Vermont,Canada (Am. Cit.),Vermont,,,,At school,,9,,,,,,,,0,
+259-31B.jpg,259,31B,81,Atkinson,,,,,,,Helen E.,Daughter,W,F,Aug,1891,8,S,,,,Vermont,Canada (Am. Cit.),Vermont,,,,At school,,9,,,,,,,,0,
+259-31B.jpg,259,31B,82,Atkinson,,,,,,,Magdalen E.,Daughter,W,F,Apr,1894,6,S,,,,Vermont,Canada (Am. Cit.),Vermont,,,,At school,,9,,,,,,,,1,given name unclear (Magdalen/Maddalen)
+259-31B.jpg,259,31B,83,Atkinson,,,,623,686,Parmenter,George F.,Head,W,M,July,1868,31,M,10,,,New Hampshire,New York,Vermont,,,,R.R. yard master,0,,Yes,Yes,Yes,R,,H,,0,only family no. written: same dwelling as Kimball
+259-31B.jpg,259,31B,84,Atkinson,,,,,,,Nettie M.,Wife,W,F,Aug,1868,31,M,10,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,85,Atkinson,,,,,,Riley,Oren,Lodger,W,M,Unknown,1870,30,,,,,Vermont,Vermont,Vermont,,,,Carpenter,0,,Yes,Yes,Yes,,,,,0,marital status blank on page
+259-31B.jpg,259,31B,86,Atkinson,107,419,432,624,687,Brown,Elijah W.,Head,W,M,Jan,1851,49,M,24,,,New York,New York,New York,,,,Grocer,0,,Yes,Yes,Yes,O,M,H,,0,
+259-31B.jpg,259,31B,87,Atkinson,,,,,,,Georgianna,Wife,W,F,Oct,1844,55,M,24,4,3,Vermont,Vermont,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,1,given name partly covered by tally mark; age possibly overwritten
+259-31B.jpg,259,31B,88,Atkinson,105,420,433,625,688,Brinn,Victor,Head,W,M,Mar,1856,44,M,10,,,New York,New York,New York,,,,Teamster,0,,Yes,Yes,Yes,O,F,H,,0,
+259-31B.jpg,259,31B,89,Atkinson,,,,,,,Harriet A.,Wife,W,F,Feb,1857,43,M,10,1,1,New York,Canada (Fr),Canada (Fr),,,,,,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,90,Atkinson,,,,,,,Walter,Son,W,M,Sept,1881,18,S,,,,Vermont,New York,,,,,Driver of delivery wagon - Hardware,0,,Yes,Yes,Yes,,,,,0,mother's birthplace blank on page
+259-31B.jpg,259,31B,91,Atkinson,,,,,,,Cora E.,Daughter,W,F,July,1894,5,S,,,,Vermont,New York,New York,,,,At school,,8,,,,,,,,0,
+259-31B.jpg,259,31B,92,Atkinson,,,,626,689,Harris,Samuel W.,Head,W,M,Mar,1870,30,M,5,,,Massachusetts,Massachusetts,Massachusetts,,,,Tool maker,0,,Yes,Yes,Yes,R,,H,,1,only family no. written: same dwelling as Brinn; middle initial covered by tally mark (W or M); family no. 626 faint
+259-31B.jpg,259,31B,93,Atkinson,,,,,,,Mary H.,Wife,W,F,Nov,1876,23,M,5,2,2,Massachusetts,New York,Germany,,,,,,,Yes,Yes,Yes,,,,,1,middle initial H or St.
+259-31B.jpg,259,31B,94,Atkinson,,,,,,,Helen L.,Daughter,W,F,Nov,1895,4,S,,,,Connecticut,Massachusetts,Massachusetts,,,,,,,,,,,,,,0,
+259-31B.jpg,259,31B,95,Atkinson,,,,,,,Alice Eugenie,Daughter,W,F,Feb,1898,2,S,,,,Connecticut,Massachusetts,Massachusetts,,,,,,,,,,,,,,1,"""Alice"" inserted above ""Eugenie""; birth year overwritten (1898)"
+259-31B.jpg,259,31B,96,Atkinson,,,,,,Arsham,Eva J.,Servant,W,F,Oct,1873,26,S,,,,Vermont,Vermont,Vermont,,,,Housework private family,0,,Yes,Yes,Yes,,,,,1,surname unclear (Arsham/Arsham); middle initial J or L
+259-31B.jpg,259,31B,97,Atkinson,103,421,434,627,690,Crosier,Ernest D.,Head,W,M,July,1875,24,M,1,,,Vermont,Vermont,Vermont,,,,Livery stable keeper,0,,Yes,Yes,Yes,R,,H,,0,
+259-31B.jpg,259,31B,98,Atkinson,,,,,,,Ida A.,Wife,W,F,Apr,1879,21,M,1,1,1,New Hampshire,New Hampshire,New Hampshire,,,,,,,Yes,Yes,Yes,,,,,0,
+259-31B.jpg,259,31B,99,Atkinson,,,,,,,Verne E.,Son,W,M,Mar,1900,2/12,S,,,,Vermont,Vermont,New Hampshire,,,,,,,,,,,,,,0,age 2 months
+259-31B.jpg,259,31B,100,Atkinson,,,,,,,Guy E.,Brother,W,M,Apr,1883,17,S,,,,Vermont,Vermont,Vermont,,,,Pastry baker in bakery,0,,Yes,Yes,Yes,,,,,0,

@@ -1,0 +1,51 @@
+image,ed,sheet,line,street,house_num,dwelling,dwelling_renum,family,family_renum,surname,given,relation,race,sex,birth_month,birth_year,age,marital,years_married,children_born,children_living,birthplace,father_bp,mother_bp,immig_year,years_in_us,naturalization,occupation,months_unemployed,school_months,can_read,can_write,speaks_english,home_owned_rented,home_free_mortgaged,farm_or_house,farm_schedule,uncertain,notes
+259-35A.jpg,259,35A,1,Williams,^,^,^,^,^,,Clifford H.,Son,W,M,Aug,1884,15,S,,,,Vermont,New Hampshire,New Hampshire,,,,At school,,8,Yes,Yes,Yes,,,,,0,household continued from previous sheet; surname dashed
+259-35A.jpg,259,35A,2,Williams,10,466,479,700,763,Fuller,Charles S.,Head,W,M,Apr,1865,35,M,10,,,New York,New York,Vermont,,,,Laborer scythe snath shop,1,,Yes,Yes,Yes,R,,H,,0,
+259-35A.jpg,259,35A,3,Williams,,,,,,,E. Frances,Wife,W,F,Oct,1868,31,M,10,3,3,Vermont,Massachusetts,Rhode Island,,,,,,,Yes,Yes,Yes,,,,,1,given name E. Frances or E. Francis
+259-35A.jpg,259,35A,4,Williams,,,,,,,Sylvia A.,Daughter,W,F,Oct,1891,8,S,,,,Vermont,New York,Vermont,,,,At school,,9,,,,,,,,0,
+259-35A.jpg,259,35A,5,Williams,,,,,,,Earle E.,Son,W,M,June,1894,5,S,,,,Vermont,New York,Vermont,,,,At school,,6,,,,,,,,0,
+259-35A.jpg,259,35A,6,Williams,,,,,,,Nathalie A.,Daughter,W,M,May,1897,3,S,,,,Vermont,New York,Vermont,,,,,,,,,,,,,,1,sex written M (possibly overwritten) though relation is Daughter
+259-35A.jpg,259,35A,7,Williams,,,,701,764,Hanley,Erwin S.,Head,W,M,Dec,1871,28,M,2,,,Vermont,Vermont,Vermont,,,,R.R. freight brakeman,0,,Yes,Yes,Yes,R,,H,,1,same dwelling as Fuller (no dwelling no.); family renumber 764 faint (could read 464)
+259-35A.jpg,259,35A,8,Williams,,,,,,,Gertrude,Wife,W,F,Feb,1874,26,M,2,2,2,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,9,Williams,,,,,,,Ruth G.,Daughter,W,F,Nov,1899,6/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,10,Williams,,,,,,,Dorothy W.,Daughter,W,F,Nov,1899,6/12,S,,,,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,11,Williams,12,467,480,702,765,Connell,James,Head,W,M,May,1858,42,M,4,,,New York,Ireland,Ireland,,,,Paper finisher,0,,Yes,Yes,Yes,R,,H,,0,
+259-35A.jpg,259,35A,12,Williams,,,,,,,Elizabeth J.,Wife,W,F,May,1866,34,M,4,2,2,Massachusetts,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,13,Williams,,,,,,,Charles,Son,W,M,Sept,1896,3,S,,,,Massachusetts,New York,Massachusetts,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,14,Williams,,,,,,,Florence M.,Daughter,W,F,Sept,1898,1,S,,,,Massachusetts,New York,Massachusetts,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,15,Williams,,,,703,766,Day,Lewis A.,Head,W,M,Aug,1862,37,M,10,,,Massachusetts,Massachusetts,Massachusetts,,,,Dry goods salesman,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Connell (no dwelling no.)
+259-35A.jpg,259,35A,16,Williams,,,,,,,Eva F.,Wife,W,F,May,1865,35,M,10,1,1,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,17,Williams,,,,,,,Margaret A.,Daughter,W,F,July,1891,8,S,,,,Vermont,Massachusetts,Vermont,,,,At school,,9,,,,,,,,0,
+259-35A.jpg,259,35A,18,Atkinson,99,468,481,704,767,Frost,Henry S.,Head,W,M,Sept,1846,53,M,33,,,Vermont,Vermont,Vermont,,,,Livery stable keeper,0,,Yes,Yes,Yes,O,M,F,19,1,age overwritten (53 over 52)
+259-35A.jpg,259,35A,19,Atkinson,,,,,,,Flora E.,Wife,W,F,May,1848,52,M,33,7,5,Vermont,Vermont,Massachusetts,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,20,Atkinson,,,,,,Cole,Julia A.,Daughter,W,F,May,1872,28,Wd,,1,1,Vermont,Vermont,Vermont,,,,,,,,,,,,,,0,literacy columns blank on page
+259-35A.jpg,259,35A,21,Atkinson,,,,,,,Frederica F.,G.daughter,W,F,Apr,1894,6,S,,,,Vermont,Vermont,Vermont,,,,At school,,2,,,,,,,,0,
+259-35A.jpg,259,35A,22,Atkinson,,,,,,Frost,Alice C.,Daughter,W,F,Nov,1880,19,S,,,,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,23,Atkinson,,,,,,,Charles C.,Son,W,M,Mar,1885,15,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,24,Atkinson,,,,,,,Flora M.,Daughter,W,F,Nov,1886,13,S,,,,Vermont,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,1,birth year overwritten (last digit 6 over another digit)
+259-35A.jpg,259,35A,25,Atkinson,,,,,,,Edith M.,Daughter,W,F,July,1889,10,S,,,,Vermont,Vermont,Vermont,,,,At school,,3,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,26,Atkinson,,,,705,768,Hindes,Thomas H.,Head,W,M,May,1870,30,M,2,,,New York,New York,New York,,,,Hostler,0,,Yes,Yes,Yes,R,,H,,0,same dwelling as Frost (no dwelling no.)
+259-35A.jpg,259,35A,27,Atkinson,,,,,,,Addie M.,Wife,W,F,May,1874,26,M,2,0,0,Vermont,Vermont,Vermont,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,28,Green,45,469,482,706,769,McAuliffe,John,Head,W,M,Unknown,1835,65,M,30,,,Ireland,Ireland,Ireland,1867,33,Na,Day laborer,1,,No,No,Yes,O,F,H,,1,family renumber faint (769; looks like 469)
+259-35A.jpg,259,35A,29,Green,,,,,,,Mary,Wife,W,F,Unknown,1845,55,M,30,9,6,Ireland,Ireland,Ireland,1867,33,,,,,No,No,Yes,,,,,1,immigration year overwritten (1867 or 1864)
+259-35A.jpg,259,35A,30,Green,,,,,,,Maurice D.,Son,W,M,Aug,1875,24,S,,,,Vermont,Ireland,Ireland,,,,Plumber,0,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,31,Green,,,,,,,Mary A.,Daughter,W,F,May,1877,23,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,32,Green,,,,,,,William J.,Son,W,M,Aug,1881,18,S,,,,Vermont,Ireland,Ireland,,,,Laborer scythe snath shop,,,Yes,Yes,Yes,,,,,1,months unemployed overwritten/struck (1 or 4)
+259-35A.jpg,259,35A,33,Green,,,,,,,George E.,Son,W,M,Mar,1884,16,S,,,,Vermont,Ireland,Ireland,,,,Laborer scythe snath shop,10,7,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,34,Green,,,,,,,Charles R.,Son,W,M,Feb,1886,14,S,,,,Vermont,Ireland,Ireland,,,,At school,,9,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,35,Green,,,,,,,John W.,G. son,W,M,Apr,1897,3,S,,,,New York,Vermont,Ireland,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,36,Green,,,,,,,James F.,G. son,W,M,Nov,1899,6/12,S,,,,Vermont,Vermont,Ireland,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,37,Green,,,,,,Slocum,Johanna,Wife's aunt,W,F,Unknown,1820,80,S,,,,Ireland,Ireland,Ireland,1873,27,,,,,No,No,Yes,,,,,1,surname Slocum or Slocun; member of McAuliffe household
+259-35A.jpg,259,35A,38,Green,41,470,483,707,770,Donegan,James,Head,W,M,June,1868,31,M,7,,,Canada (Eng),Canada (Eng),Ireland,1884,16,Na,Laborer paper mill,3,,Yes,Yes,Yes,R,,H,,1,surname Donegan or Doregan; possible middle initial W. mixed with tally mark; family renumber faint (770)
+259-35A.jpg,259,35A,39,Green,,,,,,,Mary D.,Wife,W,F,Aug,1868,31,M,7,5,3,Ireland,Ireland,Ireland,1883,17,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,40,Green,,,,,,,William F.,Son,W,M,Dec,1896,3,S,,,,New Hampshire,Canada (Eng),Ireland,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,41,Green,,,,,,,Thomas E.,Son,W,M,June,1897,2,S,,,,New Hampshire,Canada (Eng),Ireland,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,42,Green,,,,,,,James H.,Son,W,M,Apr,1900,1/12,S,,,,Vermont,Canada (Eng),Ireland,,,,,,,,,,,,,,0,
+259-35A.jpg,259,35A,43,Green,,,,,,,Patrick,Brother,W,M,Unknown,1872,35,S,,,,Canada (Eng),Canada (Eng),Ireland,1883,17,Na,Bridge carpenter,4,,Yes,Yes,Yes,,,,,1,age overwritten (35 over another figure); disagrees with birth year 1872 (would be 27/28)
+259-35A.jpg,259,35A,44,Green,35,471,484,708,771,Bustead,John,Head,W,M,June,1822,77,Wd,,,,Ireland,Ireland,Ireland,1852,48,Na,Janitor of Church,0,,Yes,Yes,Yes,O,F,H,,1,family renumber faint (771)
+259-35A.jpg,259,35A,45,Green,,,,,,,Elizabeth,Daughter,W,F,Jan,1864,36,S,,,,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,46,Green,,,,,,,Martha A.,Daughter,W,M,Oct,1867,32,S,,,,Vermont,Ireland,Ireland,,,,Laundress steam laundry,0,,Yes,Yes,Yes,,,,,0,sex written M though relation is Daughter
+259-35A.jpg,259,35A,47,Green,31,472,485,709,772,Tully,James F.,Head,W,M,Nov,1862,37,M,18,,,Vermont,Ireland,Ireland,,,,Paper finisher,5,,Yes,Yes,Yes,R,,H,,1,family renumber faint (772)
+259-35A.jpg,259,35A,48,Green,,,,,,,Mary D.,Wife,W,F,Oct,1864,35,M,18,6,6,Vermont,Ireland,Ireland,,,,,,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,49,Green,,,,,,,Charles F.,Son,W,M,Mar,1883,17,S,,,,Massachusetts,Vermont,Vermont,,,,"Clerk, Post Office",0,,Yes,Yes,Yes,,,,,0,
+259-35A.jpg,259,35A,50,Green,,,,,,,Katharine A.,Daughter,W,F,Aug,1885,14,S,,,,Massachusetts,Vermont,Vermont,,,,At school,,9,Yes,Yes,Yes,,,,,0,

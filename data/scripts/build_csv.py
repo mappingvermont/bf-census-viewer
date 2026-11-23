@@ -66,6 +66,16 @@ COUNTRIES = {
     "Nova Scotia": ("English Canada", "🇨🇦"),
     "New Brunswick": ("English Canada", "🇨🇦"),
     "Quebec": ("French Canada", "🇨🇦"),
+    "Canada (Am. Cit.)": ("Canada", "🇨🇦"),
+    "Poland (Russ)": ("Poland", "🇵🇱"),
+    "Poland (Ger)": ("Poland", "🇵🇱"),
+    "Poland (Aust)": ("Poland", "🇵🇱"),
+    "England (Scotland)": ("Scotland", "🏴󠁧󠁢󠁳󠁣󠁴󠁿"),
+    "Bermuda (Eng)": ("Bermuda", "🇧🇲"),
+    "India": ("India", "🇮🇳"),
+    "America": ("United States", "🇺🇸"),
+    "Washington D.C.": ("United States", "🇺🇸"),
+    "At sea (Am. Cit.)": ("United States", "🇺🇸"),
 }
 US = ("United States", "🇺🇸")
 UNKNOWN = ("Unknown", "")
