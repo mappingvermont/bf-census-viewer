@@ -5332,7 +5332,7 @@
       "uncertain": false
      },
      {
-      "name": "Peter Doyle",
+      "name": "Peter Dyle",
       "age": "28",
       "sex": "M",
       "relation": "Boarder",
@@ -5345,7 +5345,7 @@
       "uncertain": true
      },
      {
-      "name": "James Doyle",
+      "name": "James Dyle",
       "age": "26",
       "sex": "M",
       "relation": "Boarder",
@@ -5358,7 +5358,7 @@
       "uncertain": true
      },
      {
-      "name": "Stephen Doyle",
+      "name": "Stephen Dyle",
       "age": "25",
       "sex": "M",
       "relation": "Lodger",

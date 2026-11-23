@@ -130,6 +130,54 @@ html, body {
 	accent-color: var(--ink-soft);
 }
 
+/* --- Country filter --- */
+
+#country-filter {
+	flex: none;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+	padding: 12px 16px;
+	border-bottom: 1px solid var(--rule);
+	max-height: 132px;
+	overflow-y: auto;
+}
+
+.filter-chip {
+	font-family: inherit;
+	font-size: 0.75em;
+	color: var(--ink);
+	background: var(--paper-warm);
+	border: 1px solid var(--rule);
+	border-radius: 999px;
+	padding: 3px 10px;
+	cursor: pointer;
+	white-space: nowrap;
+}
+
+.filter-chip:hover {
+	border-color: var(--ink-soft);
+}
+
+.filter-chip.on {
+	background: var(--accent-tint);
+	border-color: var(--accent);
+	font-weight: 600;
+}
+
+.filter-chip .flag {
+	margin-right: 4px;
+	font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+}
+
+.house-marker .n {
+	font-family: "Poppins", sans-serif;
+	font-size: 11px;
+	font-weight: 600;
+	margin-left: 3px;
+	color: var(--ink);
+}
+
 /* --- House list --- */
 
 #house-list {
@@ -321,7 +369,8 @@ html, body {
 	color: var(--accent);
 }
 
-#panel.showing-detail #house-list {
+#panel.showing-detail #house-list,
+#panel.showing-detail #country-filter {
 	display: none;
 }
 
@@ -364,6 +413,7 @@ html, body {
 	#panel.peek #panel-header p,
 	#panel.peek #house-list,
 	#panel.peek #house-detail,
+	#panel.peek #country-filter,
 	#panel.peek #panel-footer {
 		display: none;
 	}
@@ -410,6 +460,13 @@ html, body {
 
 	#house-detail {
 		padding: 4px 16px 20px;
+	}
+
+	#country-filter {
+		flex-wrap: nowrap;
+		overflow-x: auto;
+		max-height: none;
+		padding: 8px 16px;
 	}
 
 	#panel-footer {

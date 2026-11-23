@@ -83,12 +83,16 @@ function topCountries(p) {
 }
 const flagString = (p) => topCountries(p).map((c) => c.flag).join("") || "🏠";
 const flagTitle = (p) => topCountries(p).map((c) => c.country).join(" / ");
+// Residents over 16 born in `country` (0 if none).
+const countIn = (p, country) => p.birth_counts.find((c) => c.country === country)?.n ?? 0;
+const matchesFilter = (f) => !filter || countIn(f.properties, filter) > 0;
 const headcount = (p) => `${p.people} ${p.people === 1 ? "person" : "people"} · ${p.adults} over ${ADULT_OVER}`;
 
 // --- State ---
 
 let houses = [];
 let selected = null; // the selected feature
+let filter = null; // country name, or null for every house
 const pins = new Map(); // address -> marker element
 
 // --- Markers ---
@@ -114,7 +118,7 @@ function buildMarkers() {
 function renderList() {
 	const list = document.getElementById("house-list");
 	const byStreet = {};
-	houses.forEach((f) => (byStreet[f.properties.street] ??= []).push(f));
+	houses.filter(matchesFilter).forEach((f) => (byStreet[f.properties.street] ??= []).push(f));
 	const num = (f) => Number(f.properties.house_num) || Infinity; // unnumbered last
 
 	list.innerHTML = Object.keys(byStreet)
@@ -123,15 +127,16 @@ function renderList() {
 			const rows = byStreet[street]
 				.sort((a, b) => num(a) - num(b))
 				.map(({ properties: p, geometry }) => `
-					<div class="house-row" data-address="${escapeHtml(p.address)}">
+					<div class="house-row${p.address === selected?.properties.address ? " active" : ""}" data-address="${escapeHtml(p.address)}">
 						<div class="flags" title="${escapeHtml(flagTitle(p))}">${flagString(p)}</div>
 						<div>
 							<div class="addr">${escapeHtml(p.address)}</div>
-							<div class="sub">${headcount(p)}${geometry ? "" : " · not on the map"}</div>
+							<div class="sub">${headcount(p)}${filter ? ` · ${countIn(p, filter)} born in ${escapeHtml(filter)}` : ""}${geometry ? "" : " · not on the map"}</div>
 						</div>
 					</div>`)
 				.join("");
-			const heading = street === "Square" ? "The Square" : `${street} Street`;
+			const named = /\b(Avenue|Terrace|Place|Court|Ct|Park|Island|Hill)$/.test(street);
+			const heading = street === "Square" ? "The Square" : named ? street : `${street} Street`;
 			return `<div class="street-heading">${escapeHtml(heading)}</div>${rows}`;
 		})
 		.join("");
@@ -139,6 +144,46 @@ function renderList() {
 	list.querySelectorAll(".house-row").forEach((row) => {
 		row.addEventListener("click", () => selectHouse(houses.find((f) => f.properties.address === row.dataset.address)));
 	});
+}
+
+// --- Country filter ---
+
+function renderFilter() {
+	const tally = new Map(); // country -> { flag, houses, people }
+	houses.forEach(({ properties: p }) => p.birth_counts.forEach((c) => {
+		const t = tally.get(c.country) ?? { flag: c.flag, houses: 0, people: 0 };
+		t.houses += 1;
+		t.people += c.n;
+		tally.set(c.country, t);
+	}));
+	const chip = (country, flag, label, title) => `
+		<button class="filter-chip${filter === country ? " on" : ""}" data-country="${escapeHtml(country ?? "")}"
+			aria-pressed="${filter === country}" title="${escapeHtml(title)}">${flag ? `<span class="flag">${flag}</span>` : ""}${escapeHtml(label)}</button>`;
+
+	const el = document.getElementById("country-filter");
+	el.innerHTML = chip(null, "", `All · ${houses.length}`, "Show every house")
+		+ [...tally].sort((a, b) => b[1].houses - a[1].houses)
+			.map(([country, t]) => chip(country, t.flag, `${country} · ${t.houses}`,
+				`${t.houses} ${t.houses === 1 ? "house" : "houses"} with someone over ${ADULT_OVER} born in ${country} (${t.people} people)`))
+			.join("");
+	el.querySelectorAll(".filter-chip").forEach((b) => {
+		b.addEventListener("click", () => setFilter(b.dataset.country || null));
+	});
+}
+
+function setFilter(country) {
+	filter = country;
+	houses.filter((f) => f.geometry).forEach((f) => {
+		const el = pins.get(f.properties.address);
+		const show = matchesFilter(f);
+		el.style.display = show ? "" : "none";
+		el.firstElementChild.innerHTML = show && filter
+			? `${f.properties.birth_counts.find((c) => c.country === filter).flag}<span class="n">${countIn(f.properties, filter)}</span>`
+			: flagString(f.properties);
+	});
+	renderFilter();
+	renderList();
+	document.getElementById("house-list").scrollTop = 0;
 }
 
 // --- Detail ---
@@ -170,7 +215,9 @@ function renderDetail(f) {
 		.join("");
 
 	const placement = !f.geometry
-		? "No house number was written on the census page, so this household isn't on the map."
+		? p.house_num
+			? "Today's map has no match for this address (the street may have been renamed), so this household isn't on the map."
+			: "No house number was written on the census page, so this household isn't on the map."
 		: p.geocode_confidence === "exact"
 			? "Placed at today's address of the same number. House numbers and street names may have changed since 1900."
 			: "Placed approximately: today's map has no exact match for this house number.";
@@ -238,9 +285,12 @@ document.addEventListener("keydown", (e) => {
 (async () => {
 	const data = await (await fetch(CENSUS_URL)).json();
 	houses = data.features;
-	document.getElementById("sheets-done").textContent = `${data.sheets_transcribed} of ${TOTAL_SHEETS}`;
+	document.getElementById("sheets-done").textContent = data.sheets_transcribed >= TOTAL_SHEETS
+		? `All ${TOTAL_SHEETS} census pages are transcribed.`
+		: `${data.sheets_transcribed} of ${TOTAL_SHEETS} census pages are transcribed so far.`;
 
 	buildMarkers();
+	renderFilter();
 	renderList();
 
 	// Fit to the houses, unless the page was opened with a map view in the URL.
